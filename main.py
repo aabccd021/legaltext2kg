@@ -19,21 +19,20 @@ def raw_to_structured(g, content: str):
 
 
 def split_element(lines):
-    lines = [line.strip() for line in lines]
-    if lines[0].startswith('(1)'):
-        return lines
     content = {}
-    for line in lines:
-        regex = r'^\([0-9]*\)'
-        match = re.findall(regex, line)
-        if len(match) == 1:
-            current_ayat_key = match[0]
-            content[current_ayat_key] = []
-            line = re.sub(regex, "", line)
-        elif len(match) > 1:
-            raise Exception()
-        content[current_ayat_key].append(line)
-    return {'ayat': content}
+    if lines[0].startswith('1.'):
+        for line in lines:
+            regex = r'^[0-9]*\.'
+            match = re.findall(regex, line)
+            if len(match) == 1:
+                current_el_key = match[0]
+                content[current_el_key] = []
+                line = re.sub(regex, "", line)
+            elif len(match) > 1:
+                raise Exception()
+            content[current_el_key].append(line)
+        return {'element': content}
+    return lines
 
 
 def split_ayat(lines):
@@ -51,7 +50,10 @@ def split_ayat(lines):
         elif len(match) > 1:
             raise Exception()
         content[current_ayat_key].append(line)
-    return {'ayat': content}
+    ayat_content = {}
+    for ayat_key in content.keys():
+        ayat_content[ayat_key] = split_element(content[ayat_key])
+    return {'ayat': ayat_content}
 
 
 def split_pasals(lines):
@@ -185,31 +187,40 @@ def write_dict(filename, dictionary):
 
 def split_penjelasan(lines):
     main = []
+    pengesahan = []
     penjelasan = []
-    ispenjelasan = False
+    state = "main"
     for line in lines:
         if line.startswith("P E N J E L A S A N"):
-            ispenjelasan = True
-        if ispenjelasan:
+            state = "penjelasan"
+        elif line.startswith("Disahkan") or line.startswith("Ditetapkan"):
+            state = "pengesahan"
+
+        if state == "pengesahan":
+            pengesahan.append(line)
+        elif state == "penjelasan":
             penjelasan.append(line)
         else:
             main.append(line)
-    return main, penjelasan
+    return main, pengesahan, penjelasan
 
 
 def preprocess(lines):
     return [line.strip() for line in lines if line.strip() != ""]
 
 
-if __name__ == "__main__":
-    filename = 'UU13-2003'
+def process(filename):
     pages = fitz.open('{}.pdf'.format(filename))
     content = extract_text(filename, pages).splitlines()
     content = preprocess(content)
-    main, penjelasan = split_penjelasan(content)
+    main, pengesahan, penjelasan = split_penjelasan(content)
     structured = split_babs(main)
     write_dict(filename, structured)
 
+
+if __name__ == "__main__":
+    for filename in ['UU13-2003', 'PERGUB33-2020']:
+        process(filename)
     # g = Graph()
     # raw_to_structured(g, content)
     # print(g.serialize(format="turtle").decode("utf-8"))
