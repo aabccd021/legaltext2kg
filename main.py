@@ -107,8 +107,6 @@ def split_bab_content(bab_lines):
         judulFinished = False
         for line in bab_lines:
             if line.startswith("Bagian "):
-                print()
-                print(line)
                 current_bagian_key = line
                 content[current_bagian_key] = {'judul': '', 'isi': []}
                 judulFinished = False
@@ -231,7 +229,7 @@ def generate_pasal(g: Graph, pasalNumber, pasalContents):
     g.add((b, RDF.type, u('pasal')))
     g.add((b, u('hasPasalName'), Literal(pasalNumber)))
     g.add((b, u('hasPasalContent'), Literal("pasalcontent")))
-    # g.add((b, u('hasPasalContent'), Literal(content)))
+    g.add((b, u('hasPasalContent'), Literal(content)))
     return b
 
 
@@ -258,7 +256,6 @@ def generate_bagian(g: Graph, bagian):
     g.add((b, RDF.type, u('bagian')))
     g.add((b, u('hasKey'), Literal(bagian['key'])))
     g.add((b, u('hasJudul'), Literal(bagian['judul'])))
-    print(bagian['key'])
     isi = bagian['isi']
     if set(isi.keys()) == {"paragraf"}:
         None

@@ -4,221 +4,465 @@
     <X:hasBab> [ a <X:babs> ;
             rdf:first [ a <X:bab> ;
                     <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
-                                    <X:hasPasalContent> "pasalcontent" ;
+                                    <X:hasPasalContent> """Dalam undang undang ini yang dimaksud dengan :
+1.
+Ketenagakerjaan adalah segala hal yang berhubungan dengan tenaga kerja pada waktu
+sebelum, selama, dan sesudah masa kerja.
+2.
+Tenaga kerja adalah setiap orang yang mampu melakukan pekerjaan guna
+menghasilkan barang dan/atau jasa baik untuk memenuhi kebutuhan sendiri maupun untuk
+masyarakat.
+3.
+Pekerja/buruh adalah setiap orang yang bekerja dengan menerima upah atau imbalan
+dalam bentuk lain.
+4.
+Pemberi kerja adalah orang perseorangan, pengusaha, badan hukum, atau badan-badan
+lainnya yang mempekerjakan tenaga kerja dengan membayar upah atau imbalan dalam bentuk
+lain.
+5.
+Pengusaha adalah :
+a.
+orang perseorangan, persekutuan, atau badan hukum yang menjalankan suatu
+perusahaan milik sendiri;
+b.
+orang perseorangan, persekutuan, atau badan hukum yang secara berdiri sendiri
+menjalankan perusahaan bukan miliknya;
+c.
+orang perseorangan, persekutuan, atau badan hukum yang berada di Indonesia mewakili
+perusahaan sebagaimana dimaksud dalam huruf a dan b yang berkedudukan di luar wilayah
+Indonesia.
+6.
+Perusahaan adalah :
+a.
+setiap bentuk usaha yang berbadan hukum atau tidak, milik orang perseorangan, milik
+persekutuan, atau milik badan hukum, baik milik swasta maupun milik negara yang
+mempekerjakan pekerja/buruh dengan membayar upah atau imbalan dalam bentuk lain;
+b.
+usaha-usaha sosial dan usaha-usaha lain yang mempunyai pengurus dan
+mempekerjakan orang lain dengan membayar upah atau imbalan dalam bentuk lain.
+7.
+Perencanaan tenaga kerja adalah proses penyusunan rencana ketenagakerjaan secara
+sistematis yang dijadikan dasar dan acuan dalam penyusunan kebijakan, strategi, dan
+pelaksanaan program pembangunan ketenagakerjaan yang berkesinambungan.
+8.
+Informasi ketenagakerjaan adalah gabungan, rangkaian, dan analisis data yang
+berbentuk angka yang telah diolah, naskah dan dokumen yang mempunyai arti, nilai dan makna
+tertentu mengenai ketenagakerjaan.
+9.
+Pelatihan kerja adalah keseluruhan kegiatan untuk memberi, memperoleh,
+meningkatkan, serta mengembangkan kompetensi kerja, produktivitas, disiplin, sikap, dan etos
+kerja pada tingkat keterampilan dan keahlian tertentu sesuai dengan jenjang dan kualifikasi
+jabatan atau pekerjaan.
+10.
+Kompetensi kerja adalah kemampuan kerja setiap individu yang mencakup aspek
+pengetahuan, keterampilan, dan sikap kerja yang sesuai dengan standar yang ditetapkan.
+11.
+Pemagangan adalah bagian dari sistem pelatihan kerja yang diselenggarakan secara
+terpadu antara pelatihan di lembaga pelatihan dengan bekerja secara langsung di bawah
+bimbingan dan pengawasan instruktur atau pekerja/buruh yang lebih berpengalaman, dalam
+proses produksi barang dan/atau jasa di perusahaan, dalam rangka menguasai keterampilan
+atau keahlian tertentu.
+12.
+Pelayanan penempatan tenaga kerja adalah kegiatan untuk mempertemukan tenaga
+kerja dengan pemberi kerja, sehingga tenaga kerja dapat memperoleh pekerjaan yang sesuai
+dengan bakat, minat, dan kemampuannya, dan pemberi kerja dapat memperoleh tenaga kerja
+yang sesuai dengan kebutuhannya.
+13.
+Tenaga kerja asing adalah warga negara asing pemegang visa dengan maksud bekerja
+di wilayah Indonesia.
+14.
+Perjanjian kerja adalah perjanjian antara pekerja/buruh dengan pengusaha atau pemberi
+kerja yang memuat syarat syarat kerja, hak, dan kewajiban para pihak.
+15.
+Hubungan kerja adalah hubungan antara pengusaha dengan pekerja/buruh berdasarkan
+perjanjian kerja, yang mempunyai unsur pekerjaan, upah, dan perintah.
+16.
+Hubungan industrial adalah suatu sistem hubungan yang terbentuk antara para pelaku
+dalam proses produksi barang dan/atau jasa yang terdiri dari unsur pengusaha, pekerja/buruh,
+dan pemerintah yang didasarkan pada nilai nilai Pancasila dan Undang Undang Dasar Negara
+Republik Indonesia Tahun 1945.
+17.
+Serikat pekerja/serikat buruh adalah organisasi yang dibentuk dari, oleh, dan untuk
+pekerja/buruh baik di perusahaan maupun di luar perusahaan, yang bersifat bebas, terbuka,
+mandiri, demokratis, dan bertanggung jawab guna memperjuangkan, membela serta melindungi
+hak dan kepentingan pekerja/buruh serta meningkatkan kesejahteraan pekerja/buruh dan
+keluarganya.
+18.
+Lembaga kerja sama bipartit adalah forum komunikasi dan konsultasi mengenai hal-hal
+yang berkaitan dengan hubungan industrial di satu perusahaan yang anggotanya terdiri dari
+pengusaha dan serikat pekerja/ serikat buruh yang sudah tercatat instansi yang bertanggung
+jawab di bidang ketenagakerjaan atau unsur pekerja/buruh.
+19.
+Lembaga kerja sama tripartit adalah forum komunikasi, konsultasi dan musyawarah
+tentang masalah ketenagakerjaan yang anggotanya terdiri dari unsur organisasi pengusaha,
+serikat pekerja/serikat buruh, dan pemerintah.
+20.
+Peraturan perusahaan adalah peraturan yang dibuat secara tertulis oleh pengusaha yang
+memuat syarat syarat kerja dan tata tertib perusahaan.
+21.
+Perjanjian kerja bersama adalah perjanjian yang merupakan hasil perundingan antara
+serikat pekerja/serikat buruh atau beberapa serikat pekerja/serikat buruh yang tercatat pada
+instansi yang bertanggung jawab di bidang ketenagakerjaan dengan pengusaha, atau beberapa
+pengusaha atau perkumpulan pengusaha yang memuat syarat syarat kerja, hak dan kewajiban
+kedua belah pihak.
+22.
+Perselisihan hubungan industrial adalah perbedaan pendapat yang mengakibatkan
+pertentangan antara pengusaha atau gabungan pengusaha dengan pekerja/buruh atau serikat
+pekerja/serikat buruh karena adanya perselisihan mengenai hak, perselisihan kepentingan, dan
+perselisihan pemutusan hubungan kerja serta perselisihan antar serikat pekerja/serikat buruh
+hanya dalam satu perusahaan.
+23.
+Mogok kerja adalah tindakan pekerja/buruh yang direncanakan dan dilaksanakan secara
+bersama-sama dan/atau oleh serikat pekerja/serikat buruh untuk menghentikan atau
+memperlambat pekerjaan.
+24.
+Penutupan perusahaan (lock out) adalah tindakan pengusaha untuk menolak
+pekerja/buruh seluruhnya atau sebagian untuk menjalankan pekerjaan.
+25.
+Pemutusan hubungan kerja adalah pengakhiran hubungan kerja karena suatu hal
+tertentu yang mengakibatkan berakhirnya hak dan kewajiban antara pekerja/buruh dan
+pengusaha.
+26.
+Anak adalah setiap orang yang berumur dibawah 18 (delapan belas) tahun.
+27.
+Siang hari adalah waktu antara pukul 06.00 sampai dengan pukul 18.00.
+28.
+1 (satu) hari adalah waktu selama 24 (dua puluh empat) jam.
+29.
+Seminggu adalah waktu selama 7 (tujuh) hari.
+30.
+Upah adalah hak pekerja/buruh yang diterima dan dinyatakan dalam bentuk uang
+sebagai imbalan dari pengusaha atau pemberi kerja kepada pekerja/buruh yang ditetapkan dan
+dibayarkan menurut suatu perjanjian kerja, kesepakatan, atau peraturan perundang undangan,
+termasuk tunjangan bagi pekerja/buruh dan keluarganya atas suatu pekerjaan dan/atau jasa
+yang telah atau akan dilakukan.
+31.
+31. Kesejahteraan pekerja/buruh adalah suatu pemenuhan kebutuhan dan/atau
+keperluan yang bersifat jasmaniah dan rohaniah, baik di dalam maupun di luar hubungan kerja,
+yang secara langsung atau tidak langsung dapat mempertinggi produktivitas kerja dalam
+lingkungan kerja yang aman dan sehat.
+32.
+Pengawasan ketenagakerjaan adalah kegiatan mengawasi dan menegakkan
+pelaksanaan peraturan perundang undangan di bidang ketenagakerjaan.
+33.
+Menteri adalah menteri yang bertanggung jawab di bidang ketenagakerjaan.""",
+                                        "pasalcontent" ;
                                     <X:hasPasalName> "Pasal 1" ] ] ;
                     <X:hasJudul> "KETENTUAN UMUM" ;
                     <X:hasKey> "BAB I" ] ;
             rdf:rest ( [ a <X:bab> ;
                         <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> """Pembangunan ketenagakerjaan diselenggarakan atas asas keterpaduan dengan melalui
+koordinasi fungsional lintas sektoral pusat dan daerah.""",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 3" ],
                                     [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> """Pembangunan ketenagakerjaan bertujuan :
+a.
+memberdayakan dan mendayagunakan tenaga kerja secara optimal dan manusiawi;
+b.
+mewujudkan pemerataan kesempatan kerja dan penyediaan tenaga kerja yang sesuai
+dengan kebutuhan pembangunan nasional dan daerah;
+c.
+memberikan perlindungan kepada tenaga kerja dalam mewujudkan kesejahteraan; dan
+d.
+meningkatkan kesejahteraan tenaga kerja dan keluarganya.""",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 4" ],
                                     [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> """Pembangunan ketenagakerjaan berlandaskan Pancasila dan Undang Undang Dasar Negara
+Republik Indonesia Tahun 1945.""",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 2" ] ] ;
                         <X:hasJudul> "LANDASAN, ASAS, DAN TUJUAN" ;
                         <X:hasKey> "BAB II" ] [ a <X:bab> ;
                         <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> """Setiap pekerja/buruh berhak memperoleh perlakuan yang sama tanpa diskriminasi dari
+pengusaha.""",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 6" ],
                                     [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> """Setiap tenaga kerja memiliki kesempatan yang sama tanpa diskriminasi untuk memperoleh
+pekerjaan.""",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 5" ] ] ;
                         <X:hasJudul> "KESEMPATAN DAN PERLAKUAN YANG SAMA" ;
                         <X:hasKey> "BAB III" ] [ a <X:bab> ;
                         <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 8" ],
                                     [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 7" ] ] ;
                         <X:hasJudul> """PERENCANAAN TENAGA KERJA DAN
 INFORMASI KETENAGAKERJAAN""" ;
                         <X:hasKey> "BAB IV" ] [ a <X:bab> ;
                         <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 21" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 12" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 14" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 30" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 10" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 17" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 13" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 19" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 29" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 11" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 22" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 27" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 18" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 25" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 15" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 28" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 16" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 24" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 23" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 20" ],
                                     [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 29" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> """Penyelenggara pelatihan kerja wajib memenuhi persyaratan :
+a. tersedianya tenaga kepelatihan;
+b. adanya kurikulum yang sesuai dengan tingkat pelatihan;
+c. tersedianya sarana dan prasarana pelatihan kerja; dan
+d. tersedianya dana bagi kelangsungan kegiatan penyelenggaraan pelatihan kerja.""",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 15" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 10" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 26" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> """Tenaga kerja yang telah mengikuti program pemagangan berhak atas pengakuan kualifikasi
+kompetensi kerja dari perusahaan atau lembaga sertifikasi.""",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 23" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 27" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> """Pelatihan kerja bagi tenaga kerja penyandang cacat dilaksanakan dengan memperhatikan jenis,
+derajat kecacatan, dan kemampuan tenaga kerja penyandang cacat yang bersangkutan.""",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 19" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 13" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 18" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 28" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> """Setiap tenaga kerja berhak untuk memperoleh dan/atau meningkatkan dan/atau
+mengembangkan kompetensi kerja sesuai dengan bakat, minat, dan kemampuannya melalui
+pelatihan kerja.""",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 11" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> """Pelatihan kerja diselenggarakan dan diarahkan untuk membekali, meningkatkan, dan
+mengembangkan kompetensi kerja guna meningkatkan kemampuan, produktivitas, dan
+kesejahteraan.""",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 9" ],
                                     [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 26" ] ] ;
+                                        <X:hasPasalContent> """Pemagangan dapat dilaksanakan di perusahaan sendiri atau di tempat penyelenggaraan
+pelatihan kerja, atau perusahaan lain, baik di dalam maupun di luar wilayah Indonesia.""",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 24" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 22" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 12" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 17" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 25" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 16" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 14" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "Pelatihan kerja dapat diselenggarakan dengan sistem pemagangan.",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 21" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 30" ] ] ;
                         <X:hasJudul> "PELATIHAN KERJA" ;
                         <X:hasKey> "BAB V" ] [ a <X:bab> ;
                         <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 34" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 32" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 38" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 33" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 35" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> """Setiap tenaga kerja mempunyai hak dan kesempatan yang sama untuk memilih, mendapatkan,
+atau pindah pekerjaan dan memperoleh penghasilan yang layak di dalam atau di luar negeri.""",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 31" ],
                                     [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 32" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 37" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> """Penempatan tenaga kerja terdiri dari :
+a. penempatan tenaga kerja di dalam negeri; dan
+b. penempatan tenaga kerja di luar negeri.""",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 33" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 35" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> """Ketentuan mengenai penempatan tenaga kerja di luar negeri sebagaimana dimaksud dalam
+Pasal 33 huruf b diatur dengan undang-undang.""",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 34" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 36" ],
                                     [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 37" ] ] ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 38" ] ] ;
                         <X:hasJudul> "PENEMPATAN TENAGA KERJA" ;
                         <X:hasKey> "BAB VI" ] [ a <X:bab> ;
                         <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 39" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 41" ],
                                     [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 39" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 40" ] ] ;
                         <X:hasJudul> "PERLUASAN KESEMPATAN KERJA" ;
                         <X:hasKey> "BAB VII" ] [ a <X:bab> ;
                         <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 44" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> """Pemberi kerja yang mempekerjakan tenaga kerja asing wajib memulangkan tenaga kerja asing
+ke negara asalnya setelah hubungan kerjanya berakhir.""",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 48" ],
                                     [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 46" ],
                                     [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 42" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 45" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 47" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> """Ketentuan mengenai penggunaan tenaga kerja asing serta pelaksanaan pendidikan dan
+pelatihan tenaga kerja pendamping diatur dengan Keputusan Presiden.""",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 49" ],
                                     [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 43" ] ] ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 42" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 43" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 45" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 44" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 47" ] ] ;
                         <X:hasJudul> "PENGGUNAAN TENAGA KERJA ASING" ;
                         <X:hasKey> "BAB VIII" ] [ a <X:bab> ;
                         <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 62" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 50" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 63" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 51" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 53" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 65" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 56" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 59" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 66" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 64" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 54" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 55" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 52" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 61" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 60" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 57" ],
                                     [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 58" ] ] ;
+                                        <X:hasPasalContent> """Segala hal dan/atau biaya yang diperlukan bagi pelaksanaan pembuatan perjanjian kerja
+dilaksanakan oleh dan menjadi tanggung jawab pengusaha.""",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 53" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 54" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 61" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 51" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 59" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "Perjanjian kerja tidak dapat ditarik kembali dan/atau diubah, kecuali atas persetujuan para pihak.",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 55" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> """Apabila salah satu pihak mengakhiri hubungan kerja sebelum berakhirnya jangka waktu yang
+ditetapkan dalam perjanjian kerja waktu tertentu, atau berakhirnya hubungan kerja bukan karena
+ketentuan sebagaimana dimaksud dalam Pasal 61 ayat (1), pihak yang mengakhiri hubungan
+kerja diwajibkan membayar ganti rugi kepada pihak lainnya sebesar upah pekerja/buruh sampai
+batas waktu berakhirnya jangka waktu perjanjian kerja.""",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 62" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 56" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 52" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> """Perusahaan dapat menyerahkan sebagian pelaksanaan pekerjaan kepada perusahaan lainnya
+melalui perjanjian pemborongan pekerjaan atau penyediaan jasa pekerja/buruh yang dibuat
+secara tertulis.""",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 64" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 66" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 65" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 58" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "Hubungan kerja terjadi karena adanya perjanjian kerja antara pengusaha dan pekerja/buruh.",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 50" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 60" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 63" ] ] ;
                         <X:hasJudul> "HUBUNGAN KERJA" ;
                         <X:hasKey> "BAB IX" ] [ a <X:bab> ;
                         <X:hasIsi> ( [ a <X:bagian> ;
@@ -227,49 +471,70 @@ INFORMASI KETENAGAKERJAAN""" ;
                                     <X:hasJudul> "Pengupahan." ;
                                     <X:hasKey> "Bagian Kedua" ;
                                     <X:hasPasal> [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 97" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 93" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 90" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 89" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 88" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 96" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 95" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 94" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
                                             <X:hasPasalName> "Pasal 98" ],
                                         [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 89" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> """Ketentuan  mengenai penghasilan yang layak, kebijakan pengupahan, kebutuhan hidup layak,
+dan perlindungan pengupahan sebagaimana dimaksud dalam Pasal 88, penetapan upah
+minimum sebagaimana dimaksud dalam Pasal 89,  dan pengenaan denda  sebagaimana
+dimaksud dalam Pasal 95 ayat (1), ayat (2) dan ayat (3)  diatur dengan Peraturan Pemerintah.""",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 97" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 93" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> """Dalam  hal komponen upah terdiri dari upah pokok dan tunjangan  tetap maka besarnya  upah
+pokok sedikit-dikitnya 75 % (tujuh puluh lima perseratus) dari jumlah upah pokok dan tunjangan
+tetap.""",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 94" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> """Tuntutan pembayaran upah pekerja/buruh dan segala pembayaran yang timbul dari hubungan
+kerja menjadi kadaluwarsa setelah melampaui jangka waktu    2 (dua)  tahun sejak  timbulnya
+hak.""",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 96" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
                                             <X:hasPasalName> "Pasal 91" ],
                                         [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 95" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 88" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 90" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
                                             <X:hasPasalName> "Pasal 92" ] ] [ a <X:bagian> ;
                                     <X:hasJudul> "Kesejahteraan" ;
                                     <X:hasKey> "Bagian Ketiga" ;
                                     <X:hasPasal> [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
                                             <X:hasPasalName> "Pasal 101" ],
                                         [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 99" ],
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 100" ],
                                         [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 100" ] ] ) ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 99" ] ] ) ;
                         <X:hasJudul> """PERLINDUNGAN, PENGUPAHAN, DAN
 KESEJAHTERAAN""" ;
                         <X:hasKey> "BAB X" ] [ a <X:bab> ;
@@ -277,228 +542,375 @@ KESEJAHTERAAN""" ;
                                     <X:hasJudul> "Umum" ;
                                     <X:hasKey> "Bagian Kesatu" ;
                                     <X:hasPasal> [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalContent> """Hubungan Industrial dilaksanakan melalui sarana :
+a.
+serikat pekerja/serikat buruh;
+b.
+organisasi pengusaha;
+c.
+lembaga kerja sama bipartit;
+d.
+embaga kerja sama tripartit;
+e.
+peraturan perusahaan;
+f.
+perjanjian kerja bersama;
+g.
+peraturan perundang-undangan ketenagakerjaan; dan
+h.
+lembaga penyelesaian perselisihan hubungan industrial.""",
+                                                "pasalcontent" ;
                                             <X:hasPasalName> "Pasal 103" ],
                                         [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
                                             <X:hasPasalName> "Pasal 102" ] ] [ a <X:bagian> ;
                                     <X:hasJudul> "Serikat Pekerja/Serikat Buruh" ;
                                     <X:hasKey> "Bagian Kedua" ;
                                     <X:hasPasal> [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
                                             <X:hasPasalName> "Pasal 104" ] ] [ a <X:bagian> ;
                                     <X:hasJudul> "Organisasi Pengusaha" ;
                                     <X:hasKey> "Bagian Ketiga" ;
                                     <X:hasPasal> [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
                                             <X:hasPasalName> "Pasal 105" ] ] [ a <X:bagian> ;
                                     <X:hasJudul> "Lembaga Kerja Sama Bipartit" ;
                                     <X:hasKey> "Bagian Keempat" ;
                                     <X:hasPasal> [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
                                             <X:hasPasalName> "Pasal 106" ] ] [ a <X:bagian> ;
                                     <X:hasJudul> "Lembaga Kerja Sama Tripartit" ;
                                     <X:hasKey> "Bagian Kelima" ;
                                     <X:hasPasal> [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
                                             <X:hasPasalName> "Pasal 107" ] ] [ a <X:bagian> ;
                                     <X:hasJudul> "Peraturan Perusahaan" ;
                                     <X:hasKey> "Bagian Keenam" ;
                                     <X:hasPasal> [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
                                             <X:hasPasalName> "Pasal 108" ],
                                         [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 113" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
                                             <X:hasPasalName> "Pasal 110" ],
                                         [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
                                             <X:hasPasalName> "Pasal 112" ],
                                         [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 109" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 111" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalContent> """Pengusaha wajib memberitahukan dan menjelaskan isi serta memberikan naskah peraturan
+perusahaan atau perubahannya kepada pekerja/buruh.""",
+                                                "pasalcontent" ;
                                             <X:hasPasalName> "Pasal 114" ],
                                         [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 115" ] ] [ a <X:bagian> ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 111" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 113" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> """Ketentuan mengenai tata cara pembuatan dan pengesahan peraturan perusahaan diatur dengan
+Keputusan Menteri.""",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 115" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> """Peraturan perusahaan disusun oleh dan menjadi tanggung jawab dari pengusaha yang
+bersangkutan.""",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 109" ] ] [ a <X:bagian> ;
                                     <X:hasJudul> "Perjanjian Kerja Bersama" ;
                                     <X:hasKey> "Bagian Ketujuh" ;
                                     <X:hasPasal> [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 127" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 134" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 116" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 130" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 119" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 132" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 133" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
                                             <X:hasPasalName> "Pasal 126" ],
                                         [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 131" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 135" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 120" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 118" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 124" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 117" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 122" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 125" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 128" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
                                             <X:hasPasalName> "Pasal 129" ],
                                         [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 121" ],
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 116" ],
                                         [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 123" ] ] [ a <X:bagian> ;
+                                            <X:hasPasalContent> """Pemungutan suara sebagaimana dimaksud dalam Pasal 119 ayat (2) diselenggarakan oleh
+panitia yang terdiri dari wakil-wakil pekerja/buruh dan pengurus serikat pekerja/serikat buruh
+yang disaksikan oleh pihak pejabat yang bertanggung jawab di bidang ketenagakerjaan dan
+pengusaha.""",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 122" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 123" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 124" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 131" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 120" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 127" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> """Pelaksanaan peraturan perundang-undangan ketenagakerjaan dalam mewujudkan hubungan
+industrial merupakan tanggung jawab pekerja/buruh, pengusaha, dan pemerintah.""",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 135" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> """Dalam hal musyawarah sebagaimana dimaksud dalam Pasal 116 ayat (2) tidak mencapai
+kesepakatan, maka penyelesaiannya dilakukan melalui prosedur penyelesaian perselisihan
+hubungan industrial.""",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 117" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> """Dalam hal kedua belah pihak sepakat mengadakan perubahan perjanjian kerja bersama, maka
+perubahan tersebut merupakan bagian yang tidak terpisahkan dari perjanjian kerja bersama yang
+sedang berlaku.""",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 125" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> """Dalam mewujudkan pelaksanaan hak dan kewajiban pekerja/buruh dan pengusaha, pemerintah
+wajib melaksanakan pengawasan dan penegakan peraturan perundang-undangan
+ketenagakerjaan.""",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 134" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> """Dalam 1 (satu) perusahaan hanya dapat dibuat 1 (satu) perjanjian kerja bersama yang berlaku
+bagi seluruh pekerja/buruh di perusahaan.""",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 118" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 130" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 132" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> """Ketentuan mengenai persyaratan serta tata cara pembuatan, perpanjangan, perubahan, dan
+pendaftaran perjanjian kerja bersama diatur dengan Keputusan Menteri.""",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 133" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> """Dalam hal perjanjian kerja tidak memuat aturan-aturan yang diatur dalam perjanjian kerja
+bersama maka yang berlaku adalah aturan-aturan dalam perjanjian kerja bersama.""",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 128" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 119" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> """Keanggotaan serikat pekerja/serikat buruh sebagaimana dimaksud dalam Pasal 119 dan Pasal
+120 dibuktikan dengan kartu tanda anggota.""",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 121" ] ] [ a <X:bagian> ;
                                     <X:hasJudul> """Lembaga Penyelesaian Perselisihan
 Hubungan Industrial""" ;
                                     <X:hasKey> "Bagian Kedelapan" ] ) ;
                         <X:hasJudul> "HUBUNGAN INDUSTRIAL" ;
                         <X:hasKey> "BAB XI" ] [ a <X:bab> ;
                         <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 168" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 157" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 171" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 169" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 170" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 172" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 162" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 152" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 156" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 159" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 165" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 161" ],
                                     [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 166" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 151" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> """Ketentuan mengenai pemutusan hubungan kerja dalam undang-undang ini meliputi pemutusan
+hubungan kerja yang terjadi di badan usaha yang berbadan hukum atau tidak, milik orang
+perseorangan, milik persekutuan atau milik badan hukum, baik milik swasta maupun milik
+negara, maupun usaha-usaha sosial dan usaha-usaha lain yang mempunyai pengurus dan
+mempekerjakan orang lain dengan membayar upah atau imbalan dalam bentuk lain.""",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 150" ],
                                     [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 164" ],
+                                        <X:hasPasalContent> """Dalam hal hubungan kerja berakhir karena pekerja/buruh meninggal dunia, kepada ahli warisnya
+diberikan sejumlah uang yang besar perhitungannya sama dengan perhitungan 2 (dua) kali uang
+pesangon sesuai ketentuan Pasal 156 ayat (2), 1 (satu) kali uang penghargaan masa kerja
+sesuai ketentuan Pasal 156 ayat (3), dan uang penggantian hak sesuai ketentuan Pasal 156 ayat
+(4).""",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 166" ],
                                     [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 153" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 163" ],
                                     [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 167" ],
+                                        <X:hasPasalContent> """Penetapan sebagaimana dimaksud dalam Pasal 151 ayat (3) tidak diperlukan dalam hal :
+a.
+pekerja/buruh masih dalam masa percobaan kerja, bilamana telah dipersyaratkan secara
+tertulis sebelumnya;
+b.
+pekerja/buruh mengajukan permintaan pengunduran diri, secara tertulis atas kemauan
+sendiri tanpa ada indikasi adanya tekanan/intimidasi dari pengusaha, berakhirnya hubungan
+kerja sesuai dengan perjanjian kerja waktu tertentu untuk pertama kali;
+c.
+pekerja/buruh mencapai usia pensiun sesuai dengan ketetapan dalam perjanjian kerja,
+peraturan perusahaan, perjanjian kerja bersama, atau peraturan perundang-undangan; atau
+d.
+pekerja/buruh meninggal dunia.""",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 154" ],
                                     [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 169" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 151" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 158" ],
                                     [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 164" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> """Pengusaha dapat melakukan pemutusan hubungan kerja terhadap pekerja/ buruh karena
+perusahaan pailit, dengan ketentuan pekerja/buruh berhak atas uang pesangon sebesar 1 (satu)
+kali ketentuan Pasal 156 ayat (2), uang penghargaan masa kerja sebesar 1 (satu) kali ketentuan
+Pasal 156 ayat (3) dan uang penggantian hak sesuai ketentuan Pasal 156 ayat (4).""",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 165" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 160" ],
                                     [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> """Apabila pekerja/buruh tidak menerima pemutusan hubungan kerja sebagaimana dimaksud dalam
+Pasal 158 ayat (1), pekerja/buruh yang bersangkutan dapat mengajukan gugatan ke lembaga
+penyelesaian perselisihan hubungan industrial.""",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 159" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 156" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> """Pemutusan hubungan kerja yang dilakukan tidak memenuhi keten-tuan Pasal 151 ayat (3) dan
+Pasal 168, kecuali Pasal 158 ayat (1), Pasal 160 ayat (3), Pasal 162, dan Pasal 169 batal demi
+hukum dan pengusaha wajib mempekerjakan pekerja/buruh yang bersangkutan serta membayar
+seluruh upah dan hak yang seharusnya diterima.""",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 170" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> """Pekerja/buruh yang mengalami sakit berkepanjangan, mengalami cacat akibat kecelakaan kerja
+dan tidak dapat melakukan pekerjaannya setelah melampaui batas 12 (dua belas) bulan dapat
+mengajukan pemutusan hubungan kerja dan diberikan uang pesangon 2 (dua) kali ketentuan
+Pasal 156 ayat (2), uang penghargaan masa kerja 2 (dua) kali ketentuan Pasal 156 ayat (3), dan
+uang pengganti hak 1 (satu) kali ketentuan Pasal 156 ayat (4).""",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 172" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 167" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 152" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> """Pekerja/buruh yang mengalami pemutusan hubungan kerja tanpa penetapan lembaga
+penyelesaian perselisihan hubungan industrial yang berwenang sebagaimana dimaksud dalam
+Pasal 158 ayat (1), Pasal 160 ayat (3), dan Pasal 162, dan pekerja/buruh yang bersangkutan
+tidak dapat menerima pemutusan hubungan kerja tersebut, maka pekerja/buruh dapat
+mengajukan gugatan ke lembaga penyelesaian perselisihan hubungan industrial dalam waktu
+paling lama 1 (satu) tahun sejak tanggal dilakukan pemutusan hubungan kerjanya.""",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 171" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 157" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 155" ],
                                     [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 154" ] ] ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 168" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 162" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 153" ] ] ;
                         <X:hasJudul> "PEMUTUSAN HUBUNGAN KERJA" ;
                         <X:hasKey> "BAB XII" ] [ a <X:bab> ;
                         <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 174" ],
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 175" ],
                                     [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 173" ],
                                     [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 175" ] ] ;
+                                        <X:hasPasalContent> """Dalam rangka pembinaan ketenagakerjaan, pemerintah, organisasi peng-usaha, serikat
+pekerja/serikat buruh dan organisasi profesi terkait dapat melakukan kerja sama internasional di
+bidang ketenagakerjaan sesuai dengan peraturan perundang-undangan yang berlaku.""",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 174" ] ] ;
                         <X:hasJudul> "PEMBINAAN" ;
                         <X:hasKey> "BAB XIII" ] [ a <X:bab> ;
                         <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 178" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 180" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 181" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 177" ],
-                                    [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> """Pengawasan ketenagakerjaan dilakukan oleh pegawai pengawas ketenaga-kerjaan yang
+mempunyai kompetensi dan independen guna menjamin pelaksanaan peraturan perundang-
+undangan ketenagakerjaan.""",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 176" ],
                                     [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 179" ] ] ;
+                                        <X:hasPasalContent> """Pegawai pengawas ketenagakerjaan sebagaimana dimaksud dalam Pasal 176 ditetapkan oleh
+Menteri atau pejabat yang ditunjuk.""",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 177" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 178" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 179" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> """Pegawai pengawas ketenagakerjaan dalam melaksanakan tugasnya sebagai-mana dimaksud
+dalam Pasal 176 wajib :
+a. merahasiakan segala sesuatu yang menurut sifatnya patut dirahasiakan;
+b. tidak menyalahgunakan kewenangannya.""",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 181" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> """Ketentuan mengenai persyaratan penunjukan, hak dan kewajiban, serta wewenang pegawai
+pengawas ketenagakerjaan sebagaimana dimaksud dalam Pasal 176 sesuai dengan peraturan
+perundang-undangan yang berlaku.""",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 180" ] ] ;
                         <X:hasJudul> "PENGAWASAN" ;
                         <X:hasKey> "BAB XIV" ] [ a <X:bab> ;
                         <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 182" ] ] ;
                         <X:hasJudul> "PENYIDIKAN" ;
                         <X:hasKey> "BAB XV" ] [ a <X:bab> ;
@@ -506,45 +918,115 @@ Hubungan Industrial""" ;
                                     <X:hasJudul> "Ketentuan Pidana" ;
                                     <X:hasKey> "Bagian Pertama" ;
                                     <X:hasPasal> [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 183" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 189" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
                                             <X:hasPasalName> "Pasal 186" ],
                                         [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 187" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 184" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
                                             <X:hasPasalName> "Pasal 185" ],
                                         [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 188" ] ] [ a <X:bagian> ;
+                                            <X:hasPasalContent> """Sanksi pidana penjara, kurungan, dan/atau denda tidak menghilangkan kewajiban pengusaha
+membayar hak-hak dan/atau ganti kerugian kepada tenaga kerja atau pekerja/buruh.""",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 189" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 184" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 183" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 188" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 187" ] ] [ a <X:bagian> ;
                                     <X:hasJudul> "Sanksi Administratif" ;
                                     <X:hasKey> "Bagian Kedua" ;
                                     <X:hasPasal> [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
                                             <X:hasPasalName> "Pasal 190" ] ] ) ;
                         <X:hasJudul> """KETENTUAN PIDANA DAN
 SANKSI ADMINISTRATIF""" ;
                         <X:hasKey> "BAB XVI" ] [ a <X:bab> ;
                         <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> """Semua peraturan pelaksanaan yang mengatur ketenagakerjaan tetap berlaku sepanjang tidak
+bertentangan dan/atau belum diganti dengan peraturan yang baru berdasarkan Undang undang
+ini.""",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 191" ] ] ;
                         <X:hasJudul> "KETENTUAN PERALIHAN" ;
                         <X:hasKey> "BAB XVII" ] [ a <X:bab> ;
                         <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 193" ],
+                                        <X:hasPasalContent> """Pada saat mulai berlakunya Undang undang ini, maka :
+1.
+Ordonansi tentang Pengerahan Orang Indonesia Untuk Melakukan Pekerjaan Di Luar
+Indonesia (Staatsblad Tahun 1887 Nomor 8);
+2.
+Ordonansi tanggal 17 Desember 1925 Peraturan tentang Pembatasan Kerja Anak Dan
+Kerja Malam Bagi Wanita (Staatsblad Tahun 1925 Nomor 647);
+3.
+Ordonansi Tahun 1926 Peraturan mengenai Kerja Anak anak Dan Orang Muda Di Atas
+Kapal (Staatsblad Tahun 1926 Nomor 87);
+4.
+Ordonansi tanggal 4 Mei 1936 tentang Ordonansi untuk Mengatur Kegiatan kegiatan
+Mencari Calon Pekerja (Staatsblad Tahun 1936 Nomor 208);
+5.
+5. Ordonansi tentang Pemulangan Buruh Yang Diterima Atau Dikerahkan Dari Luar
+Indonesia (Staatsblad Tahun 1939 Nomor 545);
+6.
+Ordonansi Nomor 9 Tahun 1949 tentang Pembatasan Kerja Anak anak (Staatsblad
+Tahun 1949 Nomor 8);
+7.
+Undang undang Nomor 1 Tahun 1951 tentang Pernyataan Berlakunya Undang undang
+Kerja Tahun 1948 Nomor 12 Dari Republik Indonesia Untuk Seluruh Indonesia (Lembaran
+Negara Tahun 1951 Nomor 2);
+8.
+Undang undang Nomor 21 Tahun 1954 tentang Perjanjian Perburuhan Antara Serikat
+Buruh Dan Majikan (Lembaran Negara Tahun 1954 Nomor 69, Tambahan Lembaran Negara
+Nomor 598a);
+9.
+Undang-undang Nomor 3 Tahun 1958 tentang Penempatan Tenaga Asing (Lembaran
+Negara Tahun 1958 Nomor 8 );
+10.
+Undang-undang Nomor 8 Tahun 1961 tentang Wajib Kerja Sarjana (Lembaran Negara
+Tahun 1961 Nomor 207, Tambahan Lembaran Negara Nomor 2270);
+11.
+Undang undang Nomor 7 Pnps Tahun 1963 tentang Pencegahan Pemogokan dan/atau
+Penutupan (Lock Out) Di Perusahaan, Jawatan, dan Badan Yang Vital (Lembaran Negara Tahun
+1963 Nomor 67);
+12.
+Undang undang Nomor 14 Tahun 1969 tentang Ketentuan ketentuan Pokok Mengenai
+Tenaga Kerja (Lembaran Negara Tahun 1969 Nomor 55, Tambahan Lembaran Negara Nomor
+2912);
+13.
+Undang-undang Nomor 25 Tahun 1997 tentang Ketenagakerjaan (Lembaran Negara
+Tahun 1997 Nomor 73, Tambahan Lembaran Negara Nomor 3702);
+14.
+Undang-undang Nomor 11 Tahun 1998 tentang Perubahan Berlakunya Undang-undang
+Nomor 25 Tahun 1997 tentang Ketenagakerjaan (Lembaran Negara Tahun 1998 Nomor 184,
+Tambahan Lembaran Negara Nomor 3791);
+15.
+Undang-undang Nomor 28 Tahun 2000 tentang Penetapan Peraturan Pemerintah
+Pengganti Undang-undang Nomor 3 Tahun 2000 tentang Perubahan Atas Undang-undang
+Nomor 11 Tahun 1998 tentang Perubahan Berlakunya Undang-undang Nomor 25 Tahun 1997
+tentang Ketenaga-kerjaan Menjadi Undang-undang (Lembaran Negara Tahun 2000 Nomor 240,
+Tambahan Lembaran Negara Nomor 4042),
+dinyatakan tidak berlaku lagi.""",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 192" ],
                                     [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
-                                        <X:hasPasalName> "Pasal 192" ] ] ;
+                                        <X:hasPasalContent> """Undang undang ini mulai berlaku pada tanggal diundangkan.
+Agar setiap orang mengetahuinya, memerintahkan pengundangan undang undang ini dengan
+penempatannya dalam Lembaran Negara Republik Indonesia.""",
+                                            "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 193" ] ] ;
                         <X:hasJudul> "KETENTUAN PENUTUP" ;
                         <X:hasKey> "BAB XVIII" ] ) ] ;
     <X:hasMetadata> [ a <X:metadata> ;

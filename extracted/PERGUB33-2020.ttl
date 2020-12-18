@@ -4,21 +4,92 @@
     <X:hasBab> [ a <X:babs> ;
             rdf:first [ a <X:bab> ;
                     <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
-                                    <X:hasPasalContent> "pasalcontent" ;
+                                    <X:hasPasalContent> """Dalam Peraturan Gubernur ini yang dimaksud dengan:
+1. Pembatasan Sosial Berskala Besar yang selanjutnya disingkat
+PSBB adalah pembatasan kegiatan tertentu penduduk dalam
+suatu wilayah yang diduga terinfeksi Corona Virus Disease
+2019 (COVID-19) sedemikian rupa untuk mencegah
+kemungkinan penyebaran Corona Virus Disease 2019 (COVID-
+19)
+2. Barang Kebutuhan Pokok adalah barang yang menyangkut
+hajat hidup orang banyak dengan skala pemenuhan
+kebutuhan yang tinggi serta menjadi faktor pendukung
+kesejahteraan masyarakat.
+3. Barang Penting adalah barang strategis yang berperan penting
+dalam menentukan kelancaran pembangunan nasional.
+4. Penduduk adalah setiap orang yang berdomisili dan/ atau
+berkegiatan di Provinsi DKI Jakarta.
+5. Pelaku Usaha adalah setiap orang perseorangan warga negara
+Indonesia atau badan usaha yang berbentuk badan hukum
+atau bukan badan hukum yang didirikan dan berkedudukan
+dalam wilayah hukum Negara Kesatuan Republik Indonesia
+yang melakukan kegiatan usaha di bidang Perdagangan.
+6. Provinsi Daerah Khusus Ibukota Jakarta selanjutnya disebut
+Provinsi DKI Jakarta adalah provinsi yang mempunyai
+kekhususan dalam penyelenggaraan pemerintahan daerah
+karena kedudukannya sebagai Ibukota Negara Kesatuan
+Republik Indonesia.
+7. Pemerintah Provinsi Daerah Khusus Ibukota Jakarta
+selanjutnya disebut Pemerintah Provinsi DKI Jakarta adalah
+Gubernur dan perangkat daerah Provinsi DKI Jakarta sebagai
+unsur penyelenggara pemerintahan Provinsi DKI Jakarta.
+8. Gubernur adalah Kepala Daerah Provinsi DKI Jakarta yang
+karena jabatannya berkedudukan juga sebagai wakil
+Pemerintah di wilayah Provinsi DKI Jakarta.
+9. Sekretaris Daerah adalah Sekretaris Daerah Provinsi DKI
+Jakarta.
+10. Perangkat Daerah adalah unsur pembantu Gubernur dan
+Dewan Perwakilan Rakyat Daerah dalam penyelenggaraan
+urusan pemerintahan yang menjadi kewenangan Daerah
+Provinsi DKI Jakarta.
+11. Gugus Tugas Percepatan Penanganan Corona Virus Disease
+(COVID-19) Provinsi DKI Jakarta yang selanjutnya disebut
+Gugus Tugas COVID-19 tingkat Provinsi adalah Gugus Tugas
+Percepatan Penanganan Corona Virus Disease (COVID-19)
+yang dibentuk Pemerintah Provinsi DKI Jakarta untuk tingkat
+Provinsi.
+12. Gugus Tugas Percepatan Penanganan Corona Virus Disease
+(COVID-19) tingkat Kota Administrasi/Kabupaten Administrasi
+yang selanjutnya disebut Gugus Tugas COVID-19 tingkat
+Kota/Kabupaten Administrasi adalah Gugus Tugas
+Percepatan Penanganan Corona Virus Disease (COVID-19)
+yang dibentuk Pemerintah Kota/Kabupaten Administrasi
+untuk tingkat Kota/Kabupaten Administrasi.""",
+                                        "pasalcontent" ;
                                     <X:hasPasalName> "Pasal 1" ] ] ;
                     <X:hasJudul> "KETENTUAN UMUM" ;
                     <X:hasKey> "BAB I" ] ;
             rdf:rest ( [ a <X:bab> ;
                         <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> """Peraturan Gubernur ini dimaksudkan sebagai panduan
+pelaksanaan PSBB dalam rangka percepatan penanganan Corona
+Virus Disease (COVID-19) di Provinsi DKI Jakarta.""",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 2" ],
                                     [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> """Peraturan Gubernur ini bertujuan untuk:
+a. membatasi kegiatan tertentu dan pergerakan orang dan/ atau
+barang dalam menekan penyebaran Corona Virus Disease
+(COVID-19);
+b. meningkatkan antisipasi perkembangan ekskalasi penyebaran
+Corona Virus Disease (COVID-19);
+c. memperkuat upaya penanganan kesehatan akibat Corona
+Virus Disease (COVID-19); dan
+d. menangani dampak sosial dan ekonomi dari penyebaran
+Corona Virus Disease (COVID- 19).""",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 3" ] ] ;
                         <X:hasJudul> "MAKSUD DAN TUJUAN" ;
                         <X:hasKey> "BAB II" ] [ a <X:bab> ;
                         <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> """Ruang lingkup Peraturan Gubernur ini meliputi:
+a. pelaksanaan PSBB;
+b. hak, kewajiban serta pemenuhan kebutuhan dasar penduduk
+selama PSBB;
+c. sumber daya penanganan Corona Virus Disease (COVID-19);
+d. pemantauan, evaluasi, dan pelaporan; dan
+e. sanksi.""",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 4" ] ] ;
                         <X:hasJudul> "RUANG LINGKUP" ;
                         <X:hasKey> "BAB III" ] [ a <X:bab> ;
@@ -26,60 +97,74 @@
                                     <X:hasJudul> "Umum" ;
                                     <X:hasKey> "Bagian Kesatu" ;
                                     <X:hasPasal> [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
                                             <X:hasPasalName> "Pasal 5" ] ] [ a <X:bagian> ;
                                     <X:hasJudul> """Pembatasan Pelaksanaan Pembelajaran
 di Sekolah dan/atau Institusi Pendidikan""" ;
                                     <X:hasKey> "Bagian Kedua" ;
                                     <X:hasPasal> [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 8" ],
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 7" ],
                                         [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
                                             <X:hasPasalName> "Pasal 6" ],
                                         [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 7" ] ] [ a <X:bagian> ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 8" ] ] [ a <X:bagian> ;
                                     <X:hasJudul> "Pembatasan Aktivitas Bekerja di Tempat Kerja" ;
                                     <X:hasKey> "Bagian Ketiga" ;
                                     <X:hasPasal> [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
                                             <X:hasPasalName> "Pasal 10" ],
                                         [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
                                             <X:hasPasalName> "Pasal 9" ] ] [ a <X:bagian> ;
                                     <X:hasJudul> "Pembatasan Kegiatan Keagamaan di Rumah Ibadah" ;
                                     <X:hasKey> "Bagian Keempat" ;
                                     <X:hasPasal> [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 12" ],
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 11" ],
                                         [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 11" ] ] [ a <X:bagian> ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 12" ] ] [ a <X:bagian> ;
                                     <X:hasJudul> "Pembatasan Kegiatan di Tempat atau Fasilitas umum" ;
                                     <X:hasKey> "Bagian Kelima" ;
                                     <X:hasPasal> [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 13" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
                                             <X:hasPasalName> "Pasal 14" ],
                                         [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 15" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 13" ] ] [ a <X:bagian> ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 15" ] ] [ a <X:bagian> ;
                                     <X:hasJudul> "Pembatasan Kegiatan Sosial dan Budaya" ;
                                     <X:hasKey> "Bagian Keenam" ;
                                     <X:hasPasal> [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
                                             <X:hasPasalName> "Pasal 17" ],
                                         [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
                                             <X:hasPasalName> "Pasal 16" ] ] [ a <X:bagian> ;
                                     <X:hasJudul> """Pembatasan Penggunakan Moda Transportasi
 Untuk Pergerakan Orang dan Barang""" ;
                                     <X:hasKey> "Bagian Ketujuh" ;
                                     <X:hasPasal> [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
                                             <X:hasPasalName> "Pasal 18" ] ] ) ;
                         <X:hasJudul> "PELAKSANAAN PSBB" ;
                         <X:hasKey> "BAB IV" ] [ a <X:bab> ;
@@ -87,38 +172,51 @@ Untuk Pergerakan Orang dan Barang""" ;
                                     <X:hasJudul> "Hak dan Kewajiban" ;
                                     <X:hasKey> "Bagian Kesatu" ;
                                     <X:hasPasal> [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 20" ],
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 19" ],
                                         [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
-                                            <X:hasPasalName> "Pasal 19" ] ] [ a <X:bagian> ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 20" ] ] [ a <X:bagian> ;
                                     <X:hasJudul> "Pemenuhan Kebutuhan Dasar Penduduk Selama PSBB" ;
                                     <X:hasKey> "Bagian Kedua" ;
                                     <X:hasPasal> [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
                                             <X:hasPasalName> "Pasal 22" ],
                                         [ a <X:pasal> ;
-                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalContent> "ayat",
+                                                "pasalcontent" ;
                                             <X:hasPasalName> "Pasal 21" ] ] ) ;
                         <X:hasJudul> """HAK DAN KEWAJIBAN SERTA PEMENUHAN KEBUTUHAN
 DASAR PENDUDUK SELAMA PSBB;""" ;
                         <X:hasKey> "BAB V" ] [ a <X:bab> ;
                         <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 23" ],
                                     [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> "ayat",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 24" ] ] ;
                         <X:hasJudul> """SUMBER DAYA PENANGANAN
 CORONA VIRUS DISEASE (COVID- 19)""" ;
                         <X:hasKey> "BAB VI" ] [ a <X:bab> ;
                         <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> """Pelanggaran terhadap pelaksanaan PSBB dikenakan sanksi
+sesuai dengan ketentuan peraturan perundang-undangan,
+termasuk sanksi pidana.""",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 27" ] ] ;
                         <X:hasJudul> "SANKSI" ;
                         <X:hasKey> "BAB VII" ] [ a <X:bab> ;
                         <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
-                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalContent> """Peraturan Gubernur ini mulai berlaku pada tanggal diundangkan.
+Agar setiap orang mengetahuinya, memerintahkan pengundangan
+Peraturan Gubernur ini dengan penempatannya dalam Berita
+Daerah Provinsi Daerah Khusus Ibukota Jakarta.""",
+                                            "pasalcontent" ;
                                         <X:hasPasalName> "Pasal 28" ] ] ;
                         <X:hasJudul> "KETENTUAN PENUTUP" ;
                         <X:hasKey> "BAB VIII" ] ) ] ;
