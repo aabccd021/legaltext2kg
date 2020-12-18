@@ -1,0 +1,603 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<X:UU13-2003> a <X:Peraturan> ;
+    <X:hasBab> [ a <X:babs> ;
+            rdf:first [ a <X:bab> ;
+                    <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
+                                    <X:hasPasalContent> "pasalcontent" ;
+                                    <X:hasPasalName> "Pasal 1" ] ] ;
+                    <X:hasJudul> "KETENTUAN UMUM" ;
+                    <X:hasKey> "BAB I" ] ;
+            rdf:rest ( [ a <X:bab> ;
+                        <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 3" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 4" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 2" ] ] ;
+                        <X:hasJudul> "LANDASAN, ASAS, DAN TUJUAN" ;
+                        <X:hasKey> "BAB II" ] [ a <X:bab> ;
+                        <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 6" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 5" ] ] ;
+                        <X:hasJudul> "KESEMPATAN DAN PERLAKUAN YANG SAMA" ;
+                        <X:hasKey> "BAB III" ] [ a <X:bab> ;
+                        <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 8" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 7" ] ] ;
+                        <X:hasJudul> """PERENCANAAN TENAGA KERJA DAN
+INFORMASI KETENAGAKERJAAN""" ;
+                        <X:hasKey> "BAB IV" ] [ a <X:bab> ;
+                        <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 21" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 12" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 14" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 30" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 10" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 17" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 13" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 19" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 29" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 11" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 22" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 27" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 18" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 25" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 15" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 28" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 16" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 24" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 23" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 20" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 9" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 26" ] ] ;
+                        <X:hasJudul> "PELATIHAN KERJA" ;
+                        <X:hasKey> "BAB V" ] [ a <X:bab> ;
+                        <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 34" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 32" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 38" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 33" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 35" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 31" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 36" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 37" ] ] ;
+                        <X:hasJudul> "PENEMPATAN TENAGA KERJA" ;
+                        <X:hasKey> "BAB VI" ] [ a <X:bab> ;
+                        <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 39" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 41" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 40" ] ] ;
+                        <X:hasJudul> "PERLUASAN KESEMPATAN KERJA" ;
+                        <X:hasKey> "BAB VII" ] [ a <X:bab> ;
+                        <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 44" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 48" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 46" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 42" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 45" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 47" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 49" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 43" ] ] ;
+                        <X:hasJudul> "PENGGUNAAN TENAGA KERJA ASING" ;
+                        <X:hasKey> "BAB VIII" ] [ a <X:bab> ;
+                        <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 62" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 50" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 63" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 51" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 53" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 65" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 56" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 59" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 66" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 64" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 54" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 55" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 52" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 61" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 60" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 57" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 58" ] ] ;
+                        <X:hasJudul> "HUBUNGAN KERJA" ;
+                        <X:hasKey> "BAB IX" ] [ a <X:bab> ;
+                        <X:hasIsi> ( [ a <X:bagian> ;
+                                    <X:hasJudul> "Perlindungan" ;
+                                    <X:hasKey> "Bagian Kesatu" ] [ a <X:bagian> ;
+                                    <X:hasJudul> "Pengupahan." ;
+                                    <X:hasKey> "Bagian Kedua" ;
+                                    <X:hasPasal> [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 97" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 93" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 90" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 89" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 88" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 96" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 95" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 94" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 98" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 91" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 92" ] ] [ a <X:bagian> ;
+                                    <X:hasJudul> "Kesejahteraan" ;
+                                    <X:hasKey> "Bagian Ketiga" ;
+                                    <X:hasPasal> [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 101" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 99" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 100" ] ] ) ;
+                        <X:hasJudul> """PERLINDUNGAN, PENGUPAHAN, DAN
+KESEJAHTERAAN""" ;
+                        <X:hasKey> "BAB X" ] [ a <X:bab> ;
+                        <X:hasIsi> ( [ a <X:bagian> ;
+                                    <X:hasJudul> "Umum" ;
+                                    <X:hasKey> "Bagian Kesatu" ;
+                                    <X:hasPasal> [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 103" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 102" ] ] [ a <X:bagian> ;
+                                    <X:hasJudul> "Serikat Pekerja/Serikat Buruh" ;
+                                    <X:hasKey> "Bagian Kedua" ;
+                                    <X:hasPasal> [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 104" ] ] [ a <X:bagian> ;
+                                    <X:hasJudul> "Organisasi Pengusaha" ;
+                                    <X:hasKey> "Bagian Ketiga" ;
+                                    <X:hasPasal> [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 105" ] ] [ a <X:bagian> ;
+                                    <X:hasJudul> "Lembaga Kerja Sama Bipartit" ;
+                                    <X:hasKey> "Bagian Keempat" ;
+                                    <X:hasPasal> [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 106" ] ] [ a <X:bagian> ;
+                                    <X:hasJudul> "Lembaga Kerja Sama Tripartit" ;
+                                    <X:hasKey> "Bagian Kelima" ;
+                                    <X:hasPasal> [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 107" ] ] [ a <X:bagian> ;
+                                    <X:hasJudul> "Peraturan Perusahaan" ;
+                                    <X:hasKey> "Bagian Keenam" ;
+                                    <X:hasPasal> [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 108" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 113" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 110" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 112" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 109" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 111" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 114" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 115" ] ] [ a <X:bagian> ;
+                                    <X:hasJudul> "Perjanjian Kerja Bersama" ;
+                                    <X:hasKey> "Bagian Ketujuh" ;
+                                    <X:hasPasal> [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 127" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 134" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 116" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 130" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 119" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 132" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 133" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 126" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 131" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 135" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 120" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 118" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 124" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 117" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 122" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 125" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 128" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 129" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 121" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 123" ] ] [ a <X:bagian> ;
+                                    <X:hasJudul> """Lembaga Penyelesaian Perselisihan
+Hubungan Industrial""" ;
+                                    <X:hasKey> "Bagian Kedelapan" ] ) ;
+                        <X:hasJudul> "HUBUNGAN INDUSTRIAL" ;
+                        <X:hasKey> "BAB XI" ] [ a <X:bab> ;
+                        <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 168" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 157" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 171" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 169" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 170" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 172" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 162" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 152" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 156" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 159" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 165" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 161" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 166" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 151" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 150" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 164" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 153" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 163" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 167" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 158" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 160" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 155" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 154" ] ] ;
+                        <X:hasJudul> "PEMUTUSAN HUBUNGAN KERJA" ;
+                        <X:hasKey> "BAB XII" ] [ a <X:bab> ;
+                        <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 174" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 173" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 175" ] ] ;
+                        <X:hasJudul> "PEMBINAAN" ;
+                        <X:hasKey> "BAB XIII" ] [ a <X:bab> ;
+                        <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 178" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 180" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 181" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 177" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 176" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 179" ] ] ;
+                        <X:hasJudul> "PENGAWASAN" ;
+                        <X:hasKey> "BAB XIV" ] [ a <X:bab> ;
+                        <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 182" ] ] ;
+                        <X:hasJudul> "PENYIDIKAN" ;
+                        <X:hasKey> "BAB XV" ] [ a <X:bab> ;
+                        <X:hasIsi> ( [ a <X:bagian> ;
+                                    <X:hasJudul> "Ketentuan Pidana" ;
+                                    <X:hasKey> "Bagian Pertama" ;
+                                    <X:hasPasal> [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 183" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 189" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 186" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 187" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 184" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 185" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 188" ] ] [ a <X:bagian> ;
+                                    <X:hasJudul> "Sanksi Administratif" ;
+                                    <X:hasKey> "Bagian Kedua" ;
+                                    <X:hasPasal> [ a <X:pasal> ;
+                                            <X:hasPasalContent> "pasalcontent" ;
+                                            <X:hasPasalName> "Pasal 190" ] ] ) ;
+                        <X:hasJudul> """KETENTUAN PIDANA DAN
+SANKSI ADMINISTRATIF""" ;
+                        <X:hasKey> "BAB XVI" ] [ a <X:bab> ;
+                        <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 191" ] ] ;
+                        <X:hasJudul> "KETENTUAN PERALIHAN" ;
+                        <X:hasKey> "BAB XVII" ] [ a <X:bab> ;
+                        <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 193" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> "pasalcontent" ;
+                                        <X:hasPasalName> "Pasal 192" ] ] ;
+                        <X:hasJudul> "KETENTUAN PENUTUP" ;
+                        <X:hasKey> "BAB XVIII" ] ) ] ;
+    <X:hasMetadata> [ a <X:metadata> ;
+            <X:hasValue> """UNDANG-UNDANG REPUBLIK INDONESIA
+NOMOR 13 TAHUN 2003
+TENTANG
+KETENAGAKERJAAN
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+Presiden Republik Indonesia,
+Menimbang :
+a. bahwa
+pembangunan
+nasional
+dilaksanakan
+dalam
+rangka
+pembangunan manusia Indonesia seutuhnya dan pembangunan
+masyarakat Indonesia seluruhnya untuk mewujudkan masyarakat
+yang sejahtera, adil, makmur, yang merata, baik materiil maupun
+spiritual berdasarkan Pancasila dan Undang Undang Dasar Negara
+Republik Indonesia Tahun 1945;
+b. bahwa dalam pelaksanaan pembangunan nasional, tenaga kerja
+mempunyai peranan dan kedudukan yang sangat penting sebagai
+pelaku dan tujuan pembangunan;
+c. bahwa sesuai dengan peranan dan kedudukan tenaga kerja,
+diperlukan pembangunan ketenagakerjaan untuk meningkatkan
+kualitas tenaga kerja dan peransertanya dalam pembangunan serta
+peningkatan perlindungan tenaga kerja dan keluarganya sesuai
+dengan harkat dan martabat kemanusiaan;
+d. bahwa perlindungan terhadap tenaga kerja dimaksudkan untuk
+menjamin hak hak dasar pekerja/buruh dan menjamin kesamaan
+kesempatan serta perlakuan tanpa diskriminasi atas dasar apapun
+untuk mewujudkan kesejahteraan pekerja/buruh dan keluarganya
+dengan tetap memperhatikan perkembangan kemajuan dunia
+usaha;
+e. bahwa beberapa undang undang di bidang ketenagakerjaan
+dipandang sudah tidak sesuai lagi dengan kebutuhan dan tuntutan
+pembangunan ketenagakerjaan, oleh karena itu perlu dicabut
+dan/atau ditarik kembali;
+f.
+bahwa berdasarkan pertimbangan sebagaimana tersebut pada huruf
+a, b, c, d, dan e perlu membentuk Undang undang tentang
+Ketenagakerjaan;
+Mengingat :
+Pasal 5 ayat (1), Pasal 20 ayat (2), Pasal 27 ayat (2), Pasal 28, dan Pasal 33
+ayat (1) Undang Undang Dasar Negara Republik Indonesia Tahun 1945;
+Dengan persetujuan bersama antara
+DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
+DAN
+PRESIDEN REPUBLIK INDONESIA
+MEMUTUSKAN :
+Menetapkan
+:
+UNDANG-UNDANG TENTANG KETENAGAKERJAAN.
+""" ] .
+

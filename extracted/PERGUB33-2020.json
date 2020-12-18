@@ -1,7 +1,7 @@
 {
   "metadata": "SALINAN\nGUBERNUR PROVINSI DAERAH KHUSUS\nIBUKOTA JAKARTA\nPERATURAN GUBERNUR DAERAH KHUSUS\nIBUKOTA JAKARTA\nNOMOR 33 TAHUN 2020\nTENTANG\nPELAKSANAAN PEMBATASAN SOSIAL BERSKALA BESAR\nDALAM PENANGANAN CORONA VIRUS DISEASE 2019 (COVID-19)\nDI PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA\nDENGAN RAHMAT TUHAN YANG MAHA ESA\nGUBERNUR DAERAH KHUSUS IBUKOTA JAKARTA,\nMenimbang : a. bahwa bahwa berdasarkan Keputusan Menteri Kesehatan\nRepublik Indonesia Nomor HK.01.07/MENKES/239/2020 telah\nditetapkan Pembatasan Sosial Berskala Besar di wilayah\nProvinsi Daerah Khusus Ibukota Jakarta dalam rangka\npercepatan penanganan Corona Virus Disease 2019 (COVID-19);\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a, perlu menetapkan Peraturan Gubernur tentang\nPelaksanaan Pembatasan Sosial Berskala Besar Dalam\nPenanganan Corona Virus Disease 2019 (COVID-19) di Provinsi\nDaerah Khusus Ibukota Jakarta;\nMengingat \t: 1. Undang-Undang Nomor 4 Tahun 1984 tentang Wabah Penyakit\nMenular (Lembaran Negara Republik Indonesia Tahun 1984\nNomor 20, Tambahan Lembaran Negara Republik Indonesia\nTahun 1984 Nomor 3723);\n2. Undang-Undang Nomor 29 Tahun 2007 tentang Pemerintahan\nDaerah Khusus Ibukota Jakarta sebagai Ibukota Negara\nKesatuan Republik Indonesia (Lembaran Negara Republik\nIndonesia Tahun 2007 Nomor 93, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 4744);\n3. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan\nDaerah (Lembaran Negara Republik Indonesia Tahun 2014\nNomor 244, Tambahan Lembaran Negara Republik Indonesia\nNomor 5587) sebagaimana telah beberapa kali diubah terakhir\ndengan Undang-Undang Nomor 9 Tahun 2015 tentang\nPerubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2014\ntentang Pemerintahan Daerah (Lembaran Negara Republik\nIndonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 5679);\n2\nMenetapkan\n4. Undang-Undang Nomor 6 Tahun 2018 tentang Kekarantinaan\nKesehatan (Lembaran Negara Republik Indonesia Tahun 2018\nNomor 128, Tambahan Lembaran Negara Republik Indonesia\nNomor 6236);\n5. Peraturan Pemerintah Nomor 21 Tahun 2020 tentang\nPembatasan Sosial Berskala Besar Dalam Rangka Percepatan\nPenanganan Corona Virus Disease 2019 (COVID-19) (Lembaran\nNegara Republik Indonesia Tahun 2020 Nomor 91, Tambahan\nLembaran Negara Republik Indonesia Nomor 6487);\n6. Peraturan Menteri Kesehatan Nomor 9 Tahun 2020 tentang\nPedoman Pembatasan Sosial Berskala Besar Dalam Rangka\nPercepatan Penanganan Corona Virus Disease 2019 (COVID-\n19) (Berita Negara Republik Indonesia Tahun 2020 Nomor\n326);\nMEMUTUSKAN:\nPERATURAN GUBERNUR TENTANG PELAKSANAAN PEMBATASAN\nSOSIAL BERSKALA BESAR DALAM PENANGANAN CORONA\nVIRUS DISEASE 2019 (COVID-19) DI PROVINSI DAERAH KHUSUS\nIBUKOTA JAKARTA.\n",
-  "bab": {
-    "1": {
+  "bab": [
+    {
       "key": "BAB I",
       "judul": "KETENTUAN UMUM",
       "isi": {
@@ -60,7 +60,7 @@
         ]
       }
     },
-    "2": {
+    {
       "key": "BAB II",
       "judul": "MAKSUD DAN TUJUAN",
       "isi": {
@@ -83,7 +83,7 @@
         ]
       }
     },
-    "3": {
+    {
       "key": "BAB III",
       "judul": "RUANG LINGKUP",
       "isi": {
@@ -98,12 +98,12 @@
         ]
       }
     },
-    "4": {
+    {
       "key": "BAB IV",
       "judul": "PELAKSANAAN PSBB",
       "isi": {
-        "bagian": {
-          "1": {
+        "bagian": [
+          {
             "key": "Bagian Kesatu",
             "judul": "Umum",
             "isi": {
@@ -152,12 +152,87 @@
               }
             }
           },
-          "2": {
+          {
             "key": "Bagian Kedua",
-            "judul": "Pembatasan Pelaksanaan Pembelajaran",
-            "isi": null
+            "judul": "Pembatasan Pelaksanaan Pembelajaran\ndi Sekolah dan/atau Institusi Pendidikan",
+            "isi": {
+              "Pasal 6": {
+                "ayat": {
+                  "(1)": [
+                    " Selama pemberlakuan PSBB, dilakukan penghentian",
+                    "sementara kegiatan di sekolah dan/atau institusi pendidikan",
+                    "lainnya."
+                  ],
+                  "(2)": [
+                    " Dalam pelaksanaan penghentian sementara kegiatan di",
+                    "sekolah sebagaimana dimaksud pada ayat (1), semua aktivitas",
+                    "pembelajaran diubah pelaksanaannya dengan melakukan",
+                    "pembelajaran di rumah/tempat tinggal masing-masing melalui",
+                    "metode pembelajaran jarak jauh."
+                  ],
+                  "(3)": [
+                    " Kegiatan dan aktivitas pelayanan administrasi sekolah",
+                    "dikerjakan dari rumah dengan bentuk pelayanan yang",
+                    "disesuaikan."
+                  ],
+                  "(4)": [
+                    " Teknis pelaksanaan dan evaluasi pembelajaran serta",
+                    "pelayanan administrasi sekolah selama pemberlakuan PSBB",
+                    "diatur lebih lanjut oleh Perangkat Daerah yang bertanggung",
+                    "jawab di bidang pendidikan."
+                  ]
+                }
+              },
+              "Pasal 7": {
+                "ayat": {
+                  "(1)": [
+                    ", kegiatan, aktivitas pembelajaran, dan pelayanan",
+                    "administrasi dilaksanakan secara daring dari rumah sesuai",
+                    "ketentuan teknis dari instansi terkait."
+                  ],
+                  "(2)": [
+                    " Penghentian sementara kegiatan di institusi pendidikan",
+                    "lainnya sebagaimana dimaksud pada ayat (1), dikecualikan",
+                    "bagi lembaga pendidikan, pelatihan, penelitian yang berkaitan",
+                    "dengan pelayanan kesehatan."
+                  ],
+                  "(3)": [
+                    " Dalam pelaksanaan penghentian sementara kegiatan di",
+                    "institusi pendidikan lainnya sebagaimana dimaksud pada ayat"
+                  ]
+                }
+              },
+              "Pasal 8": {
+                "ayat": {
+                  "(1)": [
+                    " Dalam penghentian sementara kegiatan selama pemberlakuan",
+                    "PSBB, penanggung jawab sekolah dan institusi pendidikan",
+                    "lainnya wajib:",
+                    "a. memastikan proses pembelajaran tetap berjalan dan",
+                    "terpenuhinya hak peserta didik dalam mendapatkan",
+                    "pendidikan;",
+                    "b. melakukan pencegahan penyebaran Corona Virus Disease",
+                    "(COVID-19) di lokasi dan lingkungan sekolah dan/atau",
+                    "institusi pendidikan lainnya; dan",
+                    "c. menjaga keamanan sekolah dan/atau institusi pendidikan",
+                    "lainnya."
+                  ],
+                  "(2)": [
+                    " Upaya pencegahan penyebaran Corona Virus Disease (COVID-",
+                    "19) di lokasi dan lingkungan sekolah dan/atau institusi",
+                    "pendidikan lainnya sebagaimana dimaksud pada ayat (1)",
+                    "huruf b dilakukan secara berkala dengan cara:",
+                    "a. membersihkan dan melakukan disinfeksi sarana dan",
+                    "prasarana sekolah; dan",
+                    "b. menerapkan protokol pencegahan penyebaran Corona Virus",
+                    "Disease (COVID-19) bagi pendidik dan tenaga kependidikan",
+                    "lainnya."
+                  ]
+                }
+              }
+            }
           },
-          "3": {
+          {
             "key": "Bagian Ketiga",
             "judul": "Pembatasan Aktivitas Bekerja di Tempat Kerja",
             "isi": {
@@ -380,7 +455,7 @@
               }
             }
           },
-          "4": {
+          {
             "key": "Bagian Keempat",
             "judul": "Pembatasan Kegiatan Keagamaan di Rumah Ibadah",
             "isi": {
@@ -433,7 +508,7 @@
               }
             }
           },
-          "5": {
+          {
             "key": "Bagian Kelima",
             "judul": "Pembatasan Kegiatan di Tempat atau Fasilitas umum",
             "isi": {
@@ -529,7 +604,7 @@
               }
             }
           },
-          "6": {
+          {
             "key": "Bagian Keenam",
             "judul": "Pembatasan Kegiatan Sosial dan Budaya",
             "isi": {
@@ -602,20 +677,98 @@
               }
             }
           },
-          "7": {
+          {
             "key": "Bagian Ketujuh",
-            "judul": "Pembatasan Penggunakan Moda Transportasi",
-            "isi": null
+            "judul": "Pembatasan Penggunakan Moda Transportasi\nUntuk Pergerakan Orang dan Barang",
+            "isi": {
+              "Pasal 18": {
+                "ayat": {
+                  "(1)": [
+                    " Selama pemberlakuan PSBB, semua kegiatan pergerakan",
+                    "orang dan/atau barang dihentikan sementara, kecuali untuk:",
+                    "a. pemenuhan kebutuhan pokok; dan",
+                    "b. kegiatan yang diperbolehkan selama pemberlakuan PSBB."
+                  ],
+                  "(2)": [
+                    " Dikecualikan dari penghentian \tsementara kegiatan",
+                    "pergerakan orang sebagaimana dimaksud pada ayat (1), untuk",
+                    "jenis moda transportasi:",
+                    "a. kendaraan bermotor pribadi;",
+                    "b. angkutan orang dengan kendaraan bermotor umum; dan",
+                    "c. angkutan perkeretaapian.",
+                    "15"
+                  ],
+                  "(3)": [
+                    " Dikecualikan dari penghentian \tsementara kegiatan",
+                    "pergerakan barang sebagaimana dimaksud pada ayat (1),",
+                    "untuk semua jenis moda transportasi."
+                  ],
+                  "(4)": [
+                    " Pengguna kendaraan mobil penumpang pribadi diwajibkan",
+                    "untuk mengikuti ketentuan sebagai berikut:",
+                    "a. digunakan hanya untuk pemenuhan kebutuhan pokok",
+                    "dan/atau aktivitas lain yang diperbolehkan selama PSBB;",
+                    "b. melakukan disinfeksi kendaraan setelah selesai digunakan;",
+                    "c. menggunakan masker di dalam kendaraan;",
+                    "d. membatasi jumlah orang maksimal 50\u00b0/0 (lima puluh",
+                    "persen) dari kapasitas kendaraan; dan",
+                    "e. tidak berkendara jika sedang mengalami suhu badan diatas",
+                    "normal atau sakit."
+                  ],
+                  "(5)": [
+                    " Pengguna sepeda motor pribadi diwajibkan untuk mengikuti",
+                    "ketentuan sebagai berikut:",
+                    "a. digunakan hanya untuk pemenuhan kebutuhan pokok",
+                    "dan/atau aktivitas lain yang diperbolehkan selama PSBB;",
+                    "b. melakukan disinfeksi kendaraan dan atribut setelah",
+                    "selesai digunakan,",
+                    "c. menggunakan masker dan sarung tangan; dan",
+                    "d. tidak berkendara jika sedang mengalami suhu badan",
+                    "diatas normal atau sakit."
+                  ],
+                  "(6)": [
+                    " Angkutan roda dua berbasis aplikasi dibatasi penggunaannya",
+                    "hanya untuk pengangkutan barang."
+                  ],
+                  "(7)": [
+                    " Angkutan orang dengan kendaraan bermotor umum,",
+                    "angkutan perkeretaapian, dan/atau moda transportasi barang",
+                    "diwajibkan untuk mengikuti ketentuan sebagai berikut:",
+                    "a. membatasi jumlah orang maksimal 50\u00b0/0 (lima puluh",
+                    "persen) dari kapasitas angkutan;",
+                    "b. membatasi jam operasional sesuai pengaturan dari",
+                    "Pemerintah Provinsi DKI Jakarta dan/atau instansi terkait;",
+                    "c. melakukan disinfeksi secara berkala moda transportasi",
+                    "yang digunakan;",
+                    "d. melakukan deteksi dan pemantauan suhu tubuh petugas",
+                    "dan penumpang yang memasuki moda transportasi;",
+                    "e. memastikan petugas dan penumpang moda transportasi",
+                    "tidak sedang mengalami suhu tubuh diatas normal atau",
+                    "sakit; dan",
+                    "f. menjaga jarak antar penumpang (physical distancing)",
+                    "paling sedikit dalam rentang 1 (satu) meter."
+                  ],
+                  "(8)": [
+                    " Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat",
+                    "Provinsi dapat menambahkan menambahkan jenis moda",
+                    "transportasi yang dikecualikan dari penghentian sementara",
+                    "moda transportasi untuk pergerakan orang dan/atau barang",
+                    "sebagaimana dimaksud pada ayat (2) dan ayat (3).",
+                    "16"
+                  ]
+                }
+              }
+            }
           }
-        }
+        ]
       }
     },
-    "5": {
+    {
       "key": "BAB V",
       "judul": "HAK DAN KEWAJIBAN SERTA PEMENUHAN KEBUTUHAN\nDASAR PENDUDUK SELAMA PSBB;",
       "isi": {
-        "bagian": {
-          "1": {
+        "bagian": [
+          {
             "key": "Bagian Kesatu",
             "judul": "Hak dan Kewajiban",
             "isi": {
@@ -679,7 +832,7 @@
               }
             }
           },
-          "2": {
+          {
             "key": "Bagian Kedua",
             "judul": "Pemenuhan Kebutuhan Dasar Penduduk Selama PSBB",
             "isi": {
@@ -723,10 +876,10 @@
               }
             }
           }
-        }
+        ]
       }
     },
-    "6": {
+    {
       "key": "BAB VI",
       "judul": "SUMBER DAYA PENANGANAN\nCORONA VIRUS DISEASE (COVID- 19)",
       "isi": {
@@ -768,7 +921,7 @@
         }
       }
     },
-    "7": {
+    {
       "key": "BAB VII",
       "judul": "SANKSI",
       "isi": {
@@ -779,7 +932,7 @@
         ]
       }
     },
-    "8": {
+    {
       "key": "BAB VIII",
       "judul": "KETENTUAN PENUTUP",
       "isi": {
@@ -787,37 +940,9 @@
           "Peraturan Gubernur ini mulai berlaku pada tanggal diundangkan.",
           "Agar setiap orang mengetahuinya, memerintahkan pengundangan",
           "Peraturan Gubernur ini dengan penempatannya dalam Berita",
-          "Daerah Provinsi Daerah Khusus Ibukota Jakarta.",
-          "Ditetapkan di Jakarta",
-          "pada tanggal 9 April 2020",
-          "GUBERNUR DAERAH KHUSUS",
-          "IBUKOTA JAKARTA,",
-          "ttd",
-          "ANIES BASWEDAN",
-          "Diundangkan di Jakarta",
-          "pada tanggal 9 April 2020",
-          "SEKRETARIS DAERAH PROVINSI DAERAH KHUSUS",
-          "IBUKOTA JAKARTA,",
-          "ttd",
-          "SAEFULLAH",
-          "BERITA DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA",
-          "TAHUN 2020 NOMOR 55003",
-          "Salinan sesuai dengan aslinya",
-          "KEPALA BIRO HUKUM SEKRETARIAT DAERAH",
-          "PROVINSI DAERAIIKHU S IBUKOTA JAKARTA,",
-          "(",
-          "....i",
-          ",,,,:q \t\u2022\\ ,..,--;:",
-          "Z f",
-          "\\",
-          "r, \ufffd",
-          "\\",
-          "...----",
-          "Y YAN YUHANAH",
-          "' NIP 196508241994032003",
-          ",,.,..,...ss........24...____\u201e,,,"
+          "Daerah Provinsi Daerah Khusus Ibukota Jakarta."
         ]
       }
     }
-  }
+  ]
 }

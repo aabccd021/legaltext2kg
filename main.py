@@ -2,7 +2,10 @@ import fitz
 import os
 import json
 import re
-from rdflib import Literal, Graph
+import uuid
+
+from rdflib import Literal, Graph, RDF, URIRef, BNode
+from rdflib.collection import Collection
 
 
 def extract_text(filename, pages):
@@ -11,11 +14,6 @@ def extract_text(filename, pages):
     with open('extracted/{}.txt'.format(filename), 'w') as f:
         f.write(content)
     return content
-
-
-def raw_to_structured(g, content: str):
-    g.add((Literal('a'), Literal('b'), Literal('c')))
-    return
 
 
 def split_element(lines):
@@ -89,14 +87,14 @@ def split_paragraph(lines):
                 content[current_bagian_key]['judul'] = judul
             else:
                 content[current_bagian_key]['isi'].append(line)
-        par_content = {}
-        for par_idx, bagian_key in enumerate(content.keys()):
+        par_content = []
+        for bagian_key in content.keys():
             content[bagian_key]['isi'] = split_pasals(
                 content[bagian_key]['isi'])
-            par_content[par_idx+1] = {
+            par_content.append({
                 'key': bagian_key,
                 **content[bagian_key]
-            }
+            })
         return {'paragraf': par_content}
 
 
@@ -105,26 +103,35 @@ def split_bab_content(bab_lines):
         return split_pasals(bab_lines)
     if bab_lines[0].startswith("Bagian "):
         content = dict()
-        judul = ""
+        judul = []
+        judulFinished = False
         for line in bab_lines:
             if line.startswith("Bagian "):
+                print()
+                print(line)
                 current_bagian_key = line
                 content[current_bagian_key] = {'judul': '', 'isi': []}
-                judul = ""
-            elif judul == "":
-                judul = line
-                content[current_bagian_key]['judul'] = judul
+                judulFinished = False
+                judul = []
+            elif not judulFinished:
+                if line.startswith('Paragraf') or line.startswith('Pasal'):
+                    content[current_bagian_key]['judul'] = '\n'.join(judul)
+                    content[current_bagian_key]['isi'].append(line)
+                    judulFinished = True
+                else:
+                    judul.append(line)
             else:
                 content[current_bagian_key]['isi'].append(line)
-        final_content = {}
-        for bagian_idx, bagian_key in enumerate(content.keys()):
+
+        final_content = []
+        for bagian_key in content.keys():
             content[bagian_key]['isi'] = split_paragraph(
                 content[bagian_key]['isi'])
 
-            final_content[bagian_idx+1] = {
+            final_content.append({
                 'key': bagian_key,
                 **content[bagian_key]
-            }
+            })
         return {'bagian': final_content}
 
 
@@ -150,9 +157,9 @@ def split_babs(content):
 
     content = {
         "metadata": "",
-        "bab": {},
+        "bab": []
     }
-    for idx, (key, val) in enumerate(babs.items()):
+    for key, val in babs.items():
         if key == "PEMBUKAAN":
             content["metadata"] = val
         else:
@@ -171,7 +178,7 @@ def split_babs(content):
                 "judul": "\n".join(judul),
                 "isi": split_bab_content(val[last_idx:]),
             }
-            content["bab"][idx] = bab_content
+            content["bab"].append(bab_content)
 
     return content
 
@@ -180,9 +187,6 @@ def write_dict(filename, dictionary):
     content = json.dumps(dictionary, indent=2)
     with open('extracted/{}.json'.format(filename), 'w') as f:
         f.write(content)
-
-# def remove_empty_line(lines):
-    # return [ x for x if x.strip()]
 
 
 def split_penjelasan(lines):
@@ -209,18 +213,103 @@ def preprocess(lines):
     return [line.strip() for line in lines if line.strip() != ""]
 
 
+def addMetadata(g: Graph, data, fn):
+    b = BNode()
+    g.add((fn, u('hasMetadata'), b))
+    g.add((b, RDF.type, u('metadata')))
+    g.add((b, u('hasValue'), Literal(data['metadata'])))
+
+
+def generate_pasal(g: Graph, pasalNumber, pasalContents):
+    # print(pasalNumber)
+    # print(type(pasalContents))
+    # if type(pasalContents) == dict:
+    #     print(pasalContents.keys())
+    # print()
+    content = "\n".join(pasalContents)
+    b = BNode()
+    g.add((b, RDF.type, u('pasal')))
+    g.add((b, u('hasPasalName'), Literal(pasalNumber)))
+    g.add((b, u('hasPasalContent'), Literal("pasalcontent")))
+    # g.add((b, u('hasPasalContent'), Literal(content)))
+    return b
+
+
+def generate_isi_bab(g: Graph, isi):
+    b = BNode()
+    if set(isi.keys()) == {"bagian"}:
+        bagians = isi['bagian']
+        generatedBagians = [generate_bagian(g, bab) for bab in bagians]
+        Collection(g, b, generatedBagians)
+    elif set(isi.keys()) == {"paragraf"}:
+        return
+        # bagians = isi['paragraf']
+        # generatedBagians = [generate_(g, bab) for bab in bagians]
+    # if isi is pasal
+    else:
+        for key, value in isi.items():
+            g.add((b, u('hasPasal'), generate_pasal(g, key, value)))
+
+    return b
+
+
+def generate_bagian(g: Graph, bagian):
+    b = BNode()
+    g.add((b, RDF.type, u('bagian')))
+    g.add((b, u('hasKey'), Literal(bagian['key'])))
+    g.add((b, u('hasJudul'), Literal(bagian['judul'])))
+    print(bagian['key'])
+    isi = bagian['isi']
+    if set(isi.keys()) == {"paragraf"}:
+        None
+    else:
+        for key, value in isi.items():
+            g.add((b, u('hasPasal'), generate_pasal(g, key, value)))
+    return b
+
+
+def generateBab(g, bab):
+    b = BNode()
+    g.add((b, RDF.type, u('bab')))
+    g.add((b, u('hasKey'), Literal(bab['key'])))
+    g.add((b, u('hasJudul'), Literal(bab['judul'])))
+    g.add((b, u('hasIsi'), generate_isi_bab(g, bab['isi'])))
+    return b
+
+
+def addBab(g: Graph, data, fn):
+    b = BNode()
+    g.add((fn, u('hasBab'), b))
+    g.add((b, RDF.type, u('babs')))
+    babs = data['bab']
+    generatedBabs = [generateBab(g, bab) for bab in babs]
+    Collection(g, b, generatedBabs)
+    # g.add((mid, u('hasValue'), Literal(data['metadata'])))
+
+
+def u(string):
+    return URIRef('X:{}'.format(string))
+
+
 def process(filename):
     pages = fitz.open('{}.pdf'.format(filename))
     content = extract_text(filename, pages).splitlines()
     content = preprocess(content)
-    main, pengesahan, penjelasan = split_penjelasan(content)
+    main, _, __ = split_penjelasan(content)
     structured = split_babs(main)
     write_dict(filename, structured)
+    g = Graph()
+    fn = u(filename)
+    g.add((fn, RDF.type, u('Peraturan')))
+    addMetadata(g, structured, fn)
+    addBab(g, structured, fn)
+    g.serialize(
+        destination='extracted/{}.ttl'.format(filename),
+        format='turtle',
+    )
 
 
 if __name__ == "__main__":
     for filename in ['UU13-2003', 'PERGUB33-2020']:
         process(filename)
-    # g = Graph()
     # raw_to_structured(g, content)
-    # print(g.serialize(format="turtle").decode("utf-8"))

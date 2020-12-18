@@ -1,7 +1,7 @@
 {
   "metadata": "UNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 13 TAHUN 2003\nTENTANG\nKETENAGAKERJAAN\nDENGAN RAHMAT TUHAN YANG MAHA ESA\nPresiden Republik Indonesia,\nMenimbang :\na. bahwa\npembangunan\nnasional\ndilaksanakan\ndalam\nrangka\npembangunan manusia Indonesia seutuhnya dan pembangunan\nmasyarakat Indonesia seluruhnya untuk mewujudkan masyarakat\nyang sejahtera, adil, makmur, yang merata, baik materiil maupun\nspiritual berdasarkan Pancasila dan Undang Undang Dasar Negara\nRepublik Indonesia Tahun 1945;\nb. bahwa dalam pelaksanaan pembangunan nasional, tenaga kerja\nmempunyai peranan dan kedudukan yang sangat penting sebagai\npelaku dan tujuan pembangunan;\nc. bahwa sesuai dengan peranan dan kedudukan tenaga kerja,\ndiperlukan pembangunan ketenagakerjaan untuk meningkatkan\nkualitas tenaga kerja dan peransertanya dalam pembangunan serta\npeningkatan perlindungan tenaga kerja dan keluarganya sesuai\ndengan harkat dan martabat kemanusiaan;\nd. bahwa perlindungan terhadap tenaga kerja dimaksudkan untuk\nmenjamin hak hak dasar pekerja/buruh dan menjamin kesamaan\nkesempatan serta perlakuan tanpa diskriminasi atas dasar apapun\nuntuk mewujudkan kesejahteraan pekerja/buruh dan keluarganya\ndengan tetap memperhatikan perkembangan kemajuan dunia\nusaha;\ne. bahwa beberapa undang undang di bidang ketenagakerjaan\ndipandang sudah tidak sesuai lagi dengan kebutuhan dan tuntutan\npembangunan ketenagakerjaan, oleh karena itu perlu dicabut\ndan/atau ditarik kembali;\nf.\nbahwa berdasarkan pertimbangan sebagaimana tersebut pada huruf\na, b, c, d, dan e perlu membentuk Undang undang tentang\nKetenagakerjaan;\nMengingat :\nPasal 5 ayat (1), Pasal 20 ayat (2), Pasal 27 ayat (2), Pasal 28, dan Pasal 33\nayat (1) Undang Undang Dasar Negara Republik Indonesia Tahun 1945;\nDengan persetujuan bersama antara\nDEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA\nDAN\nPRESIDEN REPUBLIK INDONESIA\nMEMUTUSKAN :\nMenetapkan\n:\nUNDANG-UNDANG TENTANG KETENAGAKERJAAN.\n",
-  "bab": {
-    "1": {
+  "bab": [
+    {
       "key": "BAB I",
       "judul": "KETENTUAN UMUM",
       "isi": {
@@ -151,7 +151,7 @@
         ]
       }
     },
-    "2": {
+    {
       "key": "BAB II",
       "judul": "LANDASAN, ASAS, DAN TUJUAN",
       "isi": {
@@ -177,7 +177,7 @@
         ]
       }
     },
-    "3": {
+    {
       "key": "BAB III",
       "judul": "KESEMPATAN DAN PERLAKUAN YANG SAMA",
       "isi": {
@@ -191,7 +191,7 @@
         ]
       }
     },
-    "4": {
+    {
       "key": "BAB IV",
       "judul": "PERENCANAAN TENAGA KERJA DAN\nINFORMASI KETENAGAKERJAAN",
       "isi": {
@@ -240,7 +240,7 @@
         }
       }
     },
-    "5": {
+    {
       "key": "BAB V",
       "judul": "PELATIHAN KERJA",
       "isi": {
@@ -544,7 +544,7 @@
         }
       }
     },
-    "6": {
+    {
       "key": "BAB VI",
       "judul": "PENEMPATAN TENAGA KERJA",
       "isi": {
@@ -650,7 +650,7 @@
         }
       }
     },
-    "7": {
+    {
       "key": "BAB VII",
       "judul": "PERLUASAN KESEMPATAN KERJA",
       "isi": {
@@ -712,7 +712,7 @@
         }
       }
     },
-    "8": {
+    {
       "key": "BAB VIII",
       "judul": "PENGGUNAAN TENAGA KERJA ASING",
       "isi": {
@@ -845,7 +845,7 @@
         ]
       }
     },
-    "9": {
+    {
       "key": "BAB IX",
       "judul": "HUBUNGAN KERJA",
       "isi": {
@@ -1175,17 +1175,17 @@
         }
       }
     },
-    "10": {
+    {
       "key": "BAB X",
       "judul": "PERLINDUNGAN, PENGUPAHAN, DAN\nKESEJAHTERAAN",
       "isi": {
-        "bagian": {
-          "1": {
+        "bagian": [
+          {
             "key": "Bagian Kesatu",
             "judul": "Perlindungan",
             "isi": {
-              "paragraf": {
-                "1": {
+              "paragraf": [
+                {
                   "key": "Paragraf 1",
                   "judul": "Penyandang Cacat",
                   "isi": {
@@ -1203,7 +1203,7 @@
                     }
                   }
                 },
-                "2": {
+                {
                   "key": "Paragraf 2",
                   "judul": "Anak",
                   "isi": {
@@ -1318,7 +1318,7 @@
                     }
                   }
                 },
-                "3": {
+                {
                   "key": "Paragraf 3",
                   "judul": "Perempuan",
                   "isi": {
@@ -1350,7 +1350,7 @@
                     }
                   }
                 },
-                "4": {
+                {
                   "key": "Paragraf 4",
                   "judul": "Waktu Kerja",
                   "isi": {
@@ -1498,7 +1498,7 @@
                     }
                   }
                 },
-                "5": {
+                {
                   "key": "Paragraf 5",
                   "judul": "Keselamatan dan Kesehatan Kerja",
                   "isi": {
@@ -1534,10 +1534,10 @@
                     }
                   }
                 }
-              }
+              ]
             }
           },
-          "2": {
+          {
             "key": "Bagian Kedua",
             "judul": "Pengupahan.",
             "isi": {
@@ -1757,7 +1757,7 @@
               }
             }
           },
-          "3": {
+          {
             "key": "Bagian Ketiga",
             "judul": "Kesejahteraan",
             "isi": {
@@ -1812,15 +1812,15 @@
               }
             }
           }
-        }
+        ]
       }
     },
-    "11": {
+    {
       "key": "BAB XI",
       "judul": "HUBUNGAN INDUSTRIAL",
       "isi": {
-        "bagian": {
-          "1": {
+        "bagian": [
+          {
             "key": "Bagian Kesatu",
             "judul": "Umum",
             "isi": {
@@ -1866,7 +1866,7 @@
               ]
             }
           },
-          "2": {
+          {
             "key": "Bagian Kedua",
             "judul": "Serikat Pekerja/Serikat Buruh",
             "isi": {
@@ -1889,7 +1889,7 @@
               }
             }
           },
-          "3": {
+          {
             "key": "Bagian Ketiga",
             "judul": "Organisasi Pengusaha",
             "isi": {
@@ -1906,7 +1906,7 @@
               }
             }
           },
-          "4": {
+          {
             "key": "Bagian Keempat",
             "judul": "Lembaga Kerja Sama Bipartit",
             "isi": {
@@ -1933,7 +1933,7 @@
               }
             }
           },
-          "5": {
+          {
             "key": "Bagian Kelima",
             "judul": "Lembaga Kerja Sama Tripartit",
             "isi": {
@@ -1960,7 +1960,7 @@
               }
             }
           },
-          "6": {
+          {
             "key": "Bagian Keenam",
             "judul": "Peraturan Perusahaan",
             "isi": {
@@ -2073,7 +2073,7 @@
               ]
             }
           },
-          "7": {
+          {
             "key": "Bagian Ketujuh",
             "judul": "Perjanjian Kerja Bersama",
             "isi": {
@@ -2331,15 +2331,262 @@
               ]
             }
           },
-          "8": {
+          {
             "key": "Bagian Kedelapan",
-            "judul": "Lembaga Penyelesaian Perselisihan",
-            "isi": null
+            "judul": "Lembaga Penyelesaian Perselisihan\nHubungan Industrial",
+            "isi": {
+              "paragraf": [
+                {
+                  "key": "Paragraf 1",
+                  "judul": "Perselisihan Hubungan Industrial",
+                  "isi": {
+                    "Pasal 136": {
+                      "ayat": {
+                        "(1)": [
+                          " tidak tercapai, maka pengusaha dan pekerja/ buruh atau serikat pekerja/serikat buruh",
+                          "menyelesaikan perselisihan hubungan industrial melalui prosedur penyelesaian perselisihan",
+                          "hubungan industrial yang diatur dengan undang-undang."
+                        ],
+                        "(2)": [
+                          " Dalam hal penyelesaian secara musyawarah untuk mufakat sebagaimana dimaksud dalam ayat"
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "key": "Paragraf 2",
+                  "judul": "Mogok Kerja",
+                  "isi": {
+                    "Pasal 137": [
+                      "Mogok kerja sebagai hak dasar pekerja/buruh dan serikat pekerja/serikat buruh dilakukan secara",
+                      "sah, tertib, dan damai sebagai akibat gagalnya perundingan."
+                    ],
+                    "Pasal 138": {
+                      "ayat": {
+                        "(1)": [
+                          " Pekerja/buruh dan/atau serikat pekerja/serikat buruh yang bermaksud mengajak pekerja/buruh",
+                          "lain untuk mogok kerja pada saat mogok kerja berlangsung dilakukan dengan tidak melanggar",
+                          "hukum."
+                        ],
+                        "(2)": [
+                          " Pekerja/buruh yang diajak mogok kerja sebagaimana dimaksud dalam ayat (1), dapat memenuhi",
+                          "atau tidak memenuhi ajakan tersebut."
+                        ]
+                      }
+                    },
+                    "Pasal 139": [
+                      "Pelaksanaan mogok kerja bagi pekerja/buruh yang bekerja pada perusahaan yang melayani",
+                      "kepentingan umum dan/atau perusahaan yang jenis kegiatan-nya membahayakan keselamatan",
+                      "jiwa manusia diatur sedemikian rupa sehingga tidak mengganggu kepentingan umum dan/atau",
+                      "membahayakan keselamatan orang lain."
+                    ],
+                    "Pasal 140": {
+                      "ayat": {
+                        "(1)": [
+                          " Sekurang-kurangnya dalam waktu 7 (tujuh) hari kerja sebelum mogok kerja dilaksanakan,",
+                          "pekerja/buruh dan serikat pekerja/serikat buruh wajib memberitahukan secara tertulis kepada",
+                          "pengusaha dan instansi yang bertanggung jawab di bidang ketenagakerjaan setempat."
+                        ],
+                        "(2)": [
+                          " Pemberitahuan sebagaimana dimaksud dalam ayat (1) sekurang-kurangnya memuat :",
+                          "a.",
+                          "waktu (hari, tanggal, dan jam) dimulai dan diakhiri mogok kerja;",
+                          "b.",
+                          "tempat mogok kerja;",
+                          "c.",
+                          "alasan dan sebab-sebab mengapa harus melakukan mogok kerja; dan",
+                          "d.",
+                          "tanda tangan ketua dan sekretaris dan/atau masing-masing ketua dan sekretaris serikat",
+                          "pekerja/serikat buruh sebagai penanggung jawab mogok kerja."
+                        ],
+                        "(3)": [
+                          " Dalam hal mogok kerja akan dilakukan oleh pekerja/buruh yang tidak menjadi anggota serikat",
+                          "pekerja/ serikat buruh, maka pemberitahuan sebagaimana dimaksud dalam ayat (2)",
+                          "ditandatangani oleh perwakilan pekerja/buruh yang ditunjuk sebagai koordinator dan/atau",
+                          "penanggung jawab mogok kerja."
+                        ],
+                        "(4)": [
+                          " Dalam hal mogok kerja dilakukan tidak sebagaimana dimaksud dalam ayat (1), maka demi",
+                          "menyelamat kan alat produksi dan aset perusahaan, pengusaha dapat mengambil tindakan",
+                          "sementara dengan cara :",
+                          "a. melarang para pekerja/buruh yang mogok kerja berada di lokasi kegiatan proses produksi;",
+                          "atau",
+                          "b. bila dianggap perlu melarang pekerja/buruh yang mogok kerja berada di lokasi perusahaan."
+                        ]
+                      }
+                    },
+                    "Pasal 141": {
+                      "ayat": {
+                        "(1)": [
+                          " Instansi pemerintah dan pihak perusahaan yang menerima surat pemberitahuan mogok kerja",
+                          "sebagaimana dimaksud dalam Pasal 140 wajib memberikan tanda terima."
+                        ],
+                        "(2)": [
+                          " Sebelum dan selama mogok kerja berlangsung, instansi yang bertanggung jawab di bidang",
+                          "ketenagakerjaan wajib menyelesaikan masalah yang menyebabkan timbulnya pemogokan",
+                          "dengan mempertemukan dan merundingkannya dengan para pihak yang berselisih."
+                        ],
+                        "(3)": [
+                          " Dalam hal perundingan sebagaimana dimaksud dalam ayat (2) menghasilkan kesepakatan, maka",
+                          "harus dibuatkan perjanjian bersama yang ditandatangani oleh para pihak dan pegawai dari",
+                          "instansi yang bertanggung jawab di bidang ketenagakerjaan sebagai saksi."
+                        ],
+                        "(4)": [
+                          " Dalam hal perundingan sebagaimana dimaksud dalam ayat (2) tidak menghasilkan kesepakatan,",
+                          "maka pegawai dari instansi yang bertanggung jawab di bidang ketenagakerjaan segera",
+                          "menyerahkan masalah yang menyebabkan terjadinya mogok kerja kepada lembaga",
+                          "penyelesaian perselisihan hubungan industrial yang berwenang."
+                        ],
+                        "(5)": [
+                          " Dalam hal perundingan tidak menghasilkan kesepakatan sebagaimana dimaksud dalam ayat (4),",
+                          "maka atas dasar perundingan antara pengusaha dengan serikat pekerja/serikat buruh atau",
+                          "penanggung jawab mogok kerja, mogok kerja dapat diteruskan atau dihentikan untuk sementara",
+                          "atau dihentikan sama sekali."
+                        ]
+                      }
+                    },
+                    "Pasal 142": {
+                      "ayat": {
+                        "(1)": [
+                          " Mogok kerja yang dilakukan tidak memenuhi ketentuan sebagaimana dimaksud dalam Pasal 139",
+                          "dan Pa-sal 140 adalah mogok kerja tidak sah."
+                        ],
+                        "(2)": [
+                          " Akibat hukum dari mogok kerja yang tidak sah sebagaimana dimaksud dalam ayat (1) akan diatur",
+                          "dengan Keputusan Menteri."
+                        ]
+                      }
+                    },
+                    "Pasal 143": {
+                      "ayat": {
+                        "(1)": [
+                          " Siapapun tidak dapat menghalang-halangi pekerja/buruh dan serikat pekerja/serikat buruh untuk",
+                          "mengguna kan hak mogok kerja yang dilakukan secara sah, tertib, dan damai."
+                        ],
+                        "(2)": [
+                          " Siapapun dilarang melakukan penangkapan dan/atau penahanan terhadap pekerja/buruh dan",
+                          "pengurus serikat pekerja/serikat buruh yang melakukan mogok kerja secara sah, tertib, dan",
+                          "damai sesuai dengan peraturan perundang-undangan yang berlaku."
+                        ]
+                      }
+                    },
+                    "Pasal 144": [
+                      "Terhadap mogok kerja yang dilakukan sesuai dengan ketentuan sebagaimana dimaksud dalam",
+                      "Pasal 140, pengusaha dilarang :",
+                      "a.",
+                      "mengganti pekerja/buruh yang mogok kerja dengan pekerja/buruh lain dari luar",
+                      "perusahaan; atau",
+                      "b.",
+                      "memberikan sanksi atau tindakan balasan dalam bentuk apapun kepada pekerja/buruh",
+                      "dan pengurus serikat pekerja/serikat buruh selama dan sesudah melakukan mogok kerja."
+                    ],
+                    "Pasal 145": [
+                      "Dalam hal pekerja/buruh yang melakukan mogok kerja secara sah dalam melakukan tuntutan",
+                      "hak normatif yang sungguh-sungguh dilanggar oleh pengusaha, pekerja/buruh berhak",
+                      "mendapatkan upah."
+                    ]
+                  }
+                },
+                {
+                  "key": "Paragraf 3",
+                  "judul": "Penutupan Perusahaan (lock-out)",
+                  "isi": {
+                    "Pasal 146": {
+                      "ayat": {
+                        "(1)": [
+                          " Penutupan perusahaan (lock out) merupakan hak dasar pengusaha untuk menolak pekerja/buruh",
+                          "sebagian atau seluruhnya untuk menjalankan pekerjaan sebagai akibat gagalnya perundingan."
+                        ],
+                        "(2)": [
+                          " Pengusaha tidak dibenarkan melakukan penutupan perusahaan (lock out) sebagai tindakan",
+                          "balasan sehubungan adanya tuntutan normatif dari pekerja/buruh dan/atau serikat pekerja/serikat",
+                          "buruh."
+                        ],
+                        "(3)": [
+                          " Tindakan penutupan perusahaan (lock out) harus dilakukan sesuai dengan ketentuan hukum yang",
+                          "berlaku."
+                        ]
+                      }
+                    },
+                    "Pasal 147": [
+                      "Penutupan perusahaan (lock out) dilarang dilakukan pada perusahaan-perusahaan yang",
+                      "melayani kepentingan umum dan/atau jenis kegiatan yang membahayakan keselamatan jiwa",
+                      "manusia, meliputi rumah sakit, pelayanan jaringan air bersih, pusat pengendali telekomunikasi,",
+                      "pusat penyedia tenaga listrik, pengolahan minyak dan gas bumi, serta kereta api."
+                    ],
+                    "Pasal 148": {
+                      "ayat": {
+                        "(1)": [
+                          " Pengusaha wajib memberitahukan secara tertulis kepada pekerja/buruh dan/atau serikat",
+                          "pekerja/serikat buruh, serta instansi yang bertanggung jawab di bidang ketenagakerjaan",
+                          "setempat sekurang-kurangnya 7 (tujuh) hari kerja sebelum penutupan perusahaan (lock out)",
+                          "dilaksanakan."
+                        ],
+                        "(2)": [
+                          " Pemberitahuan sebagaimana dimaksud dalam ayat (1) sekurang-kurangnya memuat :",
+                          "a. waktu (hari, tanggal, dan jam) dimulai dan diakhiri penutupan perusahaan (lock out); dan",
+                          "b. alasan dan sebab-sebab melakukan penutupan perusahaan (lock out)."
+                        ],
+                        "(3)": [
+                          " Pemberitahuan sebagaimana dimaksud dalam ayat (1) ditandatangani oleh pengusaha dan/atau",
+                          "pimpinan perusahaan yang bersangkutan."
+                        ]
+                      }
+                    },
+                    "Pasal 149": {
+                      "ayat": {
+                        "(1)": [
+                          " Pekerja/buruh atau serikat pekerja/serikat buruh dan instansi yang bertanggung jawab di bidang",
+                          "ketenaga-kerjaan yang menerima secara langsung surat pemberitahuan penutupan perusahaan",
+                          "(lock out) sebagaimana dimaksud dalam Pasal 148 harus memberikan tanda bukti penerimaan",
+                          "dengan mencantumkan hari, tanggal, dan jam penerimaan."
+                        ],
+                        "(2)": [
+                          " Sebelum dan selama penutupan perusahaan (lock out) berlangsung, instansi yang bertanggung",
+                          "jawab di bidang ketenagakerjaan berwenang langsung menyelesaikan masalah yang",
+                          "menyebabkan timbulnya penutupan perusahaan (lock out) dengan mempertemukan dan",
+                          "merundingkannya dengan para pihak yang berselisih."
+                        ],
+                        "(3)": [
+                          " Dalam hal perundingan sebagaimana dimaksud dalam ayat (2) menghasilkan kesepakatan, maka",
+                          "harus dibuat perjanjian bersama yang ditandatangani oleh para pihak dan pegawai dari instansi",
+                          "yang bertanggung jawab di bidang ketenagakerjaan sebagai saksi."
+                        ],
+                        "(4)": [
+                          " Dalam hal perundingan sebagaimana dimaksud dalam ayat (2) tidak menghasilkan kesepakatan,",
+                          "maka pegawai dari instansi yang bertanggung jawab di bidang ketenagakerjaan segera",
+                          "menyerahkan masalah yang menyebabkan terjadinya penutupan perusahaan (lock out) kepada",
+                          "lembaga penyelesaian perselisihan hubungan industrial."
+                        ],
+                        "(5)": [
+                          " Apabila perundingan tidak menghasilkan kesepakatan sebagaimana dimaksud dalam ayat (4),",
+                          "maka atas dasar perundingan antara pengusaha dan serikat pekerja/serikat buruh, penutupan",
+                          "perusahaan (lock out) dapat diteruskan atau dihentikan untuk sementara atau dihentikan sama",
+                          "sekali."
+                        ],
+                        "(6)": [
+                          " Pemberitahuan sebagaimana dimaksud dalam Pasal 148 ayat (1) dan ayat (2) tidak diperlukan",
+                          "apabila :",
+                          "a.",
+                          "pekerja/buruh atau serikat pekerja/serikat buruh melanggar prosedur mogok kerja",
+                          "sebagaimana dimaksud dalam Pasal 140;",
+                          "b.",
+                          "pekerja/buruh atau serikat pekerja/serikat buruh melanggar ketentuan normatif yang",
+                          "ditentukan dalam perjanjian kerja, peraturan perusahaan, perjanjian kerja bersama, atau",
+                          "peraturan perundang-undangan yang berlaku."
+                        ]
+                      }
+                    }
+                  }
+                }
+              ]
+            }
           }
-        }
+        ]
       }
     },
-    "12": {
+    {
       "key": "BAB XII",
       "judul": "PEMUTUSAN HUBUNGAN KERJA",
       "isi": {
@@ -2885,7 +3132,7 @@
         ]
       }
     },
-    "13": {
+    {
       "key": "BAB XIII",
       "judul": "PEMBINAAN",
       "isi": {
@@ -2924,7 +3171,7 @@
         }
       }
     },
-    "14": {
+    {
       "key": "BAB XIV",
       "judul": "PENGAWASAN",
       "isi": {
@@ -2976,7 +3223,7 @@
         ]
       }
     },
-    "15": {
+    {
       "key": "BAB XV",
       "judul": "PENYIDIKAN",
       "isi": {
@@ -3019,12 +3266,12 @@
         }
       }
     },
-    "16": {
+    {
       "key": "BAB XVI",
       "judul": "KETENTUAN PIDANA DAN\nSANKSI ADMINISTRATIF",
       "isi": {
-        "bagian": {
-          "1": {
+        "bagian": [
+          {
             "key": "Bagian Pertama",
             "judul": "Ketentuan Pidana",
             "isi": {
@@ -3118,7 +3365,7 @@
               ]
             }
           },
-          "2": {
+          {
             "key": "Bagian Kedua",
             "judul": "Sanksi Administratif",
             "isi": {
@@ -3149,10 +3396,10 @@
               }
             }
           }
-        }
+        ]
       }
     },
-    "17": {
+    {
       "key": "BAB XVII",
       "judul": "KETENTUAN PERALIHAN",
       "isi": {
@@ -3163,7 +3410,7 @@
         ]
       }
     },
-    "18": {
+    {
       "key": "BAB XVIII",
       "judul": "KETENTUAN PENUTUP",
       "isi": {
@@ -3227,19 +3474,9 @@
         "Pasal 193": [
           "Undang undang ini mulai berlaku pada tanggal diundangkan.",
           "Agar setiap orang mengetahuinya, memerintahkan pengundangan undang undang ini dengan",
-          "penempatannya dalam Lembaran Negara Republik Indonesia.",
-          "Disahkan di Jakarta",
-          "pada tanggal 25 Maret 2003",
-          "PRESIDEN REPUBLIK INDONESIA,",
-          "ttd",
-          "MEGAWATI SOEKARNOPUTRI",
-          "Diundangkan di Jakarta",
-          "pada tanggal 25 Maret 2003",
-          "SEKRETARIS NEGARA REPUBLIK INDONESIA,",
-          "BAMBANG KESOWO",
-          "LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2003 NOMOR 39"
+          "penempatannya dalam Lembaran Negara Republik Indonesia."
         ]
       }
     }
-  }
+  ]
 }
