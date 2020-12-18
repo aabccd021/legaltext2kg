@@ -24,7 +24,7 @@ def split_ayat(lines):
         return lines
     content = {}
     for line in lines:
-        regex = "^\([0-9]*\)"
+        regex = r'^\([0-9]*\)'
         match = re.findall(regex, line)
         if len(match) == 1:
             current_ayat_key = match[0]
@@ -120,12 +120,13 @@ def split_babs(content):
     babs = dict()
     last_bab = "PEMBUKAAN"
     current_bab_content = ""
-    for line in content.splitlines():
-        if line.startswith("BAB "):
+    for line in content:
+        if line.startswith("BAB ") or line.startswith("P E N"):
             babs[last_bab] = current_bab_content
             current_bab_content = ""
             last_bab = line
         current_bab_content += line + "\n"
+    babs[last_bab] = current_bab_content
 
     content = {
         "metadata": "",
@@ -164,11 +165,31 @@ def write_dict(filename, dictionary):
     # return [ x for x if x.strip()]
 
 
+def split_penjelasan(lines):
+    main = []
+    penjelasan = []
+    ispenjelasan = False
+    for line in lines:
+        if line.startswith("P E N J E L A S A N"):
+            ispenjelasan = True
+        if ispenjelasan:
+            penjelasan.append(line)
+        else:
+            main.append(line)
+    return main, penjelasan
+
+
+def preprocess(lines):
+    return [line for line in lines if line.strip() != ""]
+
+
 if __name__ == "__main__":
     filename = 'UU13-2003'
     pages = fitz.open('{}.pdf'.format(filename))
-    content = extract_text(filename, pages)
-    structured = split_babs(content)
+    content = extract_text(filename, pages).splitlines()
+    # content = preprocess(content)
+    main, penjelasan = split_penjelasan(content)
+    structured = split_babs(main)
     write_dict(filename, structured)
 
     # g = Graph()
