@@ -187,7 +187,7 @@ if __name__ == "__main__":
     filename = 'UU13-2003'
     pages = fitz.open('{}.pdf'.format(filename))
     content = extract_text(filename, pages).splitlines()
-    # content = preprocess(content)
+    content = preprocess(content)
     main, penjelasan = split_penjelasan(content)
     structured = split_babs(main)
     write_dict(filename, structured)
