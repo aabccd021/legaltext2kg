@@ -18,6 +18,24 @@ def raw_to_structured(g, content: str):
     return
 
 
+def split_element(lines):
+    lines = [line.strip() for line in lines]
+    if lines[0].startswith('(1)'):
+        return lines
+    content = {}
+    for line in lines:
+        regex = r'^\([0-9]*\)'
+        match = re.findall(regex, line)
+        if len(match) == 1:
+            current_ayat_key = match[0]
+            content[current_ayat_key] = []
+            line = re.sub(regex, "", line)
+        elif len(match) > 1:
+            raise Exception()
+        content[current_ayat_key].append(line)
+    return {'ayat': content}
+
+
 def split_ayat(lines):
     lines = [line.strip() for line in lines]
     if not lines[0].startswith('(1)'):
@@ -180,7 +198,7 @@ def split_penjelasan(lines):
 
 
 def preprocess(lines):
-    return [line for line in lines if line.strip() != ""]
+    return [line.strip() for line in lines if line.strip() != ""]
 
 
 if __name__ == "__main__":
