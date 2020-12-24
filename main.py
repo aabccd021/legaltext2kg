@@ -4,6 +4,7 @@ import json
 import re
 import uuid
 
+from collections.abc import Mapping
 from rdflib import Literal, Graph, RDF, URIRef, BNode
 from rdflib.collection import Collection
 
@@ -218,18 +219,31 @@ def addMetadata(g: Graph, data, fn):
     g.add((b, u('hasValue'), Literal(data['metadata'])))
 
 
+def generate_ayat(g: Graph, ayatKey, ayatValArrray):
+    b = BNode()
+    g.add((b, RDF.type, u('ayat')))
+    g.add((b, u('hasAyatNumber'), Literal(ayatKey)))
+    Collection(g, b, [Literal(x) for x in ayatValArrray])
+    return b
+
+
+def generate_ayats(g: Graph, ayat: dict):
+    b = BNode()
+    for ayatKey, ayatValArray in ayat.items():
+        ayat = generate_ayat(g, ayatKey, ayatValArray)
+        g.add((b, u('hasAyat'), ayat))
+    return b
+
+
 def generate_pasal(g: Graph, pasalNumber, pasalContents):
-    # print(pasalNumber)
-    # print(type(pasalContents))
-    # if type(pasalContents) == dict:
-    #     print(pasalContents.keys())
-    # print()
-    content = "\n".join(pasalContents)
     b = BNode()
     g.add((b, RDF.type, u('pasal')))
     g.add((b, u('hasPasalName'), Literal(pasalNumber)))
-    g.add((b, u('hasPasalContent'), Literal("pasalcontent")))
-    g.add((b, u('hasPasalContent'), Literal(content)))
+    if isinstance(pasalContents, Mapping):
+        content = generate_ayats(g, pasalContents['ayat'])
+        g.add((b, u('hasPasalContent'), content))
+    else:
+        Collection(g, b, [Literal(x) for x in pasalContents])
     return b
 
 
