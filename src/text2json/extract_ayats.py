@@ -69,4 +69,5 @@ def extract_prefixed_keys(strs: List[List[str]], regex: str) -> Tuple[List[str],
     keys = [re.findall(regex, x[0])[0] for x in strs]
     contents = [[re.sub(regex, "", x[0]).strip()] + x[1:]
                 for x in strs]
+    contents = [[z for z in x if z != ""] for x in contents]
     return keys, contents

@@ -1612,57 +1612,81 @@
           "key": "Pasal 1",
           "isi": {
             "description": [
-              "Dalam undang undang ini yang dimaksud dengan :",
-              "1.",
-              "Ketenagakerjaan adalah segala hal yang berhubungan dengan tenaga kerja pada waktu",
-              "sebelum, selama, dan sesudah masa kerja.",
-              "2.",
-              "Tenaga kerja adalah setiap orang yang mampu melakukan pekerjaan guna",
-              "menghasilkan barang dan/atau jasa baik untuk memenuhi kebutuhan sendiri maupun untuk",
-              "masyarakat.",
-              "3.",
-              "Pekerja/buruh adalah setiap orang yang bekerja dengan menerima upah atau imbalan",
-              "dalam bentuk lain.",
-              "4.",
-              "Pemberi kerja adalah orang perseorangan, pengusaha, badan hukum, atau badan-badan",
-              "lainnya yang mempekerjakan tenaga kerja dengan membayar upah atau imbalan dalam bentuk",
-              "lain.",
-              "5.",
-              "Pengusaha adalah :"
+              "Dalam undang undang ini yang dimaksud dengan :"
             ],
             "isi": [
               {
-                "key": "a.",
+                "key": "1.",
                 "isi": [
-                  "",
-                  "orang perseorangan, persekutuan, atau badan hukum yang menjalankan suatu",
-                  "perusahaan milik sendiri;"
+                  "Ketenagakerjaan adalah segala hal yang berhubungan dengan tenaga kerja pada waktu",
+                  "sebelum, selama, dan sesudah masa kerja."
                 ]
               },
               {
-                "key": "b.",
+                "key": "2.",
                 "isi": [
-                  "",
-                  "orang perseorangan, persekutuan, atau badan hukum yang secara berdiri sendiri",
-                  "menjalankan perusahaan bukan miliknya;"
+                  "Tenaga kerja adalah setiap orang yang mampu melakukan pekerjaan guna",
+                  "menghasilkan barang dan/atau jasa baik untuk memenuhi kebutuhan sendiri maupun untuk",
+                  "masyarakat."
                 ]
               },
               {
-                "key": "c.",
+                "key": "3.",
+                "isi": [
+                  "Pekerja/buruh adalah setiap orang yang bekerja dengan menerima upah atau imbalan",
+                  "dalam bentuk lain."
+                ]
+              },
+              {
+                "key": "4.",
+                "isi": [
+                  "Pemberi kerja adalah orang perseorangan, pengusaha, badan hukum, atau badan-badan",
+                  "lainnya yang mempekerjakan tenaga kerja dengan membayar upah atau imbalan dalam bentuk",
+                  "lain."
+                ]
+              },
+              {
+                "key": "5.",
                 "isi": {
                   "description": [
-                    "",
-                    "orang perseorangan, persekutuan, atau badan hukum yang berada di Indonesia mewakili",
-                    "perusahaan sebagaimana dimaksud dalam huruf a dan b yang berkedudukan di luar wilayah",
-                    "Indonesia.",
-                    "6.",
+                    "Pengusaha adalah :"
+                  ],
+                  "isi": [
+                    {
+                      "key": "a.",
+                      "isi": [
+                        "orang perseorangan, persekutuan, atau badan hukum yang menjalankan suatu",
+                        "perusahaan milik sendiri;"
+                      ]
+                    },
+                    {
+                      "key": "b.",
+                      "isi": [
+                        "orang perseorangan, persekutuan, atau badan hukum yang secara berdiri sendiri",
+                        "menjalankan perusahaan bukan miliknya;"
+                      ]
+                    },
+                    {
+                      "key": "c.",
+                      "isi": [
+                        "orang perseorangan, persekutuan, atau badan hukum yang berada di Indonesia mewakili",
+                        "perusahaan sebagaimana dimaksud dalam huruf a dan b yang berkedudukan di luar wilayah",
+                        "Indonesia."
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "6.",
+                "isi": {
+                  "description": [
                     "Perusahaan adalah :"
                   ],
                   "isi": [
                     {
                       "key": "a.",
                       "isi": [
-                        "",
                         "setiap bentuk usaha yang berbadan hukum atau tidak, milik orang perseorangan, milik",
                         "persekutuan, atau milik badan hukum, baik milik swasta maupun milik negara yang",
                         "mempekerjakan pekerja/buruh dengan membayar upah atau imbalan dalam bentuk lain;"
@@ -1671,119 +1695,226 @@
                     {
                       "key": "b.",
                       "isi": [
-                        "",
                         "usaha-usaha sosial dan usaha-usaha lain yang mempunyai pengurus dan",
-                        "mempekerjakan orang lain dengan membayar upah atau imbalan dalam bentuk lain.",
-                        "7.",
-                        "Perencanaan tenaga kerja adalah proses penyusunan rencana ketenagakerjaan secara",
-                        "sistematis yang dijadikan dasar dan acuan dalam penyusunan kebijakan, strategi, dan",
-                        "pelaksanaan program pembangunan ketenagakerjaan yang berkesinambungan.",
-                        "8.",
-                        "Informasi ketenagakerjaan adalah gabungan, rangkaian, dan analisis data yang",
-                        "berbentuk angka yang telah diolah, naskah dan dokumen yang mempunyai arti, nilai dan makna",
-                        "tertentu mengenai ketenagakerjaan.",
-                        "9.",
-                        "Pelatihan kerja adalah keseluruhan kegiatan untuk memberi, memperoleh,",
-                        "meningkatkan, serta mengembangkan kompetensi kerja, produktivitas, disiplin, sikap, dan etos",
-                        "kerja pada tingkat keterampilan dan keahlian tertentu sesuai dengan jenjang dan kualifikasi",
-                        "jabatan atau pekerjaan.",
-                        "10.",
-                        "Kompetensi kerja adalah kemampuan kerja setiap individu yang mencakup aspek",
-                        "pengetahuan, keterampilan, dan sikap kerja yang sesuai dengan standar yang ditetapkan.",
-                        "11.",
-                        "Pemagangan adalah bagian dari sistem pelatihan kerja yang diselenggarakan secara",
-                        "terpadu antara pelatihan di lembaga pelatihan dengan bekerja secara langsung di bawah",
-                        "bimbingan dan pengawasan instruktur atau pekerja/buruh yang lebih berpengalaman, dalam",
-                        "proses produksi barang dan/atau jasa di perusahaan, dalam rangka menguasai keterampilan",
-                        "atau keahlian tertentu.",
-                        "12.",
-                        "Pelayanan penempatan tenaga kerja adalah kegiatan untuk mempertemukan tenaga",
-                        "kerja dengan pemberi kerja, sehingga tenaga kerja dapat memperoleh pekerjaan yang sesuai",
-                        "dengan bakat, minat, dan kemampuannya, dan pemberi kerja dapat memperoleh tenaga kerja",
-                        "yang sesuai dengan kebutuhannya.",
-                        "13.",
-                        "Tenaga kerja asing adalah warga negara asing pemegang visa dengan maksud bekerja",
-                        "di wilayah Indonesia.",
-                        "14.",
-                        "Perjanjian kerja adalah perjanjian antara pekerja/buruh dengan pengusaha atau pemberi",
-                        "kerja yang memuat syarat syarat kerja, hak, dan kewajiban para pihak.",
-                        "15.",
-                        "Hubungan kerja adalah hubungan antara pengusaha dengan pekerja/buruh berdasarkan",
-                        "perjanjian kerja, yang mempunyai unsur pekerjaan, upah, dan perintah.",
-                        "16.",
-                        "Hubungan industrial adalah suatu sistem hubungan yang terbentuk antara para pelaku",
-                        "dalam proses produksi barang dan/atau jasa yang terdiri dari unsur pengusaha, pekerja/buruh,",
-                        "dan pemerintah yang didasarkan pada nilai nilai Pancasila dan Undang Undang Dasar Negara",
-                        "Republik Indonesia Tahun 1945.",
-                        "17.",
-                        "Serikat pekerja/serikat buruh adalah organisasi yang dibentuk dari, oleh, dan untuk",
-                        "pekerja/buruh baik di perusahaan maupun di luar perusahaan, yang bersifat bebas, terbuka,",
-                        "mandiri, demokratis, dan bertanggung jawab guna memperjuangkan, membela serta melindungi",
-                        "hak dan kepentingan pekerja/buruh serta meningkatkan kesejahteraan pekerja/buruh dan",
-                        "keluarganya.",
-                        "18.",
-                        "Lembaga kerja sama bipartit adalah forum komunikasi dan konsultasi mengenai hal-hal",
-                        "yang berkaitan dengan hubungan industrial di satu perusahaan yang anggotanya terdiri dari",
-                        "pengusaha dan serikat pekerja/ serikat buruh yang sudah tercatat instansi yang bertanggung",
-                        "jawab di bidang ketenagakerjaan atau unsur pekerja/buruh.",
-                        "19.",
-                        "Lembaga kerja sama tripartit adalah forum komunikasi, konsultasi dan musyawarah",
-                        "tentang masalah ketenagakerjaan yang anggotanya terdiri dari unsur organisasi pengusaha,",
-                        "serikat pekerja/serikat buruh, dan pemerintah.",
-                        "20.",
-                        "Peraturan perusahaan adalah peraturan yang dibuat secara tertulis oleh pengusaha yang",
-                        "memuat syarat syarat kerja dan tata tertib perusahaan.",
-                        "21.",
-                        "Perjanjian kerja bersama adalah perjanjian yang merupakan hasil perundingan antara",
-                        "serikat pekerja/serikat buruh atau beberapa serikat pekerja/serikat buruh yang tercatat pada",
-                        "instansi yang bertanggung jawab di bidang ketenagakerjaan dengan pengusaha, atau beberapa",
-                        "pengusaha atau perkumpulan pengusaha yang memuat syarat syarat kerja, hak dan kewajiban",
-                        "kedua belah pihak.",
-                        "22.",
-                        "Perselisihan hubungan industrial adalah perbedaan pendapat yang mengakibatkan",
-                        "pertentangan antara pengusaha atau gabungan pengusaha dengan pekerja/buruh atau serikat",
-                        "pekerja/serikat buruh karena adanya perselisihan mengenai hak, perselisihan kepentingan, dan",
-                        "perselisihan pemutusan hubungan kerja serta perselisihan antar serikat pekerja/serikat buruh",
-                        "hanya dalam satu perusahaan.",
-                        "23.",
-                        "Mogok kerja adalah tindakan pekerja/buruh yang direncanakan dan dilaksanakan secara",
-                        "bersama-sama dan/atau oleh serikat pekerja/serikat buruh untuk menghentikan atau",
-                        "memperlambat pekerjaan.",
-                        "24.",
-                        "Penutupan perusahaan (lock out) adalah tindakan pengusaha untuk menolak",
-                        "pekerja/buruh seluruhnya atau sebagian untuk menjalankan pekerjaan.",
-                        "25.",
-                        "Pemutusan hubungan kerja adalah pengakhiran hubungan kerja karena suatu hal",
-                        "tertentu yang mengakibatkan berakhirnya hak dan kewajiban antara pekerja/buruh dan",
-                        "pengusaha.",
-                        "26.",
-                        "Anak adalah setiap orang yang berumur dibawah 18 (delapan belas) tahun.",
-                        "27.",
-                        "Siang hari adalah waktu antara pukul 06.00 sampai dengan pukul 18.00.",
-                        "28.",
-                        "1 (satu) hari adalah waktu selama 24 (dua puluh empat) jam.",
-                        "29.",
-                        "Seminggu adalah waktu selama 7 (tujuh) hari.",
-                        "30.",
-                        "Upah adalah hak pekerja/buruh yang diterima dan dinyatakan dalam bentuk uang",
-                        "sebagai imbalan dari pengusaha atau pemberi kerja kepada pekerja/buruh yang ditetapkan dan",
-                        "dibayarkan menurut suatu perjanjian kerja, kesepakatan, atau peraturan perundang undangan,",
-                        "termasuk tunjangan bagi pekerja/buruh dan keluarganya atas suatu pekerjaan dan/atau jasa",
-                        "yang telah atau akan dilakukan.",
-                        "31.",
-                        "31. Kesejahteraan pekerja/buruh adalah suatu pemenuhan kebutuhan dan/atau",
-                        "keperluan yang bersifat jasmaniah dan rohaniah, baik di dalam maupun di luar hubungan kerja,",
-                        "yang secara langsung atau tidak langsung dapat mempertinggi produktivitas kerja dalam",
-                        "lingkungan kerja yang aman dan sehat.",
-                        "32.",
-                        "Pengawasan ketenagakerjaan adalah kegiatan mengawasi dan menegakkan",
-                        "pelaksanaan peraturan perundang undangan di bidang ketenagakerjaan.",
-                        "33.",
-                        "Menteri adalah menteri yang bertanggung jawab di bidang ketenagakerjaan."
+                        "mempekerjakan orang lain dengan membayar upah atau imbalan dalam bentuk lain."
                       ]
                     }
                   ]
                 }
+              },
+              {
+                "key": "7.",
+                "isi": [
+                  "Perencanaan tenaga kerja adalah proses penyusunan rencana ketenagakerjaan secara",
+                  "sistematis yang dijadikan dasar dan acuan dalam penyusunan kebijakan, strategi, dan",
+                  "pelaksanaan program pembangunan ketenagakerjaan yang berkesinambungan."
+                ]
+              },
+              {
+                "key": "8.",
+                "isi": [
+                  "Informasi ketenagakerjaan adalah gabungan, rangkaian, dan analisis data yang",
+                  "berbentuk angka yang telah diolah, naskah dan dokumen yang mempunyai arti, nilai dan makna",
+                  "tertentu mengenai ketenagakerjaan."
+                ]
+              },
+              {
+                "key": "9.",
+                "isi": [
+                  "Pelatihan kerja adalah keseluruhan kegiatan untuk memberi, memperoleh,",
+                  "meningkatkan, serta mengembangkan kompetensi kerja, produktivitas, disiplin, sikap, dan etos",
+                  "kerja pada tingkat keterampilan dan keahlian tertentu sesuai dengan jenjang dan kualifikasi",
+                  "jabatan atau pekerjaan."
+                ]
+              },
+              {
+                "key": "10.",
+                "isi": [
+                  "Kompetensi kerja adalah kemampuan kerja setiap individu yang mencakup aspek",
+                  "pengetahuan, keterampilan, dan sikap kerja yang sesuai dengan standar yang ditetapkan."
+                ]
+              },
+              {
+                "key": "11.",
+                "isi": [
+                  "Pemagangan adalah bagian dari sistem pelatihan kerja yang diselenggarakan secara",
+                  "terpadu antara pelatihan di lembaga pelatihan dengan bekerja secara langsung di bawah",
+                  "bimbingan dan pengawasan instruktur atau pekerja/buruh yang lebih berpengalaman, dalam",
+                  "proses produksi barang dan/atau jasa di perusahaan, dalam rangka menguasai keterampilan",
+                  "atau keahlian tertentu."
+                ]
+              },
+              {
+                "key": "12.",
+                "isi": [
+                  "Pelayanan penempatan tenaga kerja adalah kegiatan untuk mempertemukan tenaga",
+                  "kerja dengan pemberi kerja, sehingga tenaga kerja dapat memperoleh pekerjaan yang sesuai",
+                  "dengan bakat, minat, dan kemampuannya, dan pemberi kerja dapat memperoleh tenaga kerja",
+                  "yang sesuai dengan kebutuhannya."
+                ]
+              },
+              {
+                "key": "13.",
+                "isi": [
+                  "Tenaga kerja asing adalah warga negara asing pemegang visa dengan maksud bekerja",
+                  "di wilayah Indonesia."
+                ]
+              },
+              {
+                "key": "14.",
+                "isi": [
+                  "Perjanjian kerja adalah perjanjian antara pekerja/buruh dengan pengusaha atau pemberi",
+                  "kerja yang memuat syarat syarat kerja, hak, dan kewajiban para pihak."
+                ]
+              },
+              {
+                "key": "15.",
+                "isi": [
+                  "Hubungan kerja adalah hubungan antara pengusaha dengan pekerja/buruh berdasarkan",
+                  "perjanjian kerja, yang mempunyai unsur pekerjaan, upah, dan perintah."
+                ]
+              },
+              {
+                "key": "16.",
+                "isi": [
+                  "Hubungan industrial adalah suatu sistem hubungan yang terbentuk antara para pelaku",
+                  "dalam proses produksi barang dan/atau jasa yang terdiri dari unsur pengusaha, pekerja/buruh,",
+                  "dan pemerintah yang didasarkan pada nilai nilai Pancasila dan Undang Undang Dasar Negara",
+                  "Republik Indonesia Tahun 1945."
+                ]
+              },
+              {
+                "key": "17.",
+                "isi": [
+                  "Serikat pekerja/serikat buruh adalah organisasi yang dibentuk dari, oleh, dan untuk",
+                  "pekerja/buruh baik di perusahaan maupun di luar perusahaan, yang bersifat bebas, terbuka,",
+                  "mandiri, demokratis, dan bertanggung jawab guna memperjuangkan, membela serta melindungi",
+                  "hak dan kepentingan pekerja/buruh serta meningkatkan kesejahteraan pekerja/buruh dan",
+                  "keluarganya."
+                ]
+              },
+              {
+                "key": "18.",
+                "isi": [
+                  "Lembaga kerja sama bipartit adalah forum komunikasi dan konsultasi mengenai hal-hal",
+                  "yang berkaitan dengan hubungan industrial di satu perusahaan yang anggotanya terdiri dari",
+                  "pengusaha dan serikat pekerja/ serikat buruh yang sudah tercatat instansi yang bertanggung",
+                  "jawab di bidang ketenagakerjaan atau unsur pekerja/buruh."
+                ]
+              },
+              {
+                "key": "19.",
+                "isi": [
+                  "Lembaga kerja sama tripartit adalah forum komunikasi, konsultasi dan musyawarah",
+                  "tentang masalah ketenagakerjaan yang anggotanya terdiri dari unsur organisasi pengusaha,",
+                  "serikat pekerja/serikat buruh, dan pemerintah."
+                ]
+              },
+              {
+                "key": "20.",
+                "isi": [
+                  "Peraturan perusahaan adalah peraturan yang dibuat secara tertulis oleh pengusaha yang",
+                  "memuat syarat syarat kerja dan tata tertib perusahaan."
+                ]
+              },
+              {
+                "key": "21.",
+                "isi": [
+                  "Perjanjian kerja bersama adalah perjanjian yang merupakan hasil perundingan antara",
+                  "serikat pekerja/serikat buruh atau beberapa serikat pekerja/serikat buruh yang tercatat pada",
+                  "instansi yang bertanggung jawab di bidang ketenagakerjaan dengan pengusaha, atau beberapa",
+                  "pengusaha atau perkumpulan pengusaha yang memuat syarat syarat kerja, hak dan kewajiban",
+                  "kedua belah pihak."
+                ]
+              },
+              {
+                "key": "22.",
+                "isi": [
+                  "Perselisihan hubungan industrial adalah perbedaan pendapat yang mengakibatkan",
+                  "pertentangan antara pengusaha atau gabungan pengusaha dengan pekerja/buruh atau serikat",
+                  "pekerja/serikat buruh karena adanya perselisihan mengenai hak, perselisihan kepentingan, dan",
+                  "perselisihan pemutusan hubungan kerja serta perselisihan antar serikat pekerja/serikat buruh",
+                  "hanya dalam satu perusahaan."
+                ]
+              },
+              {
+                "key": "23.",
+                "isi": [
+                  "Mogok kerja adalah tindakan pekerja/buruh yang direncanakan dan dilaksanakan secara",
+                  "bersama-sama dan/atau oleh serikat pekerja/serikat buruh untuk menghentikan atau",
+                  "memperlambat pekerjaan."
+                ]
+              },
+              {
+                "key": "24.",
+                "isi": [
+                  "Penutupan perusahaan (lock out) adalah tindakan pengusaha untuk menolak",
+                  "pekerja/buruh seluruhnya atau sebagian untuk menjalankan pekerjaan."
+                ]
+              },
+              {
+                "key": "25.",
+                "isi": [
+                  "Pemutusan hubungan kerja adalah pengakhiran hubungan kerja karena suatu hal",
+                  "tertentu yang mengakibatkan berakhirnya hak dan kewajiban antara pekerja/buruh dan",
+                  "pengusaha."
+                ]
+              },
+              {
+                "key": "26.",
+                "isi": [
+                  "Anak adalah setiap orang yang berumur dibawah 18 (delapan belas) tahun."
+                ]
+              },
+              {
+                "key": "27.",
+                "isi": [
+                  "Siang hari adalah waktu antara pukul 06.00 sampai dengan pukul 18.00."
+                ]
+              },
+              {
+                "key": "28.",
+                "isi": [
+                  "1 (satu) hari adalah waktu selama 24 (dua puluh empat) jam."
+                ]
+              },
+              {
+                "key": "29.",
+                "isi": [
+                  "Seminggu adalah waktu selama 7 (tujuh) hari."
+                ]
+              },
+              {
+                "key": "30.",
+                "isi": [
+                  "Upah adalah hak pekerja/buruh yang diterima dan dinyatakan dalam bentuk uang",
+                  "sebagai imbalan dari pengusaha atau pemberi kerja kepada pekerja/buruh yang ditetapkan dan",
+                  "dibayarkan menurut suatu perjanjian kerja, kesepakatan, atau peraturan perundang undangan,",
+                  "termasuk tunjangan bagi pekerja/buruh dan keluarganya atas suatu pekerjaan dan/atau jasa",
+                  "yang telah atau akan dilakukan."
+                ]
+              },
+              {
+                "key": "31.",
+                "isi": [
+                  "31. Kesejahteraan pekerja/buruh adalah suatu pemenuhan kebutuhan dan/atau",
+                  "keperluan yang bersifat jasmaniah dan rohaniah, baik di dalam maupun di luar hubungan kerja,",
+                  "yang secara langsung atau tidak langsung dapat mempertinggi produktivitas kerja dalam",
+                  "lingkungan kerja yang aman dan sehat."
+                ]
+              },
+              {
+                "key": "32.",
+                "isi": [
+                  "Pengawasan ketenagakerjaan adalah kegiatan mengawasi dan menegakkan",
+                  "pelaksanaan peraturan perundang undangan di bidang ketenagakerjaan."
+                ]
+              },
+              {
+                "key": "33.",
+                "isi": [
+                  "Menteri adalah menteri yang bertanggung jawab di bidang ketenagakerjaan."
+                ]
               }
             ]
           }
@@ -1820,14 +1951,12 @@
               {
                 "key": "a.",
                 "isi": [
-                  "",
                   "memberdayakan dan mendayagunakan tenaga kerja secara optimal dan manusiawi;"
                 ]
               },
               {
                 "key": "b.",
                 "isi": [
-                  "",
                   "mewujudkan pemerataan kesempatan kerja dan penyediaan tenaga kerja yang sesuai",
                   "dengan kebutuhan pembangunan nasional dan daerah;"
                 ]
@@ -1835,14 +1964,12 @@
               {
                 "key": "c.",
                 "isi": [
-                  "",
                   "memberikan perlindungan kepada tenaga kerja dalam mewujudkan kesejahteraan; dan"
                 ]
               },
               {
                 "key": "d.",
                 "isi": [
-                  "",
                   "meningkatkan kesejahteraan tenaga kerja dan keluarganya."
                 ]
               }
@@ -2938,14 +3065,12 @@
                   {
                     "key": "a.",
                     "isi": [
-                      "",
                       "alasan penggunaan tenaga kerja asing;"
                     ]
                   },
                   {
                     "key": "b.",
                     "isi": [
-                      "",
                       "jabatan dan/atau kedudukan tenaga kerja asing dalam struktur organisasi perusahaan",
                       "yang bersangkutan;"
                     ]
@@ -2953,14 +3078,12 @@
                   {
                     "key": "c.",
                     "isi": [
-                      "",
                       "jangka waktu penggunaan tenaga kerja asing; dan"
                     ]
                   },
                   {
                     "key": "d.",
                     "isi": [
-                      "",
                       "penunjukan tenaga kerja warga negara Indonesia sebagai pendamping tenaga kerja",
                       "asing yang dipekerjakan."
                     ]
@@ -3016,7 +3139,6 @@
                   {
                     "key": "a.",
                     "isi": [
-                      "",
                       "menunjuk tenaga kerja warga negara Indonesia sebagai tenaga pendamping tenaga",
                       "kerja asing yang dipekerjakan untuk alih teknologi dan alih keahlian dari tenaga kerja asing; dan"
                     ]
@@ -3024,7 +3146,6 @@
                   {
                     "key": "b.",
                     "isi": [
-                      "",
                       "melaksanakan pendidikan dan pelatihan kerja bagi tenaga kerja Indonesia sebagaimana",
                       "dimaksud pada huruf a yang sesuai dengan kualifikasi jabatan yang diduduki oleh tenaga kerja",
                       "asing."
@@ -3152,28 +3273,24 @@
                   {
                     "key": "a.",
                     "isi": [
-                      "",
                       "kesepakatan kedua belah pihak;"
                     ]
                   },
                   {
                     "key": "b.",
                     "isi": [
-                      "",
                       "kemampuan atau kecakapan melakukan perbuatan hukum;"
                     ]
                   },
                   {
                     "key": "c.",
                     "isi": [
-                      "",
                       "adanya pekerjaan yang diperjanjikan; dan"
                     ]
                   },
                   {
                     "key": "d.",
                     "isi": [
-                      "",
                       "pekerjaan yang diperjanjikan tidak bertentangan dengan ketertiban umum, kesusilaan,",
                       "dan peraturan perundang undangan yang berlaku."
                     ]
@@ -3388,14 +3505,12 @@
                   {
                     "key": "a.",
                     "isi": [
-                      "",
                       "pekerjaan yang sekali selesai atau yang sementara sifatnya;"
                     ]
                   },
                   {
                     "key": "b.",
                     "isi": [
-                      "",
                       "pekerjaan yang diperkirakan penyelesaiannya dalam waktu yang tidak terlalu lama dan",
                       "paling lama 3 (tiga) tahun;"
                     ]
@@ -3403,14 +3518,12 @@
                   {
                     "key": "c.",
                     "isi": [
-                      "",
                       "pekerjaan yang bersifat musiman; atau"
                     ]
                   },
                   {
                     "key": "d.",
                     "isi": [
-                      "",
                       "pekerjaan yang berhubungan dengan produk baru, kegiatan baru, atau produk tambahan",
                       "yang masih dalam percobaan atau penjajakan."
                     ]
@@ -3503,21 +3616,18 @@
                   {
                     "key": "a.",
                     "isi": [
-                      "",
                       "pekerja meninggal dunia;"
                     ]
                   },
                   {
                     "key": "b.",
                     "isi": [
-                      "",
                       "berakhirnya jangka waktu perjanjian kerja;"
                     ]
                   },
                   {
                     "key": "c.",
                     "isi": [
-                      "",
                       "adanya putusan pengadilan dan/atau putusan atau penetapan lembaga penyelesaian",
                       "perselisihan hubungan industrial yang telah mempunyai kekuatan hukum tetap; atau"
                     ]
@@ -3525,7 +3635,6 @@
                   {
                     "key": "d.",
                     "isi": [
-                      "",
                       "adanya keadaan atau kejadian tertentu yang dicantumkan dalam perjanjian kerja,",
                       "peraturan perusahaan, atau perjanjian kerja bersama yang dapat menyebabkan berakhirnya",
                       "hubungan kerja."
@@ -3755,7 +3864,6 @@
                   {
                     "key": "a.",
                     "isi": [
-                      "",
                       "adanya hubungan kerja antara pekerja/buruh dan perusahaan penyedia jasa",
                       "pekerja/buruh;"
                     ]
@@ -3763,7 +3871,6 @@
                   {
                     "key": "b.",
                     "isi": [
-                      "",
                       "perjanjian kerja yang berlaku dalam hubungan kerja sebagaimana dimaksud pada huruf",
                       "a adalah perjanjian kerja untuk waktu tertentu yang memenuhi persyaratan sebagaimana",
                       "dimaksud dalam Pasal 59 dan/atau perjanjian kerja waktu tidak tertentu yang dibuat secara",
@@ -3773,7 +3880,6 @@
                   {
                     "key": "c.",
                     "isi": [
-                      "",
                       "perlindungan upah dan kesejahteraan, syarat-syarat kerja, serta perselisihan yang timbul",
                       "menjadi tanggung jawab perusahaan penyedia jasa pekerja/buruh; dan"
                     ]
@@ -3781,7 +3887,6 @@
                   {
                     "key": "d.",
                     "isi": [
-                      "",
                       "perjanjian antara perusahaan pengguna jasa pekerja/buruh dan perusahaan lain yang",
                       "bertindak sebagai perusahaan penyedia jasa pekerja/buruh dibuat secara tertulis dan wajib",
                       "memuat pasal-pasal sebagaimana dimaksud dalam undang-undang ini."
@@ -3961,7 +4066,6 @@
                           {
                             "key": "a.",
                             "isi": [
-                              "",
                               "diberi petunjuk yang jelas tentang cara pelaksanaan pekerjaan serta bimbingan dan",
                               "pengawasan dalam melaksanakan pekerjaan; dan"
                             ]
@@ -3969,7 +4073,6 @@
                           {
                             "key": "b.",
                             "isi": [
-                              "",
                               "diberi perlindungan keselamatan dan kesehatan kerja."
                             ]
                           }
@@ -4058,14 +4161,12 @@
                           {
                             "key": "a.",
                             "isi": [
-                              "",
                               "segala pekerjaan dalam bentuk perbudakan atau sejenisnya;"
                             ]
                           },
                           {
                             "key": "b.",
                             "isi": [
-                              "",
                               "segala pekerjaan yang memanfaatkan, menyediakan, atau menawarkan anak untuk",
                               "pelacuran, produksi pornografi, pertunjukan porno, atau perjudian;"
                             ]
@@ -4073,7 +4174,6 @@
                           {
                             "key": "c.",
                             "isi": [
-                              "",
                               "segala pekerjaan yang memanfaatkan, menyediakan, atau melibatkan anak untuk",
                               "produksi dan perdagangan minuman keras, narkotika, psikotropika, dan zat adiktif lainnya;",
                               "dan/atau"
@@ -4082,7 +4182,6 @@
                           {
                             "key": "d.",
                             "isi": [
-                              "",
                               "semua pekerjaan yang membahayakan kesehatan, keselamatan, atau moral anak."
                             ]
                           }
@@ -4208,7 +4307,6 @@
                           {
                             "key": "a.",
                             "isi": [
-                              "",
                               "7 (tujuh) jam 1 (satu) hari dan 40 (empat puluh) jam 1 (satu) minggu untuk 6 (enam) hari",
                               "kerja dalam 1 (satu) minggu; atau"
                             ]
@@ -4216,7 +4314,6 @@
                           {
                             "key": "b.",
                             "isi": [
-                              "",
                               "8 (delapan) jam 1 (satu) hari dan 40 (empat puluh) jam 1 (satu) minggu untuk 5 (lima)",
                               "hari kerja dalam 1 (satu) minggu."
                             ]
@@ -4254,14 +4351,12 @@
                           {
                             "key": "a.",
                             "isi": [
-                              "",
                               "ada persetujuan pekerja/buruh yang bersangkutan; dan"
                             ]
                           },
                           {
                             "key": "b.",
                             "isi": [
-                              "",
                               "waktu kerja lembur hanya dapat dilakukan paling banyak 3 (tiga) jam dalam 1 (satu) hari",
                               "dan 14 (empat belas) jam dalam 1 (satu) minggu."
                             ]
@@ -4311,7 +4406,6 @@
                           {
                             "key": "a.",
                             "isi": [
-                              "",
                               "istirahat antara jam kerja, sekurang kurangnya setengah jam setelah bekerja selama 4",
                               "(empat) jam terus menerus dan waktu istirahat tersebut tidak termasuk jam kerja;"
                             ]
@@ -4319,7 +4413,6 @@
                           {
                             "key": "b.",
                             "isi": [
-                              "",
                               "istirahat mingguan 1 (satu) hari untuk 6 (enam) hari kerja dalam 1 (satu) minggu atau 2",
                               "(dua) hari untuk 5 (lima) hari kerja dalam 1 (satu) minggu;"
                             ]
@@ -4327,7 +4420,6 @@
                           {
                             "key": "c.",
                             "isi": [
-                              "",
                               "cuti tahunan, sekurang kurangnya 12 (dua belas) hari kerja setelah pekerja/buruh yang",
                               "bersangkutan bekerja selama 12 (dua belas) bulan secara terus menerus; dan"
                             ]
@@ -4335,7 +4427,6 @@
                           {
                             "key": "d.",
                             "isi": [
-                              "",
                               "istirahat panjang sekurang-kurangnya 2 (dua) bulan dan dilaksanakan pada tahun",
                               "ketujuh dan kedelapan masing-masing 1 (satu) bulan bagi pekerja/buruh yang telah bekerja",
                               "selama 6 (enam) tahun secara terus-menerus pada perusahaan yang sama dengan ketentuan",
@@ -5192,56 +5283,48 @@
                   {
                     "key": "a.",
                     "isi": [
-                      "",
                       "serikat pekerja/serikat buruh;"
                     ]
                   },
                   {
                     "key": "b.",
                     "isi": [
-                      "",
                       "organisasi pengusaha;"
                     ]
                   },
                   {
                     "key": "c.",
                     "isi": [
-                      "",
                       "lembaga kerja sama bipartit;"
                     ]
                   },
                   {
                     "key": "d.",
                     "isi": [
-                      "",
                       "embaga kerja sama tripartit;"
                     ]
                   },
                   {
                     "key": "e.",
                     "isi": [
-                      "",
                       "peraturan perusahaan;"
                     ]
                   },
                   {
                     "key": "f.",
                     "isi": [
-                      "",
                       "perjanjian kerja bersama;"
                     ]
                   },
                   {
                     "key": "g.",
                     "isi": [
-                      "",
                       "peraturan perundang-undangan ketenagakerjaan; dan"
                     ]
                   },
                   {
                     "key": "h.",
                     "isi": [
-                      "",
                       "lembaga penyelesaian perselisihan hubungan industrial."
                     ]
                   }
@@ -6135,28 +6218,24 @@
                           {
                             "key": "a.",
                             "isi": [
-                              "",
                               "waktu (hari, tanggal, dan jam) dimulai dan diakhiri mogok kerja;"
                             ]
                           },
                           {
                             "key": "b.",
                             "isi": [
-                              "",
                               "tempat mogok kerja;"
                             ]
                           },
                           {
                             "key": "c.",
                             "isi": [
-                              "",
                               "alasan dan sebab-sebab mengapa harus melakukan mogok kerja; dan"
                             ]
                           },
                           {
                             "key": "d.",
                             "isi": [
-                              "",
                               "tanda tangan ketua dan sekretaris dan/atau masing-masing ketua dan sekretaris serikat",
                               "pekerja/serikat buruh sebagai penanggung jawab mogok kerja."
                             ]
@@ -6296,7 +6375,6 @@
                       {
                         "key": "a.",
                         "isi": [
-                          "",
                           "mengganti pekerja/buruh yang mogok kerja dengan pekerja/buruh lain dari luar",
                           "perusahaan; atau"
                         ]
@@ -6304,7 +6382,6 @@
                       {
                         "key": "b.",
                         "isi": [
-                          "",
                           "memberikan sanksi atau tindakan balasan dalam bentuk apapun kepada pekerja/buruh",
                           "dan pengurus serikat pekerja/serikat buruh selama dan sesudah melakukan mogok kerja."
                         ]
@@ -6465,7 +6542,6 @@
                           {
                             "key": "a.",
                             "isi": [
-                              "",
                               "pekerja/buruh atau serikat pekerja/serikat buruh melanggar prosedur mogok kerja",
                               "sebagaimana dimaksud dalam Pasal 140;"
                             ]
@@ -6473,7 +6549,6 @@
                           {
                             "key": "b.",
                             "isi": [
-                              "",
                               "pekerja/buruh atau serikat pekerja/serikat buruh melanggar ketentuan normatif yang",
                               "ditentukan dalam perjanjian kerja, peraturan perusahaan, perjanjian kerja bersama, atau",
                               "peraturan perundang-undangan yang berlaku."
@@ -6576,7 +6651,6 @@
                   {
                     "key": "a.",
                     "isi": [
-                      "",
                       "pekerja/buruh berhalangan masuk kerja karena sakit menurut keterangan dokter selama",
                       "waktu tidak melampaui 12 (dua belas) bulan secara terus-menerus;"
                     ]
@@ -6584,7 +6658,6 @@
                   {
                     "key": "b.",
                     "isi": [
-                      "",
                       "pekerja/buruh berhalangan menjalankan pekerjaannya karena memenuhi kewajiban",
                       "terhadap negara sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;"
                     ]
@@ -6592,28 +6665,24 @@
                   {
                     "key": "c.",
                     "isi": [
-                      "",
                       "pekerja/buruh menjalankan ibadah yang diperintahkan agamanya;"
                     ]
                   },
                   {
                     "key": "d.",
                     "isi": [
-                      "",
                       "pekerja/buruh menikah;"
                     ]
                   },
                   {
                     "key": "e.",
                     "isi": [
-                      "",
                       "pekerja/buruh perempuan hamil, melahirkan, gugur kandungan, atau menyusui bayinya;"
                     ]
                   },
                   {
                     "key": "f.",
                     "isi": [
-                      "",
                       "pekerja/buruh mempunyai pertalian darah dan/atau ikatan perkawinan dengan",
                       "pekerja/buruh lainnya di dalam satu perusahaan, kecuali telah diatur dalam perjanjian kerja,",
                       "peraturan perusahan, atau perjanjian kerja bersama;"
@@ -6622,7 +6691,6 @@
                   {
                     "key": "g.",
                     "isi": [
-                      "",
                       "pekerja/buruh mendirikan, menjadi anggota dan/atau pengurus serikat pekerja/serikat",
                       "buruh, pekerja/buruh melakukan kegiatan serikat pekerja/serikat buruh di luar jam kerja, atau di",
                       "dalam jam kerja atas kesepakatan pengusaha, atau berdasarkan ketentuan yang diatur dalam",
@@ -6632,7 +6700,6 @@
                   {
                     "key": "h.",
                     "isi": [
-                      "",
                       "pekerja/buruh yang mengadukan pengusaha kepada yang berwajib mengenai perbuatan",
                       "pengusaha yang melakukan tindak pidana kejahatan;"
                     ]
@@ -6640,7 +6707,6 @@
                   {
                     "key": "i.",
                     "isi": [
-                      "",
                       "karena perbedaan paham, agama, aliran politik, suku, warna kulit, golongan, jenis",
                       "kelamin, kondisi fisik, atau status perkawinan;"
                     ]
@@ -6648,7 +6714,6 @@
                   {
                     "key": "j.",
                     "isi": [
-                      "",
                       "pekerja/buruh dalam keadaan cacat tetap, sakit akibat kecelakaan kerja, atau sakit",
                       "karena hubungan kerja yang menurut surat keterangan dokter yang jangka waktu",
                       "penyembuhannya belum dapat dipastikan."
@@ -6677,7 +6742,6 @@
               {
                 "key": "a.",
                 "isi": [
-                  "",
                   "pekerja/buruh masih dalam masa percobaan kerja, bilamana telah dipersyaratkan secara",
                   "tertulis sebelumnya;"
                 ]
@@ -6685,7 +6749,6 @@
               {
                 "key": "b.",
                 "isi": [
-                  "",
                   "pekerja/buruh mengajukan permintaan pengunduran diri, secara tertulis atas kemauan",
                   "sendiri tanpa ada indikasi adanya tekanan/intimidasi dari pengusaha, berakhirnya hubungan",
                   "kerja sesuai dengan perjanjian kerja waktu tertentu untuk pertama kali;"
@@ -6694,7 +6757,6 @@
               {
                 "key": "c.",
                 "isi": [
-                  "",
                   "pekerja/buruh mencapai usia pensiun sesuai dengan ketetapan dalam perjanjian kerja,",
                   "peraturan perusahaan, perjanjian kerja bersama, atau peraturan perundang-undangan; atau"
                 ]
@@ -6702,7 +6764,6 @@
               {
                 "key": "d.",
                 "isi": [
-                  "",
                   "pekerja/buruh meninggal dunia."
                 ]
               }
@@ -6758,28 +6819,24 @@
                   {
                     "key": "a.",
                     "isi": [
-                      "",
                       "masa kerja kurang dari 1 (satu) tahun, 1 (satu) bulan upah;"
                     ]
                   },
                   {
                     "key": "b.",
                     "isi": [
-                      "",
                       "masa kerja 1 (satu) tahun atau lebih tetapi kurang dari 2 (dua) tahun, 2 (dua) bulan upah;"
                     ]
                   },
                   {
                     "key": "c.",
                     "isi": [
-                      "",
                       "masa kerja 2 (dua) tahun atau lebih tetapi kurang dari 3 (tiga) tahun, 3 (tiga) bulan upah;"
                     ]
                   },
                   {
                     "key": "d.",
                     "isi": [
-                      "",
                       "masa kerja 3 (tiga) tahun atau lebih tetapi kurang dari 4 (empat) tahun, 4 (empat) bulan",
                       "upah;"
                     ]
@@ -6787,7 +6844,6 @@
                   {
                     "key": "e.",
                     "isi": [
-                      "",
                       "masa kerja 4 (empat) tahun atau lebih tetapi kurang dari 5 (lima) tahun, 5 (lima) bulan",
                       "upah;"
                     ]
@@ -6795,7 +6851,6 @@
                   {
                     "key": "f.",
                     "isi": [
-                      "",
                       "masa kerja 5 (lima) tahun atau lebih, tetapi kurang dari 6 (enam) tahun, 6 (enam) bulan",
                       "upah;"
                     ]
@@ -6803,7 +6858,6 @@
                   {
                     "key": "g.",
                     "isi": [
-                      "",
                       "masa kerja 6 (enam) tahun atau lebih tetapi kurang dari 7 (tujuh) tahun, 7 (tujuh) bulan",
                       "upah."
                     ]
@@ -6811,7 +6865,6 @@
                   {
                     "key": "h.",
                     "isi": [
-                      "",
                       "masa kerja 7 (tujuh) tahun atau lebih tetapi kurang dari 8 (delapan) tahun, 8 (delapan)",
                       "bulan upah;"
                     ]
@@ -6819,7 +6872,6 @@
                   {
                     "key": "i.",
                     "isi": [
-                      "",
                       "masa kerja 8 (delapan) tahun atau lebih, 9 (sembilan) bulan upah."
                     ]
                   }
@@ -6837,7 +6889,6 @@
                   {
                     "key": "a.",
                     "isi": [
-                      "",
                       "masa kerja 3 (tiga) tahun atau lebih tetapi kurang dari 6 (enam) tahun, 2 (dua) bulan",
                       "upah;"
                     ]
@@ -6845,7 +6896,6 @@
                   {
                     "key": "b.",
                     "isi": [
-                      "",
                       "masa kerja 6 (enam) tahun atau lebih tetapi kurang dari 9 (sembilan) tahun, 3 (tiga) bulan",
                       "upah;"
                     ]
@@ -6853,7 +6903,6 @@
                   {
                     "key": "c.",
                     "isi": [
-                      "",
                       "masa kerja 9 (sembilan) tahun atau lebih tetapi kurang dari 12 (dua belas) tahun, 4",
                       "(empat) bulan upah;"
                     ]
@@ -6861,7 +6910,6 @@
                   {
                     "key": "d.",
                     "isi": [
-                      "",
                       "masa kerja 12 (dua belas) tahun atau lebih tetapi kurang dari 15 (lima belas) tahun, 5",
                       "(lima) bulan upah;"
                     ]
@@ -6869,7 +6917,6 @@
                   {
                     "key": "e.",
                     "isi": [
-                      "",
                       "masa kerja 15 (lima belas) tahun atau lebih tetapi kurang dari 18 (delapan belas) tahun, 6",
                       "(enam) bulan upah;"
                     ]
@@ -6877,7 +6924,6 @@
                   {
                     "key": "f.",
                     "isi": [
-                      "",
                       "masa kerja 18 (delapan belas) tahun atau lebih tetapi kurang dari 21 (dua puluh satu)",
                       "tahun, 7 (tujuh) bulan upah;"
                     ]
@@ -6885,7 +6931,6 @@
                   {
                     "key": "g.",
                     "isi": [
-                      "",
                       "masa kerja 21 (dua puluh satu) tahun atau lebih tetapi kurang dari 24 (dua puluh empat)",
                       "tahun, 8 (delapan) bulan upah;"
                     ]
@@ -6893,7 +6938,6 @@
                   {
                     "key": "h.",
                     "isi": [
-                      "",
                       "masa kerja 24 (dua puluh empat) tahun atau lebih, 10 (sepuluh ) bulan upah."
                     ]
                   }
@@ -6910,14 +6954,12 @@
                   {
                     "key": "a.",
                     "isi": [
-                      "",
                       "cuti tahunan yang belum diambil dan belum gugur;"
                     ]
                   },
                   {
                     "key": "b.",
                     "isi": [
-                      "",
                       "biaya atau ongkos pulang untuk pekerja/buruh dan keluarganya ketempat dimana",
                       "pekerja/buruh diterima bekerja;"
                     ]
@@ -6925,7 +6967,6 @@
                   {
                     "key": "c.",
                     "isi": [
-                      "",
                       "penggantian perumahan serta pengobatan dan perawatan ditetapkan 15% (lima belas",
                       "perseratus) dari uang pesangon dan/atau uang penghargaan masa kerja bagi yang memenuhi",
                       "syarat;"
@@ -6934,7 +6975,6 @@
                   {
                     "key": "d.",
                     "isi": [
-                      "",
                       "hal-hal lain yang ditetapkan dalam perjanjian kerja, peraturan perusahaan atau perjanjian",
                       "kerja bersama."
                     ]
@@ -6966,14 +7006,12 @@
                   {
                     "key": "a.",
                     "isi": [
-                      "",
                       "upah pokok;"
                     ]
                   },
                   {
                     "key": "b.",
                     "isi": [
-                      "",
                       "segala macam bentuk tunjangan yang bersifat tetap yang diberikan kepada",
                       "pekerja/buruh dan keluarganya, termasuk harga pembelian dari catu yang diberikan kepada",
                       "pekerja/buruh secara cuma-cuma, yang apabila catu harus dibayar pekerja/buruh dengan",
@@ -7024,7 +7062,6 @@
                   {
                     "key": "a.",
                     "isi": [
-                      "",
                       "melakukan penipuan, pencurian, atau penggelapan barang dan/atau uang milik",
                       "perusahaan;"
                     ]
@@ -7032,14 +7069,12 @@
                   {
                     "key": "b.",
                     "isi": [
-                      "",
                       "memberikan keterangan palsu atau yang dipalsukan sehingga merugikan perusahaan;"
                     ]
                   },
                   {
                     "key": "c.",
                     "isi": [
-                      "",
                       "mabuk, meminum minuman keras yang memabukkan, memakai dan/atau mengedarkan",
                       "narkotika, psikotropika, dan zat adiktif lainnya di lingkungan kerja;"
                     ]
@@ -7047,14 +7082,12 @@
                   {
                     "key": "d.",
                     "isi": [
-                      "",
                       "melakukan perbuatan asusila atau perjudian di lingkungan kerja;"
                     ]
                   },
                   {
                     "key": "e.",
                     "isi": [
-                      "",
                       "menyerang, menganiaya, mengancam, atau mengintimidasi teman sekerja atau",
                       "pengusaha di lingkungan kerja;"
                     ]
@@ -7062,7 +7095,6 @@
                   {
                     "key": "f.",
                     "isi": [
-                      "",
                       "membujuk teman sekerja atau pengusaha untuk melakukan perbuatan yang",
                       "bertentangan dengan peraturan perundang-undangan;"
                     ]
@@ -7070,7 +7102,6 @@
                   {
                     "key": "g.",
                     "isi": [
-                      "",
                       "dengan ceroboh atau sengaja merusak atau membiarkan dalam keadaan bahaya barang",
                       "milik perusahaan yang menimbulkan kerugian bagi perusahaan;"
                     ]
@@ -7078,7 +7109,6 @@
                   {
                     "key": "h.",
                     "isi": [
-                      "",
                       "dengan ceroboh atau sengaja membiarkan teman sekerja atau pengusaha dalam",
                       "keadaan bahaya di tempat kerja;"
                     ]
@@ -7086,7 +7116,6 @@
                   {
                     "key": "i.",
                     "isi": [
-                      "",
                       "membongkar atau membocorkan rahasia perusahaan yang seharusnya dirahasiakan",
                       "kecuali untuk kepentingan negara; atau"
                     ]
@@ -7094,7 +7123,6 @@
                   {
                     "key": "j.",
                     "isi": [
-                      "",
                       "melakukan perbuatan lainnya di lingkungan perusahaan yang diancam pidana penjara 5",
                       "(lima) tahun atau lebih."
                     ]
@@ -7309,7 +7337,6 @@
                   {
                     "key": "a.",
                     "isi": [
-                      "",
                       "mengajukan permohonan pengunduran diri secara tertulis selambat-lambatnya 30 (tiga",
                       "puluh) hari sebelum tanggal mulai pengunduran diri;"
                     ]
@@ -7317,14 +7344,12 @@
                   {
                     "key": "b.",
                     "isi": [
-                      "",
                       "tidak terikat dalam ikatan dinas; dan"
                     ]
                   },
                   {
                     "key": "c.",
                     "isi": [
-                      "",
                       "tetap melaksanakan kewajibannya sampai tanggal mulai pengunduran diri."
                     ]
                   }
@@ -7524,14 +7549,12 @@
                   {
                     "key": "a.",
                     "isi": [
-                      "",
                       "menganiaya, menghina secara kasar atau mengancam pekerja/buruh;"
                     ]
                   },
                   {
                     "key": "b.",
                     "isi": [
-                      "",
                       "membujuk dan/atau menyuruh pekerja/buruh untuk melakukan perbuatan yang",
                       "bertentangan dengan peraturan perundang-undangan;"
                     ]
@@ -7539,7 +7562,6 @@
                   {
                     "key": "c.",
                     "isi": [
-                      "",
                       "tidak membayar upah tepat pada waktu yang telah ditentukan selama 3 (tiga) bulan",
                       "berturut-turut atau lebih;"
                     ]
@@ -7547,14 +7569,12 @@
                   {
                     "key": "d.",
                     "isi": [
-                      "",
                       "tidak melakukan kewajiban yang telah dijanjikan kepada pekerja/ buruh;"
                     ]
                   },
                   {
                     "key": "e.",
                     "isi": [
-                      "",
                       "memerintahkan pekerja/buruh untuk melaksanakan pekerjaan di luar yang diperjanjikan;",
                       "atau"
                     ]
@@ -7562,7 +7582,6 @@
                   {
                     "key": "f.",
                     "isi": [
-                      "",
                       "memberikan pekerjaan yang membahayakan jiwa, keselamatan, kesehatan, dan",
                       "kesusilaan pekerja/buruh sedangkan pekerjaan tersebut tidak dicantumkan pada perjanjian kerja."
                     ]
@@ -7806,7 +7825,6 @@
                   {
                     "key": "a.",
                     "isi": [
-                      "",
                       "melakukan pemeriksaan atas kebenaran laporan serta keterangan tentang tindak pidana",
                       "di bidang ketenaga-kerjaan;"
                     ]
@@ -7814,7 +7832,6 @@
                   {
                     "key": "b.",
                     "isi": [
-                      "",
                       "melakukan pemeriksaan terhadap orang yang diduga melakukan tindak pidana di bidang",
                       "ketenagakerjaan;"
                     ]
@@ -7822,7 +7839,6 @@
                   {
                     "key": "c.",
                     "isi": [
-                      "",
                       "meminta keterangan dan bahan bukti dari orang atau badan hukum sehubungan dengan",
                       "tindak pidana di bidang ketenagakerjaan;"
                     ]
@@ -7830,7 +7846,6 @@
                   {
                     "key": "d.",
                     "isi": [
-                      "",
                       "melakukan pemeriksaan atau penyitaan bahan atau barang bukti dalam perkara tindak",
                       "pidana di bidang ketenagakerjaan;"
                     ]
@@ -7838,7 +7853,6 @@
                   {
                     "key": "e.",
                     "isi": [
-                      "",
                       "melakukan pemeriksaan atas surat dan/atau dokumen lain tentang tindak pidana di",
                       "bidang ketenagakerjaan;"
                     ]
@@ -7846,7 +7860,6 @@
                   {
                     "key": "f.",
                     "isi": [
-                      "",
                       "meminta bantuan tenaga ahli dalam rangka pelaksanaan tugas penyidikan tindak pidana",
                       "di bidang ketenagakerjaan; dan"
                     ]
@@ -7854,7 +7867,6 @@
                   {
                     "key": "g.",
                     "isi": [
-                      "",
                       "menghentikan penyidikan apabila tidak terdapat cukup bukti yang membuktikan tentang",
                       "adanya tindak pidana di bidang ketenagakerjaan."
                     ]
@@ -8132,63 +8144,127 @@
       "isi": [
         {
           "key": "Pasal 192",
-          "isi": [
-            "Pada saat mulai berlakunya Undang undang ini, maka :",
-            "1.",
-            "Ordonansi tentang Pengerahan Orang Indonesia Untuk Melakukan Pekerjaan Di Luar",
-            "Indonesia (Staatsblad Tahun 1887 Nomor 8);",
-            "2.",
-            "Ordonansi tanggal 17 Desember 1925 Peraturan tentang Pembatasan Kerja Anak Dan",
-            "Kerja Malam Bagi Wanita (Staatsblad Tahun 1925 Nomor 647);",
-            "3.",
-            "Ordonansi Tahun 1926 Peraturan mengenai Kerja Anak anak Dan Orang Muda Di Atas",
-            "Kapal (Staatsblad Tahun 1926 Nomor 87);",
-            "4.",
-            "Ordonansi tanggal 4 Mei 1936 tentang Ordonansi untuk Mengatur Kegiatan kegiatan",
-            "Mencari Calon Pekerja (Staatsblad Tahun 1936 Nomor 208);",
-            "5.",
-            "5. Ordonansi tentang Pemulangan Buruh Yang Diterima Atau Dikerahkan Dari Luar",
-            "Indonesia (Staatsblad Tahun 1939 Nomor 545);",
-            "6.",
-            "Ordonansi Nomor 9 Tahun 1949 tentang Pembatasan Kerja Anak anak (Staatsblad",
-            "Tahun 1949 Nomor 8);",
-            "7.",
-            "Undang undang Nomor 1 Tahun 1951 tentang Pernyataan Berlakunya Undang undang",
-            "Kerja Tahun 1948 Nomor 12 Dari Republik Indonesia Untuk Seluruh Indonesia (Lembaran",
-            "Negara Tahun 1951 Nomor 2);",
-            "8.",
-            "Undang undang Nomor 21 Tahun 1954 tentang Perjanjian Perburuhan Antara Serikat",
-            "Buruh Dan Majikan (Lembaran Negara Tahun 1954 Nomor 69, Tambahan Lembaran Negara",
-            "Nomor 598a);",
-            "9.",
-            "Undang-undang Nomor 3 Tahun 1958 tentang Penempatan Tenaga Asing (Lembaran",
-            "Negara Tahun 1958 Nomor 8 );",
-            "10.",
-            "Undang-undang Nomor 8 Tahun 1961 tentang Wajib Kerja Sarjana (Lembaran Negara",
-            "Tahun 1961 Nomor 207, Tambahan Lembaran Negara Nomor 2270);",
-            "11.",
-            "Undang undang Nomor 7 Pnps Tahun 1963 tentang Pencegahan Pemogokan dan/atau",
-            "Penutupan (Lock Out) Di Perusahaan, Jawatan, dan Badan Yang Vital (Lembaran Negara Tahun",
-            "1963 Nomor 67);",
-            "12.",
-            "Undang undang Nomor 14 Tahun 1969 tentang Ketentuan ketentuan Pokok Mengenai",
-            "Tenaga Kerja (Lembaran Negara Tahun 1969 Nomor 55, Tambahan Lembaran Negara Nomor",
-            "2912);",
-            "13.",
-            "Undang-undang Nomor 25 Tahun 1997 tentang Ketenagakerjaan (Lembaran Negara",
-            "Tahun 1997 Nomor 73, Tambahan Lembaran Negara Nomor 3702);",
-            "14.",
-            "Undang-undang Nomor 11 Tahun 1998 tentang Perubahan Berlakunya Undang-undang",
-            "Nomor 25 Tahun 1997 tentang Ketenagakerjaan (Lembaran Negara Tahun 1998 Nomor 184,",
-            "Tambahan Lembaran Negara Nomor 3791);",
-            "15.",
-            "Undang-undang Nomor 28 Tahun 2000 tentang Penetapan Peraturan Pemerintah",
-            "Pengganti Undang-undang Nomor 3 Tahun 2000 tentang Perubahan Atas Undang-undang",
-            "Nomor 11 Tahun 1998 tentang Perubahan Berlakunya Undang-undang Nomor 25 Tahun 1997",
-            "tentang Ketenaga-kerjaan Menjadi Undang-undang (Lembaran Negara Tahun 2000 Nomor 240,",
-            "Tambahan Lembaran Negara Nomor 4042),",
-            "dinyatakan tidak berlaku lagi."
-          ]
+          "isi": {
+            "description": [
+              "Pada saat mulai berlakunya Undang undang ini, maka :"
+            ],
+            "isi": [
+              {
+                "key": "1.",
+                "isi": [
+                  "Ordonansi tentang Pengerahan Orang Indonesia Untuk Melakukan Pekerjaan Di Luar",
+                  "Indonesia (Staatsblad Tahun 1887 Nomor 8);"
+                ]
+              },
+              {
+                "key": "2.",
+                "isi": [
+                  "Ordonansi tanggal 17 Desember 1925 Peraturan tentang Pembatasan Kerja Anak Dan",
+                  "Kerja Malam Bagi Wanita (Staatsblad Tahun 1925 Nomor 647);"
+                ]
+              },
+              {
+                "key": "3.",
+                "isi": [
+                  "Ordonansi Tahun 1926 Peraturan mengenai Kerja Anak anak Dan Orang Muda Di Atas",
+                  "Kapal (Staatsblad Tahun 1926 Nomor 87);"
+                ]
+              },
+              {
+                "key": "4.",
+                "isi": [
+                  "Ordonansi tanggal 4 Mei 1936 tentang Ordonansi untuk Mengatur Kegiatan kegiatan",
+                  "Mencari Calon Pekerja (Staatsblad Tahun 1936 Nomor 208);"
+                ]
+              },
+              {
+                "key": "5.",
+                "isi": [
+                  "5. Ordonansi tentang Pemulangan Buruh Yang Diterima Atau Dikerahkan Dari Luar",
+                  "Indonesia (Staatsblad Tahun 1939 Nomor 545);"
+                ]
+              },
+              {
+                "key": "6.",
+                "isi": [
+                  "Ordonansi Nomor 9 Tahun 1949 tentang Pembatasan Kerja Anak anak (Staatsblad",
+                  "Tahun 1949 Nomor 8);"
+                ]
+              },
+              {
+                "key": "7.",
+                "isi": [
+                  "Undang undang Nomor 1 Tahun 1951 tentang Pernyataan Berlakunya Undang undang",
+                  "Kerja Tahun 1948 Nomor 12 Dari Republik Indonesia Untuk Seluruh Indonesia (Lembaran",
+                  "Negara Tahun 1951 Nomor 2);"
+                ]
+              },
+              {
+                "key": "8.",
+                "isi": [
+                  "Undang undang Nomor 21 Tahun 1954 tentang Perjanjian Perburuhan Antara Serikat",
+                  "Buruh Dan Majikan (Lembaran Negara Tahun 1954 Nomor 69, Tambahan Lembaran Negara",
+                  "Nomor 598a);"
+                ]
+              },
+              {
+                "key": "9.",
+                "isi": [
+                  "Undang-undang Nomor 3 Tahun 1958 tentang Penempatan Tenaga Asing (Lembaran",
+                  "Negara Tahun 1958 Nomor 8 );"
+                ]
+              },
+              {
+                "key": "10.",
+                "isi": [
+                  "Undang-undang Nomor 8 Tahun 1961 tentang Wajib Kerja Sarjana (Lembaran Negara",
+                  "Tahun 1961 Nomor 207, Tambahan Lembaran Negara Nomor 2270);"
+                ]
+              },
+              {
+                "key": "11.",
+                "isi": [
+                  "Undang undang Nomor 7 Pnps Tahun 1963 tentang Pencegahan Pemogokan dan/atau",
+                  "Penutupan (Lock Out) Di Perusahaan, Jawatan, dan Badan Yang Vital (Lembaran Negara Tahun",
+                  "1963 Nomor 67);"
+                ]
+              },
+              {
+                "key": "12.",
+                "isi": [
+                  "Undang undang Nomor 14 Tahun 1969 tentang Ketentuan ketentuan Pokok Mengenai",
+                  "Tenaga Kerja (Lembaran Negara Tahun 1969 Nomor 55, Tambahan Lembaran Negara Nomor",
+                  "2912);"
+                ]
+              },
+              {
+                "key": "13.",
+                "isi": [
+                  "Undang-undang Nomor 25 Tahun 1997 tentang Ketenagakerjaan (Lembaran Negara",
+                  "Tahun 1997 Nomor 73, Tambahan Lembaran Negara Nomor 3702);"
+                ]
+              },
+              {
+                "key": "14.",
+                "isi": [
+                  "Undang-undang Nomor 11 Tahun 1998 tentang Perubahan Berlakunya Undang-undang",
+                  "Nomor 25 Tahun 1997 tentang Ketenagakerjaan (Lembaran Negara Tahun 1998 Nomor 184,",
+                  "Tambahan Lembaran Negara Nomor 3791);"
+                ]
+              },
+              {
+                "key": "15.",
+                "isi": [
+                  "Undang-undang Nomor 28 Tahun 2000 tentang Penetapan Peraturan Pemerintah",
+                  "Pengganti Undang-undang Nomor 3 Tahun 2000 tentang Perubahan Atas Undang-undang",
+                  "Nomor 11 Tahun 1998 tentang Perubahan Berlakunya Undang-undang Nomor 25 Tahun 1997",
+                  "tentang Ketenaga-kerjaan Menjadi Undang-undang (Lembaran Negara Tahun 2000 Nomor 240,",
+                  "Tambahan Lembaran Negara Nomor 4042),",
+                  "dinyatakan tidak berlaku lagi."
+                ]
+              }
+            ]
+          }
         },
         {
           "key": "Pasal 193",

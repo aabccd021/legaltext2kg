@@ -26,17 +26,12 @@ def is_pengesahan_start(line: str) -> bool:
     return False
 
 
+# ayat point
 ayat_regex = r'^\([0-9]*\)'
-num_regex = r'^[0-9]*\s*\. '
-alpha_regex = r'^[a-z][\.\)]'
 
 
-def is_num_point_start(line: str) -> bool:
-    return get_num_key_int(line) == 1
-
-
-def is_alphabet_point_start(line: str) -> bool:
-    return get_alpha_key_int(line) == 97
+def is_ayat_start(line: str) -> bool:
+    return get_ayat_key_int(line) == 1
 
 
 def get_ayat_key_int(str: str) -> Union[int, None]:
@@ -48,15 +43,30 @@ def get_ayat_key_int(str: str) -> Union[int, None]:
     return int(match[0][1:-1])
 
 
+# num point
+num_regex = r'^[0-9]*\s*\.'
+
+
+def is_num_point_start(line: str) -> bool:
+    return get_num_key_int(line) == 1
+
+
 def get_num_key_int(str: str) -> Union[int, None]:
     match = re.findall(num_regex, str)
     if len(match) > 1:
         raise Exception()
     if len(match) == 0:
         return None
-
-    num_str = match[0][:-2]
+    num_str = re.findall(r'^[0-9]*', match[0])[0]
     return int(num_str)
+
+
+# alphabet point
+alpha_regex = r'^[a-z][\.\)]'
+
+
+def is_alphabet_point_start(line: str) -> bool:
+    return get_alpha_key_int(line) == 97
 
 
 def get_alpha_key_int(str: str) -> Union[int, None]:
