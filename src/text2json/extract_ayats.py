@@ -12,7 +12,7 @@ PointSplitType = typing.Literal["description", "isi"]
 
 def extract_pasal_content(lines: Iterable[str]) -> PasalContent:
     # extract ayat
-    if list(lines)[0].startswith('(1)'):
+    if is_ayat_start(list(lines)[0]):
         ayat_strs = extract_to_increment_key_list(lines, get_ayat_key_int)
         keys, contents = extract_prefixed_keys(ayat_strs, ayat_regex)
         contents = [extract_point(c) for c in contents]

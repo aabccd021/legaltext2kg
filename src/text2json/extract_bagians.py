@@ -1,6 +1,6 @@
 from typing import Iterable, List, Union
 import typing
-from text2json.regex import is_paragraf_start, is_pasal_start
+from text2json.regex import get_bagian_key_int, is_paragraf_start, is_pasal_start
 from text2json.extract_paragraphs import extract_paragraf
 from text2json.extract_pasals import extract_pasals
 
@@ -8,35 +8,9 @@ from text2json.types import Bagian
 from text2json.utils import Extractor, extract_lines, extract_to_increment_key_list
 
 
-def get_bagian_num(str: str) -> Union[None, int]:
-    if not str.startswith("Bagian "):
-        return None
-    number_str = str[7:]
-    if number_str == "Kesatu":
-        return 1
-    if number_str == "Pertama":
-        return 1
-    if number_str == "Kedua":
-        return 2
-    if number_str == "Ketiga":
-        return 3
-    if number_str == "Keempat":
-        return 4
-    if number_str == "Kelima":
-        return 5
-    if number_str == "Keenam":
-        return 6
-    if number_str == "Ketujuh":
-        return 7
-    if number_str == "Kedelapan":
-        return 8
-    if number_str == "Kesembilan":
-        return 9
-    raise Exception(str)
-
 
 def extract_bagians(lines: Iterable[str]) -> Iterable[Bagian]:
-    pasal_strs = extract_to_increment_key_list(lines, get_bagian_num)
+    pasal_strs = extract_to_increment_key_list(lines, get_bagian_key_int)
     return [to_bagian(x) for x in pasal_strs]
 
 

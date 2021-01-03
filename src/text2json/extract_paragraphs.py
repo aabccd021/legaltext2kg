@@ -1,21 +1,15 @@
 from typing import Iterable, List, Union
 import typing
-from text2json.regex import is_pasal_start
+from text2json.regex import get_paragraf_key_int, is_pasal_start
 from text2json.extract_pasals import extract_pasals
 from text2json.types import Paragraf
 
 from text2json.utils import Extractor, extract_lines, extract_to_increment_key_list, represents_int
 
 
-def get_paragraf_num(str: str) -> Union[None, int]:
-    splits = str.split(" ")
-    if len(splits) == 2 and splits[0] == "Paragraf" and represents_int(splits[1]):
-        return int(splits[1])
-    return None
-
 
 def extract_paragraf(lines: Iterable[str]) -> Iterable[Paragraf]:
-    pasal_strs = extract_to_increment_key_list(lines, get_paragraf_num)
+    pasal_strs = extract_to_increment_key_list(lines, get_paragraf_key_int)
     return [to_paragraf(x) for x in pasal_strs]
 
 
