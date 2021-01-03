@@ -11,13 +11,13 @@
                     <X:hasKey> "BAB I" ] ;
             rdf:rest ( [ a <X:bab> ;
                         <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
-                                        <X:hasPasalName> "Pasal 2" ;
-                                        rdf:first "Peraturan Gubernur ini dimaksudkan sebagai panduan" ;
-                                        rdf:rest ( "pelaksanaan PSBB dalam rangka percepatan penanganan Corona" "Virus Disease (COVID-19) di Provinsi DKI Jakarta." ) ],
-                                    [ a <X:pasal> ;
                                         <X:hasPasalName> "Pasal 3" ;
                                         rdf:first "Peraturan Gubernur ini bertujuan untuk:" ;
-                                        rdf:rest ( "a. membatasi kegiatan tertentu dan pergerakan orang dan/ atau" "barang dalam menekan penyebaran Corona Virus Disease" "(COVID-19);" "b. meningkatkan antisipasi perkembangan ekskalasi penyebaran" "Corona Virus Disease (COVID-19);" "c. memperkuat upaya penanganan kesehatan akibat Corona" "Virus Disease (COVID-19); dan" "d. menangani dampak sosial dan ekonomi dari penyebaran" "Corona Virus Disease (COVID- 19)." ) ] ] ;
+                                        rdf:rest ( "a. membatasi kegiatan tertentu dan pergerakan orang dan/ atau" "barang dalam menekan penyebaran Corona Virus Disease" "(COVID-19);" "b. meningkatkan antisipasi perkembangan ekskalasi penyebaran" "Corona Virus Disease (COVID-19);" "c. memperkuat upaya penanganan kesehatan akibat Corona" "Virus Disease (COVID-19); dan" "d. menangani dampak sosial dan ekonomi dari penyebaran" "Corona Virus Disease (COVID- 19)." ) ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalName> "Pasal 2" ;
+                                        rdf:first "Peraturan Gubernur ini dimaksudkan sebagai panduan" ;
+                                        rdf:rest ( "pelaksanaan PSBB dalam rangka percepatan penanganan Corona" "Virus Disease (COVID-19) di Provinsi DKI Jakarta." ) ] ] ;
                         <X:hasJudul> "MAKSUD DAN TUJUAN" ;
                         <X:hasKey> "BAB II" ] [ a <X:bab> ;
                         <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
@@ -35,25 +35,25 @@
                                                             rdf:first " Selama pemberlakuan PSBB, setiap orang wajib:" ;
                                                             rdf:rest ( "a. melaksanakan Perilaku Hidup Bersih dan Sehat (PHBS);" "dan" "b. menggunakan masker di luar rumah." ) ],
                                                         [ a <X:ayat> ;
-                                                            <X:hasAyatNumber> "(5)" ;
-                                                            rdf:first " Koordinasi, pengerahan sumber daya dan operasional" ;
-                                                            rdf:rest ( "pelaksanaan PSBB sebagaimana dimaksud pada ayat (1)" "dilakukan oleh Gugus Tugas Percepatan Penanganan COVID-" "19 tingkat Provinsi." ) ],
-                                                        [ a <X:ayat> ;
-                                                            <X:hasAyatNumber> "(6)" ;
-                                                            rdf:first " Jangka waktu pemberlakuan PSBB sebagaimana dimaksud" ;
-                                                            rdf:rest ( "pada ayat (1) ditetapkan dengan Keputusan Gubernur." ) ],
-                                                        [ a <X:ayat> ;
-                                                            <X:hasAyatNumber> "(2)" ;
-                                                            rdf:first " PSBB sebagaimana dimaksud pada ayat (1) dilakukan dalam" ;
-                                                            rdf:rest ( "bentuk pembatasan aktivitas luar rumah yang dilakukan oleh" "setiap orang yang berdomisili dan/ atau berkegiatan di" "Provinsi DKI Jakarta." ) ],
-                                                        [ a <X:ayat> ;
                                                             <X:hasAyatNumber> "(4)" ;
                                                             rdf:first " Pembatasan aktivitas luar rumah dalam pelaksanaan PSBB" ;
                                                             rdf:rest ( "sebagaimana dimaksud pada ayat (2) meliputi:" "a. pelaksanaan pembelajaran di Sekolah dan/atau institusi" "pendidikan lainnya;" "b. aktivitas bekerja di tempat kerja;" "c. kegiatan keagamaan di rumah ibadah;" "d. kegiatan di tempat atau fasilitas umum;" "e. kegiatan sosial dan budaya; dan" "f. pergerakan orang dan barang menggunakan moda" "transportasi." ) ],
                                                         [ a <X:ayat> ;
                                                             <X:hasAyatNumber> "(1)" ;
                                                             rdf:first " Dalam upaya mencegah meluasnya penyebaran Corona Virus" ;
-                                                            rdf:rest ( "Disease (COVID-19), Gubernur memberlakukan PSBB di" "Provinsi DKI Jakarta." ) ] ] ;
+                                                            rdf:rest ( "Disease (COVID-19), Gubernur memberlakukan PSBB di" "Provinsi DKI Jakarta." ) ],
+                                                        [ a <X:ayat> ;
+                                                            <X:hasAyatNumber> "(6)" ;
+                                                            rdf:first " Jangka waktu pemberlakuan PSBB sebagaimana dimaksud" ;
+                                                            rdf:rest ( "pada ayat (1) ditetapkan dengan Keputusan Gubernur." ) ],
+                                                        [ a <X:ayat> ;
+                                                            <X:hasAyatNumber> "(5)" ;
+                                                            rdf:first " Koordinasi, pengerahan sumber daya dan operasional" ;
+                                                            rdf:rest ( "pelaksanaan PSBB sebagaimana dimaksud pada ayat (1)" "dilakukan oleh Gugus Tugas Percepatan Penanganan COVID-" "19 tingkat Provinsi." ) ],
+                                                        [ a <X:ayat> ;
+                                                            <X:hasAyatNumber> "(2)" ;
+                                                            rdf:first " PSBB sebagaimana dimaksud pada ayat (1) dilakukan dalam" ;
+                                                            rdf:rest ( "bentuk pembatasan aktivitas luar rumah yang dilakukan oleh" "setiap orang yang berdomisili dan/ atau berkegiatan di" "Provinsi DKI Jakarta." ) ] ] ;
                                             <X:hasPasalName> "Pasal 5" ] ] [ a <X:bagian> ;
                                     <X:hasJudul> """Pembatasan Pelaksanaan Pembelajaran
 di Sekolah dan/atau Institusi Pendidikan""" ;
@@ -61,48 +61,70 @@ di Sekolah dan/atau Institusi Pendidikan""" ;
                                     <X:hasPasal> [ a <X:pasal> ;
                                             <X:hasPasalContent> [ <X:hasAyat> [ a <X:ayat> ;
                                                             <X:hasAyatNumber> "(1)" ;
-                                                            rdf:first " Dalam penghentian sementara kegiatan selama pemberlakuan" ;
-                                                            rdf:rest ( "PSBB, penanggung jawab sekolah dan institusi pendidikan" "lainnya wajib:" "a. memastikan proses pembelajaran tetap berjalan dan" "terpenuhinya hak peserta didik dalam mendapatkan" "pendidikan;" "b. melakukan pencegahan penyebaran Corona Virus Disease" "(COVID-19) di lokasi dan lingkungan sekolah dan/atau" "institusi pendidikan lainnya; dan" "c. menjaga keamanan sekolah dan/atau institusi pendidikan" "lainnya." ) ],
+                                                            rdf:first ", kegiatan, aktivitas pembelajaran, dan pelayanan" ;
+                                                            rdf:rest ( "administrasi dilaksanakan secara daring dari rumah sesuai" "ketentuan teknis dari instansi terkait." ) ],
                                                         [ a <X:ayat> ;
-                                                            <X:hasAyatNumber> "(2)" ;
-                                                            rdf:first " Upaya pencegahan penyebaran Corona Virus Disease (COVID-" ;
-                                                            rdf:rest ( "19) di lokasi dan lingkungan sekolah dan/atau institusi" "pendidikan lainnya sebagaimana dimaksud pada ayat (1)" "huruf b dilakukan secara berkala dengan cara:" "a. membersihkan dan melakukan disinfeksi sarana dan" "prasarana sekolah; dan" "b. menerapkan protokol pencegahan penyebaran Corona Virus" "Disease (COVID-19) bagi pendidik dan tenaga kependidikan" "lainnya." ) ] ] ;
-                                            <X:hasPasalName> "Pasal 8" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> [ <X:hasAyat> [ a <X:ayat> ;
-                                                            <X:hasAyatNumber> "(1)" ;
-                                                            rdf:first " Selama pemberlakuan PSBB, dilakukan penghentian" ;
-                                                            rdf:rest ( "sementara kegiatan di sekolah dan/atau institusi pendidikan" "lainnya." ) ],
-                                                        [ a <X:ayat> ;
-                                                            <X:hasAyatNumber> "(3)" ;
-                                                            rdf:first " Kegiatan dan aktivitas pelayanan administrasi sekolah" ;
-                                                            rdf:rest ( "dikerjakan dari rumah dengan bentuk pelayanan yang" "disesuaikan." ) ],
-                                                        [ a <X:ayat> ;
-                                                            <X:hasAyatNumber> "(4)" ;
-                                                            rdf:first " Teknis pelaksanaan dan evaluasi pembelajaran serta" ;
-                                                            rdf:rest ( "pelayanan administrasi sekolah selama pemberlakuan PSBB" "diatur lebih lanjut oleh Perangkat Daerah yang bertanggung" "jawab di bidang pendidikan." ) ],
-                                                        [ a <X:ayat> ;
-                                                            <X:hasAyatNumber> "(2)" ;
-                                                            rdf:first " Dalam pelaksanaan penghentian sementara kegiatan di" ;
-                                                            rdf:rest ( "sekolah sebagaimana dimaksud pada ayat (1), semua aktivitas" "pembelajaran diubah pelaksanaannya dengan melakukan" "pembelajaran di rumah/tempat tinggal masing-masing melalui" "metode pembelajaran jarak jauh." ) ] ] ;
-                                            <X:hasPasalName> "Pasal 6" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> [ <X:hasAyat> [ a <X:ayat> ;
                                                             <X:hasAyatNumber> "(3)" ;
                                                             rdf:first " Dalam pelaksanaan penghentian sementara kegiatan di" ;
                                                             rdf:rest ( "institusi pendidikan lainnya sebagaimana dimaksud pada ayat" ) ],
                                                         [ a <X:ayat> ;
                                                             <X:hasAyatNumber> "(2)" ;
                                                             rdf:first " Penghentian sementara kegiatan di institusi pendidikan" ;
-                                                            rdf:rest ( "lainnya sebagaimana dimaksud pada ayat (1), dikecualikan" "bagi lembaga pendidikan, pelatihan, penelitian yang berkaitan" "dengan pelayanan kesehatan." ) ],
+                                                            rdf:rest ( "lainnya sebagaimana dimaksud pada ayat (1), dikecualikan" "bagi lembaga pendidikan, pelatihan, penelitian yang berkaitan" "dengan pelayanan kesehatan." ) ] ] ;
+                                            <X:hasPasalName> "Pasal 7" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> [ <X:hasAyat> [ a <X:ayat> ;
+                                                            <X:hasAyatNumber> "(3)" ;
+                                                            rdf:first " Kegiatan dan aktivitas pelayanan administrasi sekolah" ;
+                                                            rdf:rest ( "dikerjakan dari rumah dengan bentuk pelayanan yang" "disesuaikan." ) ],
                                                         [ a <X:ayat> ;
                                                             <X:hasAyatNumber> "(1)" ;
-                                                            rdf:first ", kegiatan, aktivitas pembelajaran, dan pelayanan" ;
-                                                            rdf:rest ( "administrasi dilaksanakan secara daring dari rumah sesuai" "ketentuan teknis dari instansi terkait." ) ] ] ;
-                                            <X:hasPasalName> "Pasal 7" ] ] [ a <X:bagian> ;
+                                                            rdf:first " Selama pemberlakuan PSBB, dilakukan penghentian" ;
+                                                            rdf:rest ( "sementara kegiatan di sekolah dan/atau institusi pendidikan" "lainnya." ) ],
+                                                        [ a <X:ayat> ;
+                                                            <X:hasAyatNumber> "(2)" ;
+                                                            rdf:first " Dalam pelaksanaan penghentian sementara kegiatan di" ;
+                                                            rdf:rest ( "sekolah sebagaimana dimaksud pada ayat (1), semua aktivitas" "pembelajaran diubah pelaksanaannya dengan melakukan" "pembelajaran di rumah/tempat tinggal masing-masing melalui" "metode pembelajaran jarak jauh." ) ],
+                                                        [ a <X:ayat> ;
+                                                            <X:hasAyatNumber> "(4)" ;
+                                                            rdf:first " Teknis pelaksanaan dan evaluasi pembelajaran serta" ;
+                                                            rdf:rest ( "pelayanan administrasi sekolah selama pemberlakuan PSBB" "diatur lebih lanjut oleh Perangkat Daerah yang bertanggung" "jawab di bidang pendidikan." ) ] ] ;
+                                            <X:hasPasalName> "Pasal 6" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> [ <X:hasAyat> [ a <X:ayat> ;
+                                                            <X:hasAyatNumber> "(2)" ;
+                                                            rdf:first " Upaya pencegahan penyebaran Corona Virus Disease (COVID-" ;
+                                                            rdf:rest ( "19) di lokasi dan lingkungan sekolah dan/atau institusi" "pendidikan lainnya sebagaimana dimaksud pada ayat (1)" "huruf b dilakukan secara berkala dengan cara:" "a. membersihkan dan melakukan disinfeksi sarana dan" "prasarana sekolah; dan" "b. menerapkan protokol pencegahan penyebaran Corona Virus" "Disease (COVID-19) bagi pendidik dan tenaga kependidikan" "lainnya." ) ],
+                                                        [ a <X:ayat> ;
+                                                            <X:hasAyatNumber> "(1)" ;
+                                                            rdf:first " Dalam penghentian sementara kegiatan selama pemberlakuan" ;
+                                                            rdf:rest ( "PSBB, penanggung jawab sekolah dan institusi pendidikan" "lainnya wajib:" "a. memastikan proses pembelajaran tetap berjalan dan" "terpenuhinya hak peserta didik dalam mendapatkan" "pendidikan;" "b. melakukan pencegahan penyebaran Corona Virus Disease" "(COVID-19) di lokasi dan lingkungan sekolah dan/atau" "institusi pendidikan lainnya; dan" "c. menjaga keamanan sekolah dan/atau institusi pendidikan" "lainnya." ) ] ] ;
+                                            <X:hasPasalName> "Pasal 8" ] ] [ a <X:bagian> ;
                                     <X:hasJudul> "Pembatasan Aktivitas Bekerja di Tempat Kerja" ;
                                     <X:hasKey> "Bagian Ketiga" ;
                                     <X:hasPasal> [ a <X:pasal> ;
+                                            <X:hasPasalContent> [ <X:hasAyat> [ a <X:ayat> ;
+                                                            <X:hasAyatNumber> "(6)" ;
+                                                            rdf:first " Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat" ;
+                                                            rdf:rest ( "Provinsi dapat menambahkan kategori tempat kerja/kantor" "yang dikecualikan dari penghentian sementara aktivitas" "bekerja sebagaimana dimaksud pada ayat (1)." ) ],
+                                                        [ a <X:ayat> ;
+                                                            <X:hasAyatNumber> "(5)" ;
+                                                            rdf:first " Terhadap kegiatan konstruksi, pimpinan tempat kerja" ;
+                                                            rdf:rest ( "memiliki kewajiban dengan ketentuan sebagai berikut:" "a. kegiatan konstruksi yang sedang berjalan dapat dilakukan" "dengan membatasi aktivitas pekerja hanya berada di" "kawasan proyek; dan" "b. pemilik dan/ atau penyedia jasa pekerjaan konstruksi" "wajib:" "1 . menunjuk penanggungjawab dalam pelaksanaan" "pencegahan Corona Virus Disease (COVID- 19) di" "kawasan proyek;" "2. membatasi aktivitas dan interaksi pekerja hanya" "dilakukan di dalam kawasan proyek;" "3. menyediakan tempat tinggal dan kebutuhan hidup" "sehari-hari seluruh pekerja selama berada di kawasan" "proyek," "4. menyediakan ruang kesehatan di tempat kerja yang" "dilengkapi dengan sarana kesehatan yang memadai;" "5. melarang setiap orang, baik pekerja maupun tamu," "yang memiliki suhu badan di atas normal untuk" "berada di dalam lokasi kerja;" "6. menyampaikan penjelasan, anjuran, kampanye," "promosi teknik pencegahan Corona Virus Disease" "(COVID-19) dalam setiap kegiatan penyuluhan K3 pagi" "hari atau safety morning talk; dan" "7. melakukan pemantauan secara berkala kesehatan" "pekerja selama berada di kawasan proyek." "11" ) ],
+                                                        [ a <X:ayat> ;
+                                                            <X:hasAyatNumber> "(1)" ;
+                                                            rdf:first " Dikecualikan dari penghentian sementara aktivitas bekerja di" ;
+                                                            rdf:rest ( "tempat kerja/kantor sebagaimana dimaksud dalam Pasal 9" "ayat (1), bagi tempat kerja/kantor dengan kategori:" "a. seluruh kantor/instansi pemerintahan, baik pusat maupun" "daerah berdasarkan pengaturan dari kementerian terkait;" "b. kantor Perwakilan Negara Asing dan/atau Organisasi" "Internasional dalam menjalankan fungsi diplomatik dan" "konsuler serta fungsi lainnya sesuai ketentuan hukum" "internasional;" "c. Badan Usaha Milik Negara/Daerah yang turut serta dalam" "penanganan Corona Virus Disease (COVID-19) dan/atau" "dalam pemenuhan kebutuhan pokok masyarakat" "mengikuti pengaturan dari kementerian terkait dan/atau" "Pemerintah Provinsi DKI Jakarta;" "d. pelaku usaha yang bergerak pada sektor:" "1. kesehatan;" "2. bahan pangan/ makanan/ minuman;" "3. energi;" "4. komunikasi dan teknologi informasi;" "5. keuangan;" "6. logistik;" "7. perhotelan;" "8. konstruksi;" "9. industri strategis;" "10. pelayanan dasar, utilitas publik dan industri yang" "ditetapkan sebagai objek vital nasional dan objek" "tertentu; dan/atau" "11. kebutuhan sehari-hari." "e. organisasi kemasyarakatan lokal dan internasional yang" "bergerak pada sektor kebencanaan dan/atau sosial." ) ],
+                                                        [ a <X:ayat> ;
+                                                            <X:hasAyatNumber> "(4)" ;
+                                                            rdf:first " Terhadap kegiatan perhotelan, penanggungjawab hotel wajib:" ;
+                                                            rdf:rest ( "a. menyediakan layanan khusus bagi tamu yang ingin" "melakukan isolasi mandiri;" "b. membatasi tamu hanya dapat beraktivitas dalam kamar" "hotel dengan memanfaatkan layanan kamar (room service);" "c. meniadakan aktivitas dan/ atau menutup fasilitas layanan" "hotel yang dapat menciptakan kerumunan orang dalam" "area hotel;" "d. melarang tamu yang sakit atau menunjukan suhu tubuh" "diatas normal, batuk, pilek, diare dan sesak nafas untuk" "masuk hotel; dan" "e. mengharuskan karyawan menggunakan masker, sarung" "tangan dan pakaian kerja sesuai pedoman keselamatan" "dan kesehatan kerja." ) ],
+                                                        [ a <X:ayat> ;
+                                                            <X:hasAyatNumber> "(2)" ;
+                                                            rdf:first " Dalam hal melakukan pengecualian terhadap penghentian" ;
+                                                            rdf:rest ( "sementara aktivitas bekerja di tempat kerja/kantor" "sebagaimana dimaksud pada ayat (1), pimpinan tempat kerja" "wajib melakukan:" "a. pembatasan interaksi dalam aktivitas kerja;" "b. pembatasan setiap orang yang mempunyai penyakit" "penyerta dan/atau kondisi yang dapat berakibat fatal" "apabila terpapar Corona Virus Disease (COVID-19) untuk" "melakukan kegiatan di tempat kerja, antara lain:" "1. penderita tekanan darah tinggi;" "2. pengidap penyakit jantung;" "3. pengidap diabetes;" "4. penderita penyakit paru-paru;" "5. penderita kanker;" "6. ibu hamil; dan" "7. usia lebih dari 60 (enam puluh) tahun." "c. penerapan protokol pencegahan penyebaran Corona Virus" "Disease (COVID-19) di tempat kerja, meliputi:" "1. memastikan tempat kerja selalu dalam keadaan bersih" "dan higienis;" "2. memiliki kerjasama operasional perlindungan kesehatan" "dan pencegahan Corona Virus Disease (COVID-19)" "dengan fasilitas pelayanan kesehatan terdekat untuk" "tindakan darurat;" "3. menyediakan vaksin, vitamin dan nutrisi tambahan" "guna meningkatkan imunitas pekerja;" "4. melakukan disinfeksi secara berkala pada lantai," "dinding dan perangkat bangunan tempat kerja;" "5. melakukan deteksi dan pemantauan suhu tubuh" "karyawan yang memasuki tempat kerja serta" "memastikan karyawan yang bekerja di tempat kerja" "tidak sedang mengalami suhu tubuh diatas normal atau" "sakit;" "6. mengharuskan cuci tangan dengan sabun dan/atau" "pembersih tangan" "(hand sanitizer)" "termasuk" "menyediakan fasilitas cuci tangan yang memadai dan" "mudah di akses pada tempat kerja;" "7. menjaga jarak antar sesama karyawan (physical" "distancing) paling sedikit dalam rentang 1 (satu) meter;" "8. melakukan penyebaran informasi serta anjuran/" "himbauan pencegahan Corona Virus Disease (COVID-19)" "untuk disebarluaskan pada lokasi strategis di tempat" "kerja; dan" "9. dalam hal ditemukan adanya karyawan di tempat kerja" "yang menjadi pasien dalam pengawasan, maka:" "a) aktivitas pekerjaan di tempat kerja harus dihentikan" "sementara paling sedikit 14 (empat belas) hari kerja;" "b) petugas medis dibantu satuan pengaman melakukan" "evakuasi dan penyemprotan disinfektan pada seluruh" "tempat, fasilitas dan peralatan kerja; dan" "c) penghentian sementara dilakukan hingga proses" "evakuasi dan penyemprotan disinfektan, serta" "pelaksanaan pemeriksaan kesehatan dan isolasi" "tenaga kerja yang pernah melakukan kontak fisik" "dengan tenaga kerja yang terpapar Corona Virus" "Disease (COVID-19) telah selesai." "Terhadap kegiatan penyediaan makanan dan minuman," "penanggungjawab restoran/ rumah makan/ usaha sej enis" "memiliki kewajiban untuk:" "a. membatasi layanan hanya untuk dibawa pulang secara" "langsung" "(take away)," "melalui pemesanan secara" "daring,dan/atau dengan fasilitas telepon/layanan antar;" "b. menjaga jarak antrean berdiri maupun duduk paling" "sedikit 1 (satu) meter antar pelanggan;" "c. menerapkan prinsip higiene sanitasi pangan dalam proses" "penanganan pangan sesuai ketentuan;" "d. menyediakan alat bantu seperti sarung tangan dan/atau" "penjepit makanan untuk meminimalkan kontak langsung" "dengan makanan siap saji dalam proses persiapan," "pengolahan dan penyajian;" "e. memastikan kecukupan proses pemanasan dalam" "pengolahan makanan sesuai standar;" "f. melakukan pembersihan area kerja, fasilitas dan" "peralatan, khususnya yang memiliki permukaan yang" "bersentuhan langsung dengan makanan;" "g. menyediakan tempat cuci tangan dengan sabun bagi" "pelanggan dan pegawai;" "h. melarang bekerja karyawan yang sakit atau menunjukkan" "suhu tubuh diatas normal, batuk, pilek, diare dan sesak" "nafas; dan" "i. mengharuskan bagi penjamah makanan menggunakan" "sarung tangan, masker kepala dan pakaian kerja sesuai" "pedoman keselamatan dan kesehatan kerja." "10" ) ] ] ;
+                                            <X:hasPasalName> "Pasal 10" ],
+                                        [ a <X:pasal> ;
                                             <X:hasPasalContent> [ <X:hasAyat> [ a <X:ayat> ;
                                                             <X:hasAyatNumber> "(4)" ;
                                                             rdf:first " Upaya pencegahan penyebaran Corona Virus Disease (COVID-" ;
@@ -112,36 +134,14 @@ di Sekolah dan/atau Institusi Pendidikan""" ;
                                                             rdf:first " Pimpinan tempat kerja yang melakukan penghentian" ;
                                                             rdf:rest ( "sementara aktivitas bekerja di tempat kerja sebagaimana" "dimaksud pada ayat (2) wajib:" "a. menjaga agar pelayanan yang diberikan dan/atau aktivitas" "usaha tetap berjalan secara terbatas;" "b. menjaga produktivitas/kinerja pekerja;" "c. melakukan pencegahan penyebaran Corona Virus Disease" "(COVID-19) di lokasi dan lingkungan tempat kerja;" "d. menjaga keamanan lokasi dan lingkungan sekitar tempat" "kerja; dan" "e. memberikan perlindungan kepada pekerja yang terpapar" "Corona Virus Disease (COVID-19) sesuai dengan ketentuan" "peraturan perundang-undangan." ) ],
                                                         [ a <X:ayat> ;
-                                                            <X:hasAyatNumber> "(2)" ;
-                                                            rdf:first " Selama penghentian sementara aktivitas bekerja di tempat" ;
-                                                            rdf:rest ( "kerja/kantor sebagaimana dimaksud pada ayat (1), wajib" "mengganti aktivitas bekerja di tempat kerja dengan aktivitas" "bekerja di rumah/tempat tinggal." ) ],
-                                                        [ a <X:ayat> ;
                                                             <X:hasAyatNumber> "(1)" ;
                                                             rdf:first " Selama pemberlakuan PSBB, dilakukan penghentian" ;
-                                                            rdf:rest ( "sementara aktivitas bekerja di tempat kerja/kantor." ) ] ] ;
-                                            <X:hasPasalName> "Pasal 9" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> [ <X:hasAyat> [ a <X:ayat> ;
-                                                            <X:hasAyatNumber> "(5)" ;
-                                                            rdf:first " Terhadap kegiatan konstruksi, pimpinan tempat kerja" ;
-                                                            rdf:rest ( "memiliki kewajiban dengan ketentuan sebagai berikut:" "a. kegiatan konstruksi yang sedang berjalan dapat dilakukan" "dengan membatasi aktivitas pekerja hanya berada di" "kawasan proyek; dan" "b. pemilik dan/ atau penyedia jasa pekerjaan konstruksi" "wajib:" "1 . menunjuk penanggungjawab dalam pelaksanaan" "pencegahan Corona Virus Disease (COVID- 19) di" "kawasan proyek;" "2. membatasi aktivitas dan interaksi pekerja hanya" "dilakukan di dalam kawasan proyek;" "3. menyediakan tempat tinggal dan kebutuhan hidup" "sehari-hari seluruh pekerja selama berada di kawasan" "proyek," "4. menyediakan ruang kesehatan di tempat kerja yang" "dilengkapi dengan sarana kesehatan yang memadai;" "5. melarang setiap orang, baik pekerja maupun tamu," "yang memiliki suhu badan di atas normal untuk" "berada di dalam lokasi kerja;" "6. menyampaikan penjelasan, anjuran, kampanye," "promosi teknik pencegahan Corona Virus Disease" "(COVID-19) dalam setiap kegiatan penyuluhan K3 pagi" "hari atau safety morning talk; dan" "7. melakukan pemantauan secara berkala kesehatan" "pekerja selama berada di kawasan proyek." "11" ) ],
-                                                        [ a <X:ayat> ;
-                                                            <X:hasAyatNumber> "(4)" ;
-                                                            rdf:first " Terhadap kegiatan perhotelan, penanggungjawab hotel wajib:" ;
-                                                            rdf:rest ( "a. menyediakan layanan khusus bagi tamu yang ingin" "melakukan isolasi mandiri;" "b. membatasi tamu hanya dapat beraktivitas dalam kamar" "hotel dengan memanfaatkan layanan kamar (room service);" "c. meniadakan aktivitas dan/ atau menutup fasilitas layanan" "hotel yang dapat menciptakan kerumunan orang dalam" "area hotel;" "d. melarang tamu yang sakit atau menunjukan suhu tubuh" "diatas normal, batuk, pilek, diare dan sesak nafas untuk" "masuk hotel; dan" "e. mengharuskan karyawan menggunakan masker, sarung" "tangan dan pakaian kerja sesuai pedoman keselamatan" "dan kesehatan kerja." ) ],
+                                                            rdf:rest ( "sementara aktivitas bekerja di tempat kerja/kantor." ) ],
                                                         [ a <X:ayat> ;
                                                             <X:hasAyatNumber> "(2)" ;
-                                                            rdf:first " Dalam hal melakukan pengecualian terhadap penghentian" ;
-                                                            rdf:rest ( "sementara aktivitas bekerja di tempat kerja/kantor" "sebagaimana dimaksud pada ayat (1), pimpinan tempat kerja" "wajib melakukan:" "a. pembatasan interaksi dalam aktivitas kerja;" "b. pembatasan setiap orang yang mempunyai penyakit" "penyerta dan/atau kondisi yang dapat berakibat fatal" "apabila terpapar Corona Virus Disease (COVID-19) untuk" "melakukan kegiatan di tempat kerja, antara lain:" "1. penderita tekanan darah tinggi;" "2. pengidap penyakit jantung;" "3. pengidap diabetes;" "4. penderita penyakit paru-paru;" "5. penderita kanker;" "6. ibu hamil; dan" "7. usia lebih dari 60 (enam puluh) tahun." "c. penerapan protokol pencegahan penyebaran Corona Virus" "Disease (COVID-19) di tempat kerja, meliputi:" "1. memastikan tempat kerja selalu dalam keadaan bersih" "dan higienis;" "2. memiliki kerjasama operasional perlindungan kesehatan" "dan pencegahan Corona Virus Disease (COVID-19)" "dengan fasilitas pelayanan kesehatan terdekat untuk" "tindakan darurat;" "3. menyediakan vaksin, vitamin dan nutrisi tambahan" "guna meningkatkan imunitas pekerja;" "4. melakukan disinfeksi secara berkala pada lantai," "dinding dan perangkat bangunan tempat kerja;" "5. melakukan deteksi dan pemantauan suhu tubuh" "karyawan yang memasuki tempat kerja serta" "memastikan karyawan yang bekerja di tempat kerja" "tidak sedang mengalami suhu tubuh diatas normal atau" "sakit;" "6. mengharuskan cuci tangan dengan sabun dan/atau" "pembersih tangan" "(hand sanitizer)" "termasuk" "menyediakan fasilitas cuci tangan yang memadai dan" "mudah di akses pada tempat kerja;" "7. menjaga jarak antar sesama karyawan (physical" "distancing) paling sedikit dalam rentang 1 (satu) meter;" "8. melakukan penyebaran informasi serta anjuran/" "himbauan pencegahan Corona Virus Disease (COVID-19)" "untuk disebarluaskan pada lokasi strategis di tempat" "kerja; dan" "9. dalam hal ditemukan adanya karyawan di tempat kerja" "yang menjadi pasien dalam pengawasan, maka:" "a) aktivitas pekerjaan di tempat kerja harus dihentikan" "sementara paling sedikit 14 (empat belas) hari kerja;" "b) petugas medis dibantu satuan pengaman melakukan" "evakuasi dan penyemprotan disinfektan pada seluruh" "tempat, fasilitas dan peralatan kerja; dan" "c) penghentian sementara dilakukan hingga proses" "evakuasi dan penyemprotan disinfektan, serta" "pelaksanaan pemeriksaan kesehatan dan isolasi" "tenaga kerja yang pernah melakukan kontak fisik" "dengan tenaga kerja yang terpapar Corona Virus" "Disease (COVID-19) telah selesai." "Terhadap kegiatan penyediaan makanan dan minuman," "penanggungjawab restoran/ rumah makan/ usaha sej enis" "memiliki kewajiban untuk:" "a. membatasi layanan hanya untuk dibawa pulang secara" "langsung" "(take away)," "melalui pemesanan secara" "daring,dan/atau dengan fasilitas telepon/layanan antar;" "b. menjaga jarak antrean berdiri maupun duduk paling" "sedikit 1 (satu) meter antar pelanggan;" "c. menerapkan prinsip higiene sanitasi pangan dalam proses" "penanganan pangan sesuai ketentuan;" "d. menyediakan alat bantu seperti sarung tangan dan/atau" "penjepit makanan untuk meminimalkan kontak langsung" "dengan makanan siap saji dalam proses persiapan," "pengolahan dan penyajian;" "e. memastikan kecukupan proses pemanasan dalam" "pengolahan makanan sesuai standar;" "f. melakukan pembersihan area kerja, fasilitas dan" "peralatan, khususnya yang memiliki permukaan yang" "bersentuhan langsung dengan makanan;" "g. menyediakan tempat cuci tangan dengan sabun bagi" "pelanggan dan pegawai;" "h. melarang bekerja karyawan yang sakit atau menunjukkan" "suhu tubuh diatas normal, batuk, pilek, diare dan sesak" "nafas; dan" "i. mengharuskan bagi penjamah makanan menggunakan" "sarung tangan, masker kepala dan pakaian kerja sesuai" "pedoman keselamatan dan kesehatan kerja." "10" ) ],
-                                                        [ a <X:ayat> ;
-                                                            <X:hasAyatNumber> "(1)" ;
-                                                            rdf:first " Dikecualikan dari penghentian sementara aktivitas bekerja di" ;
-                                                            rdf:rest ( "tempat kerja/kantor sebagaimana dimaksud dalam Pasal 9" "ayat (1), bagi tempat kerja/kantor dengan kategori:" "a. seluruh kantor/instansi pemerintahan, baik pusat maupun" "daerah berdasarkan pengaturan dari kementerian terkait;" "b. kantor Perwakilan Negara Asing dan/atau Organisasi" "Internasional dalam menjalankan fungsi diplomatik dan" "konsuler serta fungsi lainnya sesuai ketentuan hukum" "internasional;" "c. Badan Usaha Milik Negara/Daerah yang turut serta dalam" "penanganan Corona Virus Disease (COVID-19) dan/atau" "dalam pemenuhan kebutuhan pokok masyarakat" "mengikuti pengaturan dari kementerian terkait dan/atau" "Pemerintah Provinsi DKI Jakarta;" "d. pelaku usaha yang bergerak pada sektor:" "1. kesehatan;" "2. bahan pangan/ makanan/ minuman;" "3. energi;" "4. komunikasi dan teknologi informasi;" "5. keuangan;" "6. logistik;" "7. perhotelan;" "8. konstruksi;" "9. industri strategis;" "10. pelayanan dasar, utilitas publik dan industri yang" "ditetapkan sebagai objek vital nasional dan objek" "tertentu; dan/atau" "11. kebutuhan sehari-hari." "e. organisasi kemasyarakatan lokal dan internasional yang" "bergerak pada sektor kebencanaan dan/atau sosial." ) ],
-                                                        [ a <X:ayat> ;
-                                                            <X:hasAyatNumber> "(6)" ;
-                                                            rdf:first " Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat" ;
-                                                            rdf:rest ( "Provinsi dapat menambahkan kategori tempat kerja/kantor" "yang dikecualikan dari penghentian sementara aktivitas" "bekerja sebagaimana dimaksud pada ayat (1)." ) ] ] ;
-                                            <X:hasPasalName> "Pasal 10" ] ] [ a <X:bagian> ;
+                                                            rdf:first " Selama penghentian sementara aktivitas bekerja di tempat" ;
+                                                            rdf:rest ( "kerja/kantor sebagaimana dimaksud pada ayat (1), wajib" "mengganti aktivitas bekerja di tempat kerja dengan aktivitas" "bekerja di rumah/tempat tinggal." ) ] ] ;
+                                            <X:hasPasalName> "Pasal 9" ] ] [ a <X:bagian> ;
                                     <X:hasJudul> "Pembatasan Kegiatan Keagamaan di Rumah Ibadah" ;
                                     <X:hasKey> "Bagian Keempat" ;
                                     <X:hasPasal> [ a <X:pasal> ;
@@ -160,44 +160,30 @@ di Sekolah dan/atau Institusi Pendidikan""" ;
                                             <X:hasPasalName> "Pasal 11" ],
                                         [ a <X:pasal> ;
                                             <X:hasPasalContent> [ <X:hasAyat> [ a <X:ayat> ;
-                                                            <X:hasAyatNumber> "(2)" ;
-                                                            rdf:first " Upaya pencegahan penyebaran Corona Virus Disease (COVID-" ;
-                                                            rdf:rest ( "19) di rumah ibadah sebagaimana dimaksud pada ayat (1)" "huruf b dilakukan secara berkala dengan cara:" "a. membersihkan rumah ibadah dan lingkungan sekitarnya;" "b. melakukan disinfeksi pada lantai, dinding, dan perangkat" "bangunan rumah ibadah; dan" "c. menutup akses masuk bagi pihak-pihak yang tidak" "berkepentingan." "12" ) ],
-                                                        [ a <X:ayat> ;
                                                             <X:hasAyatNumber> "(1)" ;
                                                             rdf:first " Selama pemberlakuan PSBB, penanggung jawab rumah" ;
-                                                            rdf:rest ( "ibadah wajib:" "a. memberikan edukasi atau pengertian kepada jamaah" "masing-masing untuk tetap melakukan kegiataan" "keagamaan di rumah;" "b. melakukan pencegahan penyebaran Corona Virus Disease" "(COVID-19) di rumah ibadah masing-masing; dan" "c. menjaga keamanan rumah ibadah masing-masing." ) ] ] ;
+                                                            rdf:rest ( "ibadah wajib:" "a. memberikan edukasi atau pengertian kepada jamaah" "masing-masing untuk tetap melakukan kegiataan" "keagamaan di rumah;" "b. melakukan pencegahan penyebaran Corona Virus Disease" "(COVID-19) di rumah ibadah masing-masing; dan" "c. menjaga keamanan rumah ibadah masing-masing." ) ],
+                                                        [ a <X:ayat> ;
+                                                            <X:hasAyatNumber> "(2)" ;
+                                                            rdf:first " Upaya pencegahan penyebaran Corona Virus Disease (COVID-" ;
+                                                            rdf:rest ( "19) di rumah ibadah sebagaimana dimaksud pada ayat (1)" "huruf b dilakukan secara berkala dengan cara:" "a. membersihkan rumah ibadah dan lingkungan sekitarnya;" "b. melakukan disinfeksi pada lantai, dinding, dan perangkat" "bangunan rumah ibadah; dan" "c. menutup akses masuk bagi pihak-pihak yang tidak" "berkepentingan." "12" ) ] ] ;
                                             <X:hasPasalName> "Pasal 12" ] ] [ a <X:bagian> ;
                                     <X:hasJudul> "Pembatasan Kegiatan di Tempat atau Fasilitas umum" ;
                                     <X:hasKey> "Bagian Kelima" ;
                                     <X:hasPasal> [ a <X:pasal> ;
                                             <X:hasPasalContent> [ <X:hasAyat> [ a <X:ayat> ;
-                                                            <X:hasAyatNumber> "(2)" ;
-                                                            rdf:first " Pengelola tempat atau fasilitas umum wajib menutup" ;
-                                                            rdf:rest ( "sementara tempat atau fasilitas umum untuk kegiatan" "penduduk selama pemberlakuan PSBB." "Dikecualikan dari larangan kegiatan di tempat atau fasilitas" "umum sebagaimana dimaksud pada ayat (1), kegiatan" "penduduk untuk:" "a. memenuhi kebutuhan pokok dan/atau kebutuhan sehari-" "hari; dan" "b. melakukan kegiatan olahraga secara mandiri." ) ],
+                                                            <X:hasAyatNumber> "(4)" ;
+                                                            rdf:first " Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat" ;
+                                                            rdf:rest ( "Provinsi dapat menambahkan kategori kegiatan penduduk" "yang dikecualikan dari larangan kegiatan di tempat atau" "fasilitas umum sebagaimana dimaksud pada ayat (3)." ) ],
                                                         [ a <X:ayat> ;
                                                             <X:hasAyatNumber> "(1)" ;
                                                             rdf:first " Selama pemberlakuan PSBB, penduduk dilarang melakukan" ;
                                                             rdf:rest ( "kegiatan dengan jumlah lebih dari 5 (lima) orang di tempat" "atau fasilitas umum." ) ],
                                                         [ a <X:ayat> ;
-                                                            <X:hasAyatNumber> "(4)" ;
-                                                            rdf:first " Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat" ;
-                                                            rdf:rest ( "Provinsi dapat menambahkan kategori kegiatan penduduk" "yang dikecualikan dari larangan kegiatan di tempat atau" "fasilitas umum sebagaimana dimaksud pada ayat (3)." ) ] ] ;
-                                            <X:hasPasalName> "Pasal 13" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> [ <X:hasAyat> [ a <X:ayat> ;
-                                                            <X:hasAyatNumber> "(3)" ;
-                                                            rdf:first "" ;
-                                                            rdf:rest ( "13" "b. turut menjaga stabilitas ekonomi dan kemampuan daya beli" "konsumen barang dengan tidak menaikkan harga barang;" "c. melakukan disinfeksi secara berkala pada tempat usaha;" "d. melakukan deteksi dan pemantauan suhu tubuh karyawan" "dan 	konsumen yang memasuki pasar/ toko serta" "memastikan karyawan yang bekerja tidak sedang" "mengalami demam ringan atau sakit;" "e. menerapkan pembatasan jarak antar sesama konsumen" "(physical distancing) yang datang ke pasar/toko paling" "sedikit dalam rentang 1 (satu) meter;" "f. mewajibkan setiap karyawan untuk menggunakan pakaian" "kerja sesuai pedoman keselamatan dan kesehatan kerja;" "dan" "melaksanakan anjuran cuci tangan dengan sabun dan/atau" "pembersih tangan (hand sanitizer) termasuk menyediakan" "fasilitas cuci tangan yang memadai dan mudah diakses oleh" "konsumen dan karyawan." ) ],
-                                                        [ a <X:ayat> ;
-                                                            <X:hasAyatNumber> "(1)" ;
-                                                            rdf:first " Pemenuhan kebutuhan pokok sebagaimana dimaksud dalam" ;
-                                                            rdf:rest ( "Pasal 13 ayat (3) huruf a, meliputi kegiatan penyediaan," "pengolahan, penyaluran dan/atau pengiriman:" "a. bahan pangan/makanan/minuman;" "b. energi;" "c. komunikasi dan teknologi informasi;" "d. keuangan, perbankan dan sistem pembayaran; dan/atau" "e. logistik." ) ],
-                                                        [ a <X:ayat> ;
                                                             <X:hasAyatNumber> "(2)" ;
-                                                            rdf:first " Pemenuhan kebutuhan sehari-hari sebagaimana dimaksud" ;
-                                                            rdf:rest ( "dalam Pasal 13 ayat (3) huruf a, meliputi:" "a. penyediaan barang retail di:" "1. pasar rakyat;" "2. toko swalayan, berjenis minimarket, supermarket," "hypermarket, perkulakan dan toko khusus baik yang" "berdiri sendiri maupun yang berada di pusat" "perbelanjaan; atau" "3. toko/warung kelontong." "b. jasa binatu (laundry)." ) ] ] ;
-                                            <X:hasPasalName> "Pasal 14" ],
+                                                            rdf:first " Pengelola tempat atau fasilitas umum wajib menutup" ;
+                                                            rdf:rest ( "sementara tempat atau fasilitas umum untuk kegiatan" "penduduk selama pemberlakuan PSBB." "Dikecualikan dari larangan kegiatan di tempat atau fasilitas" "umum sebagaimana dimaksud pada ayat (1), kegiatan" "penduduk untuk:" "a. memenuhi kebutuhan pokok dan/atau kebutuhan sehari-" "hari; dan" "b. melakukan kegiatan olahraga secara mandiri." ) ] ] ;
+                                            <X:hasPasalName> "Pasal 13" ],
                                         [ a <X:pasal> ;
                                             <X:hasPasalContent> [ <X:hasAyat> [ a <X:ayat> ;
                                                             <X:hasAyatNumber> "(2)" ;
@@ -207,22 +193,42 @@ di Sekolah dan/atau Institusi Pendidikan""" ;
                                                             <X:hasAyatNumber> "(1)" ;
                                                             rdf:first " Kegiatan olahraga secara mandiri sebagaimana dimaksud" ;
                                                             rdf:rest ( "dalam Pasal 13 ayat (3) huruf b, dapat dilakukan secara" "terbatas oleh penduduk di luar rumah selama pemberlakuan" "PSBB." ) ] ] ;
-                                            <X:hasPasalName> "Pasal 15" ] ] [ a <X:bagian> ;
+                                            <X:hasPasalName> "Pasal 15" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> [ <X:hasAyat> [ a <X:ayat> ;
+                                                            <X:hasAyatNumber> "(1)" ;
+                                                            rdf:first " Pemenuhan kebutuhan pokok sebagaimana dimaksud dalam" ;
+                                                            rdf:rest ( "Pasal 13 ayat (3) huruf a, meliputi kegiatan penyediaan," "pengolahan, penyaluran dan/atau pengiriman:" "a. bahan pangan/makanan/minuman;" "b. energi;" "c. komunikasi dan teknologi informasi;" "d. keuangan, perbankan dan sistem pembayaran; dan/atau" "e. logistik." ) ],
+                                                        [ a <X:ayat> ;
+                                                            <X:hasAyatNumber> "(2)" ;
+                                                            rdf:first " Pemenuhan kebutuhan sehari-hari sebagaimana dimaksud" ;
+                                                            rdf:rest ( "dalam Pasal 13 ayat (3) huruf a, meliputi:" "a. penyediaan barang retail di:" "1. pasar rakyat;" "2. toko swalayan, berjenis minimarket, supermarket," "hypermarket, perkulakan dan toko khusus baik yang" "berdiri sendiri maupun yang berada di pusat" "perbelanjaan; atau" "3. toko/warung kelontong." "b. jasa binatu (laundry)." ) ],
+                                                        [ a <X:ayat> ;
+                                                            <X:hasAyatNumber> "(3)" ;
+                                                            rdf:first "" ;
+                                                            rdf:rest ( "13" "b. turut menjaga stabilitas ekonomi dan kemampuan daya beli" "konsumen barang dengan tidak menaikkan harga barang;" "c. melakukan disinfeksi secara berkala pada tempat usaha;" "d. melakukan deteksi dan pemantauan suhu tubuh karyawan" "dan 	konsumen yang memasuki pasar/ toko serta" "memastikan karyawan yang bekerja tidak sedang" "mengalami demam ringan atau sakit;" "e. menerapkan pembatasan jarak antar sesama konsumen" "(physical distancing) yang datang ke pasar/toko paling" "sedikit dalam rentang 1 (satu) meter;" "f. mewajibkan setiap karyawan untuk menggunakan pakaian" "kerja sesuai pedoman keselamatan dan kesehatan kerja;" "dan" "melaksanakan anjuran cuci tangan dengan sabun dan/atau" "pembersih tangan (hand sanitizer) termasuk menyediakan" "fasilitas cuci tangan yang memadai dan mudah diakses oleh" "konsumen dan karyawan." ) ] ] ;
+                                            <X:hasPasalName> "Pasal 14" ] ] [ a <X:bagian> ;
                                     <X:hasJudul> "Pembatasan Kegiatan Sosial dan Budaya" ;
                                     <X:hasKey> "Bagian Keenam" ;
                                     <X:hasPasal> [ a <X:pasal> ;
                                             <X:hasPasalContent> [ <X:hasAyat> [ a <X:ayat> ;
-                                                            <X:hasAyatNumber> "(5)" ;
-                                                            rdf:first " Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat" ;
-                                                            rdf:rest ( "Provinsi dapat menambahkan kategori kegiatan penduduk" "yang dikecualikan dari penghentian atas kegiatan sosial dan" "budaya sebagaimana dimaksud pada ayat (1)." ) ],
+                                                            <X:hasAyatNumber> "(2)" ;
+                                                            rdf:first " Kegiatan sosial dan budaya sebagaimana dimaksud pada ayat" ;
+                                                            rdf:rest () ],
                                                         [ a <X:ayat> ;
+                                                            <X:hasAyatNumber> "(1)" ;
+                                                            rdf:first " termasuk pula kegiatan yang berkaitan perkumpulan atau" ;
+                                                            rdf:rest ( "pertemuan:" "a. politik;" "b. olahraga;" "c. hiburan;" "d. akademik; dan" "e. budaya." ) ] ] ;
+                                            <X:hasPasalName> "Pasal 16" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> [ <X:hasAyat> [ a <X:ayat> ;
                                                             <X:hasAyatNumber> "(1)" ;
                                                             rdf:first " Dikecualikan dari penghentian atas kegiatan sosial dan" ;
                                                             rdf:rest ( "budaya sebagaimana dimaksud dalam Pasal 16 ayat (1)," "untuk kegiatan:" "a. khitan;" "b. pernikahan; dan" "c. pemakaman dan/ atau takziah kematian yang bukan karena" "Corona Virus Disease (COVID- 19)." "g." "14" ) ],
                                                         [ a <X:ayat> ;
-                                                            <X:hasAyatNumber> "(3)" ;
-                                                            rdf:first " Pelaksanaan kegiatan pernikahan sebagaimana dimaksud" ;
-                                                            rdf:rest ( "pada ayat (1) huruf b, dilaksanakan dengan ketentuan:" "a. dilakukan di KUA dan/atau Kantor Catatan Sipil;" "b. dihadiri oleh kalangan terbatas;" "c. meniadakan acara resepsi pernikahan yang mengundang" "keramaian; dan" "d. menjaga jarak antar pihak yang hadir (physical distancing)" "paling sedikit dalam rentang 1 (satu) meter." ) ],
+                                                            <X:hasAyatNumber> "(5)" ;
+                                                            rdf:first " Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat" ;
+                                                            rdf:rest ( "Provinsi dapat menambahkan kategori kegiatan penduduk" "yang dikecualikan dari penghentian atas kegiatan sosial dan" "budaya sebagaimana dimaksud pada ayat (1)." ) ],
                                                         [ a <X:ayat> ;
                                                             <X:hasAyatNumber> "(2)" ;
                                                             rdf:first " Pelaksanaan kegiatan khitan sebagaimana dimaksud pada" ;
@@ -230,54 +236,48 @@ di Sekolah dan/atau Institusi Pendidikan""" ;
                                                         [ a <X:ayat> ;
                                                             <X:hasAyatNumber> "(4)" ;
                                                             rdf:first " Pelaksanaan kegiatan pemakaman dan/atau takziah kematian" ;
-                                                            rdf:rest ( "yang bukan karena Corona Virus Disease (COVID- 19)" "sebagaimana dimaksud pada ayat (1) huruf c, dilaksanakan" "dengan ketentuan:" "a. dilakukan di rumah duka;" "b. dihadiri oleh kalangan terbatas; dan" "c. menjaga jarak antar pihak yang hadir (physical distancing)" "paling sedikit dalam rentang 1 (satu) meter." ) ] ] ;
-                                            <X:hasPasalName> "Pasal 17" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> [ <X:hasAyat> [ a <X:ayat> ;
-                                                            <X:hasAyatNumber> "(1)" ;
-                                                            rdf:first " termasuk pula kegiatan yang berkaitan perkumpulan atau" ;
-                                                            rdf:rest ( "pertemuan:" "a. politik;" "b. olahraga;" "c. hiburan;" "d. akademik; dan" "e. budaya." ) ],
+                                                            rdf:rest ( "yang bukan karena Corona Virus Disease (COVID- 19)" "sebagaimana dimaksud pada ayat (1) huruf c, dilaksanakan" "dengan ketentuan:" "a. dilakukan di rumah duka;" "b. dihadiri oleh kalangan terbatas; dan" "c. menjaga jarak antar pihak yang hadir (physical distancing)" "paling sedikit dalam rentang 1 (satu) meter." ) ],
                                                         [ a <X:ayat> ;
-                                                            <X:hasAyatNumber> "(2)" ;
-                                                            rdf:first " Kegiatan sosial dan budaya sebagaimana dimaksud pada ayat" ;
-                                                            rdf:rest () ] ] ;
-                                            <X:hasPasalName> "Pasal 16" ] ] [ a <X:bagian> ;
+                                                            <X:hasAyatNumber> "(3)" ;
+                                                            rdf:first " Pelaksanaan kegiatan pernikahan sebagaimana dimaksud" ;
+                                                            rdf:rest ( "pada ayat (1) huruf b, dilaksanakan dengan ketentuan:" "a. dilakukan di KUA dan/atau Kantor Catatan Sipil;" "b. dihadiri oleh kalangan terbatas;" "c. meniadakan acara resepsi pernikahan yang mengundang" "keramaian; dan" "d. menjaga jarak antar pihak yang hadir (physical distancing)" "paling sedikit dalam rentang 1 (satu) meter." ) ] ] ;
+                                            <X:hasPasalName> "Pasal 17" ] ] [ a <X:bagian> ;
                                     <X:hasJudul> """Pembatasan Penggunakan Moda Transportasi
 Untuk Pergerakan Orang dan Barang""" ;
                                     <X:hasKey> "Bagian Ketujuh" ;
                                     <X:hasPasal> [ a <X:pasal> ;
                                             <X:hasPasalContent> [ <X:hasAyat> [ a <X:ayat> ;
-                                                            <X:hasAyatNumber> "(7)" ;
-                                                            rdf:first " Angkutan orang dengan kendaraan bermotor umum," ;
-                                                            rdf:rest ( "angkutan perkeretaapian, dan/atau moda transportasi barang" "diwajibkan untuk mengikuti ketentuan sebagai berikut:" "a. membatasi jumlah orang maksimal 50°/0 (lima puluh" "persen) dari kapasitas angkutan;" "b. membatasi jam operasional sesuai pengaturan dari" "Pemerintah Provinsi DKI Jakarta dan/atau instansi terkait;" "c. melakukan disinfeksi secara berkala moda transportasi" "yang digunakan;" "d. melakukan deteksi dan pemantauan suhu tubuh petugas" "dan penumpang yang memasuki moda transportasi;" "e. memastikan petugas dan penumpang moda transportasi" "tidak sedang mengalami suhu tubuh diatas normal atau" "sakit; dan" "f. menjaga jarak antar penumpang (physical distancing)" "paling sedikit dalam rentang 1 (satu) meter." ) ],
-                                                        [ a <X:ayat> ;
                                                             <X:hasAyatNumber> "(4)" ;
                                                             rdf:first " Pengguna kendaraan mobil penumpang pribadi diwajibkan" ;
                                                             rdf:rest ( "untuk mengikuti ketentuan sebagai berikut:" "a. digunakan hanya untuk pemenuhan kebutuhan pokok" "dan/atau aktivitas lain yang diperbolehkan selama PSBB;" "b. melakukan disinfeksi kendaraan setelah selesai digunakan;" "c. menggunakan masker di dalam kendaraan;" "d. membatasi jumlah orang maksimal 50°/0 (lima puluh" "persen) dari kapasitas kendaraan; dan" "e. tidak berkendara jika sedang mengalami suhu badan diatas" "normal atau sakit." ) ],
-                                                        [ a <X:ayat> ;
-                                                            <X:hasAyatNumber> "(2)" ;
-                                                            rdf:first " Dikecualikan dari penghentian 	sementara kegiatan" ;
-                                                            rdf:rest ( "pergerakan orang sebagaimana dimaksud pada ayat (1), untuk" "jenis moda transportasi:" "a. kendaraan bermotor pribadi;" "b. angkutan orang dengan kendaraan bermotor umum; dan" "c. angkutan perkeretaapian." "15" ) ],
-                                                        [ a <X:ayat> ;
-                                                            <X:hasAyatNumber> "(5)" ;
-                                                            rdf:first " Pengguna sepeda motor pribadi diwajibkan untuk mengikuti" ;
-                                                            rdf:rest ( "ketentuan sebagai berikut:" "a. digunakan hanya untuk pemenuhan kebutuhan pokok" "dan/atau aktivitas lain yang diperbolehkan selama PSBB;" "b. melakukan disinfeksi kendaraan dan atribut setelah" "selesai digunakan," "c. menggunakan masker dan sarung tangan; dan" "d. tidak berkendara jika sedang mengalami suhu badan" "diatas normal atau sakit." ) ],
                                                         [ a <X:ayat> ;
                                                             <X:hasAyatNumber> "(8)" ;
                                                             rdf:first " Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat" ;
                                                             rdf:rest ( "Provinsi dapat menambahkan menambahkan jenis moda" "transportasi yang dikecualikan dari penghentian sementara" "moda transportasi untuk pergerakan orang dan/atau barang" "sebagaimana dimaksud pada ayat (2) dan ayat (3)." "16" ) ],
                                                         [ a <X:ayat> ;
+                                                            <X:hasAyatNumber> "(5)" ;
+                                                            rdf:first " Pengguna sepeda motor pribadi diwajibkan untuk mengikuti" ;
+                                                            rdf:rest ( "ketentuan sebagai berikut:" "a. digunakan hanya untuk pemenuhan kebutuhan pokok" "dan/atau aktivitas lain yang diperbolehkan selama PSBB;" "b. melakukan disinfeksi kendaraan dan atribut setelah" "selesai digunakan," "c. menggunakan masker dan sarung tangan; dan" "d. tidak berkendara jika sedang mengalami suhu badan" "diatas normal atau sakit." ) ],
+                                                        [ a <X:ayat> ;
+                                                            <X:hasAyatNumber> "(2)" ;
+                                                            rdf:first " Dikecualikan dari penghentian 	sementara kegiatan" ;
+                                                            rdf:rest ( "pergerakan orang sebagaimana dimaksud pada ayat (1), untuk" "jenis moda transportasi:" "a. kendaraan bermotor pribadi;" "b. angkutan orang dengan kendaraan bermotor umum; dan" "c. angkutan perkeretaapian." "15" ) ],
+                                                        [ a <X:ayat> ;
+                                                            <X:hasAyatNumber> "(3)" ;
+                                                            rdf:first " Dikecualikan dari penghentian 	sementara kegiatan" ;
+                                                            rdf:rest ( "pergerakan barang sebagaimana dimaksud pada ayat (1)," "untuk semua jenis moda transportasi." ) ],
+                                                        [ a <X:ayat> ;
                                                             <X:hasAyatNumber> "(6)" ;
                                                             rdf:first " Angkutan roda dua berbasis aplikasi dibatasi penggunaannya" ;
                                                             rdf:rest ( "hanya untuk pengangkutan barang." ) ],
                                                         [ a <X:ayat> ;
+                                                            <X:hasAyatNumber> "(7)" ;
+                                                            rdf:first " Angkutan orang dengan kendaraan bermotor umum," ;
+                                                            rdf:rest ( "angkutan perkeretaapian, dan/atau moda transportasi barang" "diwajibkan untuk mengikuti ketentuan sebagai berikut:" "a. membatasi jumlah orang maksimal 50°/0 (lima puluh" "persen) dari kapasitas angkutan;" "b. membatasi jam operasional sesuai pengaturan dari" "Pemerintah Provinsi DKI Jakarta dan/atau instansi terkait;" "c. melakukan disinfeksi secara berkala moda transportasi" "yang digunakan;" "d. melakukan deteksi dan pemantauan suhu tubuh petugas" "dan penumpang yang memasuki moda transportasi;" "e. memastikan petugas dan penumpang moda transportasi" "tidak sedang mengalami suhu tubuh diatas normal atau" "sakit; dan" "f. menjaga jarak antar penumpang (physical distancing)" "paling sedikit dalam rentang 1 (satu) meter." ) ],
+                                                        [ a <X:ayat> ;
                                                             <X:hasAyatNumber> "(1)" ;
                                                             rdf:first " Selama pemberlakuan PSBB, semua kegiatan pergerakan" ;
-                                                            rdf:rest ( "orang dan/atau barang dihentikan sementara, kecuali untuk:" "a. pemenuhan kebutuhan pokok; dan" "b. kegiatan yang diperbolehkan selama pemberlakuan PSBB." ) ],
-                                                        [ a <X:ayat> ;
-                                                            <X:hasAyatNumber> "(3)" ;
-                                                            rdf:first " Dikecualikan dari penghentian 	sementara kegiatan" ;
-                                                            rdf:rest ( "pergerakan barang sebagaimana dimaksud pada ayat (1)," "untuk semua jenis moda transportasi." ) ] ] ;
+                                                            rdf:rest ( "orang dan/atau barang dihentikan sementara, kecuali untuk:" "a. pemenuhan kebutuhan pokok; dan" "b. kegiatan yang diperbolehkan selama pemberlakuan PSBB." ) ] ] ;
                                             <X:hasPasalName> "Pasal 18" ] ] ) ;
                         <X:hasJudul> "PELAKSANAAN PSBB" ;
                         <X:hasKey> "BAB IV" ] [ a <X:bab> ;
@@ -287,30 +287,40 @@ Untuk Pergerakan Orang dan Barang""" ;
                                     <X:hasPasal> [ a <X:pasal> ;
                                             <X:hasPasalContent> [ <X:hasAyat> [ a <X:ayat> ;
                                                             <X:hasAyatNumber> "(2)" ;
-                                                            rdf:first " Pelaksanaan pemenuhan hak sebagaimana dimaksud pada" ;
-                                                            rdf:rest ( "ayat (1) mengikuti petunjuk teknis yang ditetapkan oleh Ketua" "Gugus Tugas Percepatan Penanganan COVID-19 tingkat" "Provinsi." ) ],
+                                                            rdf:first " Dalam hal penanganan Corona Virus Disease (COVID-19)," ;
+                                                            rdf:rest ( "setiap penduduk wajib:" "a. mengikuti testing dan pemeriksaan sampel untuk Corona" "Virus Disease (COVID-19) dalam penyelidikan epidemiologi" "(contact tracing) apabila telah ditetapkan untuk diperiksa" "oleh petugas;" "b. melakukan isolasi mandiri di tempat tinggal dan/atau" "shelter" "maupun perawatan di rumah sakit sesuai" "rekomendasi tenaga kesehatan; dan" "c. melaporkan kepada tenaga kesehatan apabila diri sendiri" "dan/atau keluarganya terpapar Corona Virus Disease" "(COVID- 19)." "17" ) ],
                                                         [ a <X:ayat> ;
-                                                            <X:hasAyatNumber> "(1)" ;
-                                                            rdf:first " Selama pemberlakuan PSBB, setiap penduduk di Provinsi DKI" ;
-                                                            rdf:rest ( "Jakarta mempunyai hak yang sama untuk:" "a. memperoleh perlakuan dan pelayanan dari Pemerintah" "Provinsi DKI Jakarta;" "b. mendapatkan pelayanan kesehatan dasar sesuai" "kebutuhan medis;" "c. memperoleh data dan informasi publik seputar Corona" "Virus Disease (COVID-19);" "d. kemudahan akses di dalam melakukan pengaduan seputar" "Corona Virus Disease (COVID-19); dan" "e. pelayanan pemulasaraan dan pemakaman jenazah Corona" "Virus Disease (COVID-19) dan/atau terduga Corona Virus" "Disease (COVID- 19)." ) ] ] ;
-                                            <X:hasPasalName> "Pasal 19" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> [ <X:hasAyat> [ a <X:ayat> ;
                                                             <X:hasAyatNumber> "(3)" ;
                                                             rdf:first " Pelaksanaan kewajiban sebagaimana dimaksud pada ayat (2)" ;
                                                             rdf:rest ( "harus mengikuti petunjuk teknis yang ditetapkan oleh Ketua" "Gugus Tugas Percepatan Penanganan COVID-19 tingkat" "Provinsi." ) ],
                                                         [ a <X:ayat> ;
                                                             <X:hasAyatNumber> "(1)" ;
                                                             rdf:first " Selama pemberlakuan PSBB, setiap penduduk di Provinsi DKI" ;
-                                                            rdf:rest ( "Jakarta wajib:" "a. mematuhi seluruh ketentuan di dalam pelaksanaan PSBB;" "b. ikut serta dalam pelaksanaan PSBB; dan" "c. melaksanakan perilaku hidup bersih dan sehat (PHBS)." ) ],
-                                                        [ a <X:ayat> ;
+                                                            rdf:rest ( "Jakarta wajib:" "a. mematuhi seluruh ketentuan di dalam pelaksanaan PSBB;" "b. ikut serta dalam pelaksanaan PSBB; dan" "c. melaksanakan perilaku hidup bersih dan sehat (PHBS)." ) ] ] ;
+                                            <X:hasPasalName> "Pasal 20" ],
+                                        [ a <X:pasal> ;
+                                            <X:hasPasalContent> [ <X:hasAyat> [ a <X:ayat> ;
                                                             <X:hasAyatNumber> "(2)" ;
-                                                            rdf:first " Dalam hal penanganan Corona Virus Disease (COVID-19)," ;
-                                                            rdf:rest ( "setiap penduduk wajib:" "a. mengikuti testing dan pemeriksaan sampel untuk Corona" "Virus Disease (COVID-19) dalam penyelidikan epidemiologi" "(contact tracing) apabila telah ditetapkan untuk diperiksa" "oleh petugas;" "b. melakukan isolasi mandiri di tempat tinggal dan/atau" "shelter" "maupun perawatan di rumah sakit sesuai" "rekomendasi tenaga kesehatan; dan" "c. melaporkan kepada tenaga kesehatan apabila diri sendiri" "dan/atau keluarganya terpapar Corona Virus Disease" "(COVID- 19)." "17" ) ] ] ;
-                                            <X:hasPasalName> "Pasal 20" ] ] [ a <X:bagian> ;
+                                                            rdf:first " Pelaksanaan pemenuhan hak sebagaimana dimaksud pada" ;
+                                                            rdf:rest ( "ayat (1) mengikuti petunjuk teknis yang ditetapkan oleh Ketua" "Gugus Tugas Percepatan Penanganan COVID-19 tingkat" "Provinsi." ) ],
+                                                        [ a <X:ayat> ;
+                                                            <X:hasAyatNumber> "(1)" ;
+                                                            rdf:first " Selama pemberlakuan PSBB, setiap penduduk di Provinsi DKI" ;
+                                                            rdf:rest ( "Jakarta mempunyai hak yang sama untuk:" "a. memperoleh perlakuan dan pelayanan dari Pemerintah" "Provinsi DKI Jakarta;" "b. mendapatkan pelayanan kesehatan dasar sesuai" "kebutuhan medis;" "c. memperoleh data dan informasi publik seputar Corona" "Virus Disease (COVID-19);" "d. kemudahan akses di dalam melakukan pengaduan seputar" "Corona Virus Disease (COVID-19); dan" "e. pelayanan pemulasaraan dan pemakaman jenazah Corona" "Virus Disease (COVID-19) dan/atau terduga Corona Virus" "Disease (COVID- 19)." ) ] ] ;
+                                            <X:hasPasalName> "Pasal 19" ] ] [ a <X:bagian> ;
                                     <X:hasJudul> "Pemenuhan Kebutuhan Dasar Penduduk Selama PSBB" ;
                                     <X:hasKey> "Bagian Kedua" ;
                                     <X:hasPasal> [ a <X:pasal> ;
+                                            <X:hasPasalContent> [ <X:hasAyat> [ a <X:ayat> ;
+                                                            <X:hasAyatNumber> "(2)" ;
+                                                            rdf:first " Insentif sebagaimana dimaksud pada ayat (1) diberikan dalam" ;
+                                                            rdf:rest ( "bentuk:" "a. pengurangan pajak dan retribusi daerah bagi pelaku" "usaha;" "b. pemberian bantuan sosial kepada karyawan yang" "terdampak atas pelaksanaan PSBB; dan/ atau" "c. bantuan lainnya sesuai dengan ketentuan peraturan" "perundang-undangan." ) ],
+                                                        [ a <X:ayat> ;
+                                                            <X:hasAyatNumber> "(1)" ;
+                                                            rdf:first " Pemerintah Provinsi DKI Jakarta dapat memberikan insentif" ;
+                                                            rdf:rest ( "kepada Pelaku Usaha yang terdampak atas pelaksanaan" "PSBB." ) ] ] ;
+                                            <X:hasPasalName> "Pasal 22" ],
+                                        [ a <X:pasal> ;
                                             <X:hasPasalContent> [ <X:hasAyat> [ a <X:ayat> ;
                                                             <X:hasAyatNumber> "(3)" ;
                                                             rdf:first " Penetapan penerima bantuan sosial sebagaimana dimaksud" ;
@@ -323,31 +333,11 @@ Untuk Pergerakan Orang dan Barang""" ;
                                                             <X:hasAyatNumber> "(2)" ;
                                                             rdf:first " Bantuan sosial sebagaimana dimaksud pada ayat (1) diberikan" ;
                                                             rdf:rest ( "dalam bentuk bahan pokok dan/ atau bantuan langsung" "lainnya yang mekanisme penyalurannya sesuai dengan" "ketentuan peraturan perundang-undangan." ) ] ] ;
-                                            <X:hasPasalName> "Pasal 21" ],
-                                        [ a <X:pasal> ;
-                                            <X:hasPasalContent> [ <X:hasAyat> [ a <X:ayat> ;
-                                                            <X:hasAyatNumber> "(1)" ;
-                                                            rdf:first " Pemerintah Provinsi DKI Jakarta dapat memberikan insentif" ;
-                                                            rdf:rest ( "kepada Pelaku Usaha yang terdampak atas pelaksanaan" "PSBB." ) ],
-                                                        [ a <X:ayat> ;
-                                                            <X:hasAyatNumber> "(2)" ;
-                                                            rdf:first " Insentif sebagaimana dimaksud pada ayat (1) diberikan dalam" ;
-                                                            rdf:rest ( "bentuk:" "a. pengurangan pajak dan retribusi daerah bagi pelaku" "usaha;" "b. pemberian bantuan sosial kepada karyawan yang" "terdampak atas pelaksanaan PSBB; dan/ atau" "c. bantuan lainnya sesuai dengan ketentuan peraturan" "perundang-undangan." ) ] ] ;
-                                            <X:hasPasalName> "Pasal 22" ] ] ) ;
+                                            <X:hasPasalName> "Pasal 21" ] ] ) ;
                         <X:hasJudul> """HAK DAN KEWAJIBAN SERTA PEMENUHAN KEBUTUHAN
 DASAR PENDUDUK SELAMA PSBB;""" ;
                         <X:hasKey> "BAB V" ] [ a <X:bab> ;
                         <X:hasIsi> [ <X:hasPasal> [ a <X:pasal> ;
-                                        <X:hasPasalContent> [ <X:hasAyat> [ a <X:ayat> ;
-                                                        <X:hasAyatNumber> "(1)" ;
-                                                        rdf:first " Dalam 	rangka 	melaksanakan 	penanganan 	dan" ;
-                                                        rdf:rest ( "penanggulangan Corona Virus Disease (COVID-19) di Provinsi" "DKI Jakarta, Pemerintah Provinsi DKI Jakarta menyusun" "basis data dan informasi kebutuhan penyediaan dan" "penyaluran sumber daya." ) ],
-                                                    [ a <X:ayat> ;
-                                                        <X:hasAyatNumber> "(2)" ;
-                                                        rdf:first " Prosedur dan penggunaan sistem informasi dalam rangka" ;
-                                                        rdf:rest ( "penyediaan dan penyaluran sumber daya sebagaimana" "dimaksud pada ayat (1) ditetapkan oleh Ketua Gugus Tugas" "Percepatan Penanganan COVID-19 tingkat Provinsi." "18" ) ] ] ;
-                                        <X:hasPasalName> "Pasal 23" ],
-                                    [ a <X:pasal> ;
                                         <X:hasPasalContent> [ <X:hasAyat> [ a <X:ayat> ;
                                                         <X:hasAyatNumber> "(1)" ;
                                                         rdf:first " Pemerintah Provinsi DKI Jakarta dapat melakukan kolaborasi" ;
@@ -356,7 +346,17 @@ DASAR PENDUDUK SELAMA PSBB;""" ;
                                                         <X:hasAyatNumber> "(2)" ;
                                                         rdf:first " Kolaborasi kelembagaan sebagaimana dimaksud pada ayat (1)" ;
                                                         rdf:rest ( "dilakukan dalam bentuk:" "a. dukungan sumber daya manusia;" "b. sarana dan prasarana;" "c. data dan informasi;" "d. jasa dan/atau dukungan lain." ) ] ] ;
-                                        <X:hasPasalName> "Pasal 24" ] ] ;
+                                        <X:hasPasalName> "Pasal 24" ],
+                                    [ a <X:pasal> ;
+                                        <X:hasPasalContent> [ <X:hasAyat> [ a <X:ayat> ;
+                                                        <X:hasAyatNumber> "(1)" ;
+                                                        rdf:first " Dalam 	rangka 	melaksanakan 	penanganan 	dan" ;
+                                                        rdf:rest ( "penanggulangan Corona Virus Disease (COVID-19) di Provinsi" "DKI Jakarta, Pemerintah Provinsi DKI Jakarta menyusun" "basis data dan informasi kebutuhan penyediaan dan" "penyaluran sumber daya." ) ],
+                                                    [ a <X:ayat> ;
+                                                        <X:hasAyatNumber> "(2)" ;
+                                                        rdf:first " Prosedur dan penggunaan sistem informasi dalam rangka" ;
+                                                        rdf:rest ( "penyediaan dan penyaluran sumber daya sebagaimana" "dimaksud pada ayat (1) ditetapkan oleh Ketua Gugus Tugas" "Percepatan Penanganan COVID-19 tingkat Provinsi." "18" ) ] ] ;
+                                        <X:hasPasalName> "Pasal 23" ] ] ;
                         <X:hasJudul> """SUMBER DAYA PENANGANAN
 CORONA VIRUS DISEASE (COVID- 19)""" ;
                         <X:hasKey> "BAB VI" ] [ a <X:bab> ;

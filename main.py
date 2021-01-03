@@ -1,3 +1,4 @@
+from typing import List
 import fitz
 import os
 import json
@@ -7,6 +8,8 @@ import uuid
 from collections.abc import Mapping
 from rdflib import Literal, Graph, RDF, URIRef, BNode
 from rdflib.collection import Collection
+
+from text2json.utils import extract_to_increment_key_list
 
 
 def extract_text(filename, pages):
@@ -205,6 +208,11 @@ def split_penjelasan(lines):
             penjelasan.append(line)
         else:
             main.append(line)
+    print(len(lines))
+    print('isi', len(main))
+    print('penjelasan', len(penjelasan))
+    print('pengesahan', len(pengesahan))
+    print()
     return main, pengesahan, penjelasan
 
 
@@ -303,7 +311,7 @@ def u(string):
 
 
 def process(filename):
-    pages = fitz.open('{}.pdf'.format(filename))
+    pages = fitz.open('pdf/{}.pdf'.format(filename))
     content = extract_text(filename, pages).splitlines()
     content = preprocess(content)
     main, _, __ = split_penjelasan(content)

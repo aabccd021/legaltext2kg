@@ -42,7 +42,6 @@ Mengingat :
 Pasal 5 ayat (1), Pasal 20 ayat (2), Pasal 27 ayat (2), Pasal 28, dan Pasal 33
 ayat (1) Undang Undang Dasar Negara Republik Indonesia Tahun 1945;
 Dengan persetujuan bersama antara
-
 DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
 DAN
 PRESIDEN REPUBLIK INDONESIA
@@ -97,7 +96,6 @@ pelaksanaan program pembangunan ketenagakerjaan yang berkesinambungan.
 Informasi ketenagakerjaan adalah gabungan, rangkaian, dan analisis data yang
 berbentuk angka yang telah diolah, naskah dan dokumen yang mempunyai arti, nilai dan makna
 tertentu mengenai ketenagakerjaan.
-
 9.
 Pelatihan kerja adalah keseluruhan kegiatan untuk memberi, memperoleh,
 meningkatkan, serta mengembangkan kompetensi kerja, produktivitas, disiplin, sikap, dan etos
@@ -161,7 +159,6 @@ pertentangan antara pengusaha atau gabungan pengusaha dengan pekerja/buruh atau 
 pekerja/serikat buruh karena adanya perselisihan mengenai hak, perselisihan kepentingan, dan
 perselisihan pemutusan hubungan kerja serta perselisihan antar serikat pekerja/serikat buruh
 hanya dalam satu perusahaan.
-
 23. 
 Mogok kerja adalah tindakan pekerja/buruh yang direncanakan dan dilaksanakan secara
 bersama-sama dan/atau oleh serikat pekerja/serikat buruh untuk menghentikan atau
@@ -216,7 +213,6 @@ c.
 memberikan perlindungan kepada tenaga kerja dalam mewujudkan kesejahteraan; dan
 d.
 meningkatkan kesejahteraan tenaga kerja dan keluarganya.
-
 BAB III
 KESEMPATAN DAN PERLAKUAN YANG SAMA
 Pasal 5
@@ -253,7 +249,6 @@ yang terkait, baik instansi pemerintah maupun swasta.
 (3) Ketentuan mengenai tata cara memperoleh informasi ketenagakerjaan dan penyusunan serta
 pelaksanaan perencanaan tenaga kerja sebagaimana dimaksud dalam ayat (1) diatur dengan
 Peraturan Pemerintah.
-
 BAB V
 PELATIHAN KERJA
 Pasal 9
@@ -287,7 +282,6 @@ pelatihan kerja swasta.
 menyelenggarakan pe-latihan kerja dapat bekerja sama dengan swasta.
 Pasal 14
 (1) Lembaga pelatihan kerja swasta dapat berbentuk badan hukum Indonesia atau perorangan.
-
 (2) Lembaga pelatihan kerja swasta sebagaimana dimaksud dalam ayat (1) wajib memperoleh izin
 atau men daftar ke instansi yang bertanggung jawab di bidang ketenagakerjaan di
 kabupaten/kota.
@@ -329,7 +323,6 @@ izin dan pembatalan pendaftaran penyelenggara pelatihan.
 (6) Ketentuan mengenai tata cara penghentian sementara, penghentian, pencabutan izin, dan
 pembatalan pen daftaran diatur dengan Keputusan Menteri.
 Pasal 18
-
 (1) Tenaga kerja berhak memperoleh pengakuan kompetensi kerja setelah mengikuti pelatihan kerja
 yang di selenggarakan lembaga pelatihan kerja pemerintah, lembaga pelatihan kerja swasta,
 atau pelatihan di tempat kerja.
@@ -367,7 +360,6 @@ Pasal 24
 Pemagangan dapat dilaksanakan di perusahaan sendiri atau di tempat penyelenggaraan
 pelatihan kerja, atau perusahaan lain, baik di dalam maupun di luar wilayah Indonesia.
 Pasal 25
-
 (1) Pemagangan yang dilakukan di luar wilayah Indonesia wajib mendapat izin dari Menteri atau
 pejabat yang ditunjuk.
 (2) Untuk memperoleh izin sebagaimana dimaksud dalam ayat (1), penyelenggara pemagangan
@@ -407,7 +399,6 @@ Pasal 30
 lembaga pro duktivitas yang bersifat nasional.
 (2) Lembaga produktivitas sebagaimana dimaksud dalam ayat (1) berbentuk jejaring kelembagaan
 pelayanan peningkatan produktivitas, yang bersifat lintas sektor maupun daerah.
-
 (3) Pembentukan, keanggotaan, dan tata kerja lembaga produktivitas nasional sebagaimana
 dimaksud dalam ayat (1), diatur dengan Keputusan Presiden.
 BAB VI
@@ -444,7 +435,6 @@ dilakukan dengan memberikan pelayanan penempatan tenaga kerja.
 (2) Pelayanan penempatan tenaga kerja sebagaimana dimaksud dalam ayat (1) bersifat terpadu
 dalam satu sistem penempatan tenaga kerja yang meliputi unsur-unsur :
 a. pencari kerja;
-
 b. lowongan pekerjaan;
 c. informasi pasar kerja;
 d. mekanisme antar kerja; dan
@@ -483,7 +473,6 @@ Pasal 40
 (1) Perluasan kesempatan kerja di luar hubungan kerja dilakukan melalui penciptaan kegiatan yang
 produktif dan berkelanjutan dengan mendayagunakan potensi sumber daya alam, sumber daya
 manusia dan teknologi tepat guna.
-
 (2) Penciptaan perluasan kesempatan kerja sebagaimana dimaksud dalam ayat (1) dilakukan dengan
 pola pembentukan dan pembinaan tenaga kerja mandiri, penerapan sistem padat karya,
 penerapan teknologi tepat guna, dan pendayagunaan tenaga kerja sukarela atau pola lain yang
@@ -527,7 +516,6 @@ jangka waktu penggunaan tenaga kerja asing; dan
 d.
 penunjukan tenaga kerja warga negara Indonesia sebagai pendamping tenaga kerja
 asing yang dipekerjakan.
-
 (3) Ketentuan sebagaimana dimaksud dalam ayat (1) tidak berlaku bagi instansi pemerintah, badan-
 badan internasional dan perwakilan negara asing.
 (4) Ketentuan mengenai tata cara pengesahan rencana penggunaan tenaga kerja asing diatur
@@ -567,7 +555,6 @@ ke negara asalnya setelah hubungan kerjanya berakhir.
 Pasal 49
 Ketentuan mengenai penggunaan tenaga kerja asing serta pelaksanaan pendidikan dan
 pelatihan tenaga kerja pendamping diatur dengan Keputusan Presiden.
-
 BAB IX
 HUBUNGAN KERJA
 Pasal 50
@@ -608,7 +595,6 @@ i. tanda tangan para pihak dalam perjanjian kerja.
 (2) Ketentuan dalam perjanjian kerja sebagaimana dimaksud dalam ayat (1) huruf e dan f, tidak boleh
 ber-tentangan dengan peraturan perusahaan, perjanjian kerja bersama, dan peraturan
 perundang undangan yang berlaku.
-
 (3) Perjanjian kerja sebagaimana dimaksud dalam ayat (1) dibuat sekurang kurangnya rangkap 2
 (dua), yang mempunyai kekuatan hukum yang sama, serta pekerja/buruh dan pengusaha masing
 masing mendapat 1 (satu) perjanjian kerja.
@@ -650,7 +636,6 @@ yang masih dalam percobaan atau penjajakan.
 (4) Perjanjian kerja waktu tertentu yang didasarkan atas jangka waktu tertentu dapat diadakan untuk
 paling lama 2 (dua) tahun dan hanya boleh diperpanjang 1 (satu) kali untuk jangka waktu paling
 lama 1 (satu) tahun.
-
 (5) Pengusaha yang bermaksud memperpanjang perjanjian kerja waktu tertentu tersebut, paling lama
 7 (tujuh) hari sebelum perjanjian kerja waktu tertentu berakhir telah memberitahukan maksudnya
 secara tertulis kepada pekerja/buruh yang bersangkutan.
@@ -697,7 +682,6 @@ ketentuan sebagaimana dimaksud dalam Pasal 61 ayat (1), pihak yang mengakhiri hu
 kerja diwajibkan membayar ganti rugi kepada pihak lainnya sebesar upah pekerja/buruh sampai
 batas waktu berakhirnya jangka waktu perjanjian kerja.
 Pasal 63
-
 (1) Dalam hal perjanjian kerja waktu tidak tertentu dibuat secara lisan, maka pengusaha wajib
 membuat surat pengangkatan bagi pekerja/buruh yang bersangkutan.
 (2) Surat pengangkatan sebagaimana dimaksud dalam ayat (1), sekurang kurangnya memuat
@@ -743,7 +727,6 @@ Pasal 66
 kerja untuk melaksanakan kegiatan pokok atau kegiatan yang berhubungan langsung dengan
 proses produksi, kecuali untuk kegiatan jasa penunjang atau kegiatan yang tidak berhubungan
 langsung dengan proses produksi.
-
 (2) Penyedia jasa pekerja/buruh untuk kegiatan jasa penunjang atau kegiatan yang tidak
 berhubungan lang-sung dengan proses produksi harus memenuhi syarat sebagai berikut :
 a.
@@ -787,7 +770,6 @@ Pasal 69
 (1) Ketentuan sebagaimana dimaksud dalam Pasal 68 dapat dikecualikan bagi anak yang berumur
 antara 13 (tiga belas) tahun sampai dengan 15 (lima belas) tahun untuk melakukan pekerjaan
 ringan sepanjang tidak mengganggu perkembangan dan kesehatan fisik, mental, dan sosial.
-
 (2) Pengusaha yang mempekerjakan anak pada pekerjaan ringan sebagai-mana dimaksud dalam
 ayat (1) ha-rus memenuhi persyaratan :
 a. izin tertulis dari orang tua atau wali;
@@ -829,7 +811,6 @@ Pasal 74
 (2) Pekerjaan-pekerjaan yang terburuk yang dimaksud dalam ayat (1) meliputi :
 a.
 segala pekerjaan dalam bentuk perbudakan atau sejenisnya;
-
 b.
 segala pekerjaan yang memanfaatkan, menyediakan, atau menawarkan anak untuk
 pelacuran, produksi pornografi, pertunjukan porno, atau perjudian;
@@ -874,7 +855,6 @@ b.
 hari kerja dalam 1 (satu) minggu.
 (3) Ketentuan waktu kerja sebagaimana dimaksud dalam ayat (2) tidak berlaku bagi sektor usaha
 atau peker-jaan tertentu.
-
 (4) Ketentuan mengenai waktu kerja pada sektor usaha atau pekerjaan tertentu sebagaimana
 dimaksud dalam ayat (3) diatur dengan Keputusan Menteri.
 Pasal 78
@@ -920,7 +900,6 @@ melaksanakan ibadah yang diwajibkan oleh agamanya.
 Pasal 81
 (1) Pekerja/buruh perempuan yang dalam masa haid merasakan sakit dan memberitahukan kepada
 pengusaha, tidak wajib bekerja pada hari pertama dan kedua pada waktu haid.
-
 (2) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1) diatur dalam perjanjian kerja,
 peraturan perusahaan, atau perjanjian kerja bersama.
 Pasal 82
@@ -955,7 +934,6 @@ c.   perlakuan yang sesuai dengan harkat dan martabat manusia serta nilai-nilai 
 diselenggarakan upaya keselamatan dan kesehatan kerja.
 (3) Perlindungan sebagaimana dimaksud dalam ayat (1) dan ayat (2) dilaksanakan sesuai dengan
 peraturan perundang- undangan yang berlaku.
-
 Pasal 87
 (1) Setiap perusahaan wajib menerapkan sistem manajemen keselamatan dan kesehatan kerja yang
 terintegrasi dengan sistem manajemen perusahaan.
@@ -995,7 +973,6 @@ hidup layak.
 memperhatikan rekomendasi dari Dewan Pengupahan Provinsi dan/atau Bupati/Walikota.
 (4) Komponen serta pelaksanaan tahapan pencapaian kebutuhan hidup layak sebagaimana
 dimaksud dalam ayat (2) diatur dengan Keputusan Menteri.
-
 Pasal 90
 (1) Pengusaha dilarang membayar upah lebih rendah dari upah minimum sebagaimana dimaksud
 dalam Pasal 89.
@@ -1039,7 +1016,6 @@ g.  pekerja/buruh melaksanakan hak istirahat;
 h.  pekerja/buruh melaksanakan tugas serikat pekerja/serikat buruh atas persetujuan pengusaha;
 dan
 i.   pekerja/buruh melaksanakan tugas pendidikan dari perusahaan.
-
 (3) Upah yang dibayarkan kepada pekerja/buruh yang sakit sebagaimana dimaksud dalam ayat (2)
 huruf  a sebagai berikut :
 a.   untuk 4 (empat) bulan pertama, dibayar 100% (seratus perseratus) dari upah;
@@ -1081,7 +1057,6 @@ Pasal 97
 Ketentuan  mengenai penghasilan yang layak, kebijakan pengupahan, kebutuhan hidup layak,
 dan perlindungan pengupahan sebagaimana dimaksud dalam Pasal 88, penetapan upah
 minimum sebagaimana dimaksud dalam Pasal 89,  dan pengenaan denda  sebagaimana
-
 dimaksud dalam Pasal 95 ayat (1), ayat (2) dan ayat (3)  diatur dengan Peraturan Pemerintah.
 Pasal 98
 (1) Untuk memberikan saran, pertimbangan, dan merumuskan kebijakan pengupahan yang akan
@@ -1122,7 +1097,6 @@ dalam ayat (2), diatur dengan Peraturan Pemerintah.
 BAB XI
 HUBUNGAN INDUSTRIAL
 Bagian Kesatu
-
 Umum
 Pasal 102
 (1) Dalam melaksanakan hubungan industrial, pemerintah mempunyai fungsi menetapkan kebijakan,
@@ -1168,7 +1142,6 @@ Bagian Ketiga
 Organisasi Pengusaha
 Pasal 105
 (1) Setiap pengusaha berhak membentuk dan menjadi anggota organisasi pengusaha.
-
 (2) Ketentuan mengenai organisasi pengusaha diatur sesuai dengan peraturan perundang-undangan
 yang ber-laku.
 Bagian Keempat
@@ -1204,7 +1177,6 @@ yang ditunjuk.
 (2) Kewajiban membuat peraturan perusahaan sebagaimana dimaksud dalam ayat (1) tidak berlaku
 bagi peru-sahaan yang telah memiliki perjanjian kerja bersama.
 Pasal 109
-
 Peraturan perusahaan disusun oleh dan menjadi tanggung jawab dari pengusaha yang
 bersangkutan.
 Pasal 110
@@ -1248,7 +1220,6 @@ tertulis kepada pengusaha mengenai perbaikan peraturan perusahaan.
 pengusaha sebagaimana dimaksud dalam ayat (3), pengusaha wajib menyampaikan kembali
 peraturan perusahaan yang telah diperbaiki kepada Menteri atau pejabat yang ditunjuk.
 Pasal 113
-
 (1) Perubahan peraturan perusahaan sebelum berakhir jangka waktu berlakunya hanya dapat
 dilakukan atas dasar kesepakatan antara pengusaha dan wakil pekerja/buruh.
 (2) Peraturan perusahaan hasil perubahan sebagaimana dimaksud dalam ayat (1) harus mendapat
@@ -1285,7 +1256,6 @@ Pasal 119
 pekerja/seri-kat buruh tersebut berhak mewakili pekerja/buruh dalam perundingan pembuatan
 perjanjian kerja bersama dengan pengusaha apabila memiliki jumlah anggota lebih dari 50%
 (lima puluh perseratus) dari jumlah seluruh pekerja/buruh di perusahaan yang bersangkutan.
-
 (2) Dalam hal di satu perusahaan hanya terdapat satu serikat pekerja/serikat buruh sebagaimana
 dimaksud pada ayat (1) tetapi tidak memiliki jumlah anggota lebih dari 50% (lima puluh
 perseratus) dari jumlah seluruh pekerja/buruh di perusahaan maka serikat pekerja/serikat buruh
@@ -1327,7 +1297,6 @@ bulan se-belum berakhirnya perjanjian kerja bersama yang sedang berlaku.
 (4) Dalam hal perundingan sebagaimana dimaksud dalam ayat (3) tidak mencapai kesepakatan maka
 perjan-jian kerja bersama yang sedang berlaku, tetap berlaku untuk paling lama 1 (satu) tahun.
 Pasal 124
-
 (1) Perjanjian kerja bersama paling sedikit memuat :
 a. hak dan kewajiban pengusaha;
 b. hak dan kewajiban serikat pekerja/serikat buruh serta pekerja/buruh;
@@ -1367,7 +1336,6 @@ tidak boleh lebih rendah dari ketentuan yang ada dalam perjanjian kerja bersama.
 Pasal 130
 (1) Dalam hal perjanjian kerja bersama yang sudah berakhir masa berlakunya akan diperpanjang atau
 diper-baharui dan di perusahaan tersebut hanya terdapat 1 (satu) serikat pekerja/serikat buruh,
-
 maka perpanjangan atau pembuatan pembaharuan perjanjian kerja bersama tidak mensyaratkan
 ketentuan dalam Pasal 119.
 (2) Dalam hal perjanjian kerja bersama yang sudah berakhir masa berlakunya akan diperpanjang atau
@@ -1410,7 +1378,6 @@ ketenagakerjaan.
 Pasal 135
 Pelaksanaan peraturan perundang-undangan ketenagakerjaan dalam mewujudkan hubungan
 industrial merupakan tanggung jawab pekerja/buruh, pengusaha, dan pemerintah.
-
 Bagian Kedelapan
 Lembaga Penyelesaian Perselisihan
 Hubungan Industrial
@@ -1450,7 +1417,6 @@ b.
 tempat mogok kerja;
 c.
 alasan dan sebab-sebab mengapa harus melakukan mogok kerja; dan
-
 d.
 tanda tangan ketua dan sekretaris dan/atau masing-masing ketua dan sekretaris serikat
 pekerja/serikat buruh sebagai penanggung jawab mogok kerja.
@@ -1495,7 +1461,6 @@ damai sesuai dengan peraturan perundang-undangan yang berlaku.
 Pasal 144
 Terhadap mogok kerja yang dilakukan sesuai dengan ketentuan sebagaimana dimaksud dalam
 Pasal 140, pengusaha dilarang :
-
 a.
 mengganti pekerja/buruh yang mogok kerja dengan pekerja/buruh lain dari luar
 perusahaan; atau
@@ -1536,7 +1501,6 @@ Pasal 149
 ketenaga-kerjaan yang menerima secara langsung surat pemberitahuan penutupan perusahaan
 (lock out) sebagaimana dimaksud dalam Pasal 148 harus memberikan tanda bukti penerimaan
 dengan mencantumkan hari, tanggal, dan jam penerimaan.
-
 (2) Sebelum dan selama penutupan perusahaan (lock out) berlangsung, instansi yang bertanggung
 jawab di bidang ketenagakerjaan berwenang langsung menyelesaikan masalah yang
 menyebabkan timbulnya penutupan perusahaan (lock out) dengan mempertemukan dan
@@ -1582,7 +1546,6 @@ setelah memperoleh penetapan dari lembaga penyelesaian perselisihan hubungan ind
 Pasal 152
 (1) Permohonan penetapan pemutusan hubungan kerja diajukan secara tertulis kepada lembaga
 penyelesaian perselisihan hubungan industrial disertai alasan yang menjadi dasarnya.
-
 (2) Permohonan penetapan sebagaimana dimaksud dalam ayat (1) dapat diterima oleh lembaga
 penyelesaian perselisihan hubungan industrial apabila telah dirundangkan sebagaimana
 dimaksud dalam Pasal 151 ayat (2).
@@ -1639,7 +1602,6 @@ pekerja/buruh mencapai usia pensiun sesuai dengan ketetapan dalam perjanjian ker
 peraturan perusahaan, perjanjian kerja bersama, atau peraturan perundang-undangan; atau
 d.
 pekerja/buruh meninggal dunia.
-
 Pasal 155
 (1) Pemutusan hubungan kerja tanpa penetapan sebagaimana dimaksud dalam Pasal 151 ayat (3)
 batal demi hukum.
@@ -1700,7 +1662,6 @@ tahun, 7 (tujuh) bulan upah;
 g.
 masa kerja 21 (dua puluh satu) tahun atau lebih tetapi kurang dari 24 (dua puluh empat)
 tahun, 8 (delapan) bulan upah;
-
 h.
 masa kerja 24 (dua puluh empat) tahun atau lebih, 10 (sepuluh ) bulan upah.
 (4) Uang penggantian hak yang seharusnya diterima sebagaimana dimaksud dalam ayat (1) meliputi :
@@ -1758,7 +1719,6 @@ pengusaha di lingkungan kerja;
 f.
 membujuk teman sekerja atau pengusaha untuk melakukan perbuatan yang
 bertentangan dengan peraturan perundang-undangan;
-
 g.
 dengan ceroboh atau sengaja merusak atau membiarkan dalam keadaan bahaya barang
 milik perusahaan yang menimbulkan kerugian bagi perusahaan;
@@ -1808,7 +1768,6 @@ wajib mempekerjakan pekerja/buruh kembali.
 (5) Dalam hal pengadilan memutuskan perkara pidana sebelum masa 6 (enam) bulan berakhir dan
 pekerja/ buruh dinyatakan bersalah, maka pengusaha dapat melakukan pemutusan hubungan
 kerja kepada pekerja/buruh yang bersangkutan.
-
 (6) Pemutusan hubungan kerja sebagaimana dimaksud dalam ayat (3) dan ayat (5) dilakukan tanpa
 penetapan lembaga penyelesaian perselisihan hubungan industrial.
 (7) Pengusaha wajib membayar kepada pekerja/buruh yang mengalami pemutusan hubungan kerja
@@ -1856,7 +1815,6 @@ dalam Pasal 156 ayat (4).
 perubahan status, penggabungan, atau peleburan perusahaan, dan pengusaha tidak bersedia
 menerima pekerja/buruh di perusahaannya, maka pekerja/buruh berhak atas uang pesangon
 sebesar 2 (dua) kali ketentuan Pasal 156 ayat (2), uang penghargaan masa kerja 1 (satu) kali
-
 ketentuan dalam Pasal 156 ayat (3), dan uang penggantian hak sesuai ketentuan dalam Pasal
 156 ayat (4).
 Pasal 164
@@ -1900,7 +1858,6 @@ kali ketentuan Pasal 156 ayat (3), dan uang penggantian hak sesuai ketentuan Pas
 (3) Dalam hal pengusaha telah mengikutsertakan pekerja/buruh dalam program pensiun yang
 iurannya/premi-nya dibayar oleh pengusaha dan pekerja/buruh, maka yang diperhitungkan
 dengan uang pesangon yaitu uang pensiun yang premi/iurannya dibayar oleh pengusaha.
-
 (4) Ketentuan sebagaimana dimaksud dalam ayat (1), ayat (2), dan ayat (3) dapat diatur lain dalam
 perjanjian kerja, peraturan perusahaan, atau perjanjian kerja bersama.
 (5) Dalam hal pengusaha tidak mengikutsertakan pekerja/buruh yang mengalami pemutusan
@@ -1952,7 +1909,6 @@ melakukan pemutusan hubungan kerja tanpa penetapan lembaga penyelesaian perselis
 hubungan industrial dan pekerja/buruh yang bersangkutan tidak berhak atas uang pesangon
 sesuai ketentuan Pasal 156 ayat (2), dan uang penghargaan masa kerja sesuai ketentuan Pasal
 156 ayat (3).
-
 Pasal 170
 Pemutusan hubungan kerja yang dilakukan tidak memenuhi keten-tuan Pasal 151 ayat (3) dan
 Pasal 168, kecuali Pasal 158 ayat (1), Pasal 160 ayat (3), Pasal 162, dan Pasal 169 batal demi
@@ -1989,7 +1945,6 @@ Pasal 175
 dalam pem-binaan ketenagakerjaan.
 (2) Penghargaan sebagaimana dimaksud dalam ayat (1) dapat diberikan dalam bentuk piagam, uang,
 dan/atau bentuk lainnya.
-
 BAB XIV
 PENGAWASAN
 Pasal 176
@@ -2023,7 +1978,6 @@ b. tidak menyalahgunakan kewenangannya.
 BAB XV
 PENYIDIKAN
 Pasal 182
-
 (1) Selain penyidik pejabat Polisi Negara Republik Indonesia, juga kepada pegawai pengawas
 ketenagakerjaan dapat diberi wewenang khusus sebagai penyidik pegawai negeri sipil sesuai
 dengan peraturan perundang-undangan yang berlaku.
@@ -2071,7 +2025,6 @@ denda paling sedikit Rp 100.000.000,00 (seratus juta rupiah) dan paling banyak R
 Pasal 185
 (1) Barang siapa melanggar ketentuan sebagaimana dimaksud dalam Pasal 42 ayat (1) dan ayat (2),
 Pasal 68, Pasal 69 ayat (2), Pasal 80, Pasal 82, Pasal 90 ayat (1), Pasal 143, dan Pasal 160 ayat
-
 (4) dan ayat (7), dikenakan sanksi pidana penjara paling singkat 1 (satu) tahun dan paling lama 4
 (empat) tahun dan/atau denda paling sedikit Rp 100.000.000,00 (seratus juta rupiah) dan paling
 banyak Rp 400.000.000,00 (empat ratus juta rupiah).
@@ -2111,7 +2064,6 @@ Pasal 160 ayat (1) dan ayat (2) Undang-undang ini serta peraturan pelaksanaannya
 a. teguran;
 b. peringatan tertulis;
 c. pembatasan kegiatan usaha;
-
 d. pembekuan kegiatan usaha;
 e. pembatalan persetujuan;
 f. pembatalan pendaftaran;
@@ -2161,7 +2113,6 @@ Negara Tahun 1958 Nomor 8 );
 10. 
 Undang-undang Nomor 8 Tahun 1961 tentang Wajib Kerja Sarjana (Lembaran Negara
 Tahun 1961 Nomor 207, Tambahan Lembaran Negara Nomor 2270);
-
 11. 
 Undang undang Nomor 7 Pnps Tahun 1963 tentang Pencegahan Pemogokan dan/atau
 Penutupan (Lock Out) Di Perusahaan, Jawatan, dan Badan Yang Vital (Lembaran Negara Tahun
@@ -2198,7 +2149,6 @@ pada tanggal 25 Maret 2003
 SEKRETARIS NEGARA REPUBLIK INDONESIA,
 BAMBANG KESOWO
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2003 NOMOR 39
-
 P E N J E L A S A N
 A T A S
 UNDANG-UNDANG REPUBLIK INDONESIA
@@ -2261,7 +2211,6 @@ Di Luar Indonesia (Staatsblad tahun 1887 No. 8);
 • 
 Ordonansi tanggal 17 Desember 1925 Peraturan tentang Pembatasan Kerja
 Anak Dan Kerja Malam bagi Wanita (Staatsblad Tahun 1925 Nomor 647);
-
 • 
 Ordonansi Tahun 1926 Peraturan Mengenai Kerja Anak-anak dan Orang Muda
 Di Atas Kapal (Staatsblad Tahun 1926 Nomor 87);
@@ -2325,7 +2274,6 @@ menampung perubahan yang sangat mendasar di segala aspek kehidupan
 bangsa Indonesia dengan dimulainya era reformasi tahun 1998.
 Di bidang ketenagakerjaan internasional,  penghargaan terhadap hak asasi
 manusia di tempat kerja dikenal melalui 8 (delapan) konvensi dasar International
-
 Labour Organization (ILO). Konvensi dasar ini terdiri atas 4 (empat) kelompok
 yaitu :
 • 
@@ -2393,7 +2341,6 @@ Cukup jelas
 Pasal 2
 Pembangunan ketenagakerjaan dilaksanakan dalam rangka
 pembangun-an manusia Indonesia seutuhnya. Oleh sebab itu,
-
 pembangunan ketenaga-kerjaan dilaksanakan untuk mewujudkan
 manusia dan masyarakat Indonesia yang sejahtera, adil, makmur, dan
 merata baik materiil maupun spiritual.
@@ -2440,7 +2387,6 @@ membedakan jenis kelamin, suku, ras, agama, warna kulit, dan aliran
 politik.
 Pasal 7
 Ayat (1)
-
 Perencanaan tenaga kerja yang disusun dan ditetapkan oleh
 pemerintah dilakukan melalui pendekatan perencanaan tenaga
 kerja nasional, daerah, dan sektoral.
@@ -2488,7 +2434,6 @@ kompetensi kerja melalui pelatihan kerja.
 Pasal 10
 Ayat (1)
 Cukup jelas
-
 Ayat (2)
 Penetapan standar kompetensi kerja dilakukan oleh Menteri
 dengan mengikutsertakan sektor terkait.
@@ -2533,7 +2478,6 @@ Pendaftaran kegiatan pelatihan yang diselenggarakan oleh
 instansi pemerintah dimaksudkan untuk mendapatkan
 informasi sehingga hasil pelatihan, sarana dan prasarana
 pelatihan dapat berdayaguna dan berhasilguna secara optimal.
-
 Ayat (4)
 Cukup jelas
 Pasal 15
@@ -2576,7 +2520,6 @@ Cukup jelas
 Pasal 22
 Ayat (1)
 Cukup jelas
-
 Ayat (2)
 Hak  peserta pemagangan antara lain memperoleh uang saku
 dan/atau uang transpor, memperoleh jaminan sosial tenaga
@@ -2623,7 +2566,6 @@ industri yang bersifat spesifik seperti teknologi budidaya
 tanaman dengan kultur jaringan.
 Yang dimaksud dengan kepentingan negara misalnya untuk
 menghemat devisa negara, maka perusahaan diharuskan
-
 melaksanakan program pemagangan seperti keahlian
 membuat alat-alat pertanian modern.
 Pasal 28
@@ -2670,7 +2612,6 @@ daerah.
 Pasal 33
           Cukup jelas
 Pasal 34
-
 Sebelum undang-undang mengenai penempatan tenaga kerja di luar
 negeri diundangkan maka segala peraturan perundangan yang
 mengatur penempatan tenaga kerja di luar negeri tetap
@@ -2714,7 +2655,6 @@ Perlunya pemberian izin penggunaan tenaga kerja warga
 negara asing dimaksudkan agar penggunaan tenaga kerja
 warga negara asing dilaksanakan secara selektif dalam rangka
 pendayagunaan tenaga kerja Indonesia secara optimal.
-
 Ayat (2)
           Cukup jelas
 Ayat (3)
@@ -2759,7 +2699,6 @@ teknologi dan alih keahlian agar tenaga kerja
 pendamping tersebut dapat memiliki kemampuan
 sehingga pada waktunya diharapkan dapat mengganti
 tenaga kerja asing yang didampinginya.
-
 Huruf b
 Pendidikan dan pelatihan kerja oleh pemberi kerja
 tersebut dapat dilaksanakan baik di dalam negeri
@@ -2801,7 +2740,6 @@ Ayat (1)
 Huruf a
           Cukup jelas
 Huruf b
-
 Yang dimaksud dengan kemampuan atau kecakapan
 adalah para pihak yang mampu atau cakap menurut
 hukum untuk membuat perjanjian. Bagi tenaga kerja
@@ -2845,7 +2783,6 @@ Ayat (2)
 Yang dimaksud dengan pekerjaan yang bersifat tetap dalam
 ayat ini adalah pekerjaan yang sifatnya terus menerus, tidak
 terputus-putus, tidak dibatasi waktu dan merupakan bagian dari
-
 suatu proses produksi dalam satu perusahaan atau pekerjaan
 yang bukan musiman.
 Pekerjaan  yang bukan musiman adalah pekerjaan yang tidak
@@ -2890,7 +2827,6 @@ Huruf b
 Huruf c
           Cukup jelas
 Huruf d
-
 Keadaan atau kejadian tertentu seperti bencana alam,
 kerusuhan sosial, atau gangguan keamanan.
 Ayat (2)
@@ -2935,7 +2871,6 @@ Huruf a
           Cukup jelas
 Huruf b
           Cukup jelas
-
 Huruf c
 Perlindungan upah dan kesejahteraan, syarat-syarat
 kerja maupun penyelesaian perselisihan antara
@@ -2980,7 +2915,6 @@ Ayat (2)
           Cukup jelas
 Ayat (3)
           Cukup jelas
-
 Pasal 72
           Cukup jelas
 Pasal 73
@@ -3024,8 +2958,7 @@ ayat ini misalnya pekerjaan di pengeboran minyak lepas pantai,
 sopir angkutan jarak jauh, penerbangan jarak jauh, pekerjaan
 di kapal (laut), atau penebangan hutan.
 Ayat (4)
-
-          Cukup jelas
+Cukup jelas
 Pasal 78
 Ayat (1)
 Mempekerjakan lebih  dari waktu kerja sedapat mungkin harus
@@ -3068,7 +3001,6 @@ Ayat (5)
 Pasal 80
 Yang dimaksud kesempatan secukupnya yaitu menyediakan tempat
 untuk melaksanakan ibadah yang memungkinkan pekerja/buruh dapat
-
 melaksanakan ibadahnya secara baik, sesuai dengan kondisi dan
 kemampuan perusahaan.
 Pasal 81
@@ -3112,7 +3044,6 @@ tempat kerja, promosi kesehatan, pengobatan, dan rehabilitasi.
 Ayat (3)
           Cukup jelas
 Pasal 87
-
 Ayat (1)
 Yang dimaksud dengan sistem manajemen keselamatan dan
 kesehatan kerja adalah bagian dari sistem manajemen
@@ -3159,8 +3090,7 @@ upah minimum harus disesuaikan dengan tahapan pencapaian
 perbandingan upah minimum dengan kebutuhan hidup layak
 yang besarannya ditetapkan oleh Menteri.
 Ayat (3)
-
-          Cukup jelas
+Cukup jelas
 Ayat (4)
 Pencapaian kebutuhan hidup layak perlu dilakukan secara
 bertahap karena kebutuhan hidup layak tersebut merupakan
@@ -3205,7 +3135,6 @@ Ayat (2)
 Huruf a
           Yang dimaksud pekerja/buruh sakit ialah sakit menurut
 keterangan dokter.
-
 Huruf b
           Cukup jelas
 Huruf c
@@ -3250,8 +3179,7 @@ tidak dikaitkan dengan kehadiran pekerja/buruh atau pencapaian
 prestasi kerja tertentu.
 Pasal 95
 Ayat (1)
-
-          Cukup jelas
+Cukup jelas
 Ayat (2)
           Cukup jelas
 Ayat (3)
@@ -3292,8 +3220,7 @@ Ayat (4)
 Pasal 102
           Cukup jelas
 Pasal 103
-
-          Cukup jelas
+Cukup jelas
 Pasal 104
 Ayat (1)
 Kebebasan untuk membentuk, masuk atau tidak masuk
@@ -3334,7 +3261,6 @@ Huruf a
 Huruf b
           Cukup jelas
 Huruf c
-
 Yang dimaksud dengan syarat kerja adalah hak dan
 kewajiban pengusaha dan pekerja/buruh yang belum
 diatur dalam peraturan perundang-
@@ -3378,7 +3304,6 @@ ada tekanan dari satu pihak terhadap pihak lain.
 Ayat  (3)
 Dalam hal perjanjian kerja bersama dibuat dalam bahasa
 Indonesia dan diterjemahkan dalam bahasa lain, apabila terjadi
-
 perbedaan penafsiran, maka yang berlaku perjanjian kerja
 bersama yang menggunakan bahasa Indonesia.
 Ayat (4)
@@ -3420,8 +3345,7 @@ Pasal 128
 Pasal 129
           Cukup jelas
 Pasal 130
-
-          Cukup jelas
+Cukup jelas
 Pasal 131
           Cukup jelas
 Pasal 132
@@ -3464,7 +3388,6 @@ Huruf b
 Tempat mogok kerja adalah tempat-tempat yang
 ditentukan oleh penanggung jawab pemogokan yang
 tidak menghalangi pekerja/buruh lain untuk  bekerja.
-
 Huruf c
           Cukup jelas
 Huruf d
@@ -3507,7 +3430,6 @@ Ayat (2)
 Ayat (3)
 Dalam hal penutupan  perusahaan (lock out)  dilakukan
 secara  tidak sah  atau  sebagai tindakan  balasan  terhadap
-
 mogok  yang  sah  atas tuntutan normatif, maka pengusaha
 wajib membayar  upah  pekerja/buruh.
 Pasal 147
@@ -3549,7 +3471,6 @@ Pasal 160
 Ayat (1)
 Keluarga pekerja/buruh yang menjadi tanggungan adalah
 isteri/suami, anak atau orang yang sah menjadi tanggungan
-
 pekerja/buruh berdasarkan perjanjian kerja, peraturan
 perusahaan atau perjanjian kerja bersama.
 Ayat (2)
@@ -3597,7 +3518,6 @@ perjanjian kerja bersama,  maka surat peringatan yang
 diterbitkan oleh pengusaha adalah kembali sebagai peringatan
 pertama, demikian pula berlaku juga bagi peringatan kedua
 dan ketiga.
-
 Perjanjian kerja atau peraturan perusahaan atau perjanjian
 kerja bersama dapat memuat pelanggaran tertentu yang dapat
 diberi peringatan pertama dan terakhir.  Apabila pekerja/buruh
@@ -3647,7 +3567,6 @@ Rp 3.600.000,00
 Besarnya santunan  yang preminya dibayar oleh pekerja/
 buruh adalah sebesar 40% X Rp 6.000.000,00 = Rp
 2.400.000,00
-
 § 
 Jadi kekurangan yang masih harus dibayar oleh Pengusaha
 sebesar  Rp 10.000.000,00  dikurangi  Rp 3.600.000,00    =
@@ -3698,7 +3617,6 @@ untuk  mengajukan gugatan.
 Pasal 172
           Cukup jelas
 Pasal 173
-
 Ayat (1)
 Yang dimaksud dengan pembinaan dalam ayat ini adalah
 kegiatan yang dilakukan secara berdaya guna dan berhasil
@@ -3740,7 +3658,6 @@ Pasal 186
           Cukup jelas
 Pasal 187
           Cukup jelas
-
 Pasal 188
           Cukup jelas
 Pasal 189
