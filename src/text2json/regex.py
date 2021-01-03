@@ -32,11 +32,11 @@ alpha_regex = r'^[a-z][\.\)]'
 
 
 def is_num_point_start(line: str) -> bool:
-    return get_num_key_int(line) is not None
+    return get_num_key_int(line) == 1
 
 
 def is_alphabet_point_start(line: str) -> bool:
-    return get_alpha_key_int(line) is not None
+    return get_alpha_key_int(line) == 97
 
 
 def get_ayat_key_int(str: str) -> Union[int, None]:

@@ -1712,21 +1712,12 @@
                       },
                       {
                         "key": "c.",
-                        "isi": {
-                          "description": [
-                            "pemakaman dan/ atau takziah kematian yang bukan karena",
-                            "Corona Virus Disease (COVID- 19)."
-                          ],
-                          "isi": [
-                            {
-                              "key": "g.",
-                              "isi": [
-                                "",
-                                "14"
-                              ]
-                            }
-                          ]
-                        }
+                        "isi": [
+                          "pemakaman dan/ atau takziah kematian yang bukan karena",
+                          "Corona Virus Disease (COVID- 19).",
+                          "g.",
+                          "14"
+                        ]
                       }
                     ]
                   }
