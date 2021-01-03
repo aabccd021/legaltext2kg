@@ -45,7 +45,7 @@ def to_bab(babs_str: Iterable[str]) -> Bab:
         isi = extract_bagians(isi_strs)
 
     if isi == None:
-        raise Exception(isi)
+        raise Exception(first_line)
     return Bab(key=judul_strs, isi=isi)
 
 

@@ -4,6 +4,19 @@ import roman
 
 from text2json.utils import represents_int
 
+
+def is_penjelasan_start(line: str) -> bool:
+    return line.startswith("P E N J E L A S A N")
+
+
+def is_pengesahan_start(line: str) -> bool:
+    if line.startswith("Disahkan"):
+        return True
+    if line.startswith("Ditetapkan"):
+        return True
+    return False
+
+
 # bab
 
 
@@ -46,22 +59,11 @@ def get_bagian_key_int(str: str) -> Union[None, int]:
     raise Exception(str)
 
 
-def is_penjelasan_start(line: str) -> bool:
-    return line.startswith("P E N J E L A S A N")
-
-
-def is_pengesahan_start(line: str) -> bool:
-    if line.startswith("Disahkan"):
-        return True
-    if line.startswith("Ditetapkan"):
-        return True
-    return False
-
 # pasal
 
 
 def is_pasal_start(str: str) -> bool:
-    return get_paragraf_key_int(str) is not None
+    return get_pasal_key_int(str) is not None
 
 
 def get_pasal_key_int(str: str) -> Union[int, None]:
