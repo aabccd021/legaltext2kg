@@ -2,12 +2,14 @@
 from typing import List, Tuple
 from rdflib.namespace import NamespaceManager
 from rdflib.term import Literal, Node
+from dataclass2rdf.get_bab_triple import babs_to_triple
 from dataclass2rdf.get_strs_or_points_triple import point_content_to_triple
 from dataclass2rdf.types import Triples
 from text2dataclass.types import LegalDocument
 from rdflib import Graph, Namespace, URIRef
 from rdflib.namespace import XSD, RDF
 from dataclass2rdf.utils import *
+import itertools
 
 
 def dataclass2triples(doc: LegalDocument, doc_name: str) -> List[Tuple[Node, Node, Node]]:
@@ -16,14 +18,17 @@ def dataclass2triples(doc: LegalDocument, doc_name: str) -> List[Tuple[Node, Nod
     # (docN, ns.dengan_persetujuan, Literal(doc._dengan_persetujuan)),
     (docN, ns.menimbang, Literal(doc.menimbang)),
     triples: Triples = [
-        *point_content_to_triple(doc.menimbang, docN, 'menimbang'),
-        * point_content_to_triple(doc.mengingat, docN, 'mengingat'),
+        *point_content_to_triple(doc.menimbang, docN +
+                                 '/menimbang', 'menimbang'),
+        *point_content_to_triple(doc.mengingat, docN +
+                                 '/mengingat', 'mengingat'),
+        *itertools.chain(
+            *[babs_to_triple(bab, docN) for bab in doc.babs]),
         (docN, RDF.type, ONS.document),
         (docN, ONS.penjelasan, Literal(doc._name, datatype=XSD.string)),
-        (docN, ONS.pengesahan_text, Literal(
-            doc.pengesahan_text, datatype=XSD.string)),
-        (docN, ONS.op_text, Literal(doc.op_text, datatype=XSD.string)),
-        # (docN, ns.babs, Literal(doc.babs)),
+        # (docN, ONS.pengesahan_text, Literal(
+        #     doc.pengesahan_text, datatype=XSD.string)),
+        # (docN, ONS.op_text, Literal(doc.op_text, datatype=XSD.string)),
         (docN, ONS.name, Literal(doc._name, datatype=XSD.string)),
         (docN, ONS.nomor, Literal(doc._nomor, datatype=XSD.integer)),
         (docN, ONS.tahun, Literal(doc._tahun, datatype=XSD.integer)),

@@ -17,13 +17,13 @@ def point_content_to_triple(
     if type(p) == Iterable[str]:
         return [(parent, ONS[rel], Literal(x, datatype=XSD.string)) for x in cast(Iterable[str], p)]
     if type(p) == Points:
-        pointsN = parent + f'/{rel}/points'
+        pointsN = parent + f'/point'
         points = cast(Points, p)
         return [
-            (parent, ONS[rel], pointsN),
+            (parent, ONS.hasPoints, pointsN),
             (pointsN, ONS.description, Literal(
                 points._description, datatype=XSD.string)),
-            (pointsN, ONS.text, Literal(points.text, datatype=XSD.string)),
+            # (pointsN, ONS.text, Literal(points.text, datatype=XSD.string)),
             *itertools.chain(
                 *[point_to_triple(isi, pointsN) for isi in points.isi])
         ]
@@ -35,7 +35,9 @@ def point_to_triple(
     parent: URIRef,
 ) -> Triples:
     pointN = parent + f'/{p._key}'
+    datatype = XSD.string if type(p._key) == str else XSD.integer
     return [
         (parent, ONS.hasPoint, pointN),
+        (pointN, ONS.hasKey, Literal(p._key, datatype=datatype)),
         *point_content_to_triple(p.isi, pointN, "hasContent")
     ]
