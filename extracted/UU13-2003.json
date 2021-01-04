@@ -1,65 +1,25 @@
 {
-  "_metadata": {
-    "_dengan_persetujuan": [
-      "DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA",
-      "PRESIDEN REPUBLIK INDONESIA"
-    ],
-    "_dokumen": "LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2003 NOMOR 39",
-    "_jabatan_pengesah": "PRESIDEN REPUBLIK INDONESIA,",
-    "_memutuskan": "Menetapkan : UNDANG-UNDANG TENTANG KETENAGAKERJAAN.",
-    "_nama_pengesah": "MEGAWATI SOEKARNOPUTRI",
-    "_name": "UNDANG-UNDANG REPUBLIK INDONESIA",
-    "_nomor": 13,
-    "_pemutus": "Presiden Republik Indonesia",
-    "_salinan": "",
-    "_sekretaris": "SEKRETARIS NEGARA REPUBLIK INDONESIA, BAMBANG KESOWO",
-    "_tahun": 2003,
-    "_tanggal_disahkan": "",
-    "_tanggal_ditetapkan": "25 Maret 2003",
-    "_tanggal_diundangkan": "25 Maret 2003",
-    "_tempat_disahkan": "Jakarta",
-    "_tempat_ditetapkan": "",
-    "_tempat_diundangkan": "Jakarta",
-    "_tentang": "KETENAGAKERJAAN",
-    "mengingat": "Pasal 5 ayat (1), Pasal 20 ayat (2), Pasal 27 ayat (2), Pasal 28, dan Pasal 33 ayat (1) Undang Undang Dasar Negara Republik Indonesia Tahun 1945;",
-    "menimbang": {
-      "_description": "",
-      "_type": "points",
-      "isi": [
-        {
-          "_key": "a",
-          "_type": "point",
-          "isi": "bahwa pembangunan nasional dilaksanakan dalam rangka pembangunan manusia Indonesia seutuhnya dan pembangunan masyarakat Indonesia seluruhnya untuk mewujudkan masyarakat yang sejahtera, adil, makmur, yang merata, baik materiil maupun spiritual berdasarkan Pancasila dan Undang Undang Dasar Negara Republik Indonesia Tahun 1945;"
-        },
-        {
-          "_key": "b",
-          "_type": "point",
-          "isi": "bahwa dalam pelaksanaan pembangunan nasional, tenaga kerja mempunyai peranan dan kedudukan yang sangat penting sebagai pelaku dan tujuan pembangunan;"
-        },
-        {
-          "_key": "c",
-          "_type": "point",
-          "isi": "bahwa sesuai dengan peranan dan kedudukan tenaga kerja, diperlukan pembangunan ketenagakerjaan untuk meningkatkan kualitas tenaga kerja dan peransertanya dalam pembangunan serta peningkatan perlindungan tenaga kerja dan keluarganya sesuai dengan harkat dan martabat kemanusiaan;"
-        },
-        {
-          "_key": "d",
-          "_type": "point",
-          "isi": "bahwa perlindungan terhadap tenaga kerja dimaksudkan untuk menjamin hak hak dasar pekerja/buruh dan menjamin kesamaan kesempatan serta perlakuan tanpa diskriminasi atas dasar apapun untuk mewujudkan kesejahteraan pekerja/buruh dan keluarganya dengan tetap memperhatikan perkembangan kemajuan dunia usaha;"
-        },
-        {
-          "_key": "e",
-          "_type": "point",
-          "isi": "bahwa beberapa undang undang di bidang ketenagakerjaan dipandang sudah tidak sesuai lagi dengan kebutuhan dan tuntutan pembangunan ketenagakerjaan, oleh karena itu perlu dicabut dan/atau ditarik kembali;"
-        },
-        {
-          "_key": "f",
-          "_type": "point",
-          "isi": "bahwa berdasarkan pertimbangan sebagaimana tersebut pada huruf a, b, c, d, dan e perlu membentuk Undang undang tentang Ketenagakerjaan;"
-        }
-      ],
-      "text": "a. bahwa\npembangunan\nnasional\ndilaksanakan\ndalam\nrangka\npembangunan manusia Indonesia seutuhnya dan pembangunan\nmasyarakat Indonesia seluruhnya untuk mewujudkan masyarakat\nyang sejahtera, adil, makmur, yang merata, baik materiil maupun\nspiritual berdasarkan Pancasila dan Undang Undang Dasar Negara\nRepublik Indonesia Tahun 1945;\nb. bahwa dalam pelaksanaan pembangunan nasional, tenaga kerja\nmempunyai peranan dan kedudukan yang sangat penting sebagai\npelaku dan tujuan pembangunan;\nc. bahwa sesuai dengan peranan dan kedudukan tenaga kerja,\ndiperlukan pembangunan ketenagakerjaan untuk meningkatkan\nkualitas tenaga kerja dan peransertanya dalam pembangunan serta\npeningkatan perlindungan tenaga kerja dan keluarganya sesuai\ndengan harkat dan martabat kemanusiaan;\nd. bahwa perlindungan terhadap tenaga kerja dimaksudkan untuk\nmenjamin hak hak dasar pekerja/buruh dan menjamin kesamaan\nkesempatan serta perlakuan tanpa diskriminasi atas dasar apapun\nuntuk mewujudkan kesejahteraan pekerja/buruh dan keluarganya\ndengan tetap memperhatikan perkembangan kemajuan dunia\nusaha;\ne. bahwa beberapa undang undang di bidang ketenagakerjaan\ndipandang sudah tidak sesuai lagi dengan kebutuhan dan tuntutan\npembangunan ketenagakerjaan, oleh karena itu perlu dicabut\ndan/atau ditarik kembali;\nf.\nbahwa berdasarkan pertimbangan sebagaimana tersebut pada huruf\na, b, c, d, dan e perlu membentuk Undang undang tentang\nKetenagakerjaan;"
-    }
-  },
+  "_dengan_persetujuan": [
+    "DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA",
+    "PRESIDEN REPUBLIK INDONESIA"
+  ],
+  "_dokumen": "LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2003 NOMOR 39",
+  "_jabatan_pengesah": "PRESIDEN REPUBLIK INDONESIA,",
+  "_memutuskan": "Menetapkan : UNDANG-UNDANG TENTANG KETENAGAKERJAAN.",
+  "_nama_pengesah": "MEGAWATI SOEKARNOPUTRI",
+  "_name": "UNDANG-UNDANG REPUBLIK INDONESIA",
+  "_nomor": 13,
+  "_pemutus": "Presiden Republik Indonesia",
+  "_salinan": "",
+  "_sekretaris": "SEKRETARIS NEGARA REPUBLIK INDONESIA, BAMBANG KESOWO",
+  "_tahun": 2003,
+  "_tanggal_disahkan": "",
+  "_tanggal_ditetapkan": "25 Maret 2003",
+  "_tanggal_diundangkan": "25 Maret 2003",
+  "_tempat_disahkan": "Jakarta",
+  "_tempat_ditetapkan": "",
+  "_tempat_diundangkan": "Jakarta",
+  "_tentang": "KETENAGAKERJAAN",
   "babs": [
     {
       "_judul": "KETENTUAN UMUM",
@@ -5528,6 +5488,44 @@
       "text": "BAB XVIII\nKETENTUAN PENUTUP\nPasal 192\nPada saat mulai berlakunya Undang undang ini, maka :\n1.\nOrdonansi tentang Pengerahan Orang Indonesia Untuk Melakukan Pekerjaan Di Luar\nIndonesia (Staatsblad Tahun 1887 Nomor 8);\n2.\nOrdonansi tanggal 17 Desember 1925 Peraturan tentang Pembatasan Kerja Anak Dan\nKerja Malam Bagi Wanita (Staatsblad Tahun 1925 Nomor 647);\n3.\nOrdonansi Tahun 1926 Peraturan mengenai Kerja Anak anak Dan Orang Muda Di Atas\nKapal (Staatsblad Tahun 1926 Nomor 87);\n4.\nOrdonansi tanggal 4 Mei 1936 tentang Ordonansi untuk Mengatur Kegiatan kegiatan\nMencari Calon Pekerja (Staatsblad Tahun 1936 Nomor 208);\n5.\n5. Ordonansi tentang Pemulangan Buruh Yang Diterima Atau Dikerahkan Dari Luar\nIndonesia (Staatsblad Tahun 1939 Nomor 545);\n6.\nOrdonansi Nomor 9 Tahun 1949 tentang Pembatasan Kerja Anak anak (Staatsblad\nTahun 1949 Nomor 8);\n7.\nUndang undang Nomor 1 Tahun 1951 tentang Pernyataan Berlakunya Undang undang\nKerja Tahun 1948 Nomor 12 Dari Republik Indonesia Untuk Seluruh Indonesia (Lembaran\nNegara Tahun 1951 Nomor 2);\n8.\nUndang undang Nomor 21 Tahun 1954 tentang Perjanjian Perburuhan Antara Serikat\nBuruh Dan Majikan (Lembaran Negara Tahun 1954 Nomor 69, Tambahan Lembaran Negara\nNomor 598a);\n9.\nUndang-undang Nomor 3 Tahun 1958 tentang Penempatan Tenaga Asing (Lembaran\nNegara Tahun 1958 Nomor 8 );\n10.\nUndang-undang Nomor 8 Tahun 1961 tentang Wajib Kerja Sarjana (Lembaran Negara\nTahun 1961 Nomor 207, Tambahan Lembaran Negara Nomor 2270);\n11.\nUndang undang Nomor 7 Pnps Tahun 1963 tentang Pencegahan Pemogokan dan/atau\nPenutupan (Lock Out) Di Perusahaan, Jawatan, dan Badan Yang Vital (Lembaran Negara Tahun\n1963 Nomor 67);\n12.\nUndang undang Nomor 14 Tahun 1969 tentang Ketentuan ketentuan Pokok Mengenai\nTenaga Kerja (Lembaran Negara Tahun 1969 Nomor 55, Tambahan Lembaran Negara Nomor\n2912);\n13.\nUndang-undang Nomor 25 Tahun 1997 tentang Ketenagakerjaan (Lembaran Negara\nTahun 1997 Nomor 73, Tambahan Lembaran Negara Nomor 3702);\n14.\nUndang-undang Nomor 11 Tahun 1998 tentang Perubahan Berlakunya Undang-undang\nNomor 25 Tahun 1997 tentang Ketenagakerjaan (Lembaran Negara Tahun 1998 Nomor 184,\nTambahan Lembaran Negara Nomor 3791);\n15.\nUndang-undang Nomor 28 Tahun 2000 tentang Penetapan Peraturan Pemerintah\nPengganti Undang-undang Nomor 3 Tahun 2000 tentang Perubahan Atas Undang-undang\nNomor 11 Tahun 1998 tentang Perubahan Berlakunya Undang-undang Nomor 25 Tahun 1997\ntentang Ketenaga-kerjaan Menjadi Undang-undang (Lembaran Negara Tahun 2000 Nomor 240,\nTambahan Lembaran Negara Nomor 4042),\ndinyatakan tidak berlaku lagi.\nPasal 193\nUndang undang ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan undang undang ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia."
     }
   ],
+  "mengingat": "Pasal 5 ayat (1), Pasal 20 ayat (2), Pasal 27 ayat (2), Pasal 28, dan Pasal 33 ayat (1) Undang Undang Dasar Negara Republik Indonesia Tahun 1945;",
+  "menimbang": {
+    "_description": "",
+    "_type": "points",
+    "isi": [
+      {
+        "_key": "a",
+        "_type": "point",
+        "isi": "bahwa pembangunan nasional dilaksanakan dalam rangka pembangunan manusia Indonesia seutuhnya dan pembangunan masyarakat Indonesia seluruhnya untuk mewujudkan masyarakat yang sejahtera, adil, makmur, yang merata, baik materiil maupun spiritual berdasarkan Pancasila dan Undang Undang Dasar Negara Republik Indonesia Tahun 1945;"
+      },
+      {
+        "_key": "b",
+        "_type": "point",
+        "isi": "bahwa dalam pelaksanaan pembangunan nasional, tenaga kerja mempunyai peranan dan kedudukan yang sangat penting sebagai pelaku dan tujuan pembangunan;"
+      },
+      {
+        "_key": "c",
+        "_type": "point",
+        "isi": "bahwa sesuai dengan peranan dan kedudukan tenaga kerja, diperlukan pembangunan ketenagakerjaan untuk meningkatkan kualitas tenaga kerja dan peransertanya dalam pembangunan serta peningkatan perlindungan tenaga kerja dan keluarganya sesuai dengan harkat dan martabat kemanusiaan;"
+      },
+      {
+        "_key": "d",
+        "_type": "point",
+        "isi": "bahwa perlindungan terhadap tenaga kerja dimaksudkan untuk menjamin hak hak dasar pekerja/buruh dan menjamin kesamaan kesempatan serta perlakuan tanpa diskriminasi atas dasar apapun untuk mewujudkan kesejahteraan pekerja/buruh dan keluarganya dengan tetap memperhatikan perkembangan kemajuan dunia usaha;"
+      },
+      {
+        "_key": "e",
+        "_type": "point",
+        "isi": "bahwa beberapa undang undang di bidang ketenagakerjaan dipandang sudah tidak sesuai lagi dengan kebutuhan dan tuntutan pembangunan ketenagakerjaan, oleh karena itu perlu dicabut dan/atau ditarik kembali;"
+      },
+      {
+        "_key": "f",
+        "_type": "point",
+        "isi": "bahwa berdasarkan pertimbangan sebagaimana tersebut pada huruf a, b, c, d, dan e perlu membentuk Undang undang tentang Ketenagakerjaan;"
+      }
+    ],
+    "text": "a. bahwa\npembangunan\nnasional\ndilaksanakan\ndalam\nrangka\npembangunan manusia Indonesia seutuhnya dan pembangunan\nmasyarakat Indonesia seluruhnya untuk mewujudkan masyarakat\nyang sejahtera, adil, makmur, yang merata, baik materiil maupun\nspiritual berdasarkan Pancasila dan Undang Undang Dasar Negara\nRepublik Indonesia Tahun 1945;\nb. bahwa dalam pelaksanaan pembangunan nasional, tenaga kerja\nmempunyai peranan dan kedudukan yang sangat penting sebagai\npelaku dan tujuan pembangunan;\nc. bahwa sesuai dengan peranan dan kedudukan tenaga kerja,\ndiperlukan pembangunan ketenagakerjaan untuk meningkatkan\nkualitas tenaga kerja dan peransertanya dalam pembangunan serta\npeningkatan perlindungan tenaga kerja dan keluarganya sesuai\ndengan harkat dan martabat kemanusiaan;\nd. bahwa perlindungan terhadap tenaga kerja dimaksudkan untuk\nmenjamin hak hak dasar pekerja/buruh dan menjamin kesamaan\nkesempatan serta perlakuan tanpa diskriminasi atas dasar apapun\nuntuk mewujudkan kesejahteraan pekerja/buruh dan keluarganya\ndengan tetap memperhatikan perkembangan kemajuan dunia\nusaha;\ne. bahwa beberapa undang undang di bidang ketenagakerjaan\ndipandang sudah tidak sesuai lagi dengan kebutuhan dan tuntutan\npembangunan ketenagakerjaan, oleh karena itu perlu dicabut\ndan/atau ditarik kembali;\nf.\nbahwa berdasarkan pertimbangan sebagaimana tersebut pada huruf\na, b, c, d, dan e perlu membentuk Undang undang tentang\nKetenagakerjaan;"
+  },
   "op_text": "UNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 13 TAHUN 2003\nTENTANG\nKETENAGAKERJAAN\nDENGAN RAHMAT TUHAN YANG MAHA ESA\nPresiden Republik Indonesia,\nMenimbang :\na. bahwa\npembangunan\nnasional\ndilaksanakan\ndalam\nrangka\npembangunan manusia Indonesia seutuhnya dan pembangunan\nmasyarakat Indonesia seluruhnya untuk mewujudkan masyarakat\nyang sejahtera, adil, makmur, yang merata, baik materiil maupun\nspiritual berdasarkan Pancasila dan Undang Undang Dasar Negara\nRepublik Indonesia Tahun 1945;\nb. bahwa dalam pelaksanaan pembangunan nasional, tenaga kerja\nmempunyai peranan dan kedudukan yang sangat penting sebagai\npelaku dan tujuan pembangunan;\nc. bahwa sesuai dengan peranan dan kedudukan tenaga kerja,\ndiperlukan pembangunan ketenagakerjaan untuk meningkatkan\nkualitas tenaga kerja dan peransertanya dalam pembangunan serta\npeningkatan perlindungan tenaga kerja dan keluarganya sesuai\ndengan harkat dan martabat kemanusiaan;\nd. bahwa perlindungan terhadap tenaga kerja dimaksudkan untuk\nmenjamin hak hak dasar pekerja/buruh dan menjamin kesamaan\nkesempatan serta perlakuan tanpa diskriminasi atas dasar apapun\nuntuk mewujudkan kesejahteraan pekerja/buruh dan keluarganya\ndengan tetap memperhatikan perkembangan kemajuan dunia\nusaha;\ne. bahwa beberapa undang undang di bidang ketenagakerjaan\ndipandang sudah tidak sesuai lagi dengan kebutuhan dan tuntutan\npembangunan ketenagakerjaan, oleh karena itu perlu dicabut\ndan/atau ditarik kembali;\nf.\nbahwa berdasarkan pertimbangan sebagaimana tersebut pada huruf\na, b, c, d, dan e perlu membentuk Undang undang tentang\nKetenagakerjaan;\nMengingat :\nPasal 5 ayat (1), Pasal 20 ayat (2), Pasal 27 ayat (2), Pasal 28, dan Pasal 33\nayat (1) Undang Undang Dasar Negara Republik Indonesia Tahun 1945;\nDengan persetujuan bersama antara\nDEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA\nDAN\nPRESIDEN REPUBLIK INDONESIA\nMEMUTUSKAN :\nMenetapkan\n:\nUNDANG-UNDANG TENTANG KETENAGAKERJAAN.",
   "pengesahan_text": "Disahkan di Jakarta\npada tanggal 25 Maret 2003\nPRESIDEN REPUBLIK INDONESIA,\nttd\nMEGAWATI SOEKARNOPUTRI\nDiundangkan di Jakarta\npada tanggal 25 Maret 2003\nSEKRETARIS NEGARA REPUBLIK INDONESIA,\nBAMBANG KESOWO\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2003 NOMOR 39",
   "penjelasan": [

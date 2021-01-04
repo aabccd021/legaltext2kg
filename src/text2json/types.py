@@ -73,7 +73,11 @@ class Bab:
 
 
 @ dataclass(frozen=True)
-class Metadata:
+class LegalDocument:
+    penjelasan: Iterable[str]
+    pengesahan_text: str
+    op_text: str
+    babs: Iterable[Bab]
     _name: str
     _nomor: int
     _tahun: int
@@ -94,12 +98,3 @@ class Metadata:
     _dokumen: str
     menimbang: PointContentType
     mengingat: PointContentType
-
-
-@ dataclass(frozen=True)
-class LegalDocument:
-    penjelasan: Iterable[str]
-    _metadata: Metadata
-    pengesahan_text: str
-    op_text: str
-    babs: Iterable[Bab]
