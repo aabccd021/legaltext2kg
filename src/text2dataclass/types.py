@@ -4,31 +4,31 @@ from dataclasses import dataclass
 
 
 @dataclass(frozen=True)
-class PointContent:
+class Point:
     _key: Union[str, int]
-    isi: PointContentType
+    isi: StrsOrPoints
     _type: Literal['point'] = 'point'
 
 
 @dataclass(frozen=True)
-class Point:
+class Points:
     _description: str
-    isi: Iterable[PointContent]
+    isi: Iterable[Point]
     text: str
     _type: Literal['points'] = 'points'
 
 
-PointContentType = Union[Iterable[str], Point, str]
+StrsOrPoints = Union[Iterable[str], Points, str]
 
 
 @ dataclass(frozen=True)
 class Ayat:
     _key: int
-    isi: PointContentType
+    isi: StrsOrPoints
     _type: Literal['ayat'] = 'ayat'
 
 
-PasalContent = Union[Iterable[Ayat], PointContentType]
+PasalContent = Union[Iterable[Ayat], StrsOrPoints]
 
 
 @ dataclass(frozen=True)
@@ -96,5 +96,5 @@ class LegalDocument:
     _tanggal_diundangkan: str
     _sekretaris: str
     _dokumen: str
-    menimbang: PointContentType
-    mengingat: PointContentType
+    menimbang: StrsOrPoints
+    mengingat: StrsOrPoints

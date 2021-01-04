@@ -1,13 +1,17 @@
-@prefix : <http://example.org/> .
+@prefix : <http://example.org/legal/document/> .
+@prefix legal: <http://example.org/legal/ontology/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-:PERGUB33-2020 :dokumen "BERITA DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA TAHUN 2020 NOMOR 55003"^^xsd:string ;
-    :jabatan_pengesah "GUBERNUR DAERAH KHUSUS IBUKOTA JAKARTA,"^^xsd:string ;
-    :memutuskan "PERATURAN GUBERNUR TENTANG PELAKSANAAN PEMBATASAN SOSIAL BERSKALA BESAR DALAM PENANGANAN CORONA VIRUS DISEASE 2019 (COVID-19) DI PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA."^^xsd:string ;
-    :nama_pengesah "ANIES BASWEDAN"^^xsd:string ;
-    :name "PERATURAN GUBERNUR DAERAH KHUSUS IBUKOTA JAKARTA"^^xsd:string ;
-    :nomor 33 ;
-    :op_text """SALINAN
+:PERGUB33-2020 a legal:document ;
+    legal:jabatan_pengesah "GUBERNUR DAERAH KHUSUS IBUKOTA JAKARTA,"^^xsd:string ;
+    legal:memutuskan "PERATURAN GUBERNUR TENTANG PELAKSANAAN PEMBATASAN SOSIAL BERSKALA BESAR DALAM PENANGANAN CORONA VIRUS DISEASE 2019 (COVID-19) DI PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA."^^xsd:string ;
+    legal:mengingat <http://example.org/legal/document/PERGUB33-2020/mengingat/points> ;
+    legal:menimbang <http://example.org/legal/document/PERGUB33-2020/menimbang/points> ;
+    legal:nama_dokumen "BERITA DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA TAHUN 2020 NOMOR 55003"^^xsd:string ;
+    legal:nama_pengesah "ANIES BASWEDAN"^^xsd:string ;
+    legal:name "PERATURAN GUBERNUR DAERAH KHUSUS IBUKOTA JAKARTA"^^xsd:string ;
+    legal:nomor 33 ;
+    legal:op_text """SALINAN
 GUBERNUR PROVINSI DAERAH KHUSUS
 IBUKOTA JAKARTA
 PERATURAN GUBERNUR DAERAH KHUSUS
@@ -68,8 +72,8 @@ PERATURAN GUBERNUR TENTANG PELAKSANAAN PEMBATASAN
 SOSIAL BERSKALA BESAR DALAM PENANGANAN CORONA
 VIRUS DISEASE 2019 (COVID-19) DI PROVINSI DAERAH KHUSUS
 IBUKOTA JAKARTA."""^^xsd:string ;
-    :pemutus "GUBERNUR DAERAH KHUSUS IBUKOTA JAKARTA"^^xsd:string ;
-    :pengesahan_text """Ditetapkan di Jakarta
+    legal:pemutus "GUBERNUR DAERAH KHUSUS IBUKOTA JAKARTA"^^xsd:string ;
+    legal:pengesahan_text """Ditetapkan di Jakarta
 pada tanggal 9 April 2020
 GUBERNUR DAERAH KHUSUS
 IBUKOTA JAKARTA,
@@ -97,15 +101,87 @@ r, �
 Y YAN YUHANAH
 ' NIP 196508241994032003
 ,,.,..,...ss........24...____„,,,"""^^xsd:string ;
-    :penjelasan "PERATURAN GUBERNUR DAERAH KHUSUS IBUKOTA JAKARTA"^^xsd:string ;
-    :salinan "SALINAN GUBERNUR PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA"^^xsd:string ;
-    :sekretaris "SEKRETARIS DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA, SAEFULLAH"^^xsd:string ;
-    :tahun 2020 ;
-    :tanggal_disahkan ""^^xsd:string ;
-    :tanggal_ditetapkan "9 April 2020"^^xsd:string ;
-    :tanggal_diundangkan "9 April 2020"^^xsd:string ;
-    :tempat_disahkan ""^^xsd:string ;
-    :tempat_ditetapkan "Jakarta"^^xsd:string ;
-    :tempat_diundangkan "Jakarta"^^xsd:string ;
-    :tentang "PELAKSANAAN PEMBATASAN SOSIAL BERSKALA BESAR DALAM PENANGANAN CORONA VIRUS DISEASE 2019 (COVID-19) DI PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA"^^xsd:string .
+    legal:penjelasan "PERATURAN GUBERNUR DAERAH KHUSUS IBUKOTA JAKARTA"^^xsd:string ;
+    legal:salinan "SALINAN GUBERNUR PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA"^^xsd:string ;
+    legal:sekretaris "SEKRETARIS DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA, SAEFULLAH"^^xsd:string ;
+    legal:tahun 2020 ;
+    legal:tanggal_disahkan ""^^xsd:string ;
+    legal:tanggal_ditetapkan "9 April 2020"^^xsd:string ;
+    legal:tanggal_diundangkan "9 April 2020"^^xsd:string ;
+    legal:tempat_disahkan ""^^xsd:string ;
+    legal:tempat_ditetapkan "Jakarta"^^xsd:string ;
+    legal:tempat_diundangkan "Jakarta"^^xsd:string ;
+    legal:tentang "PELAKSANAAN PEMBATASAN SOSIAL BERSKALA BESAR DALAM PENANGANAN CORONA VIRUS DISEASE 2019 (COVID-19) DI PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA"^^xsd:string .
+
+<http://example.org/legal/document/PERGUB33-2020/mengingat/points> legal:description ""^^xsd:string ;
+    legal:hasPoint <http://example.org/legal/document/PERGUB33-2020/mengingat/points/1>,
+        <http://example.org/legal/document/PERGUB33-2020/mengingat/points/2>,
+        <http://example.org/legal/document/PERGUB33-2020/mengingat/points/3>,
+        <http://example.org/legal/document/PERGUB33-2020/mengingat/points/4>,
+        <http://example.org/legal/document/PERGUB33-2020/mengingat/points/5>,
+        <http://example.org/legal/document/PERGUB33-2020/mengingat/points/6> ;
+    legal:text """1. Undang-Undang Nomor 4 Tahun 1984 tentang Wabah Penyakit
+Menular (Lembaran Negara Republik Indonesia Tahun 1984
+Nomor 20, Tambahan Lembaran Negara Republik Indonesia
+Tahun 1984 Nomor 3723);
+2. Undang-Undang Nomor 29 Tahun 2007 tentang Pemerintahan
+Daerah Khusus Ibukota Jakarta sebagai Ibukota Negara
+Kesatuan Republik Indonesia (Lembaran Negara Republik
+Indonesia Tahun 2007 Nomor 93, Tambahan Lembaran Negara
+Republik Indonesia Nomor 4744);
+3. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan
+Daerah (Lembaran Negara Republik Indonesia Tahun 2014
+Nomor 244, Tambahan Lembaran Negara Republik Indonesia
+Nomor 5587) sebagaimana telah beberapa kali diubah terakhir
+dengan Undang-Undang Nomor 9 Tahun 2015 tentang
+Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2014
+tentang Pemerintahan Daerah (Lembaran Negara Republik
+Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara
+Republik Indonesia Nomor 5679);
+2
+Menetapkan
+4. Undang-Undang Nomor 6 Tahun 2018 tentang Kekarantinaan
+Kesehatan (Lembaran Negara Republik Indonesia Tahun 2018
+Nomor 128, Tambahan Lembaran Negara Republik Indonesia
+Nomor 6236);
+5. Peraturan Pemerintah Nomor 21 Tahun 2020 tentang
+Pembatasan Sosial Berskala Besar Dalam Rangka Percepatan
+Penanganan Corona Virus Disease 2019 (COVID-19) (Lembaran
+Negara Republik Indonesia Tahun 2020 Nomor 91, Tambahan
+Lembaran Negara Republik Indonesia Nomor 6487);
+6. Peraturan Menteri Kesehatan Nomor 9 Tahun 2020 tentang
+Pedoman Pembatasan Sosial Berskala Besar Dalam Rangka
+Percepatan Penanganan Corona Virus Disease 2019 (COVID-
+19) (Berita Negara Republik Indonesia Tahun 2020 Nomor
+326);"""^^xsd:string .
+
+<http://example.org/legal/document/PERGUB33-2020/mengingat/points/1> legal:hasContent "Undang-Undang Nomor 4 Tahun 1984 tentang Wabah Penyakit Menular (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 20, Tambahan Lembaran Negara Republik Indonesia Tahun 1984 Nomor 3723);"^^xsd:string .
+
+<http://example.org/legal/document/PERGUB33-2020/mengingat/points/2> legal:hasContent "Undang-Undang Nomor 29 Tahun 2007 tentang Pemerintahan Daerah Khusus Ibukota Jakarta sebagai Ibukota Negara Kesatuan Republik Indonesia (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 93, Tambahan Lembaran Negara Republik Indonesia Nomor 4744);"^^xsd:string .
+
+<http://example.org/legal/document/PERGUB33-2020/mengingat/points/3> legal:hasContent "Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor 5587) sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 5679); 2 Menetapkan"^^xsd:string .
+
+<http://example.org/legal/document/PERGUB33-2020/mengingat/points/4> legal:hasContent "Undang-Undang Nomor 6 Tahun 2018 tentang Kekarantinaan Kesehatan (Lembaran Negara Republik Indonesia Tahun 2018 Nomor 128, Tambahan Lembaran Negara Republik Indonesia Nomor 6236);"^^xsd:string .
+
+<http://example.org/legal/document/PERGUB33-2020/mengingat/points/5> legal:hasContent "Peraturan Pemerintah Nomor 21 Tahun 2020 tentang Pembatasan Sosial Berskala Besar Dalam Rangka Percepatan Penanganan Corona Virus Disease 2019 (COVID-19) (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 91, Tambahan Lembaran Negara Republik Indonesia Nomor 6487);"^^xsd:string .
+
+<http://example.org/legal/document/PERGUB33-2020/mengingat/points/6> legal:hasContent "Peraturan Menteri Kesehatan Nomor 9 Tahun 2020 tentang Pedoman Pembatasan Sosial Berskala Besar Dalam Rangka Percepatan Penanganan Corona Virus Disease 2019 (COVID- 19) (Berita Negara Republik Indonesia Tahun 2020 Nomor 326);"^^xsd:string .
+
+<http://example.org/legal/document/PERGUB33-2020/menimbang/points> legal:description ""^^xsd:string ;
+    legal:hasPoint <http://example.org/legal/document/PERGUB33-2020/menimbang/points/a>,
+        <http://example.org/legal/document/PERGUB33-2020/menimbang/points/b> ;
+    legal:text """a. bahwa bahwa berdasarkan Keputusan Menteri Kesehatan
+Republik Indonesia Nomor HK.01.07/MENKES/239/2020 telah
+ditetapkan Pembatasan Sosial Berskala Besar di wilayah
+Provinsi Daerah Khusus Ibukota Jakarta dalam rangka
+percepatan penanganan Corona Virus Disease 2019 (COVID-19);
+b. bahwa berdasarkan pertimbangan sebagaimana dimaksud
+dalam huruf a, perlu menetapkan Peraturan Gubernur tentang
+Pelaksanaan Pembatasan Sosial Berskala Besar Dalam
+Penanganan Corona Virus Disease 2019 (COVID-19) di Provinsi
+Daerah Khusus Ibukota Jakarta;"""^^xsd:string .
+
+<http://example.org/legal/document/PERGUB33-2020/menimbang/points/a> legal:hasContent "bahwa bahwa berdasarkan Keputusan Menteri Kesehatan Republik Indonesia Nomor HK.01.07/MENKES/239/2020 telah ditetapkan Pembatasan Sosial Berskala Besar di wilayah Provinsi Daerah Khusus Ibukota Jakarta dalam rangka percepatan penanganan Corona Virus Disease 2019 (COVID-19);"^^xsd:string .
+
+<http://example.org/legal/document/PERGUB33-2020/menimbang/points/b> legal:hasContent "bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, perlu menetapkan Peraturan Gubernur tentang Pelaksanaan Pembatasan Sosial Berskala Besar Dalam Penanganan Corona Virus Disease 2019 (COVID-19) di Provinsi Daerah Khusus Ibukota Jakarta;"^^xsd:string .
 

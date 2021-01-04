@@ -3,7 +3,7 @@ from typing import Callable, Iterable, List, Tuple, Union
 import typing
 from text2dataclass.regex import *
 
-from text2dataclass.types import Ayat, PasalContent, Point, PointContent, PointContentType
+from text2dataclass.types import Ayat, PasalContent, Points, Point, StrsOrPoints
 from text2dataclass.utils import Extractor, compact, extract_lines, extract_to_increment_key_list
 
 
@@ -23,7 +23,7 @@ def extract_pasal_content(lines: Iterable[str]) -> PasalContent:
     return extract_point(lines)
 
 
-def extract_point(lines: Iterable[str]) -> PointContentType:
+def extract_point(lines: Iterable[str]) -> StrsOrPoints:
     # num points
     for line in lines:
         if is_num_point_start(line):
@@ -53,7 +53,7 @@ def extract_point_u(
     get_key_int: Callable[[str], Union[int, None]],
     get_key: Callable[[int], Union[int, str]],
     regex: str
-) -> Point:
+) -> Points:
     extractors = [
         Extractor[PointSplitType]("description"),
         Extractor[PointSplitType]("isi", is_start),
@@ -69,9 +69,9 @@ def extract_point_u(
     contents = [extract_point(c) for c in contents]
     assert len(keys) == len(contents)
     text = "\n".join(lines)
-    point_content = [PointContent(key, content) for key, content
+    point_content = [Point(key, content) for key, content
                      in zip(keys, contents)]
-    return Point(
+    return Points(
         _description=desc_str,
         isi=point_content,
         text=text

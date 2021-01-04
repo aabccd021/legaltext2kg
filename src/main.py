@@ -1,11 +1,12 @@
 import json
 import dataclasses
+from rdflib import Graph
 
 from rdflib.namespace import NamespaceManager
-from dataclass2rdf.dataclass2rdf import dataclass2rdf
+from dataclass2rdf.dataclass2rdf import dataclass2triples
 from pdf2text.pdf2text import pdf2text
 from text2dataclass.text2dataclass import text2dataclass
-from dataclass2rdf.utils import ns
+from dataclass2rdf.utils import ns, ONS
 
 
 def process(filename: str) -> None:
@@ -19,13 +20,15 @@ def process(filename: str) -> None:
     with open(f'extracted/{filename}.json', 'w') as f:
         f.write(json.dumps(dataclasses.asdict(data), indent=2, sort_keys=True))
 
-    rdf = dataclass2rdf(data, filename)
-    nsm = NamespaceManager(rdf)
-    nsm.bind('', ns)
-    rdf.serialize(
+    triples = dataclass2triples(data, filename)
+    g = Graph()
+    for triple in triples:
+        g.add(triple)
+    g.bind('', ns)
+    g.bind('legal', ONS)
+    g.serialize(
         destination='extracted/{}.ttl'.format(filename),
         format='turtle',
-        nsm=nsm
     )
 
 

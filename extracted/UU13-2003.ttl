@@ -1,13 +1,19 @@
-@prefix : <http://example.org/> .
+@prefix : <http://example.org/legal/document/> .
+@prefix legal: <http://example.org/legal/ontology/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-:UU13-2003 :dokumen "LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2003 NOMOR 39"^^xsd:string ;
-    :jabatan_pengesah "PRESIDEN REPUBLIK INDONESIA,"^^xsd:string ;
-    :memutuskan "Menetapkan : UNDANG-UNDANG TENTANG KETENAGAKERJAAN."^^xsd:string ;
-    :nama_pengesah "MEGAWATI SOEKARNOPUTRI"^^xsd:string ;
-    :name "UNDANG-UNDANG REPUBLIK INDONESIA"^^xsd:string ;
-    :nomor 13 ;
-    :op_text """UNDANG-UNDANG REPUBLIK INDONESIA
+:UU13-2003 a legal:document ;
+    :dengan_persetujuan "DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA",
+        "PRESIDEN REPUBLIK INDONESIA" ;
+    legal:jabatan_pengesah "PRESIDEN REPUBLIK INDONESIA,"^^xsd:string ;
+    legal:memutuskan "Menetapkan : UNDANG-UNDANG TENTANG KETENAGAKERJAAN."^^xsd:string ;
+    legal:mengingat "Pasal 5 ayat (1), Pasal 20 ayat (2), Pasal 27 ayat (2), Pasal 28, dan Pasal 33 ayat (1) Undang Undang Dasar Negara Republik Indonesia Tahun 1945;"^^xsd:string ;
+    legal:menimbang <http://example.org/legal/document/UU13-2003/menimbang/points> ;
+    legal:nama_dokumen "LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2003 NOMOR 39"^^xsd:string ;
+    legal:nama_pengesah "MEGAWATI SOEKARNOPUTRI"^^xsd:string ;
+    legal:name "UNDANG-UNDANG REPUBLIK INDONESIA"^^xsd:string ;
+    legal:nomor 13 ;
+    legal:op_text """UNDANG-UNDANG REPUBLIK INDONESIA
 NOMOR 13 TAHUN 2003
 TENTANG
 KETENAGAKERJAAN
@@ -58,8 +64,8 @@ MEMUTUSKAN :
 Menetapkan
 :
 UNDANG-UNDANG TENTANG KETENAGAKERJAAN."""^^xsd:string ;
-    :pemutus "Presiden Republik Indonesia"^^xsd:string ;
-    :pengesahan_text """Disahkan di Jakarta
+    legal:pemutus "Presiden Republik Indonesia"^^xsd:string ;
+    legal:pengesahan_text """Disahkan di Jakarta
 pada tanggal 25 Maret 2003
 PRESIDEN REPUBLIK INDONESIA,
 ttd
@@ -69,15 +75,68 @@ pada tanggal 25 Maret 2003
 SEKRETARIS NEGARA REPUBLIK INDONESIA,
 BAMBANG KESOWO
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2003 NOMOR 39"""^^xsd:string ;
-    :penjelasan "UNDANG-UNDANG REPUBLIK INDONESIA"^^xsd:string ;
-    :salinan ""^^xsd:string ;
-    :sekretaris "SEKRETARIS NEGARA REPUBLIK INDONESIA, BAMBANG KESOWO"^^xsd:string ;
-    :tahun 2003 ;
-    :tanggal_disahkan ""^^xsd:string ;
-    :tanggal_ditetapkan "25 Maret 2003"^^xsd:string ;
-    :tanggal_diundangkan "25 Maret 2003"^^xsd:string ;
-    :tempat_disahkan "Jakarta"^^xsd:string ;
-    :tempat_ditetapkan ""^^xsd:string ;
-    :tempat_diundangkan "Jakarta"^^xsd:string ;
-    :tentang "KETENAGAKERJAAN"^^xsd:string .
+    legal:penjelasan "UNDANG-UNDANG REPUBLIK INDONESIA"^^xsd:string ;
+    legal:salinan ""^^xsd:string ;
+    legal:sekretaris "SEKRETARIS NEGARA REPUBLIK INDONESIA, BAMBANG KESOWO"^^xsd:string ;
+    legal:tahun 2003 ;
+    legal:tanggal_disahkan ""^^xsd:string ;
+    legal:tanggal_ditetapkan "25 Maret 2003"^^xsd:string ;
+    legal:tanggal_diundangkan "25 Maret 2003"^^xsd:string ;
+    legal:tempat_disahkan "Jakarta"^^xsd:string ;
+    legal:tempat_ditetapkan ""^^xsd:string ;
+    legal:tempat_diundangkan "Jakarta"^^xsd:string ;
+    legal:tentang "KETENAGAKERJAAN"^^xsd:string .
+
+<http://example.org/legal/document/UU13-2003/menimbang/points> legal:description ""^^xsd:string ;
+    legal:hasPoint <http://example.org/legal/document/UU13-2003/menimbang/points/a>,
+        <http://example.org/legal/document/UU13-2003/menimbang/points/b>,
+        <http://example.org/legal/document/UU13-2003/menimbang/points/c>,
+        <http://example.org/legal/document/UU13-2003/menimbang/points/d>,
+        <http://example.org/legal/document/UU13-2003/menimbang/points/e>,
+        <http://example.org/legal/document/UU13-2003/menimbang/points/f> ;
+    legal:text """a. bahwa
+pembangunan
+nasional
+dilaksanakan
+dalam
+rangka
+pembangunan manusia Indonesia seutuhnya dan pembangunan
+masyarakat Indonesia seluruhnya untuk mewujudkan masyarakat
+yang sejahtera, adil, makmur, yang merata, baik materiil maupun
+spiritual berdasarkan Pancasila dan Undang Undang Dasar Negara
+Republik Indonesia Tahun 1945;
+b. bahwa dalam pelaksanaan pembangunan nasional, tenaga kerja
+mempunyai peranan dan kedudukan yang sangat penting sebagai
+pelaku dan tujuan pembangunan;
+c. bahwa sesuai dengan peranan dan kedudukan tenaga kerja,
+diperlukan pembangunan ketenagakerjaan untuk meningkatkan
+kualitas tenaga kerja dan peransertanya dalam pembangunan serta
+peningkatan perlindungan tenaga kerja dan keluarganya sesuai
+dengan harkat dan martabat kemanusiaan;
+d. bahwa perlindungan terhadap tenaga kerja dimaksudkan untuk
+menjamin hak hak dasar pekerja/buruh dan menjamin kesamaan
+kesempatan serta perlakuan tanpa diskriminasi atas dasar apapun
+untuk mewujudkan kesejahteraan pekerja/buruh dan keluarganya
+dengan tetap memperhatikan perkembangan kemajuan dunia
+usaha;
+e. bahwa beberapa undang undang di bidang ketenagakerjaan
+dipandang sudah tidak sesuai lagi dengan kebutuhan dan tuntutan
+pembangunan ketenagakerjaan, oleh karena itu perlu dicabut
+dan/atau ditarik kembali;
+f.
+bahwa berdasarkan pertimbangan sebagaimana tersebut pada huruf
+a, b, c, d, dan e perlu membentuk Undang undang tentang
+Ketenagakerjaan;"""^^xsd:string .
+
+<http://example.org/legal/document/UU13-2003/menimbang/points/a> legal:hasContent "bahwa pembangunan nasional dilaksanakan dalam rangka pembangunan manusia Indonesia seutuhnya dan pembangunan masyarakat Indonesia seluruhnya untuk mewujudkan masyarakat yang sejahtera, adil, makmur, yang merata, baik materiil maupun spiritual berdasarkan Pancasila dan Undang Undang Dasar Negara Republik Indonesia Tahun 1945;"^^xsd:string .
+
+<http://example.org/legal/document/UU13-2003/menimbang/points/b> legal:hasContent "bahwa dalam pelaksanaan pembangunan nasional, tenaga kerja mempunyai peranan dan kedudukan yang sangat penting sebagai pelaku dan tujuan pembangunan;"^^xsd:string .
+
+<http://example.org/legal/document/UU13-2003/menimbang/points/c> legal:hasContent "bahwa sesuai dengan peranan dan kedudukan tenaga kerja, diperlukan pembangunan ketenagakerjaan untuk meningkatkan kualitas tenaga kerja dan peransertanya dalam pembangunan serta peningkatan perlindungan tenaga kerja dan keluarganya sesuai dengan harkat dan martabat kemanusiaan;"^^xsd:string .
+
+<http://example.org/legal/document/UU13-2003/menimbang/points/d> legal:hasContent "bahwa perlindungan terhadap tenaga kerja dimaksudkan untuk menjamin hak hak dasar pekerja/buruh dan menjamin kesamaan kesempatan serta perlakuan tanpa diskriminasi atas dasar apapun untuk mewujudkan kesejahteraan pekerja/buruh dan keluarganya dengan tetap memperhatikan perkembangan kemajuan dunia usaha;"^^xsd:string .
+
+<http://example.org/legal/document/UU13-2003/menimbang/points/e> legal:hasContent "bahwa beberapa undang undang di bidang ketenagakerjaan dipandang sudah tidak sesuai lagi dengan kebutuhan dan tuntutan pembangunan ketenagakerjaan, oleh karena itu perlu dicabut dan/atau ditarik kembali;"^^xsd:string .
+
+<http://example.org/legal/document/UU13-2003/menimbang/points/f> legal:hasContent "bahwa berdasarkan pertimbangan sebagaimana tersebut pada huruf a, b, c, d, dan e perlu membentuk Undang undang tentang Ketenagakerjaan;"^^xsd:string .
 

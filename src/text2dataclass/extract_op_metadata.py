@@ -4,7 +4,7 @@ import typing
 from dataclasses import dataclass
 from text2dataclass.extract_ayats import extract_point
 
-from text2dataclass.types import PointContentType
+from text2dataclass.types import StrsOrPoints
 from text2dataclass.utils import Extractor, compact, extract_lines_seq
 from text2dataclass.regex import *
 
@@ -31,8 +31,8 @@ class OpeningMetadata:
     _tentang: str
     _salinan: str
     _memutuskan: str
-    menimbang: PointContentType
-    mengingat: PointContentType
+    menimbang: StrsOrPoints
+    mengingat: StrsOrPoints
 
 
 def extract_opening_metadata(lines: Iterable[str]) -> OpeningMetadata:
@@ -90,7 +90,7 @@ def mengingat(str: str) -> bool:
     return len(match) == 1
 
 
-def extract_mengingat(strs: List[str]) -> PointContentType:
+def extract_mengingat(strs: List[str]) -> StrsOrPoints:
     first_line = re.sub(mengingat_re, "", strs[0])
     lines = compact([first_line] + strs[1:])
     return extract_point(lines)
@@ -101,7 +101,7 @@ def menimbang(str: str) -> bool:
     return len(match) == 1
 
 
-def extract_menimbang(strs: List[str]) -> PointContentType:
+def extract_menimbang(strs: List[str]) -> StrsOrPoints:
     first_line = re.sub(menimbang_re, "", strs[0])
     lines = compact([first_line] + strs[1:])
     return extract_point(lines)

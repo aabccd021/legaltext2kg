@@ -1,48 +1,56 @@
 # pyright: reportGeneralTypeIssues
+from typing import List, Tuple
 from rdflib.namespace import NamespaceManager
-from rdflib.term import Literal
+from rdflib.term import Literal, Node
+from dataclass2rdf.get_strs_or_points_triple import point_content_to_triple
+from dataclass2rdf.types import Triples
 from text2dataclass.types import LegalDocument
 from rdflib import Graph, Namespace, URIRef
-from rdflib.namespace import XSD
+from rdflib.namespace import XSD, RDF
 from dataclass2rdf.utils import *
 
 
-def dataclass2rdf(doc: LegalDocument, doc_name: str) -> Graph:
-    g = Graph()
-    docN = ns[doc_name]
-    triples = [
-        (docN, ns.penjelasan, Literal(doc._name, datatype=XSD.string)),
-        (docN, ns.pengesahan_text, Literal(doc.pengesahan_text, datatype=XSD.string)),
-        (docN, ns.op_text, Literal(doc.op_text, datatype=XSD.string)),
+def dataclass2triples(doc: LegalDocument, doc_name: str) -> List[Tuple[Node, Node, Node]]:
+    doc_uri = f'{doc_name}'
+    docN = ns[doc_uri]
+    # (docN, ns.dengan_persetujuan, Literal(doc._dengan_persetujuan)),
+    (docN, ns.menimbang, Literal(doc.menimbang)),
+    triples: Triples = [
+        *point_content_to_triple(doc.menimbang, docN, 'menimbang'),
+        * point_content_to_triple(doc.mengingat, docN, 'mengingat'),
+        (docN, RDF.type, ONS.document),
+        (docN, ONS.penjelasan, Literal(doc._name, datatype=XSD.string)),
+        (docN, ONS.pengesahan_text, Literal(
+            doc.pengesahan_text, datatype=XSD.string)),
+        (docN, ONS.op_text, Literal(doc.op_text, datatype=XSD.string)),
         # (docN, ns.babs, Literal(doc.babs)),
-        (docN, ns.name, Literal(doc._name, datatype=XSD.string)),
-        (docN, ns.nomor, Literal(doc._nomor, datatype=XSD.integer)),
-        (docN, ns.tahun, Literal(doc._tahun, datatype=XSD.integer)),
-        (docN, ns.pemutus, Literal(doc._pemutus, datatype=XSD.string)),
-        # (docN, ns.dengan_persetujuan, Literal(doc._dengan_persetujuan)),
-        (docN, ns.tentang, Literal(doc._tentang, datatype=XSD.string)),
-        (docN, ns.salinan, Literal(doc._salinan, datatype=XSD.string)),
-        (docN, ns.memutuskan, Literal(doc._memutuskan, datatype=XSD.string)),
-        (docN, ns.tempat_disahkan, Literal(
+        (docN, ONS.name, Literal(doc._name, datatype=XSD.string)),
+        (docN, ONS.nomor, Literal(doc._nomor, datatype=XSD.integer)),
+        (docN, ONS.tahun, Literal(doc._tahun, datatype=XSD.integer)),
+        (docN, ONS.pemutus, Literal(doc._pemutus, datatype=XSD.string)),
+        (docN, ONS.tentang, Literal(doc._tentang, datatype=XSD.string)),
+        (docN, ONS.salinan, Literal(doc._salinan, datatype=XSD.string)),
+        (docN, ONS.memutuskan, Literal(doc._memutuskan, datatype=XSD.string)),
+        (docN, ONS.tempat_disahkan, Literal(
             doc._tempat_disahkan, datatype=XSD.string)),
-        (docN, ns.tanggal_disahkan, Literal(
+        (docN, ONS.tanggal_disahkan, Literal(
             doc._tanggal_disahkan, datatype=XSD.string)),
-        (docN, ns.tempat_ditetapkan, Literal(
+        (docN, ONS.tempat_ditetapkan, Literal(
             doc._tempat_ditetapkan, datatype=XSD.string)),
-        (docN, ns.tanggal_ditetapkan, Literal(
+        (docN, ONS.tanggal_ditetapkan, Literal(
             doc._tanggal_ditetapkan, datatype=XSD.string)),
-        (docN, ns.jabatan_pengesah, Literal(
+        (docN, ONS.jabatan_pengesah, Literal(
             doc._jabatan_pengesah, datatype=XSD.string)),
-        (docN, ns.nama_pengesah, Literal(doc._nama_pengesah, datatype=XSD.string)),
-        (docN, ns.tempat_diundangkan, Literal(
+        (docN, ONS.nama_pengesah, Literal(doc._nama_pengesah, datatype=XSD.string)),
+        (docN, ONS.tempat_diundangkan, Literal(
             doc._tempat_diundangkan, datatype=XSD.string)),
-        (docN, ns.tanggal_diundangkan, Literal(
+        (docN, ONS.tanggal_diundangkan, Literal(
             doc._tanggal_diundangkan, datatype=XSD.string)),
-        (docN, ns.sekretaris, Literal(doc._sekretaris, datatype=XSD.string)),
-        (docN, ns.dokumen, Literal(doc._dokumen, datatype=XSD.string)),
-        # (docN, ns.menimbang, Literal(doc.menimbang)),
-        # (docN, ns.mengingat, Literal(doc.mengingat)),
+        (docN, ONS.sekretaris, Literal(doc._sekretaris, datatype=XSD.string)),
+        (docN, ONS.nama_dokumen, Literal(doc._dokumen, datatype=XSD.string)),
+        *[
+            (docN, ns.dengan_persetujuan, Literal(x)) for x in doc._dengan_persetujuan
+        ]
     ]
-    for triple in triples:
-        g.add(triple)
-    return g
+
+    return triples
