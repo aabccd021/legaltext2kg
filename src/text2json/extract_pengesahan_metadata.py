@@ -1,132 +1,104 @@
-from typing import Iterable, List, Tuple
+from typing import Callable, Iterable, List
 import re
 import typing
-from text2json.extract_ayats import extract_point
+from dataclasses import dataclass
 
-from text2json.types import Metadata, PointContentType
-from text2json.utils import Extractor, compact, extract_lines, extract_lines_seq
+from text2json.utils import Extractor, extract_lines_seq
 from text2json.regex import *
 
 SplitType = typing.Literal[
-    "salinan",
-    "name",
-    "nomor_tahun",
-    "tentang",
-    "dengan_rahmat",
-    "menimbang",
-    "mengingat",
-    "dengan_persetujuan",
-    "memutuskan"
+    "tempat_disahkan",
+    "tanggal_disahkan",
+    "tempat_ditetapkan",
+    "tanggal_ditetapkan",
+    "jabatan_pengesah",
+    "nama_pengesah",
+    "tempat_diundangkan",
+    "tanggal_diundangkan",
+    "sekretaris",
+    "dokumen",
+    "etc"
 ]
 
 
-# def extract_pengesahan_metadata(lines: Iterable[str]) -> OpeningMetadata:
-#     extractors = [
-#         Extractor[SplitType]("salinan"),
-#         Extractor[SplitType]("name", name),
-#         Extractor[SplitType]("nomor_tahun", is_nomor),
-#         Extractor[SplitType]("tentang", tentang),
-#         Extractor[SplitType]("dengan_rahmat", pemutus),
-#         Extractor[SplitType]("menimbang", menimbang),
-#         Extractor[SplitType]("mengingat", mengingat),
-#         Extractor[SplitType]("dengan_persetujuan",
-#                              dengan_persetujuan, isOptional=True),
-#         Extractor[SplitType]("memutuskan", memutuskan),
-#     ]
-#     extract_result = extract_lines_seq(lines, extractors)
-#     nomor, tahun = extract_nomor_tahun(extract_result["nomor_tahun"])
-#     return OpeningMetadata(
-#         _salinan=" ".join(extract_result["salinan"]),
-#         _name=" ".join(extract_result["name"]),
-#         _nomor=nomor,
-#         _tahun=tahun,
-#         _tentang=extract_tentang(extract_result["tentang"]),
-#         _pemutus=extract_pemutus(extract_result["dengan_rahmat"]),
-#         menimbang=extract_menimbang(extract_result["menimbang"]),
-#         mengingat=extract_mengingat(extract_result["mengingat"]),
-#         _dengan_persetujuan=extract_dengan_persetujuan(
-#             extract_result["dengan_persetujuan"]),
-#         _memutuskan=extract_memutuskan(extract_result["memutuskan"]),
-#     )
+@ dataclass(frozen=True)
+class PengesahanMetadata:
+    _text: Iterable[str]
+    tempat_disahkan: str
+    tanggal_disahkan: str
+    tempat_ditetapkan: str
+    tanggal_ditetapkan: str
+    jabatan_pengesah: str
+    nama_pengesah: str
+    tempat_diundangkan: str
+    tanggal_diundangkan: str
+    sekretaris: str
+    dokumen: str
+    etc: Iterable[str]
 
 
-# def dengan_persetujuan(str: str) -> bool:
-#     return str == "Dengan persetujuan bersama antara"
+def extract_pengesahan_metadata(lines: Iterable[str]) -> PengesahanMetadata:
+    extractors = [
+        Extractor[SplitType](
+            "tempat_disahkan", found_re(tempat_disahkan_re), isOptional=True),
+        Extractor[SplitType]("tanggal_disahkan",
+                             found_re(pada_tanggal_re), isOptional=True),
+        Extractor[SplitType]("tempat_ditetapkan",
+                             found_re(tempat_ditetapkan_re), isOptional=True),
+        Extractor[SplitType]("tanggal_ditetapkan",
+                             found_re(pada_tanggal_re), isOptional=True),
+        Extractor[SplitType]("jabatan_pengesah",
+                             found_re(jabatan_pengesah_re)),
+        Extractor[SplitType]("nama_pengesah", found_re(ttd_re)),
+        Extractor[SplitType]("tempat_diundangkan",
+                             found_re(tempat_diundangkan_re)),
+        Extractor[SplitType]("tanggal_diundangkan",
+                             found_re(pada_tanggal_re)),
+        Extractor[SplitType]("sekretaris",
+                             found_re(sekretaris_re)),
+        Extractor[SplitType]("dokumen", found_re(pengesahan_doc_re)),
+        Extractor[SplitType]("etc", found_re(pengesahan_etc_re))
+    ]
+    extract_result = extract_lines_seq(lines, extractors)
+    return PengesahanMetadata(
+        _text=lines,
+        tempat_disahkan=del_re(tempat_disahkan_re, get_first(
+            extract_result["tempat_disahkan"])),
+        tanggal_disahkan=del_re(pada_tanggal_re, get_first(
+            extract_result["tanggal_disahkan"])),
+        tempat_ditetapkan=del_re(tempat_ditetapkan_re, get_first(
+            extract_result["tempat_ditetapkan"])),
+        tanggal_ditetapkan=del_re(pada_tanggal_re, get_first(
+            extract_result["tanggal_ditetapkan"])),
+        jabatan_pengesah=" ".join(extract_result["jabatan_pengesah"]),
+        nama_pengesah=get_second(extract_result["nama_pengesah"]),
+        tempat_diundangkan=del_re(tempat_diundangkan_re, get_first(
+            extract_result["tempat_diundangkan"])),
+        tanggal_diundangkan=del_re(pada_tanggal_re, get_first(
+            extract_result["tanggal_diundangkan"])),
+        sekretaris=" ".join(
+            [x for x in extract_result["sekretaris"] if x != "ttd"]),
+        dokumen=" ".join(extract_result["dokumen"]),
+        etc=extract_result["etc"]
+    )
 
 
-# def extract_dengan_persetujuan(strs: List[str]) -> Iterable[str]:
-#     strs = [x for x in strs[1:] if x != "DAN"]
-#     return strs
+def del_re(regex: str, str: str) -> str:
+    return re.sub(regex, "", str)
 
 
-# def memutuskan(str: str) -> bool:
-#     match = re.findall(memutuskan_regex, str)
-#     return len(match) == 1
+def get_first(lines: List[str]) -> str:
+    if len(lines) == 0:
+        return ""
+    if len(lines) == 1:
+        return lines[0]
+    raise Exception()
 
 
-# def extract_memutuskan(strs: List[str]) -> str:
-#     first_line = re.sub(memutuskan_regex, "", strs[0])
-#     lines = compact([first_line] + strs[1:])
-#     return " ".join(lines)
+def get_second(lines: List[str]) -> str:
+    assert len(lines) == 2
+    return lines[1]
 
 
-# def mengingat(str: str) -> bool:
-#     match = re.findall(mengingat_regex, str)
-#     return len(match) == 1
-
-
-# def extract_mengingat(strs: List[str]) -> PointContentType:
-#     first_line = re.sub(mengingat_regex, "", strs[0])
-#     lines = compact([first_line] + strs[1:])
-#     return extract_point(lines)
-
-
-# def menimbang(str: str) -> bool:
-#     match = re.findall(menimbang_regex, str)
-#     return len(match) == 1
-
-
-# def extract_menimbang(strs: List[str]) -> PointContentType:
-#     first_line = re.sub(menimbang_regex, "", strs[0])
-#     lines = compact([first_line] + strs[1:])
-#     return extract_point(lines)
-
-
-# def pemutus(str: str) -> bool:
-#     return str == "DENGAN RAHMAT TUHAN YANG MAHA ESA"
-
-
-# def extract_pemutus(strs: Iterable[str]) -> str:
-#     str = ' '.join(list(strs)[1:])
-#     # remove trailing comma
-#     return str[:-1]
-
-
-# def tentang(str: str) -> bool:
-#     return str == "TENTANG"
-
-
-# def extract_tentang(strs: Iterable[str]) -> str:
-#     return ' '.join(list(strs)[1:])
-
-
-# def extract_nomor_tahun(strs: Iterable[str]) -> Tuple[int, int]:
-#     strs = list(strs)
-#     if len(strs) != 1:
-#         raise Exception()
-#     str = strs[0]
-#     split = str.lower().replace("nomor", "").replace("tahun", "").split(" ")
-#     split = [x for x in split if x != '']
-#     return int(split[0]), int(split[1])
-
-
-# def name(str: str) -> bool:
-#     names = [
-#         "UNDANG-UNDANG REPUBLIK INDONESIA",
-#         "PERATURAN GUBERNUR",
-#     ]
-#     return any([str.startswith(name) for name in names])
-
-
-# def is_nomor(str: str) -> bool:
-#     return str.startswith("NOMOR")
+def found_re(regex: str) -> Callable[[str], bool]:
+    return lambda x: len(re.findall(regex, x)) == 1

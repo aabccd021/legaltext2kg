@@ -72,7 +72,6 @@ class Bab:
     _type: Literal['bab'] = 'bab'
 
 
-
 @ dataclass(frozen=True)
 class Metadata:
     _name: str
@@ -83,6 +82,16 @@ class Metadata:
     _tentang: str
     _salinan: str
     _memutuskan: str
+    _tempat_disahkan: str
+    _tanggal_disahkan: str
+    _tempat_ditetapkan: str
+    _tanggal_ditetapkan: str
+    _jabatan_pengesah: str
+    _nama_pengesah: str
+    _tempat_diundangkan: str
+    _tanggal_diundangkan: str
+    _sekretaris: str
+    _dokumen: str
     menimbang: PointContentType
     mengingat: PointContentType
 
@@ -90,6 +99,7 @@ class Metadata:
 @ dataclass(frozen=True)
 class LegalDocument:
     penjelasan: Iterable[str]
-    pengesahan: Iterable[str]
     _metadata: Metadata
+    pengesahan_text: str
+    op_text: str
     babs: Iterable[Bab]

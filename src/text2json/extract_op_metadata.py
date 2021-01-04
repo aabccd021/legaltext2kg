@@ -75,34 +75,34 @@ def extract_dengan_persetujuan(strs: List[str]) -> Iterable[str]:
 
 
 def memutuskan(str: str) -> bool:
-    match = re.findall(memutuskan_regex, str)
+    match = re.findall(memutuskan_re, str)
     return len(match) == 1
 
 
 def extract_memutuskan(strs: List[str]) -> str:
-    first_line = re.sub(memutuskan_regex, "", strs[0])
+    first_line = re.sub(memutuskan_re, "", strs[0])
     lines = compact([first_line] + strs[1:])
     return " ".join(lines)
 
 
 def mengingat(str: str) -> bool:
-    match = re.findall(mengingat_regex, str)
+    match = re.findall(mengingat_re, str)
     return len(match) == 1
 
 
 def extract_mengingat(strs: List[str]) -> PointContentType:
-    first_line = re.sub(mengingat_regex, "", strs[0])
+    first_line = re.sub(mengingat_re, "", strs[0])
     lines = compact([first_line] + strs[1:])
     return extract_point(lines)
 
 
 def menimbang(str: str) -> bool:
-    match = re.findall(menimbang_regex, str)
+    match = re.findall(menimbang_re, str)
     return len(match) == 1
 
 
 def extract_menimbang(strs: List[str]) -> PointContentType:
-    first_line = re.sub(menimbang_regex, "", strs[0])
+    first_line = re.sub(menimbang_re, "", strs[0])
     lines = compact([first_line] + strs[1:])
     return extract_point(lines)
 

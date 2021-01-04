@@ -145,6 +145,18 @@ def get_alpha_key(num: int) -> str:
 
 
 # metadata
-menimbang_regex = r'^Menimbang\s*:\s*'
-mengingat_regex = r'^Mengingat\s*:\s*'
-memutuskan_regex = r'^MEMUTUSKAN\s*:\s*'
+menimbang_re = r'^Menimbang\s*:\s*'
+mengingat_re = r'^Mengingat\s*:\s*'
+memutuskan_re = r'^MEMUTUSKAN\s*:\s*'
+
+# pengesahan
+tempat_ditetapkan_re = r'^Ditetapkan di '
+pada_tanggal_re = r'^pada tanggal '
+tempat_disahkan_re = r'^Disahkan di '
+jabatan_pengesah_re = r'^(GUBERNUR|PRESIDEN)'
+ttd_re = r'^ttd$'
+tempat_diundangkan_re = r'^Diundangkan di '
+sekretaris_re = r'^SEKRETARIS '
+sekretaris_re = r'^SEKRETARIS '
+pengesahan_doc_re = r'^(LEMBARAN NEGARA|BERITA DAERAH) '
+pengesahan_etc_re = r'^Salinan'
