@@ -1,9 +1,9 @@
 
-from text2json.extract_ayats import extract_pasal_content
-from text2json.regex import get_pasal_key_int
-from text2json.utils import extract_to_increment_key_list, represents_int
+from text2dataclass.extract_ayats import extract_pasal_content
+from text2dataclass.regex import get_pasal_key_int
+from text2dataclass.utils import extract_to_increment_key_list, represents_int
 from typing import Iterable, Union
-from text2json.types import Pasal
+from text2dataclass.types import Pasal
 
 
 def extract_pasals(lines: Iterable[str]) -> Iterable[Pasal]:

@@ -1,10 +1,10 @@
 from typing import Iterable, List, Union
 import typing
-from text2json.regex import get_paragraf_key_int, is_pasal_start
-from text2json.extract_pasals import extract_pasals
-from text2json.types import Paragraf
+from text2dataclass.regex import get_paragraf_key_int, is_pasal_start
+from text2dataclass.extract_pasals import extract_pasals
+from text2dataclass.types import Paragraf
 
-from text2json.utils import Extractor, extract_lines, extract_to_increment_key_list, represents_int
+from text2dataclass.utils import Extractor, extract_lines, extract_to_increment_key_list, represents_int
 
 
 def extract_paragraf(lines: Iterable[str]) -> Iterable[Paragraf]:

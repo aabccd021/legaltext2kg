@@ -2,11 +2,11 @@
 from dataclasses import dataclass
 from typing import Iterable, Union
 import typing
-from text2json.regex import get_bab_key_int, is_bagian_start, is_pasal_start
-from text2json.extract_bagians import extract_bagians
-from text2json.extract_pasals import extract_pasals
-from text2json.types import Bab
-from text2json.utils import Extractor, extract_lines, extract_to_increment_key_list
+from text2dataclass.regex import get_bab_key_int, is_bagian_start, is_pasal_start
+from text2dataclass.extract_bagians import extract_bagians
+from text2dataclass.extract_pasals import extract_pasals
+from text2dataclass.types import Bab
+from text2dataclass.utils import Extractor, extract_lines, extract_to_increment_key_list
 
 
 @dataclass(frozen=True)

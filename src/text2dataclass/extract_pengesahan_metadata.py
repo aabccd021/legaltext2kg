@@ -3,8 +3,8 @@ import re
 import typing
 from dataclasses import dataclass
 
-from text2json.utils import Extractor, extract_lines_seq
-from text2json.regex import *
+from text2dataclass.utils import Extractor, extract_lines_seq
+from text2dataclass.regex import *
 
 SplitType = typing.Literal[
     "tempat_disahkan",

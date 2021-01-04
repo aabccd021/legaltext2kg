@@ -2,11 +2,11 @@ from typing import Iterable, List, Tuple
 import re
 import typing
 from dataclasses import dataclass
-from text2json.extract_ayats import extract_point
+from text2dataclass.extract_ayats import extract_point
 
-from text2json.types import PointContentType
-from text2json.utils import Extractor, compact, extract_lines_seq
-from text2json.regex import *
+from text2dataclass.types import PointContentType
+from text2dataclass.utils import Extractor, compact, extract_lines_seq
+from text2dataclass.regex import *
 
 SplitType = typing.Literal[
     "salinan",

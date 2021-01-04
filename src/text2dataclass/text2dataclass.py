@@ -1,18 +1,18 @@
 from typing import Dict, List, TypeVar
 import typing
-from text2json.extract_babs import extract_babs
-from text2json.extract_op_metadata import extract_opening_metadata
-from text2json.extract_pengesahan_metadata import extract_pengesahan_metadata
-from text2json.regex import is_pengesahan_start, is_penjelasan_start
-from text2json.types import LegalDocument
+from text2dataclass.extract_babs import extract_babs
+from text2dataclass.extract_op_metadata import extract_opening_metadata
+from text2dataclass.extract_pengesahan_metadata import extract_pengesahan_metadata
+from text2dataclass.regex import is_pengesahan_start, is_penjelasan_start
+from text2dataclass.types import LegalDocument
 
-from text2json.utils import Extractor, extract_lines
+from text2dataclass.utils import Extractor, extract_lines
 
 
 DocumentSplitType = typing.Literal["isi", "pengesahan", "penjelasan"]
 
 
-def text2json(lines: List[str]) -> LegalDocument:
+def text2dataclass(lines: List[str]) -> LegalDocument:
     extractors = [
         Extractor[DocumentSplitType]("isi"),
         Extractor[DocumentSplitType]("penjelasan", is_penjelasan_start),

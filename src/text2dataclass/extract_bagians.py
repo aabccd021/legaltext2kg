@@ -1,11 +1,11 @@
 from typing import Iterable, List, Union
 import typing
-from text2json.regex import get_bagian_key_int, is_paragraf_start, is_pasal_start
-from text2json.extract_paragraphs import extract_paragraf
-from text2json.extract_pasals import extract_pasals
+from text2dataclass.regex import get_bagian_key_int, is_paragraf_start, is_pasal_start
+from text2dataclass.extract_paragraphs import extract_paragraf
+from text2dataclass.extract_pasals import extract_pasals
 
-from text2json.types import Bagian
-from text2json.utils import Extractor, extract_lines, extract_to_increment_key_list
+from text2dataclass.types import Bagian
+from text2dataclass.utils import Extractor, extract_lines, extract_to_increment_key_list
 
 
 def extract_bagians(lines: Iterable[str]) -> Iterable[Bagian]:
@@ -33,7 +33,6 @@ def to_bagian(lines: List[str]) -> Bagian:
         isi = extract_pasals(isi_strs)
     elif is_paragraf_start(first_line):
         isi = extract_paragraf(isi_strs)
-
     if isi == None:
         raise Exception(isi)
     return Bagian(_key=key, _judul=judul_strs, isi=isi, text=text)

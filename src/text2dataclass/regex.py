@@ -2,7 +2,7 @@ import re
 from typing import Union
 import roman
 
-from text2json.utils import represents_int
+from text2dataclass.utils import represents_int
 
 
 def is_penjelasan_start(line: str) -> bool:

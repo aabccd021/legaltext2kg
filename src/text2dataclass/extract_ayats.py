@@ -1,10 +1,10 @@
 import re
 from typing import Callable, Iterable, List, Tuple, Union
 import typing
-from text2json.regex import *
+from text2dataclass.regex import *
 
-from text2json.types import Ayat, PasalContent, Point, PointContent, PointContentType
-from text2json.utils import Extractor, compact, extract_lines, extract_to_increment_key_list
+from text2dataclass.types import Ayat, PasalContent, Point, PointContent, PointContentType
+from text2dataclass.utils import Extractor, compact, extract_lines, extract_to_increment_key_list
 
 
 PointSplitType = typing.Literal["description", "isi"]
