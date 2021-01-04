@@ -11,31 +11,33 @@ from text2json.utils import Extractor, extract_lines, extract_to_increment_key_l
 
 @dataclass(frozen=True)
 class DocumentMainExtraction:
-    metadata: Iterable[str]
+    opening: Iterable[str]
     babs: Iterable[Bab]
 
 
 def extract_babs(lines: Iterable[str]) -> DocumentMainExtraction:
     extracted_babs = extract_to_increment_key_list(lines, get_bab_key_int)
-    metadata = extracted_babs[0]
+    opening = extracted_babs[0]
     babs_str = extracted_babs[1:]
     babs = [to_bab(s) for s in babs_str]
     return DocumentMainExtraction(
-        metadata=metadata,
+        opening=opening,
         babs=babs
     )
 
 
-BabSplitType = typing.Literal["judul", "isi"]
+BabSplitType = typing.Literal["key_judul", "isi"]
 
 
-def to_bab(babs_str: Iterable[str]) -> Bab:
+def to_bab(lines: Iterable[str]) -> Bab:
     extractors = [
-        Extractor[BabSplitType]("judul"),
+        Extractor[BabSplitType]("key_judul"),
         Extractor[BabSplitType]("isi", is_isi_start),
     ]
-    extract_result = extract_lines(babs_str, extractors)
-    judul_strs = extract_result["judul"]
+    extract_result = extract_lines(lines, extractors)
+    key = get_bab_key_int(extract_result["key_judul"][0])
+    assert key is not None
+    judul = '\n'.join(extract_result["key_judul"][1:])
     isi_strs = extract_result["isi"]
     first_line = list(isi_strs)[0]
     isi = None
@@ -43,10 +45,10 @@ def to_bab(babs_str: Iterable[str]) -> Bab:
         isi = extract_pasals(isi_strs)
     elif is_bagian_start(first_line):
         isi = extract_bagians(isi_strs)
-
     if isi == None:
         raise Exception(first_line)
-    return Bab(key=judul_strs, isi=isi)
+    text = '\n'.join(lines)
+    return Bab(_key=key, _judul=judul, isi=isi, text=text)
 
 
 def is_isi_start(str: str) -> bool:

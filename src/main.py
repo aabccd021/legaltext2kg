@@ -9,8 +9,8 @@ def process(filename: str) -> None:
     text = pdf2text(filename)
     jsonFile = text2json(text)
     a = dataclasses.asdict(jsonFile)
-    with open(f'{filename}_temp.json', 'w') as f:
-        f.write(json.dumps(a, indent=2))
+    with open(f'extracted/{filename}.json', 'w') as f:
+        f.write(json.dumps(a, indent=2, sort_keys=True))
         # f.write(str(jsonFile.babs[0]))
     # main, _, _ = split_penjelasan(content)
     # structured = split_babs(main)

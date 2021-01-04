@@ -119,6 +119,10 @@ def get_num_key_int(str: str) -> Union[int, None]:
     return int(num_str)
 
 
+def get_num_key(num: int) -> int:
+    return num
+
+
 # alphabet point
 alpha_regex = r'^[a-z][\.\)]'
 
@@ -129,9 +133,18 @@ def is_alphabet_point_start(line: str) -> bool:
 
 def get_alpha_key_int(str: str) -> Union[int, None]:
     match = re.findall(alpha_regex, str)
-    if len(match) > 1:
-        raise Exception()
+    assert len(match) <= 1
     if len(match) == 0:
         return None
     num_str = match[0][0]
     return ord(num_str)
+
+
+def get_alpha_key(num: int) -> str:
+    return chr(num)
+
+
+# metadata
+menimbang_regex = r'^Menimbang\s*:\s*'
+mengingat_regex = r'^Mengingat\s*:\s*'
+memutuskan_regex = r'^MEMUTUSKAN\s*:\s*'

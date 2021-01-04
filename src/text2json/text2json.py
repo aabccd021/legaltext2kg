@@ -1,6 +1,8 @@
 from typing import Dict, List, TypeVar
 import typing
 from text2json.extract_babs import extract_babs
+from text2json.extract_op_metadata import extract_opening_metadata
+from text2json.merge_metadata import merge_metadata
 from text2json.regex import is_pengesahan_start, is_penjelasan_start
 from text2json.types import LegalDocument
 
@@ -21,10 +23,11 @@ def text2json(lines: List[str]) -> LegalDocument:
     penjelasan = extract_result['penjelasan']
     isi = extract_result['isi']
     main = extract_babs(isi)
+    op_metadata = extract_opening_metadata(main.opening)
 
     return LegalDocument(
         penjelasan=penjelasan,
         pengesahan=pengesahan,
-        metadata=main.metadata,
+        _metadata=merge_metadata(op_metadata),
         babs=main.babs
     )

@@ -12,12 +12,13 @@ T = TypeVar('T')
 class Extractor(Generic[T]):
     name: T
     func: Callable[[str], bool] = default_extractor_func
+    isOptional: bool = False
 
 
 U = TypeVar('U')
 
 
-def extract_lines(lines: Iterable[str], extractors: List[Extractor[U]]) -> Dict[U, Iterable[str]]:
+def extract_lines(lines: Iterable[str], extractors: List[Extractor[U]]) -> Dict[U, List[str]]:
     current_extractor = extractors[0]
     result = {extractor.name: [] for extractor in extractors}
     for line in lines:
@@ -25,6 +26,22 @@ def extract_lines(lines: Iterable[str], extractors: List[Extractor[U]]) -> Dict[
             if next_extractor_candidate.func(line):
                 current_extractor = next_extractor_candidate
         result[current_extractor.name].append(line)
+    return result
+
+
+def extract_lines_seq(lines: Iterable[str], extractors: List[Extractor[U]]) -> Dict[U, List[str]]:
+    cnt = 0
+    result = {e.name: [] for e in extractors}
+    for line in lines:
+        for idx in range(len(extractors)):
+            if idx <= cnt:
+                continue
+            if extractors[idx].func(line):
+                cnt = idx
+            elif not extractors[idx].isOptional:
+                break
+        result[extractors[cnt].name].append(line)
+
     return result
 
 
@@ -58,3 +75,7 @@ def represents_int(s):
         return True
     except ValueError:
         return False
+
+
+def compact(list: Iterable[str]) -> Iterable[str]:
+    return [x for x in list if x != ""]

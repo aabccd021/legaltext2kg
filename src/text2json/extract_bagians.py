@@ -8,7 +8,6 @@ from text2json.types import Bagian
 from text2json.utils import Extractor, extract_lines, extract_to_increment_key_list
 
 
-
 def extract_bagians(lines: Iterable[str]) -> Iterable[Bagian]:
     pasal_strs = extract_to_increment_key_list(lines, get_bagian_key_int)
     return [to_bagian(x) for x in pasal_strs]
@@ -17,14 +16,16 @@ def extract_bagians(lines: Iterable[str]) -> Iterable[Bagian]:
 BabSplitType = typing.Literal["judul", "isi"]
 
 
-def to_bagian(bagian_str: List[str]) -> Bagian:
-    key = bagian_str[0]
+def to_bagian(lines: List[str]) -> Bagian:
+    text = '\n'.join(lines)
+    key = get_bagian_key_int(lines[0])
+    assert key is not None
     extractors = [
         Extractor[BabSplitType]("judul"),
         Extractor[BabSplitType]("isi", is_isi_start),
     ]
-    extract_result = extract_lines(bagian_str[1:], extractors)
-    judul_strs = extract_result["judul"]
+    extract_result = extract_lines(lines[1:], extractors)
+    judul_strs = ' '.join(extract_result["judul"])
     isi_strs = extract_result["isi"]
     first_line = list(isi_strs)[0]
     isi = None
@@ -35,7 +36,7 @@ def to_bagian(bagian_str: List[str]) -> Bagian:
 
     if isi == None:
         raise Exception(isi)
-    return Bagian(key=key, judul=judul_strs, isi=isi)
+    return Bagian(_key=key, _judul=judul_strs, isi=isi, text=text)
 
 
 def is_isi_start(str: str) -> bool:
