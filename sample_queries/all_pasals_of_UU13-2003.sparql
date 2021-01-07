@@ -1,0 +1,6 @@
+PREFIX legal: <http://example.org/legal/ontology/>
+SELECT ?pasal
+WHERE{
+  ?pasal legal:hasKey 5 .
+  ?pasal a legal:Pasal .
+}

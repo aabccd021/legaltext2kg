@@ -1,7 +1,7 @@
 import json
 import dataclasses
 import os
-from rdflib import Graph
+from rdflib import Graph, graph
 
 from rdflib.namespace import NamespaceManager
 from dataclass2rdf.dataclass2rdf import dataclass2triples
@@ -10,7 +10,7 @@ from text2dataclass.text2dataclass import text2dataclass
 from dataclass2rdf.utils import ns, ONS
 
 
-def process(filename: str) -> None:
+def get_graph(filename: str) -> Graph:
     # pdf2text
     text = pdf2text(filename)
     with open('extracted/{}.txt'.format(filename), 'w') as f:
@@ -32,23 +32,26 @@ def process(filename: str) -> None:
         destination='extracted/{}.ttl'.format(filename),
         format='turtle',
     )
+    return g
+
+
+if __name__ == "__main__":
+    filenames = ['UU13-2003', 'PERGUB33-2020']
+    graphs = [get_graph(filename) for filename in filenames]
+    # merge graphs
+    g = graphs[0]
+    if len(graphs) > 1:
+        for gg in graphs[1:]:
+            g += gg
 
     # query triple and write to file
     query_dir = "sample_queries"
     for q_file in os.listdir(query_dir):
         if q_file.endswith(".sparql"):
-            # make dir
-            dir_path = f'{query_dir}/{filename}'
-            os.makedirs(dir_path, exist_ok=True)
             # write file
             with open(f'{query_dir}/{q_file}') as f:
                 qres = g.query('\n'.join(f.readlines()))
             qres = '\n\n'.join(['\n'.join([f'{z}' for z in x]) for x in qres])
             q_filename = os.path.splitext(os.path.basename(q_file))[0]
-            with open(f'{dir_path}/{q_filename}.txt', 'w') as f:
+            with open(f'{query_dir}/{q_filename}_result.txt', 'w') as f:
                 f.write(qres)
-
-
-if __name__ == "__main__":
-    for filename in ['UU13-2003', 'PERGUB33-2020']:
-        process(filename)

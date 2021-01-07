@@ -1,5 +1,0 @@
-http://example.org/legal/document/UU13-2003/pasal/7
-http://example.org/legal/document/UU13-2003/pasal/7/ayat/2
-(2) Perencanaan tenaga kerja meliputi :
-a. perencanaan tenaga kerja makro; dan
-b. perencanaan tenaga kerja mikro.

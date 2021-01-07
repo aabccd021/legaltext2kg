@@ -1,0 +1,49 @@
+http://example.org/legal/document/UU13-2003/pasal/69/ayat/2/point/g
+http://example.org/legal/ontology/partOf
+http://example.org/legal/document/UU13-2003/pasal/69/ayat/2
+
+http://example.org/legal/document/UU13-2003/pasal/47/ayat/2
+http://example.org/legal/ontology/partOf
+http://example.org/legal/document/UU13-2003/pasal/47
+
+http://example.org/legal/document/UU13-2003/pasal/15
+http://example.org/legal/ontology/hasText
+Pasal 15
+Penyelenggara pelatihan kerja wajib memenuhi persyaratan :
+a. tersedianya tenaga kepelatihan;
+b. adanya kurikulum yang sesuai dengan tingkat pelatihan;
+c. tersedianya sarana dan prasarana pelatihan kerja; dan
+d. tersedianya dana bagi kelangsungan kegiatan penyelenggaraan pelatihan kerja.
+
+http://example.org/legal/document/UU13-2003/pasal/169/ayat/1/point/f
+http://example.org/legal/ontology/partOf
+http://example.org/legal/document/UU13-2003/pasal/169/ayat/1
+
+http://example.org/legal/document/UU13-2003/pasal/157/ayat/3
+http://example.org/legal/ontology/hasText
+(3) Dalam hal upah pekerja/buruh dibayarkan atas dasar perhitungan satuan hasil,
+potongan/borongan atau komisi, maka penghasilan sehari adalah sama dengan pendapatan rata-
+rata per hari selama 12 (dua belas) bulan terakhir, dengan ketentuan tidak boleh kurang dari
+ketentuan upah minimum provinsi atau kabupaten/kota.
+
+http://example.org/legal/document/UU13-2003/pasal/35/ayat/2
+http://example.org/legal/ontology/hasContent
+Pelaksana penempatan tenaga kerja sebagaimana dimaksud dalam ayat (1) wajib memberikan perlindu ngan sejak rekrutmen sampai penempatan tenaga kerja
+
+http://example.org/legal/document/UU13-2003/pasal/182/ayat/2/point/c
+http://example.org/legal/ontology/hasKey
+c
+
+http://example.org/legal/document/UU13-2003/pasal/169/ayat/3
+http://example.org/legal/ontology/partOf
+http://example.org/legal/document/UU13-2003/pasal/169
+
+http://example.org/legal/document/UU13-2003/pasal/158/ayat/1/point/h
+http://example.org/legal/ontology/hasKey
+h
+
+http://example.org/legal/document/UU13-2003/pasal/120/ayat/3
+http://example.org/legal/ontology/hasText
+(3) Dalam hal ketentuan sebagaimana dimaksud dalam ayat (1) atau ayat (2) tidak terpenuhi, maka
+para seri-kat pekerja/serikat buruh membentuk tim perunding yang keanggotaannya ditentukan
+secara proporsional berdasarkan jumlah anggota masing-masing serikat pekerja/serikat buruh.

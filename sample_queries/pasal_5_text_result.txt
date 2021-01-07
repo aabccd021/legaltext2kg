@@ -1,3 +1,8 @@
+http://example.org/legal/document/UU13-2003/pasal/5
+Pasal 5
+Setiap tenaga kerja memiliki kesempatan yang sama tanpa diskriminasi untuk memperoleh
+pekerjaan.
+
 http://example.org/legal/document/PERGUB33-2020/pasal/5
 Pasal 5
 (1) Dalam upaya mencegah meluasnya penyebaran Corona Virus

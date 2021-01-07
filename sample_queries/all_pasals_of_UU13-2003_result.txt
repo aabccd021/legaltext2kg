@@ -1,0 +1,3 @@
+http://example.org/legal/document/UU13-2003/pasal/5
+
+http://example.org/legal/document/PERGUB33-2020/pasal/5
