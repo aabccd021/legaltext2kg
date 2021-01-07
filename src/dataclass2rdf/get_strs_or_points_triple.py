@@ -21,7 +21,7 @@ def point_content_to_triple(
         return [
             (parent, ONS.description, Literal(
                 points._description, datatype=XSD.string)),
-            # (pointsN, ONS.text, Literal(points.text, datatype=XSD.string)),
+            (parent, ONS.hasText, Literal(points.text, datatype=XSD.string)),
             *itertools.chain(
                 *[point_to_triple(isi, parent) for isi in points.isi])
         ]
@@ -37,6 +37,7 @@ def point_to_triple(
     return [
         (pointN, PartOf, parent),
         (pointN, RDF.type, ONS.Point),
+        (pointN, ONS.hasText, Literal(p.text, datatype=datatype)),
         (pointN, ONS.hasKey, Literal(p._key, datatype=datatype)),
         *point_content_to_triple(p.isi, pointN, "hasContent")
     ]

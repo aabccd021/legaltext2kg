@@ -5,3 +5,4 @@ WHERE{
   ?pasal legal:partOf+ doc:UU13-2003 .
   ?pasal a legal:Pasal .
 }
+ORDER BY ASC(?pasal)

@@ -33,62 +33,74 @@
               {
                 "_key": 1,
                 "_type": "point",
-                "isi": "Pembatasan Sosial Berskala Besar yang selanjutnya disingkat PSBB adalah pembatasan kegiatan tertentu penduduk dalam suatu wilayah yang diduga terinfeksi Corona Virus Disease 2019 (COVID-19) sedemikian rupa untuk mencegah kemungkinan penyebaran Corona Virus Disease 2019 (COVID- 19)"
+                "isi": "Pembatasan Sosial Berskala Besar yang selanjutnya disingkat PSBB adalah pembatasan kegiatan tertentu penduduk dalam suatu wilayah yang diduga terinfeksi Corona Virus Disease 2019 (COVID-19) sedemikian rupa untuk mencegah kemungkinan penyebaran Corona Virus Disease 2019 (COVID- 19)",
+                "text": "1. Pembatasan Sosial Berskala Besar yang selanjutnya disingkat\nPSBB adalah pembatasan kegiatan tertentu penduduk dalam\nsuatu wilayah yang diduga terinfeksi Corona Virus Disease\n2019 (COVID-19) sedemikian rupa untuk mencegah\nkemungkinan penyebaran Corona Virus Disease 2019 (COVID-\n19)"
               },
               {
                 "_key": 2,
                 "_type": "point",
-                "isi": "Barang Kebutuhan Pokok adalah barang yang menyangkut hajat hidup orang banyak dengan skala pemenuhan kebutuhan yang tinggi serta menjadi faktor pendukung kesejahteraan masyarakat."
+                "isi": "Barang Kebutuhan Pokok adalah barang yang menyangkut hajat hidup orang banyak dengan skala pemenuhan kebutuhan yang tinggi serta menjadi faktor pendukung kesejahteraan masyarakat.",
+                "text": "2. Barang Kebutuhan Pokok adalah barang yang menyangkut\nhajat hidup orang banyak dengan skala pemenuhan\nkebutuhan yang tinggi serta menjadi faktor pendukung\nkesejahteraan masyarakat."
               },
               {
                 "_key": 3,
                 "_type": "point",
-                "isi": "Barang Penting adalah barang strategis yang berperan penting dalam menentukan kelancaran pembangunan nasional."
+                "isi": "Barang Penting adalah barang strategis yang berperan penting dalam menentukan kelancaran pembangunan nasional.",
+                "text": "3. Barang Penting adalah barang strategis yang berperan penting\ndalam menentukan kelancaran pembangunan nasional."
               },
               {
                 "_key": 4,
                 "_type": "point",
-                "isi": "Penduduk adalah setiap orang yang berdomisili dan/ atau berkegiatan di Provinsi DKI Jakarta."
+                "isi": "Penduduk adalah setiap orang yang berdomisili dan/ atau berkegiatan di Provinsi DKI Jakarta.",
+                "text": "4. Penduduk adalah setiap orang yang berdomisili dan/ atau\nberkegiatan di Provinsi DKI Jakarta."
               },
               {
                 "_key": 5,
                 "_type": "point",
-                "isi": "Pelaku Usaha adalah setiap orang perseorangan warga negara Indonesia atau badan usaha yang berbentuk badan hukum atau bukan badan hukum yang didirikan dan berkedudukan dalam wilayah hukum Negara Kesatuan Republik Indonesia yang melakukan kegiatan usaha di bidang Perdagangan."
+                "isi": "Pelaku Usaha adalah setiap orang perseorangan warga negara Indonesia atau badan usaha yang berbentuk badan hukum atau bukan badan hukum yang didirikan dan berkedudukan dalam wilayah hukum Negara Kesatuan Republik Indonesia yang melakukan kegiatan usaha di bidang Perdagangan.",
+                "text": "5. Pelaku Usaha adalah setiap orang perseorangan warga negara\nIndonesia atau badan usaha yang berbentuk badan hukum\natau bukan badan hukum yang didirikan dan berkedudukan\ndalam wilayah hukum Negara Kesatuan Republik Indonesia\nyang melakukan kegiatan usaha di bidang Perdagangan."
               },
               {
                 "_key": 6,
                 "_type": "point",
-                "isi": "Provinsi Daerah Khusus Ibukota Jakarta selanjutnya disebut Provinsi DKI Jakarta adalah provinsi yang mempunyai kekhususan dalam penyelenggaraan pemerintahan daerah karena kedudukannya sebagai Ibukota Negara Kesatuan Republik Indonesia."
+                "isi": "Provinsi Daerah Khusus Ibukota Jakarta selanjutnya disebut Provinsi DKI Jakarta adalah provinsi yang mempunyai kekhususan dalam penyelenggaraan pemerintahan daerah karena kedudukannya sebagai Ibukota Negara Kesatuan Republik Indonesia.",
+                "text": "6. Provinsi Daerah Khusus Ibukota Jakarta selanjutnya disebut\nProvinsi DKI Jakarta adalah provinsi yang mempunyai\nkekhususan dalam penyelenggaraan pemerintahan daerah\nkarena kedudukannya sebagai Ibukota Negara Kesatuan\nRepublik Indonesia."
               },
               {
                 "_key": 7,
                 "_type": "point",
-                "isi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta selanjutnya disebut Pemerintah Provinsi DKI Jakarta adalah Gubernur dan perangkat daerah Provinsi DKI Jakarta sebagai unsur penyelenggara pemerintahan Provinsi DKI Jakarta."
+                "isi": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta selanjutnya disebut Pemerintah Provinsi DKI Jakarta adalah Gubernur dan perangkat daerah Provinsi DKI Jakarta sebagai unsur penyelenggara pemerintahan Provinsi DKI Jakarta.",
+                "text": "7. Pemerintah Provinsi Daerah Khusus Ibukota Jakarta\nselanjutnya disebut Pemerintah Provinsi DKI Jakarta adalah\nGubernur dan perangkat daerah Provinsi DKI Jakarta sebagai\nunsur penyelenggara pemerintahan Provinsi DKI Jakarta."
               },
               {
                 "_key": 8,
                 "_type": "point",
-                "isi": "Gubernur adalah Kepala Daerah Provinsi DKI Jakarta yang karena jabatannya berkedudukan juga sebagai wakil Pemerintah di wilayah Provinsi DKI Jakarta."
+                "isi": "Gubernur adalah Kepala Daerah Provinsi DKI Jakarta yang karena jabatannya berkedudukan juga sebagai wakil Pemerintah di wilayah Provinsi DKI Jakarta.",
+                "text": "8. Gubernur adalah Kepala Daerah Provinsi DKI Jakarta yang\nkarena jabatannya berkedudukan juga sebagai wakil\nPemerintah di wilayah Provinsi DKI Jakarta."
               },
               {
                 "_key": 9,
                 "_type": "point",
-                "isi": "Sekretaris Daerah adalah Sekretaris Daerah Provinsi DKI Jakarta."
+                "isi": "Sekretaris Daerah adalah Sekretaris Daerah Provinsi DKI Jakarta.",
+                "text": "9. Sekretaris Daerah adalah Sekretaris Daerah Provinsi DKI\nJakarta."
               },
               {
                 "_key": 10,
                 "_type": "point",
-                "isi": "Perangkat Daerah adalah unsur pembantu Gubernur dan Dewan Perwakilan Rakyat Daerah dalam penyelenggaraan urusan pemerintahan yang menjadi kewenangan Daerah Provinsi DKI Jakarta."
+                "isi": "Perangkat Daerah adalah unsur pembantu Gubernur dan Dewan Perwakilan Rakyat Daerah dalam penyelenggaraan urusan pemerintahan yang menjadi kewenangan Daerah Provinsi DKI Jakarta.",
+                "text": "10. Perangkat Daerah adalah unsur pembantu Gubernur dan\nDewan Perwakilan Rakyat Daerah dalam penyelenggaraan\nurusan pemerintahan yang menjadi kewenangan Daerah\nProvinsi DKI Jakarta."
               },
               {
                 "_key": 11,
                 "_type": "point",
-                "isi": "Gugus Tugas Percepatan Penanganan Corona Virus Disease (COVID-19) Provinsi DKI Jakarta yang selanjutnya disebut Gugus Tugas COVID-19 tingkat Provinsi adalah Gugus Tugas Percepatan Penanganan Corona Virus Disease (COVID-19) yang dibentuk Pemerintah Provinsi DKI Jakarta untuk tingkat Provinsi."
+                "isi": "Gugus Tugas Percepatan Penanganan Corona Virus Disease (COVID-19) Provinsi DKI Jakarta yang selanjutnya disebut Gugus Tugas COVID-19 tingkat Provinsi adalah Gugus Tugas Percepatan Penanganan Corona Virus Disease (COVID-19) yang dibentuk Pemerintah Provinsi DKI Jakarta untuk tingkat Provinsi.",
+                "text": "11. Gugus Tugas Percepatan Penanganan Corona Virus Disease\n(COVID-19) Provinsi DKI Jakarta yang selanjutnya disebut\nGugus Tugas COVID-19 tingkat Provinsi adalah Gugus Tugas\nPercepatan Penanganan Corona Virus Disease (COVID-19)\nyang dibentuk Pemerintah Provinsi DKI Jakarta untuk tingkat\nProvinsi."
               },
               {
                 "_key": 12,
                 "_type": "point",
-                "isi": "Gugus Tugas Percepatan Penanganan Corona Virus Disease (COVID-19) tingkat Kota Administrasi/Kabupaten Administrasi yang selanjutnya disebut Gugus Tugas COVID-19 tingkat Kota/Kabupaten Administrasi adalah Gugus Tugas Percepatan Penanganan Corona Virus Disease (COVID-19) yang dibentuk Pemerintah Kota/Kabupaten Administrasi untuk tingkat Kota/Kabupaten Administrasi."
+                "isi": "Gugus Tugas Percepatan Penanganan Corona Virus Disease (COVID-19) tingkat Kota Administrasi/Kabupaten Administrasi yang selanjutnya disebut Gugus Tugas COVID-19 tingkat Kota/Kabupaten Administrasi adalah Gugus Tugas Percepatan Penanganan Corona Virus Disease (COVID-19) yang dibentuk Pemerintah Kota/Kabupaten Administrasi untuk tingkat Kota/Kabupaten Administrasi.",
+                "text": "12. Gugus Tugas Percepatan Penanganan Corona Virus Disease\n(COVID-19) tingkat Kota Administrasi/Kabupaten Administrasi\nyang selanjutnya disebut Gugus Tugas COVID-19 tingkat\nKota/Kabupaten Administrasi adalah Gugus Tugas\nPercepatan Penanganan Corona Virus Disease (COVID-19)\nyang dibentuk Pemerintah Kota/Kabupaten Administrasi\nuntuk tingkat Kota/Kabupaten Administrasi."
               }
             ],
             "text": "Dalam Peraturan Gubernur ini yang dimaksud dengan:\n1. Pembatasan Sosial Berskala Besar yang selanjutnya disingkat\nPSBB adalah pembatasan kegiatan tertentu penduduk dalam\nsuatu wilayah yang diduga terinfeksi Corona Virus Disease\n2019 (COVID-19) sedemikian rupa untuk mencegah\nkemungkinan penyebaran Corona Virus Disease 2019 (COVID-\n19)\n2. Barang Kebutuhan Pokok adalah barang yang menyangkut\nhajat hidup orang banyak dengan skala pemenuhan\nkebutuhan yang tinggi serta menjadi faktor pendukung\nkesejahteraan masyarakat.\n3. Barang Penting adalah barang strategis yang berperan penting\ndalam menentukan kelancaran pembangunan nasional.\n4. Penduduk adalah setiap orang yang berdomisili dan/ atau\nberkegiatan di Provinsi DKI Jakarta.\n5. Pelaku Usaha adalah setiap orang perseorangan warga negara\nIndonesia atau badan usaha yang berbentuk badan hukum\natau bukan badan hukum yang didirikan dan berkedudukan\ndalam wilayah hukum Negara Kesatuan Republik Indonesia\nyang melakukan kegiatan usaha di bidang Perdagangan.\n6. Provinsi Daerah Khusus Ibukota Jakarta selanjutnya disebut\nProvinsi DKI Jakarta adalah provinsi yang mempunyai\nkekhususan dalam penyelenggaraan pemerintahan daerah\nkarena kedudukannya sebagai Ibukota Negara Kesatuan\nRepublik Indonesia.\n7. Pemerintah Provinsi Daerah Khusus Ibukota Jakarta\nselanjutnya disebut Pemerintah Provinsi DKI Jakarta adalah\nGubernur dan perangkat daerah Provinsi DKI Jakarta sebagai\nunsur penyelenggara pemerintahan Provinsi DKI Jakarta.\n8. Gubernur adalah Kepala Daerah Provinsi DKI Jakarta yang\nkarena jabatannya berkedudukan juga sebagai wakil\nPemerintah di wilayah Provinsi DKI Jakarta.\n9. Sekretaris Daerah adalah Sekretaris Daerah Provinsi DKI\nJakarta.\n10. Perangkat Daerah adalah unsur pembantu Gubernur dan\nDewan Perwakilan Rakyat Daerah dalam penyelenggaraan\nurusan pemerintahan yang menjadi kewenangan Daerah\nProvinsi DKI Jakarta.\n11. Gugus Tugas Percepatan Penanganan Corona Virus Disease\n(COVID-19) Provinsi DKI Jakarta yang selanjutnya disebut\nGugus Tugas COVID-19 tingkat Provinsi adalah Gugus Tugas\nPercepatan Penanganan Corona Virus Disease (COVID-19)\nyang dibentuk Pemerintah Provinsi DKI Jakarta untuk tingkat\nProvinsi.\n12. Gugus Tugas Percepatan Penanganan Corona Virus Disease\n(COVID-19) tingkat Kota Administrasi/Kabupaten Administrasi\nyang selanjutnya disebut Gugus Tugas COVID-19 tingkat\nKota/Kabupaten Administrasi adalah Gugus Tugas\nPercepatan Penanganan Corona Virus Disease (COVID-19)\nyang dibentuk Pemerintah Kota/Kabupaten Administrasi\nuntuk tingkat Kota/Kabupaten Administrasi."
@@ -119,22 +131,26 @@
               {
                 "_key": "a",
                 "_type": "point",
-                "isi": "membatasi kegiatan tertentu dan pergerakan orang dan/ atau barang dalam menekan penyebaran Corona Virus Disease (COVID-19);"
+                "isi": "membatasi kegiatan tertentu dan pergerakan orang dan/ atau barang dalam menekan penyebaran Corona Virus Disease (COVID-19);",
+                "text": "a. membatasi kegiatan tertentu dan pergerakan orang dan/ atau\nbarang dalam menekan penyebaran Corona Virus Disease\n(COVID-19);"
               },
               {
                 "_key": "b",
                 "_type": "point",
-                "isi": "meningkatkan antisipasi perkembangan ekskalasi penyebaran Corona Virus Disease (COVID-19);"
+                "isi": "meningkatkan antisipasi perkembangan ekskalasi penyebaran Corona Virus Disease (COVID-19);",
+                "text": "b. meningkatkan antisipasi perkembangan ekskalasi penyebaran\nCorona Virus Disease (COVID-19);"
               },
               {
                 "_key": "c",
                 "_type": "point",
-                "isi": "memperkuat upaya penanganan kesehatan akibat Corona Virus Disease (COVID-19); dan"
+                "isi": "memperkuat upaya penanganan kesehatan akibat Corona Virus Disease (COVID-19); dan",
+                "text": "c. memperkuat upaya penanganan kesehatan akibat Corona\nVirus Disease (COVID-19); dan"
               },
               {
                 "_key": "d",
                 "_type": "point",
-                "isi": "menangani dampak sosial dan ekonomi dari penyebaran Corona Virus Disease (COVID- 19)."
+                "isi": "menangani dampak sosial dan ekonomi dari penyebaran Corona Virus Disease (COVID- 19).",
+                "text": "d. menangani dampak sosial dan ekonomi dari penyebaran\nCorona Virus Disease (COVID- 19)."
               }
             ],
             "text": "Peraturan Gubernur ini bertujuan untuk:\na. membatasi kegiatan tertentu dan pergerakan orang dan/ atau\nbarang dalam menekan penyebaran Corona Virus Disease\n(COVID-19);\nb. meningkatkan antisipasi perkembangan ekskalasi penyebaran\nCorona Virus Disease (COVID-19);\nc. memperkuat upaya penanganan kesehatan akibat Corona\nVirus Disease (COVID-19); dan\nd. menangani dampak sosial dan ekonomi dari penyebaran\nCorona Virus Disease (COVID- 19)."
@@ -159,27 +175,32 @@
               {
                 "_key": "a",
                 "_type": "point",
-                "isi": "pelaksanaan PSBB;"
+                "isi": "pelaksanaan PSBB;",
+                "text": "a. pelaksanaan PSBB;"
               },
               {
                 "_key": "b",
                 "_type": "point",
-                "isi": "hak, kewajiban serta pemenuhan kebutuhan dasar penduduk selama PSBB;"
+                "isi": "hak, kewajiban serta pemenuhan kebutuhan dasar penduduk selama PSBB;",
+                "text": "b. hak, kewajiban serta pemenuhan kebutuhan dasar penduduk\nselama PSBB;"
               },
               {
                 "_key": "c",
                 "_type": "point",
-                "isi": "sumber daya penanganan Corona Virus Disease (COVID-19);"
+                "isi": "sumber daya penanganan Corona Virus Disease (COVID-19);",
+                "text": "c. sumber daya penanganan Corona Virus Disease (COVID-19);"
               },
               {
                 "_key": "d",
                 "_type": "point",
-                "isi": "pemantauan, evaluasi, dan pelaporan; dan"
+                "isi": "pemantauan, evaluasi, dan pelaporan; dan",
+                "text": "d. pemantauan, evaluasi, dan pelaporan; dan"
               },
               {
                 "_key": "e",
                 "_type": "point",
-                "isi": "sanksi."
+                "isi": "sanksi.",
+                "text": "e. sanksi."
               }
             ],
             "text": "Ruang lingkup Peraturan Gubernur ini meliputi:\na. pelaksanaan PSBB;\nb. hak, kewajiban serta pemenuhan kebutuhan dasar penduduk\nselama PSBB;\nc. sumber daya penanganan Corona Virus Disease (COVID-19);\nd. pemantauan, evaluasi, dan pelaporan; dan\ne. sanksi."
@@ -225,12 +246,14 @@
                       {
                         "_key": "a",
                         "_type": "point",
-                        "isi": "melaksanakan Perilaku Hidup Bersih dan Sehat (PHBS); dan"
+                        "isi": "melaksanakan Perilaku Hidup Bersih dan Sehat (PHBS); dan",
+                        "text": "a. melaksanakan Perilaku Hidup Bersih dan Sehat (PHBS);\ndan"
                       },
                       {
                         "_key": "b",
                         "_type": "point",
-                        "isi": "menggunakan masker di luar rumah."
+                        "isi": "menggunakan masker di luar rumah.",
+                        "text": "b. menggunakan masker di luar rumah."
                       }
                     ],
                     "text": "Selama pemberlakuan PSBB, setiap orang wajib:\na. melaksanakan Perilaku Hidup Bersih dan Sehat (PHBS);\ndan\nb. menggunakan masker di luar rumah."
@@ -247,32 +270,38 @@
                       {
                         "_key": "a",
                         "_type": "point",
-                        "isi": "pelaksanaan pembelajaran di Sekolah dan/atau institusi pendidikan lainnya;"
+                        "isi": "pelaksanaan pembelajaran di Sekolah dan/atau institusi pendidikan lainnya;",
+                        "text": "a. pelaksanaan pembelajaran di Sekolah dan/atau institusi\npendidikan lainnya;"
                       },
                       {
                         "_key": "b",
                         "_type": "point",
-                        "isi": "aktivitas bekerja di tempat kerja;"
+                        "isi": "aktivitas bekerja di tempat kerja;",
+                        "text": "b. aktivitas bekerja di tempat kerja;"
                       },
                       {
                         "_key": "c",
                         "_type": "point",
-                        "isi": "kegiatan keagamaan di rumah ibadah;"
+                        "isi": "kegiatan keagamaan di rumah ibadah;",
+                        "text": "c. kegiatan keagamaan di rumah ibadah;"
                       },
                       {
                         "_key": "d",
                         "_type": "point",
-                        "isi": "kegiatan di tempat atau fasilitas umum;"
+                        "isi": "kegiatan di tempat atau fasilitas umum;",
+                        "text": "d. kegiatan di tempat atau fasilitas umum;"
                       },
                       {
                         "_key": "e",
                         "_type": "point",
-                        "isi": "kegiatan sosial dan budaya; dan"
+                        "isi": "kegiatan sosial dan budaya; dan",
+                        "text": "e. kegiatan sosial dan budaya; dan"
                       },
                       {
                         "_key": "f",
                         "_type": "point",
-                        "isi": "pergerakan orang dan barang menggunakan moda transportasi."
+                        "isi": "pergerakan orang dan barang menggunakan moda transportasi.",
+                        "text": "f. pergerakan orang dan barang menggunakan moda\ntransportasi."
                       }
                     ],
                     "text": "Pembatasan aktivitas luar rumah dalam pelaksanaan PSBB\nsebagaimana dimaksud pada ayat (2) meliputi:\na. pelaksanaan pembelajaran di Sekolah dan/atau institusi\npendidikan lainnya;\nb. aktivitas bekerja di tempat kerja;\nc. kegiatan keagamaan di rumah ibadah;\nd. kegiatan di tempat atau fasilitas umum;\ne. kegiatan sosial dan budaya; dan\nf. pergerakan orang dan barang menggunakan moda\ntransportasi."
@@ -347,27 +376,32 @@
                       {
                         "_key": "a",
                         "_type": "point",
-                        "isi": "lembaga pendidikan tinggi;"
+                        "isi": "lembaga pendidikan tinggi;",
+                        "text": "a. lembaga pendidikan tinggi;"
                       },
                       {
                         "_key": "b",
                         "_type": "point",
-                        "isi": "lembaga pelatihan;"
+                        "isi": "lembaga pelatihan;",
+                        "text": "b. lembaga pelatihan;"
                       },
                       {
                         "_key": "c",
                         "_type": "point",
-                        "isi": "lembaga penelitian,"
+                        "isi": "lembaga penelitian,",
+                        "text": "c. lembaga penelitian,"
                       },
                       {
                         "_key": "d",
                         "_type": "point",
-                        "isi": "lembaga pembinaan; dan"
+                        "isi": "lembaga pembinaan; dan",
+                        "text": "d. lembaga pembinaan; dan"
                       },
                       {
                         "_key": "e",
                         "_type": "point",
-                        "isi": "lembaga sejenisnya."
+                        "isi": "lembaga sejenisnya.",
+                        "text": "e. lembaga sejenisnya."
                       }
                     ],
                     "text": "Institusi pendidikan lainnya yang dilakukan penghentian\nsementara selama pemberlakuan PSBB sebagaimana\ndimaksud dalam Pasal 6 ayat (1), meliputi:\na. lembaga pendidikan tinggi;\nb. lembaga pelatihan;\nc. lembaga penelitian,\nd. lembaga pembinaan; dan\ne. lembaga sejenisnya."
@@ -403,17 +437,20 @@
                       {
                         "_key": "a",
                         "_type": "point",
-                        "isi": "memastikan proses pembelajaran tetap berjalan dan terpenuhinya hak peserta didik dalam mendapatkan pendidikan;"
+                        "isi": "memastikan proses pembelajaran tetap berjalan dan terpenuhinya hak peserta didik dalam mendapatkan pendidikan;",
+                        "text": "a. memastikan proses pembelajaran tetap berjalan dan\nterpenuhinya hak peserta didik dalam mendapatkan\npendidikan;"
                       },
                       {
                         "_key": "b",
                         "_type": "point",
-                        "isi": "melakukan pencegahan penyebaran Corona Virus Disease (COVID-19) di lokasi dan lingkungan sekolah dan/atau institusi pendidikan lainnya; dan"
+                        "isi": "melakukan pencegahan penyebaran Corona Virus Disease (COVID-19) di lokasi dan lingkungan sekolah dan/atau institusi pendidikan lainnya; dan",
+                        "text": "b. melakukan pencegahan penyebaran Corona Virus Disease\n(COVID-19) di lokasi dan lingkungan sekolah dan/atau\ninstitusi pendidikan lainnya; dan"
                       },
                       {
                         "_key": "c",
                         "_type": "point",
-                        "isi": "menjaga keamanan sekolah dan/atau institusi pendidikan lainnya."
+                        "isi": "menjaga keamanan sekolah dan/atau institusi pendidikan lainnya.",
+                        "text": "c. menjaga keamanan sekolah dan/atau institusi pendidikan\nlainnya."
                       }
                     ],
                     "text": "Dalam penghentian sementara kegiatan selama pemberlakuan\nPSBB, penanggung jawab sekolah dan institusi pendidikan\nlainnya wajib:\na. memastikan proses pembelajaran tetap berjalan dan\nterpenuhinya hak peserta didik dalam mendapatkan\npendidikan;\nb. melakukan pencegahan penyebaran Corona Virus Disease\n(COVID-19) di lokasi dan lingkungan sekolah dan/atau\ninstitusi pendidikan lainnya; dan\nc. menjaga keamanan sekolah dan/atau institusi pendidikan\nlainnya."
@@ -430,12 +467,14 @@
                       {
                         "_key": "a",
                         "_type": "point",
-                        "isi": "membersihkan dan melakukan disinfeksi sarana dan prasarana sekolah; dan"
+                        "isi": "membersihkan dan melakukan disinfeksi sarana dan prasarana sekolah; dan",
+                        "text": "a. membersihkan dan melakukan disinfeksi sarana dan\nprasarana sekolah; dan"
                       },
                       {
                         "_key": "b",
                         "_type": "point",
-                        "isi": "menerapkan protokol pencegahan penyebaran Corona Virus Disease (COVID-19) bagi pendidik dan tenaga kependidikan lainnya."
+                        "isi": "menerapkan protokol pencegahan penyebaran Corona Virus Disease (COVID-19) bagi pendidik dan tenaga kependidikan lainnya.",
+                        "text": "b. menerapkan protokol pencegahan penyebaran Corona Virus\nDisease (COVID-19) bagi pendidik dan tenaga kependidikan\nlainnya."
                       }
                     ],
                     "text": "Upaya pencegahan penyebaran Corona Virus Disease (COVID-\n19) di lokasi dan lingkungan sekolah dan/atau institusi\npendidikan lainnya sebagaimana dimaksud pada ayat (1)\nhuruf b dilakukan secara berkala dengan cara:\na. membersihkan dan melakukan disinfeksi sarana dan\nprasarana sekolah; dan\nb. menerapkan protokol pencegahan penyebaran Corona Virus\nDisease (COVID-19) bagi pendidik dan tenaga kependidikan\nlainnya."
@@ -479,27 +518,32 @@
                       {
                         "_key": "a",
                         "_type": "point",
-                        "isi": "menjaga agar pelayanan yang diberikan dan/atau aktivitas usaha tetap berjalan secara terbatas;"
+                        "isi": "menjaga agar pelayanan yang diberikan dan/atau aktivitas usaha tetap berjalan secara terbatas;",
+                        "text": "a. menjaga agar pelayanan yang diberikan dan/atau aktivitas\nusaha tetap berjalan secara terbatas;"
                       },
                       {
                         "_key": "b",
                         "_type": "point",
-                        "isi": "menjaga produktivitas/kinerja pekerja;"
+                        "isi": "menjaga produktivitas/kinerja pekerja;",
+                        "text": "b. menjaga produktivitas/kinerja pekerja;"
                       },
                       {
                         "_key": "c",
                         "_type": "point",
-                        "isi": "melakukan pencegahan penyebaran Corona Virus Disease (COVID-19) di lokasi dan lingkungan tempat kerja;"
+                        "isi": "melakukan pencegahan penyebaran Corona Virus Disease (COVID-19) di lokasi dan lingkungan tempat kerja;",
+                        "text": "c. melakukan pencegahan penyebaran Corona Virus Disease\n(COVID-19) di lokasi dan lingkungan tempat kerja;"
                       },
                       {
                         "_key": "d",
                         "_type": "point",
-                        "isi": "menjaga keamanan lokasi dan lingkungan sekitar tempat kerja; dan"
+                        "isi": "menjaga keamanan lokasi dan lingkungan sekitar tempat kerja; dan",
+                        "text": "d. menjaga keamanan lokasi dan lingkungan sekitar tempat\nkerja; dan"
                       },
                       {
                         "_key": "e",
                         "_type": "point",
-                        "isi": "memberikan perlindungan kepada pekerja yang terpapar Corona Virus Disease (COVID-19) sesuai dengan ketentuan peraturan perundang-undangan."
+                        "isi": "memberikan perlindungan kepada pekerja yang terpapar Corona Virus Disease (COVID-19) sesuai dengan ketentuan peraturan perundang-undangan.",
+                        "text": "e. memberikan perlindungan kepada pekerja yang terpapar\nCorona Virus Disease (COVID-19) sesuai dengan ketentuan\nperaturan perundang-undangan."
                       }
                     ],
                     "text": "Pimpinan tempat kerja yang melakukan penghentian\nsementara aktivitas bekerja di tempat kerja sebagaimana\ndimaksud pada ayat (2) wajib:\na. menjaga agar pelayanan yang diberikan dan/atau aktivitas\nusaha tetap berjalan secara terbatas;\nb. menjaga produktivitas/kinerja pekerja;\nc. melakukan pencegahan penyebaran Corona Virus Disease\n(COVID-19) di lokasi dan lingkungan tempat kerja;\nd. menjaga keamanan lokasi dan lingkungan sekitar tempat\nkerja; dan\ne. memberikan perlindungan kepada pekerja yang terpapar\nCorona Virus Disease (COVID-19) sesuai dengan ketentuan\nperaturan perundang-undangan."
@@ -516,17 +560,20 @@
                       {
                         "_key": "a",
                         "_type": "point",
-                        "isi": "membersihkan lingkungan tempat kerja;"
+                        "isi": "membersihkan lingkungan tempat kerja;",
+                        "text": "a. membersihkan lingkungan tempat kerja;"
                       },
                       {
                         "_key": "b",
                         "_type": "point",
-                        "isi": "melakukan disinfeksi pada lantai, dinding dan perangkat bangunan tempat kerja; dan"
+                        "isi": "melakukan disinfeksi pada lantai, dinding dan perangkat bangunan tempat kerja; dan",
+                        "text": "b. melakukan disinfeksi pada lantai, dinding dan perangkat\nbangunan tempat kerja; dan"
                       },
                       {
                         "_key": "c",
                         "_type": "point",
-                        "isi": "menutup akses masuk bagi pihak-pihak yang tidak berkepentingan."
+                        "isi": "menutup akses masuk bagi pihak-pihak yang tidak berkepentingan.",
+                        "text": "c. menutup akses masuk bagi pihak-pihak yang tidak\nberkepentingan."
                       }
                     ],
                     "text": "Upaya pencegahan penyebaran Corona Virus Disease (COVID-\n19) di lokasi dan lingkungan tempat kerja sebagaimana\ndimaksud pada ayat (3) huruf c, dilakukan secara berkala\ndengan cara:\na. membersihkan lingkungan tempat kerja;\nb. melakukan disinfeksi pada lantai, dinding dan perangkat\nbangunan tempat kerja; dan\nc. menutup akses masuk bagi pihak-pihak yang tidak\nberkepentingan."
@@ -550,17 +597,20 @@
                       {
                         "_key": "a",
                         "_type": "point",
-                        "isi": "seluruh kantor/instansi pemerintahan, baik pusat maupun daerah berdasarkan pengaturan dari kementerian terkait;"
+                        "isi": "seluruh kantor/instansi pemerintahan, baik pusat maupun daerah berdasarkan pengaturan dari kementerian terkait;",
+                        "text": "a. seluruh kantor/instansi pemerintahan, baik pusat maupun\ndaerah berdasarkan pengaturan dari kementerian terkait;"
                       },
                       {
                         "_key": "b",
                         "_type": "point",
-                        "isi": "kantor Perwakilan Negara Asing dan/atau Organisasi Internasional dalam menjalankan fungsi diplomatik dan konsuler serta fungsi lainnya sesuai ketentuan hukum internasional;"
+                        "isi": "kantor Perwakilan Negara Asing dan/atau Organisasi Internasional dalam menjalankan fungsi diplomatik dan konsuler serta fungsi lainnya sesuai ketentuan hukum internasional;",
+                        "text": "b. kantor Perwakilan Negara Asing dan/atau Organisasi\nInternasional dalam menjalankan fungsi diplomatik dan\nkonsuler serta fungsi lainnya sesuai ketentuan hukum\ninternasional;"
                       },
                       {
                         "_key": "c",
                         "_type": "point",
-                        "isi": "Badan Usaha Milik Negara/Daerah yang turut serta dalam penanganan Corona Virus Disease (COVID-19) dan/atau dalam pemenuhan kebutuhan pokok masyarakat mengikuti pengaturan dari kementerian terkait dan/atau Pemerintah Provinsi DKI Jakarta;"
+                        "isi": "Badan Usaha Milik Negara/Daerah yang turut serta dalam penanganan Corona Virus Disease (COVID-19) dan/atau dalam pemenuhan kebutuhan pokok masyarakat mengikuti pengaturan dari kementerian terkait dan/atau Pemerintah Provinsi DKI Jakarta;",
+                        "text": "c. Badan Usaha Milik Negara/Daerah yang turut serta dalam\npenanganan Corona Virus Disease (COVID-19) dan/atau\ndalam pemenuhan kebutuhan pokok masyarakat\nmengikuti pengaturan dari kementerian terkait dan/atau\nPemerintah Provinsi DKI Jakarta;"
                       },
                       {
                         "_key": "d",
@@ -572,66 +622,79 @@
                             {
                               "_key": 1,
                               "_type": "point",
-                              "isi": "kesehatan;"
+                              "isi": "kesehatan;",
+                              "text": "1. kesehatan;"
                             },
                             {
                               "_key": 2,
                               "_type": "point",
-                              "isi": "bahan pangan/ makanan/ minuman;"
+                              "isi": "bahan pangan/ makanan/ minuman;",
+                              "text": "2. bahan pangan/ makanan/ minuman;"
                             },
                             {
                               "_key": 3,
                               "_type": "point",
-                              "isi": "energi;"
+                              "isi": "energi;",
+                              "text": "3. energi;"
                             },
                             {
                               "_key": 4,
                               "_type": "point",
-                              "isi": "komunikasi dan teknologi informasi;"
+                              "isi": "komunikasi dan teknologi informasi;",
+                              "text": "4. komunikasi dan teknologi informasi;"
                             },
                             {
                               "_key": 5,
                               "_type": "point",
-                              "isi": "keuangan;"
+                              "isi": "keuangan;",
+                              "text": "5. keuangan;"
                             },
                             {
                               "_key": 6,
                               "_type": "point",
-                              "isi": "logistik;"
+                              "isi": "logistik;",
+                              "text": "6. logistik;"
                             },
                             {
                               "_key": 7,
                               "_type": "point",
-                              "isi": "perhotelan;"
+                              "isi": "perhotelan;",
+                              "text": "7. perhotelan;"
                             },
                             {
                               "_key": 8,
                               "_type": "point",
-                              "isi": "konstruksi;"
+                              "isi": "konstruksi;",
+                              "text": "8. konstruksi;"
                             },
                             {
                               "_key": 9,
                               "_type": "point",
-                              "isi": "industri strategis;"
+                              "isi": "industri strategis;",
+                              "text": "9. industri strategis;"
                             },
                             {
                               "_key": 10,
                               "_type": "point",
-                              "isi": "pelayanan dasar, utilitas publik dan industri yang ditetapkan sebagai objek vital nasional dan objek tertentu; dan/atau"
+                              "isi": "pelayanan dasar, utilitas publik dan industri yang ditetapkan sebagai objek vital nasional dan objek tertentu; dan/atau",
+                              "text": "10. pelayanan dasar, utilitas publik dan industri yang\nditetapkan sebagai objek vital nasional dan objek\ntertentu; dan/atau"
                             },
                             {
                               "_key": 11,
                               "_type": "point",
-                              "isi": "kebutuhan sehari-hari."
+                              "isi": "kebutuhan sehari-hari.",
+                              "text": "11. kebutuhan sehari-hari."
                             }
                           ],
                           "text": "pelaku usaha yang bergerak pada sektor:\n1. kesehatan;\n2. bahan pangan/ makanan/ minuman;\n3. energi;\n4. komunikasi dan teknologi informasi;\n5. keuangan;\n6. logistik;\n7. perhotelan;\n8. konstruksi;\n9. industri strategis;\n10. pelayanan dasar, utilitas publik dan industri yang\nditetapkan sebagai objek vital nasional dan objek\ntertentu; dan/atau\n11. kebutuhan sehari-hari."
-                        }
+                        },
+                        "text": "d. pelaku usaha yang bergerak pada sektor:\n1. kesehatan;\n2. bahan pangan/ makanan/ minuman;\n3. energi;\n4. komunikasi dan teknologi informasi;\n5. keuangan;\n6. logistik;\n7. perhotelan;\n8. konstruksi;\n9. industri strategis;\n10. pelayanan dasar, utilitas publik dan industri yang\nditetapkan sebagai objek vital nasional dan objek\ntertentu; dan/atau\n11. kebutuhan sehari-hari."
                       },
                       {
                         "_key": "e",
                         "_type": "point",
-                        "isi": "organisasi kemasyarakatan lokal dan internasional yang bergerak pada sektor kebencanaan dan/atau sosial."
+                        "isi": "organisasi kemasyarakatan lokal dan internasional yang bergerak pada sektor kebencanaan dan/atau sosial.",
+                        "text": "e. organisasi kemasyarakatan lokal dan internasional yang\nbergerak pada sektor kebencanaan dan/atau sosial."
                       }
                     ],
                     "text": "Dikecualikan dari penghentian sementara aktivitas bekerja di\ntempat kerja/kantor sebagaimana dimaksud dalam Pasal 9\nayat (1), bagi tempat kerja/kantor dengan kategori:\na. seluruh kantor/instansi pemerintahan, baik pusat maupun\ndaerah berdasarkan pengaturan dari kementerian terkait;\nb. kantor Perwakilan Negara Asing dan/atau Organisasi\nInternasional dalam menjalankan fungsi diplomatik dan\nkonsuler serta fungsi lainnya sesuai ketentuan hukum\ninternasional;\nc. Badan Usaha Milik Negara/Daerah yang turut serta dalam\npenanganan Corona Virus Disease (COVID-19) dan/atau\ndalam pemenuhan kebutuhan pokok masyarakat\nmengikuti pengaturan dari kementerian terkait dan/atau\nPemerintah Provinsi DKI Jakarta;\nd. pelaku usaha yang bergerak pada sektor:\n1. kesehatan;\n2. bahan pangan/ makanan/ minuman;\n3. energi;\n4. komunikasi dan teknologi informasi;\n5. keuangan;\n6. logistik;\n7. perhotelan;\n8. konstruksi;\n9. industri strategis;\n10. pelayanan dasar, utilitas publik dan industri yang\nditetapkan sebagai objek vital nasional dan objek\ntertentu; dan/atau\n11. kebutuhan sehari-hari.\ne. organisasi kemasyarakatan lokal dan internasional yang\nbergerak pada sektor kebencanaan dan/atau sosial."
@@ -648,7 +711,8 @@
                       {
                         "_key": "a",
                         "_type": "point",
-                        "isi": "pembatasan interaksi dalam aktivitas kerja;"
+                        "isi": "pembatasan interaksi dalam aktivitas kerja;",
+                        "text": "a. pembatasan interaksi dalam aktivitas kerja;"
                       },
                       {
                         "_key": "b",
@@ -660,41 +724,49 @@
                             {
                               "_key": 1,
                               "_type": "point",
-                              "isi": "penderita tekanan darah tinggi;"
+                              "isi": "penderita tekanan darah tinggi;",
+                              "text": "1. penderita tekanan darah tinggi;"
                             },
                             {
                               "_key": 2,
                               "_type": "point",
-                              "isi": "pengidap penyakit jantung;"
+                              "isi": "pengidap penyakit jantung;",
+                              "text": "2. pengidap penyakit jantung;"
                             },
                             {
                               "_key": 3,
                               "_type": "point",
-                              "isi": "pengidap diabetes;"
+                              "isi": "pengidap diabetes;",
+                              "text": "3. pengidap diabetes;"
                             },
                             {
                               "_key": 4,
                               "_type": "point",
-                              "isi": "penderita penyakit paru-paru;"
+                              "isi": "penderita penyakit paru-paru;",
+                              "text": "4. penderita penyakit paru-paru;"
                             },
                             {
                               "_key": 5,
                               "_type": "point",
-                              "isi": "penderita kanker;"
+                              "isi": "penderita kanker;",
+                              "text": "5. penderita kanker;"
                             },
                             {
                               "_key": 6,
                               "_type": "point",
-                              "isi": "ibu hamil; dan"
+                              "isi": "ibu hamil; dan",
+                              "text": "6. ibu hamil; dan"
                             },
                             {
                               "_key": 7,
                               "_type": "point",
-                              "isi": "usia lebih dari 60 (enam puluh) tahun."
+                              "isi": "usia lebih dari 60 (enam puluh) tahun.",
+                              "text": "7. usia lebih dari 60 (enam puluh) tahun."
                             }
                           ],
                           "text": "pembatasan setiap orang yang mempunyai penyakit\npenyerta dan/atau kondisi yang dapat berakibat fatal\napabila terpapar Corona Virus Disease (COVID-19) untuk\nmelakukan kegiatan di tempat kerja, antara lain:\n1. penderita tekanan darah tinggi;\n2. pengidap penyakit jantung;\n3. pengidap diabetes;\n4. penderita penyakit paru-paru;\n5. penderita kanker;\n6. ibu hamil; dan\n7. usia lebih dari 60 (enam puluh) tahun."
-                        }
+                        },
+                        "text": "b. pembatasan setiap orang yang mempunyai penyakit\npenyerta dan/atau kondisi yang dapat berakibat fatal\napabila terpapar Corona Virus Disease (COVID-19) untuk\nmelakukan kegiatan di tempat kerja, antara lain:\n1. penderita tekanan darah tinggi;\n2. pengidap penyakit jantung;\n3. pengidap diabetes;\n4. penderita penyakit paru-paru;\n5. penderita kanker;\n6. ibu hamil; dan\n7. usia lebih dari 60 (enam puluh) tahun."
                       },
                       {
                         "_key": "c",
@@ -706,42 +778,50 @@
                             {
                               "_key": 1,
                               "_type": "point",
-                              "isi": "memastikan tempat kerja selalu dalam keadaan bersih dan higienis;"
+                              "isi": "memastikan tempat kerja selalu dalam keadaan bersih dan higienis;",
+                              "text": "1. memastikan tempat kerja selalu dalam keadaan bersih\ndan higienis;"
                             },
                             {
                               "_key": 2,
                               "_type": "point",
-                              "isi": "memiliki kerjasama operasional perlindungan kesehatan dan pencegahan Corona Virus Disease (COVID-19) dengan fasilitas pelayanan kesehatan terdekat untuk tindakan darurat;"
+                              "isi": "memiliki kerjasama operasional perlindungan kesehatan dan pencegahan Corona Virus Disease (COVID-19) dengan fasilitas pelayanan kesehatan terdekat untuk tindakan darurat;",
+                              "text": "2. memiliki kerjasama operasional perlindungan kesehatan\ndan pencegahan Corona Virus Disease (COVID-19)\ndengan fasilitas pelayanan kesehatan terdekat untuk\ntindakan darurat;"
                             },
                             {
                               "_key": 3,
                               "_type": "point",
-                              "isi": "menyediakan vaksin, vitamin dan nutrisi tambahan guna meningkatkan imunitas pekerja;"
+                              "isi": "menyediakan vaksin, vitamin dan nutrisi tambahan guna meningkatkan imunitas pekerja;",
+                              "text": "3. menyediakan vaksin, vitamin dan nutrisi tambahan\nguna meningkatkan imunitas pekerja;"
                             },
                             {
                               "_key": 4,
                               "_type": "point",
-                              "isi": "melakukan disinfeksi secara berkala pada lantai, dinding dan perangkat bangunan tempat kerja;"
+                              "isi": "melakukan disinfeksi secara berkala pada lantai, dinding dan perangkat bangunan tempat kerja;",
+                              "text": "4. melakukan disinfeksi secara berkala pada lantai,\ndinding dan perangkat bangunan tempat kerja;"
                             },
                             {
                               "_key": 5,
                               "_type": "point",
-                              "isi": "melakukan deteksi dan pemantauan suhu tubuh karyawan yang memasuki tempat kerja serta memastikan karyawan yang bekerja di tempat kerja tidak sedang mengalami suhu tubuh diatas normal atau sakit;"
+                              "isi": "melakukan deteksi dan pemantauan suhu tubuh karyawan yang memasuki tempat kerja serta memastikan karyawan yang bekerja di tempat kerja tidak sedang mengalami suhu tubuh diatas normal atau sakit;",
+                              "text": "5. melakukan deteksi dan pemantauan suhu tubuh\nkaryawan yang memasuki tempat kerja serta\nmemastikan karyawan yang bekerja di tempat kerja\ntidak sedang mengalami suhu tubuh diatas normal atau\nsakit;"
                             },
                             {
                               "_key": 6,
                               "_type": "point",
-                              "isi": "mengharuskan cuci tangan dengan sabun dan/atau pembersih tangan (hand sanitizer) termasuk menyediakan fasilitas cuci tangan yang memadai dan mudah di akses pada tempat kerja;"
+                              "isi": "mengharuskan cuci tangan dengan sabun dan/atau pembersih tangan (hand sanitizer) termasuk menyediakan fasilitas cuci tangan yang memadai dan mudah di akses pada tempat kerja;",
+                              "text": "6. mengharuskan cuci tangan dengan sabun dan/atau\npembersih tangan\n(hand sanitizer)\ntermasuk\nmenyediakan fasilitas cuci tangan yang memadai dan\nmudah di akses pada tempat kerja;"
                             },
                             {
                               "_key": 7,
                               "_type": "point",
-                              "isi": "menjaga jarak antar sesama karyawan (physical distancing) paling sedikit dalam rentang 1 (satu) meter;"
+                              "isi": "menjaga jarak antar sesama karyawan (physical distancing) paling sedikit dalam rentang 1 (satu) meter;",
+                              "text": "7. menjaga jarak antar sesama karyawan (physical\ndistancing) paling sedikit dalam rentang 1 (satu) meter;"
                             },
                             {
                               "_key": 8,
                               "_type": "point",
-                              "isi": "melakukan penyebaran informasi serta anjuran/ himbauan pencegahan Corona Virus Disease (COVID-19) untuk disebarluaskan pada lokasi strategis di tempat kerja; dan"
+                              "isi": "melakukan penyebaran informasi serta anjuran/ himbauan pencegahan Corona Virus Disease (COVID-19) untuk disebarluaskan pada lokasi strategis di tempat kerja; dan",
+                              "text": "8. melakukan penyebaran informasi serta anjuran/\nhimbauan pencegahan Corona Virus Disease (COVID-19)\nuntuk disebarluaskan pada lokasi strategis di tempat\nkerja; dan"
                             },
                             {
                               "_key": 9,
@@ -753,12 +833,14 @@
                                   {
                                     "_key": "a",
                                     "_type": "point",
-                                    "isi": "aktivitas pekerjaan di tempat kerja harus dihentikan sementara paling sedikit 14 (empat belas) hari kerja;"
+                                    "isi": "aktivitas pekerjaan di tempat kerja harus dihentikan sementara paling sedikit 14 (empat belas) hari kerja;",
+                                    "text": "a) aktivitas pekerjaan di tempat kerja harus dihentikan\nsementara paling sedikit 14 (empat belas) hari kerja;"
                                   },
                                   {
                                     "_key": "b",
                                     "_type": "point",
-                                    "isi": "petugas medis dibantu satuan pengaman melakukan evakuasi dan penyemprotan disinfektan pada seluruh tempat, fasilitas dan peralatan kerja; dan"
+                                    "isi": "petugas medis dibantu satuan pengaman melakukan evakuasi dan penyemprotan disinfektan pada seluruh tempat, fasilitas dan peralatan kerja; dan",
+                                    "text": "b) petugas medis dibantu satuan pengaman melakukan\nevakuasi dan penyemprotan disinfektan pada seluruh\ntempat, fasilitas dan peralatan kerja; dan"
                                   },
                                   {
                                     "_key": "c",
@@ -770,54 +852,65 @@
                                         {
                                           "_key": "a",
                                           "_type": "point",
-                                          "isi": "membatasi layanan hanya untuk dibawa pulang secara langsung (take away), melalui pemesanan secara daring,dan/atau dengan fasilitas telepon/layanan antar;"
+                                          "isi": "membatasi layanan hanya untuk dibawa pulang secara langsung (take away), melalui pemesanan secara daring,dan/atau dengan fasilitas telepon/layanan antar;",
+                                          "text": "a. membatasi layanan hanya untuk dibawa pulang secara\nlangsung\n(take away),\nmelalui pemesanan secara\ndaring,dan/atau dengan fasilitas telepon/layanan antar;"
                                         },
                                         {
                                           "_key": "b",
                                           "_type": "point",
-                                          "isi": "menjaga jarak antrean berdiri maupun duduk paling sedikit 1 (satu) meter antar pelanggan;"
+                                          "isi": "menjaga jarak antrean berdiri maupun duduk paling sedikit 1 (satu) meter antar pelanggan;",
+                                          "text": "b. menjaga jarak antrean berdiri maupun duduk paling\nsedikit 1 (satu) meter antar pelanggan;"
                                         },
                                         {
                                           "_key": "c",
                                           "_type": "point",
-                                          "isi": "menerapkan prinsip higiene sanitasi pangan dalam proses penanganan pangan sesuai ketentuan;"
+                                          "isi": "menerapkan prinsip higiene sanitasi pangan dalam proses penanganan pangan sesuai ketentuan;",
+                                          "text": "c. menerapkan prinsip higiene sanitasi pangan dalam proses\npenanganan pangan sesuai ketentuan;"
                                         }
                                       ],
                                       "text": "penghentian sementara dilakukan hingga proses\nevakuasi dan penyemprotan disinfektan, serta\npelaksanaan pemeriksaan kesehatan dan isolasi\ntenaga kerja yang pernah melakukan kontak fisik\ndengan tenaga kerja yang terpapar Corona Virus\nDisease (COVID-19) telah selesai.\nTerhadap kegiatan penyediaan makanan dan minuman,\npenanggungjawab restoran/ rumah makan/ usaha sej enis\nmemiliki kewajiban untuk:\na. membatasi layanan hanya untuk dibawa pulang secara\nlangsung\n(take away),\nmelalui pemesanan secara\ndaring,dan/atau dengan fasilitas telepon/layanan antar;\nb. menjaga jarak antrean berdiri maupun duduk paling\nsedikit 1 (satu) meter antar pelanggan;\nc. menerapkan prinsip higiene sanitasi pangan dalam proses\npenanganan pangan sesuai ketentuan;"
-                                    }
+                                    },
+                                    "text": "c) penghentian sementara dilakukan hingga proses\nevakuasi dan penyemprotan disinfektan, serta\npelaksanaan pemeriksaan kesehatan dan isolasi\ntenaga kerja yang pernah melakukan kontak fisik\ndengan tenaga kerja yang terpapar Corona Virus\nDisease (COVID-19) telah selesai.\nTerhadap kegiatan penyediaan makanan dan minuman,\npenanggungjawab restoran/ rumah makan/ usaha sej enis\nmemiliki kewajiban untuk:\na. membatasi layanan hanya untuk dibawa pulang secara\nlangsung\n(take away),\nmelalui pemesanan secara\ndaring,dan/atau dengan fasilitas telepon/layanan antar;\nb. menjaga jarak antrean berdiri maupun duduk paling\nsedikit 1 (satu) meter antar pelanggan;\nc. menerapkan prinsip higiene sanitasi pangan dalam proses\npenanganan pangan sesuai ketentuan;"
                                   }
                                 ],
                                 "text": "dalam hal ditemukan adanya karyawan di tempat kerja\nyang menjadi pasien dalam pengawasan, maka:\na) aktivitas pekerjaan di tempat kerja harus dihentikan\nsementara paling sedikit 14 (empat belas) hari kerja;\nb) petugas medis dibantu satuan pengaman melakukan\nevakuasi dan penyemprotan disinfektan pada seluruh\ntempat, fasilitas dan peralatan kerja; dan\nc) penghentian sementara dilakukan hingga proses\nevakuasi dan penyemprotan disinfektan, serta\npelaksanaan pemeriksaan kesehatan dan isolasi\ntenaga kerja yang pernah melakukan kontak fisik\ndengan tenaga kerja yang terpapar Corona Virus\nDisease (COVID-19) telah selesai.\nTerhadap kegiatan penyediaan makanan dan minuman,\npenanggungjawab restoran/ rumah makan/ usaha sej enis\nmemiliki kewajiban untuk:\na. membatasi layanan hanya untuk dibawa pulang secara\nlangsung\n(take away),\nmelalui pemesanan secara\ndaring,dan/atau dengan fasilitas telepon/layanan antar;\nb. menjaga jarak antrean berdiri maupun duduk paling\nsedikit 1 (satu) meter antar pelanggan;\nc. menerapkan prinsip higiene sanitasi pangan dalam proses\npenanganan pangan sesuai ketentuan;"
-                              }
+                              },
+                              "text": "9. dalam hal ditemukan adanya karyawan di tempat kerja\nyang menjadi pasien dalam pengawasan, maka:\na) aktivitas pekerjaan di tempat kerja harus dihentikan\nsementara paling sedikit 14 (empat belas) hari kerja;\nb) petugas medis dibantu satuan pengaman melakukan\nevakuasi dan penyemprotan disinfektan pada seluruh\ntempat, fasilitas dan peralatan kerja; dan\nc) penghentian sementara dilakukan hingga proses\nevakuasi dan penyemprotan disinfektan, serta\npelaksanaan pemeriksaan kesehatan dan isolasi\ntenaga kerja yang pernah melakukan kontak fisik\ndengan tenaga kerja yang terpapar Corona Virus\nDisease (COVID-19) telah selesai.\nTerhadap kegiatan penyediaan makanan dan minuman,\npenanggungjawab restoran/ rumah makan/ usaha sej enis\nmemiliki kewajiban untuk:\na. membatasi layanan hanya untuk dibawa pulang secara\nlangsung\n(take away),\nmelalui pemesanan secara\ndaring,dan/atau dengan fasilitas telepon/layanan antar;\nb. menjaga jarak antrean berdiri maupun duduk paling\nsedikit 1 (satu) meter antar pelanggan;\nc. menerapkan prinsip higiene sanitasi pangan dalam proses\npenanganan pangan sesuai ketentuan;"
                             }
                           ],
                           "text": "penerapan protokol pencegahan penyebaran Corona Virus\nDisease (COVID-19) di tempat kerja, meliputi:\n1. memastikan tempat kerja selalu dalam keadaan bersih\ndan higienis;\n2. memiliki kerjasama operasional perlindungan kesehatan\ndan pencegahan Corona Virus Disease (COVID-19)\ndengan fasilitas pelayanan kesehatan terdekat untuk\ntindakan darurat;\n3. menyediakan vaksin, vitamin dan nutrisi tambahan\nguna meningkatkan imunitas pekerja;\n4. melakukan disinfeksi secara berkala pada lantai,\ndinding dan perangkat bangunan tempat kerja;\n5. melakukan deteksi dan pemantauan suhu tubuh\nkaryawan yang memasuki tempat kerja serta\nmemastikan karyawan yang bekerja di tempat kerja\ntidak sedang mengalami suhu tubuh diatas normal atau\nsakit;\n6. mengharuskan cuci tangan dengan sabun dan/atau\npembersih tangan\n(hand sanitizer)\ntermasuk\nmenyediakan fasilitas cuci tangan yang memadai dan\nmudah di akses pada tempat kerja;\n7. menjaga jarak antar sesama karyawan (physical\ndistancing) paling sedikit dalam rentang 1 (satu) meter;\n8. melakukan penyebaran informasi serta anjuran/\nhimbauan pencegahan Corona Virus Disease (COVID-19)\nuntuk disebarluaskan pada lokasi strategis di tempat\nkerja; dan\n9. dalam hal ditemukan adanya karyawan di tempat kerja\nyang menjadi pasien dalam pengawasan, maka:\na) aktivitas pekerjaan di tempat kerja harus dihentikan\nsementara paling sedikit 14 (empat belas) hari kerja;\nb) petugas medis dibantu satuan pengaman melakukan\nevakuasi dan penyemprotan disinfektan pada seluruh\ntempat, fasilitas dan peralatan kerja; dan\nc) penghentian sementara dilakukan hingga proses\nevakuasi dan penyemprotan disinfektan, serta\npelaksanaan pemeriksaan kesehatan dan isolasi\ntenaga kerja yang pernah melakukan kontak fisik\ndengan tenaga kerja yang terpapar Corona Virus\nDisease (COVID-19) telah selesai.\nTerhadap kegiatan penyediaan makanan dan minuman,\npenanggungjawab restoran/ rumah makan/ usaha sej enis\nmemiliki kewajiban untuk:\na. membatasi layanan hanya untuk dibawa pulang secara\nlangsung\n(take away),\nmelalui pemesanan secara\ndaring,dan/atau dengan fasilitas telepon/layanan antar;\nb. menjaga jarak antrean berdiri maupun duduk paling\nsedikit 1 (satu) meter antar pelanggan;\nc. menerapkan prinsip higiene sanitasi pangan dalam proses\npenanganan pangan sesuai ketentuan;"
-                        }
+                        },
+                        "text": "c. penerapan protokol pencegahan penyebaran Corona Virus\nDisease (COVID-19) di tempat kerja, meliputi:\n1. memastikan tempat kerja selalu dalam keadaan bersih\ndan higienis;\n2. memiliki kerjasama operasional perlindungan kesehatan\ndan pencegahan Corona Virus Disease (COVID-19)\ndengan fasilitas pelayanan kesehatan terdekat untuk\ntindakan darurat;\n3. menyediakan vaksin, vitamin dan nutrisi tambahan\nguna meningkatkan imunitas pekerja;\n4. melakukan disinfeksi secara berkala pada lantai,\ndinding dan perangkat bangunan tempat kerja;\n5. melakukan deteksi dan pemantauan suhu tubuh\nkaryawan yang memasuki tempat kerja serta\nmemastikan karyawan yang bekerja di tempat kerja\ntidak sedang mengalami suhu tubuh diatas normal atau\nsakit;\n6. mengharuskan cuci tangan dengan sabun dan/atau\npembersih tangan\n(hand sanitizer)\ntermasuk\nmenyediakan fasilitas cuci tangan yang memadai dan\nmudah di akses pada tempat kerja;\n7. menjaga jarak antar sesama karyawan (physical\ndistancing) paling sedikit dalam rentang 1 (satu) meter;\n8. melakukan penyebaran informasi serta anjuran/\nhimbauan pencegahan Corona Virus Disease (COVID-19)\nuntuk disebarluaskan pada lokasi strategis di tempat\nkerja; dan\n9. dalam hal ditemukan adanya karyawan di tempat kerja\nyang menjadi pasien dalam pengawasan, maka:\na) aktivitas pekerjaan di tempat kerja harus dihentikan\nsementara paling sedikit 14 (empat belas) hari kerja;\nb) petugas medis dibantu satuan pengaman melakukan\nevakuasi dan penyemprotan disinfektan pada seluruh\ntempat, fasilitas dan peralatan kerja; dan\nc) penghentian sementara dilakukan hingga proses\nevakuasi dan penyemprotan disinfektan, serta\npelaksanaan pemeriksaan kesehatan dan isolasi\ntenaga kerja yang pernah melakukan kontak fisik\ndengan tenaga kerja yang terpapar Corona Virus\nDisease (COVID-19) telah selesai.\nTerhadap kegiatan penyediaan makanan dan minuman,\npenanggungjawab restoran/ rumah makan/ usaha sej enis\nmemiliki kewajiban untuk:\na. membatasi layanan hanya untuk dibawa pulang secara\nlangsung\n(take away),\nmelalui pemesanan secara\ndaring,dan/atau dengan fasilitas telepon/layanan antar;\nb. menjaga jarak antrean berdiri maupun duduk paling\nsedikit 1 (satu) meter antar pelanggan;\nc. menerapkan prinsip higiene sanitasi pangan dalam proses\npenanganan pangan sesuai ketentuan;"
                       },
                       {
                         "_key": "d",
                         "_type": "point",
-                        "isi": "menyediakan alat bantu seperti sarung tangan dan/atau penjepit makanan untuk meminimalkan kontak langsung dengan makanan siap saji dalam proses persiapan, pengolahan dan penyajian;"
+                        "isi": "menyediakan alat bantu seperti sarung tangan dan/atau penjepit makanan untuk meminimalkan kontak langsung dengan makanan siap saji dalam proses persiapan, pengolahan dan penyajian;",
+                        "text": "d. menyediakan alat bantu seperti sarung tangan dan/atau\npenjepit makanan untuk meminimalkan kontak langsung\ndengan makanan siap saji dalam proses persiapan,\npengolahan dan penyajian;"
                       },
                       {
                         "_key": "e",
                         "_type": "point",
-                        "isi": "memastikan kecukupan proses pemanasan dalam pengolahan makanan sesuai standar;"
+                        "isi": "memastikan kecukupan proses pemanasan dalam pengolahan makanan sesuai standar;",
+                        "text": "e. memastikan kecukupan proses pemanasan dalam\npengolahan makanan sesuai standar;"
                       },
                       {
                         "_key": "f",
                         "_type": "point",
-                        "isi": "melakukan pembersihan area kerja, fasilitas dan peralatan, khususnya yang memiliki permukaan yang bersentuhan langsung dengan makanan;"
+                        "isi": "melakukan pembersihan area kerja, fasilitas dan peralatan, khususnya yang memiliki permukaan yang bersentuhan langsung dengan makanan;",
+                        "text": "f. melakukan pembersihan area kerja, fasilitas dan\nperalatan, khususnya yang memiliki permukaan yang\nbersentuhan langsung dengan makanan;"
                       },
                       {
                         "_key": "g",
                         "_type": "point",
-                        "isi": "menyediakan tempat cuci tangan dengan sabun bagi pelanggan dan pegawai;"
+                        "isi": "menyediakan tempat cuci tangan dengan sabun bagi pelanggan dan pegawai;",
+                        "text": "g. menyediakan tempat cuci tangan dengan sabun bagi\npelanggan dan pegawai;"
                       },
                       {
                         "_key": "h",
                         "_type": "point",
-                        "isi": "melarang bekerja karyawan yang sakit atau menunjukkan suhu tubuh diatas normal, batuk, pilek, diare dan sesak nafas; dan"
+                        "isi": "melarang bekerja karyawan yang sakit atau menunjukkan suhu tubuh diatas normal, batuk, pilek, diare dan sesak nafas; dan",
+                        "text": "h. melarang bekerja karyawan yang sakit atau menunjukkan\nsuhu tubuh diatas normal, batuk, pilek, diare dan sesak\nnafas; dan"
                       },
                       {
                         "_key": "i",
@@ -829,22 +922,26 @@
                             {
                               "_key": "a",
                               "_type": "point",
-                              "isi": "menyediakan layanan khusus bagi tamu yang ingin melakukan isolasi mandiri;"
+                              "isi": "menyediakan layanan khusus bagi tamu yang ingin melakukan isolasi mandiri;",
+                              "text": "a. menyediakan layanan khusus bagi tamu yang ingin\nmelakukan isolasi mandiri;"
                             },
                             {
                               "_key": "b",
                               "_type": "point",
-                              "isi": "membatasi tamu hanya dapat beraktivitas dalam kamar hotel dengan memanfaatkan layanan kamar (room service);"
+                              "isi": "membatasi tamu hanya dapat beraktivitas dalam kamar hotel dengan memanfaatkan layanan kamar (room service);",
+                              "text": "b. membatasi tamu hanya dapat beraktivitas dalam kamar\nhotel dengan memanfaatkan layanan kamar (room service);"
                             },
                             {
                               "_key": "c",
                               "_type": "point",
-                              "isi": "meniadakan aktivitas dan/ atau menutup fasilitas layanan hotel yang dapat menciptakan kerumunan orang dalam area hotel;"
+                              "isi": "meniadakan aktivitas dan/ atau menutup fasilitas layanan hotel yang dapat menciptakan kerumunan orang dalam area hotel;",
+                              "text": "c. meniadakan aktivitas dan/ atau menutup fasilitas layanan\nhotel yang dapat menciptakan kerumunan orang dalam\narea hotel;"
                             },
                             {
                               "_key": "d",
                               "_type": "point",
-                              "isi": "melarang tamu yang sakit atau menunjukan suhu tubuh diatas normal, batuk, pilek, diare dan sesak nafas untuk masuk hotel; dan"
+                              "isi": "melarang tamu yang sakit atau menunjukan suhu tubuh diatas normal, batuk, pilek, diare dan sesak nafas untuk masuk hotel; dan",
+                              "text": "d. melarang tamu yang sakit atau menunjukan suhu tubuh\ndiatas normal, batuk, pilek, diare dan sesak nafas untuk\nmasuk hotel; dan"
                             },
                             {
                               "_key": "e",
@@ -856,7 +953,8 @@
                                   {
                                     "_key": "a",
                                     "_type": "point",
-                                    "isi": "kegiatan konstruksi yang sedang berjalan dapat dilakukan dengan membatasi aktivitas pekerja hanya berada di kawasan proyek; dan"
+                                    "isi": "kegiatan konstruksi yang sedang berjalan dapat dilakukan dengan membatasi aktivitas pekerja hanya berada di kawasan proyek; dan",
+                                    "text": "a. kegiatan konstruksi yang sedang berjalan dapat dilakukan\ndengan membatasi aktivitas pekerja hanya berada di\nkawasan proyek; dan"
                                   },
                                   {
                                     "_key": "b",
@@ -868,49 +966,59 @@
                                         {
                                           "_key": 1,
                                           "_type": "point",
-                                          "isi": "menunjuk penanggungjawab dalam pelaksanaan pencegahan Corona Virus Disease (COVID- 19) di kawasan proyek;"
+                                          "isi": "menunjuk penanggungjawab dalam pelaksanaan pencegahan Corona Virus Disease (COVID- 19) di kawasan proyek;",
+                                          "text": "1 . menunjuk penanggungjawab dalam pelaksanaan\npencegahan Corona Virus Disease (COVID- 19) di\nkawasan proyek;"
                                         },
                                         {
                                           "_key": 2,
                                           "_type": "point",
-                                          "isi": "membatasi aktivitas dan interaksi pekerja hanya dilakukan di dalam kawasan proyek;"
+                                          "isi": "membatasi aktivitas dan interaksi pekerja hanya dilakukan di dalam kawasan proyek;",
+                                          "text": "2. membatasi aktivitas dan interaksi pekerja hanya\ndilakukan di dalam kawasan proyek;"
                                         },
                                         {
                                           "_key": 3,
                                           "_type": "point",
-                                          "isi": "menyediakan tempat tinggal dan kebutuhan hidup sehari-hari seluruh pekerja selama berada di kawasan proyek,"
+                                          "isi": "menyediakan tempat tinggal dan kebutuhan hidup sehari-hari seluruh pekerja selama berada di kawasan proyek,",
+                                          "text": "3. menyediakan tempat tinggal dan kebutuhan hidup\nsehari-hari seluruh pekerja selama berada di kawasan\nproyek,"
                                         },
                                         {
                                           "_key": 4,
                                           "_type": "point",
-                                          "isi": "menyediakan ruang kesehatan di tempat kerja yang dilengkapi dengan sarana kesehatan yang memadai;"
+                                          "isi": "menyediakan ruang kesehatan di tempat kerja yang dilengkapi dengan sarana kesehatan yang memadai;",
+                                          "text": "4. menyediakan ruang kesehatan di tempat kerja yang\ndilengkapi dengan sarana kesehatan yang memadai;"
                                         },
                                         {
                                           "_key": 5,
                                           "_type": "point",
-                                          "isi": "melarang setiap orang, baik pekerja maupun tamu, yang memiliki suhu badan di atas normal untuk berada di dalam lokasi kerja;"
+                                          "isi": "melarang setiap orang, baik pekerja maupun tamu, yang memiliki suhu badan di atas normal untuk berada di dalam lokasi kerja;",
+                                          "text": "5. melarang setiap orang, baik pekerja maupun tamu,\nyang memiliki suhu badan di atas normal untuk\nberada di dalam lokasi kerja;"
                                         },
                                         {
                                           "_key": 6,
                                           "_type": "point",
-                                          "isi": "menyampaikan penjelasan, anjuran, kampanye, promosi teknik pencegahan Corona Virus Disease (COVID-19) dalam setiap kegiatan penyuluhan K3 pagi hari atau safety morning talk; dan"
+                                          "isi": "menyampaikan penjelasan, anjuran, kampanye, promosi teknik pencegahan Corona Virus Disease (COVID-19) dalam setiap kegiatan penyuluhan K3 pagi hari atau safety morning talk; dan",
+                                          "text": "6. menyampaikan penjelasan, anjuran, kampanye,\npromosi teknik pencegahan Corona Virus Disease\n(COVID-19) dalam setiap kegiatan penyuluhan K3 pagi\nhari atau safety morning talk; dan"
                                         },
                                         {
                                           "_key": 7,
                                           "_type": "point",
-                                          "isi": "melakukan pemantauan secara berkala kesehatan pekerja selama berada di kawasan proyek. 11 (6) Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat Provinsi dapat menambahkan kategori tempat kerja/kantor yang dikecualikan dari penghentian sementara aktivitas bekerja sebagaimana dimaksud pada ayat (1)."
+                                          "isi": "melakukan pemantauan secara berkala kesehatan pekerja selama berada di kawasan proyek. 11 (6) Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat Provinsi dapat menambahkan kategori tempat kerja/kantor yang dikecualikan dari penghentian sementara aktivitas bekerja sebagaimana dimaksud pada ayat (1).",
+                                          "text": "7. melakukan pemantauan secara berkala kesehatan\npekerja selama berada di kawasan proyek.\n11\n(6) Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat\nProvinsi dapat menambahkan kategori tempat kerja/kantor\nyang dikecualikan dari penghentian sementara aktivitas\nbekerja sebagaimana dimaksud pada ayat (1)."
                                         }
                                       ],
                                       "text": "pemilik dan/ atau penyedia jasa pekerjaan konstruksi\nwajib:\n1 . menunjuk penanggungjawab dalam pelaksanaan\npencegahan Corona Virus Disease (COVID- 19) di\nkawasan proyek;\n2. membatasi aktivitas dan interaksi pekerja hanya\ndilakukan di dalam kawasan proyek;\n3. menyediakan tempat tinggal dan kebutuhan hidup\nsehari-hari seluruh pekerja selama berada di kawasan\nproyek,\n4. menyediakan ruang kesehatan di tempat kerja yang\ndilengkapi dengan sarana kesehatan yang memadai;\n5. melarang setiap orang, baik pekerja maupun tamu,\nyang memiliki suhu badan di atas normal untuk\nberada di dalam lokasi kerja;\n6. menyampaikan penjelasan, anjuran, kampanye,\npromosi teknik pencegahan Corona Virus Disease\n(COVID-19) dalam setiap kegiatan penyuluhan K3 pagi\nhari atau safety morning talk; dan\n7. melakukan pemantauan secara berkala kesehatan\npekerja selama berada di kawasan proyek.\n11\n(6) Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat\nProvinsi dapat menambahkan kategori tempat kerja/kantor\nyang dikecualikan dari penghentian sementara aktivitas\nbekerja sebagaimana dimaksud pada ayat (1)."
-                                    }
+                                    },
+                                    "text": "b. pemilik dan/ atau penyedia jasa pekerjaan konstruksi\nwajib:\n1 . menunjuk penanggungjawab dalam pelaksanaan\npencegahan Corona Virus Disease (COVID- 19) di\nkawasan proyek;\n2. membatasi aktivitas dan interaksi pekerja hanya\ndilakukan di dalam kawasan proyek;\n3. menyediakan tempat tinggal dan kebutuhan hidup\nsehari-hari seluruh pekerja selama berada di kawasan\nproyek,\n4. menyediakan ruang kesehatan di tempat kerja yang\ndilengkapi dengan sarana kesehatan yang memadai;\n5. melarang setiap orang, baik pekerja maupun tamu,\nyang memiliki suhu badan di atas normal untuk\nberada di dalam lokasi kerja;\n6. menyampaikan penjelasan, anjuran, kampanye,\npromosi teknik pencegahan Corona Virus Disease\n(COVID-19) dalam setiap kegiatan penyuluhan K3 pagi\nhari atau safety morning talk; dan\n7. melakukan pemantauan secara berkala kesehatan\npekerja selama berada di kawasan proyek.\n11\n(6) Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat\nProvinsi dapat menambahkan kategori tempat kerja/kantor\nyang dikecualikan dari penghentian sementara aktivitas\nbekerja sebagaimana dimaksud pada ayat (1)."
                                   }
                                 ],
                                 "text": "mengharuskan karyawan menggunakan masker, sarung\ntangan dan pakaian kerja sesuai pedoman keselamatan\ndan kesehatan kerja.\n(5) Terhadap kegiatan konstruksi, pimpinan tempat kerja\nmemiliki kewajiban dengan ketentuan sebagai berikut:\na. kegiatan konstruksi yang sedang berjalan dapat dilakukan\ndengan membatasi aktivitas pekerja hanya berada di\nkawasan proyek; dan\nb. pemilik dan/ atau penyedia jasa pekerjaan konstruksi\nwajib:\n1 . menunjuk penanggungjawab dalam pelaksanaan\npencegahan Corona Virus Disease (COVID- 19) di\nkawasan proyek;\n2. membatasi aktivitas dan interaksi pekerja hanya\ndilakukan di dalam kawasan proyek;\n3. menyediakan tempat tinggal dan kebutuhan hidup\nsehari-hari seluruh pekerja selama berada di kawasan\nproyek,\n4. menyediakan ruang kesehatan di tempat kerja yang\ndilengkapi dengan sarana kesehatan yang memadai;\n5. melarang setiap orang, baik pekerja maupun tamu,\nyang memiliki suhu badan di atas normal untuk\nberada di dalam lokasi kerja;\n6. menyampaikan penjelasan, anjuran, kampanye,\npromosi teknik pencegahan Corona Virus Disease\n(COVID-19) dalam setiap kegiatan penyuluhan K3 pagi\nhari atau safety morning talk; dan\n7. melakukan pemantauan secara berkala kesehatan\npekerja selama berada di kawasan proyek.\n11\n(6) Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat\nProvinsi dapat menambahkan kategori tempat kerja/kantor\nyang dikecualikan dari penghentian sementara aktivitas\nbekerja sebagaimana dimaksud pada ayat (1)."
-                              }
+                              },
+                              "text": "e. mengharuskan karyawan menggunakan masker, sarung\ntangan dan pakaian kerja sesuai pedoman keselamatan\ndan kesehatan kerja.\n(5) Terhadap kegiatan konstruksi, pimpinan tempat kerja\nmemiliki kewajiban dengan ketentuan sebagai berikut:\na. kegiatan konstruksi yang sedang berjalan dapat dilakukan\ndengan membatasi aktivitas pekerja hanya berada di\nkawasan proyek; dan\nb. pemilik dan/ atau penyedia jasa pekerjaan konstruksi\nwajib:\n1 . menunjuk penanggungjawab dalam pelaksanaan\npencegahan Corona Virus Disease (COVID- 19) di\nkawasan proyek;\n2. membatasi aktivitas dan interaksi pekerja hanya\ndilakukan di dalam kawasan proyek;\n3. menyediakan tempat tinggal dan kebutuhan hidup\nsehari-hari seluruh pekerja selama berada di kawasan\nproyek,\n4. menyediakan ruang kesehatan di tempat kerja yang\ndilengkapi dengan sarana kesehatan yang memadai;\n5. melarang setiap orang, baik pekerja maupun tamu,\nyang memiliki suhu badan di atas normal untuk\nberada di dalam lokasi kerja;\n6. menyampaikan penjelasan, anjuran, kampanye,\npromosi teknik pencegahan Corona Virus Disease\n(COVID-19) dalam setiap kegiatan penyuluhan K3 pagi\nhari atau safety morning talk; dan\n7. melakukan pemantauan secara berkala kesehatan\npekerja selama berada di kawasan proyek.\n11\n(6) Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat\nProvinsi dapat menambahkan kategori tempat kerja/kantor\nyang dikecualikan dari penghentian sementara aktivitas\nbekerja sebagaimana dimaksud pada ayat (1)."
                             }
                           ],
                           "text": "mengharuskan bagi penjamah makanan menggunakan\nsarung tangan, masker kepala dan pakaian kerja sesuai\npedoman keselamatan dan kesehatan kerja.\n10\n(4) Terhadap kegiatan perhotelan, penanggungjawab hotel wajib:\na. menyediakan layanan khusus bagi tamu yang ingin\nmelakukan isolasi mandiri;\nb. membatasi tamu hanya dapat beraktivitas dalam kamar\nhotel dengan memanfaatkan layanan kamar (room service);\nc. meniadakan aktivitas dan/ atau menutup fasilitas layanan\nhotel yang dapat menciptakan kerumunan orang dalam\narea hotel;\nd. melarang tamu yang sakit atau menunjukan suhu tubuh\ndiatas normal, batuk, pilek, diare dan sesak nafas untuk\nmasuk hotel; dan\ne. mengharuskan karyawan menggunakan masker, sarung\ntangan dan pakaian kerja sesuai pedoman keselamatan\ndan kesehatan kerja.\n(5) Terhadap kegiatan konstruksi, pimpinan tempat kerja\nmemiliki kewajiban dengan ketentuan sebagai berikut:\na. kegiatan konstruksi yang sedang berjalan dapat dilakukan\ndengan membatasi aktivitas pekerja hanya berada di\nkawasan proyek; dan\nb. pemilik dan/ atau penyedia jasa pekerjaan konstruksi\nwajib:\n1 . menunjuk penanggungjawab dalam pelaksanaan\npencegahan Corona Virus Disease (COVID- 19) di\nkawasan proyek;\n2. membatasi aktivitas dan interaksi pekerja hanya\ndilakukan di dalam kawasan proyek;\n3. menyediakan tempat tinggal dan kebutuhan hidup\nsehari-hari seluruh pekerja selama berada di kawasan\nproyek,\n4. menyediakan ruang kesehatan di tempat kerja yang\ndilengkapi dengan sarana kesehatan yang memadai;\n5. melarang setiap orang, baik pekerja maupun tamu,\nyang memiliki suhu badan di atas normal untuk\nberada di dalam lokasi kerja;\n6. menyampaikan penjelasan, anjuran, kampanye,\npromosi teknik pencegahan Corona Virus Disease\n(COVID-19) dalam setiap kegiatan penyuluhan K3 pagi\nhari atau safety morning talk; dan\n7. melakukan pemantauan secara berkala kesehatan\npekerja selama berada di kawasan proyek.\n11\n(6) Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat\nProvinsi dapat menambahkan kategori tempat kerja/kantor\nyang dikecualikan dari penghentian sementara aktivitas\nbekerja sebagaimana dimaksud pada ayat (1)."
-                        }
+                        },
+                        "text": "i. mengharuskan bagi penjamah makanan menggunakan\nsarung tangan, masker kepala dan pakaian kerja sesuai\npedoman keselamatan dan kesehatan kerja.\n10\n(4) Terhadap kegiatan perhotelan, penanggungjawab hotel wajib:\na. menyediakan layanan khusus bagi tamu yang ingin\nmelakukan isolasi mandiri;\nb. membatasi tamu hanya dapat beraktivitas dalam kamar\nhotel dengan memanfaatkan layanan kamar (room service);\nc. meniadakan aktivitas dan/ atau menutup fasilitas layanan\nhotel yang dapat menciptakan kerumunan orang dalam\narea hotel;\nd. melarang tamu yang sakit atau menunjukan suhu tubuh\ndiatas normal, batuk, pilek, diare dan sesak nafas untuk\nmasuk hotel; dan\ne. mengharuskan karyawan menggunakan masker, sarung\ntangan dan pakaian kerja sesuai pedoman keselamatan\ndan kesehatan kerja.\n(5) Terhadap kegiatan konstruksi, pimpinan tempat kerja\nmemiliki kewajiban dengan ketentuan sebagai berikut:\na. kegiatan konstruksi yang sedang berjalan dapat dilakukan\ndengan membatasi aktivitas pekerja hanya berada di\nkawasan proyek; dan\nb. pemilik dan/ atau penyedia jasa pekerjaan konstruksi\nwajib:\n1 . menunjuk penanggungjawab dalam pelaksanaan\npencegahan Corona Virus Disease (COVID- 19) di\nkawasan proyek;\n2. membatasi aktivitas dan interaksi pekerja hanya\ndilakukan di dalam kawasan proyek;\n3. menyediakan tempat tinggal dan kebutuhan hidup\nsehari-hari seluruh pekerja selama berada di kawasan\nproyek,\n4. menyediakan ruang kesehatan di tempat kerja yang\ndilengkapi dengan sarana kesehatan yang memadai;\n5. melarang setiap orang, baik pekerja maupun tamu,\nyang memiliki suhu badan di atas normal untuk\nberada di dalam lokasi kerja;\n6. menyampaikan penjelasan, anjuran, kampanye,\npromosi teknik pencegahan Corona Virus Disease\n(COVID-19) dalam setiap kegiatan penyuluhan K3 pagi\nhari atau safety morning talk; dan\n7. melakukan pemantauan secara berkala kesehatan\npekerja selama berada di kawasan proyek.\n11\n(6) Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat\nProvinsi dapat menambahkan kategori tempat kerja/kantor\nyang dikecualikan dari penghentian sementara aktivitas\nbekerja sebagaimana dimaksud pada ayat (1)."
                       }
                     ],
                     "text": "Dalam hal melakukan pengecualian terhadap penghentian\nsementara aktivitas bekerja di tempat kerja/kantor\nsebagaimana dimaksud pada ayat (1), pimpinan tempat kerja\nwajib melakukan:\na. pembatasan interaksi dalam aktivitas kerja;\nb. pembatasan setiap orang yang mempunyai penyakit\npenyerta dan/atau kondisi yang dapat berakibat fatal\napabila terpapar Corona Virus Disease (COVID-19) untuk\nmelakukan kegiatan di tempat kerja, antara lain:\n1. penderita tekanan darah tinggi;\n2. pengidap penyakit jantung;\n3. pengidap diabetes;\n4. penderita penyakit paru-paru;\n5. penderita kanker;\n6. ibu hamil; dan\n7. usia lebih dari 60 (enam puluh) tahun.\nc. penerapan protokol pencegahan penyebaran Corona Virus\nDisease (COVID-19) di tempat kerja, meliputi:\n1. memastikan tempat kerja selalu dalam keadaan bersih\ndan higienis;\n2. memiliki kerjasama operasional perlindungan kesehatan\ndan pencegahan Corona Virus Disease (COVID-19)\ndengan fasilitas pelayanan kesehatan terdekat untuk\ntindakan darurat;\n3. menyediakan vaksin, vitamin dan nutrisi tambahan\nguna meningkatkan imunitas pekerja;\n4. melakukan disinfeksi secara berkala pada lantai,\ndinding dan perangkat bangunan tempat kerja;\n5. melakukan deteksi dan pemantauan suhu tubuh\nkaryawan yang memasuki tempat kerja serta\nmemastikan karyawan yang bekerja di tempat kerja\ntidak sedang mengalami suhu tubuh diatas normal atau\nsakit;\n6. mengharuskan cuci tangan dengan sabun dan/atau\npembersih tangan\n(hand sanitizer)\ntermasuk\nmenyediakan fasilitas cuci tangan yang memadai dan\nmudah di akses pada tempat kerja;\n7. menjaga jarak antar sesama karyawan (physical\ndistancing) paling sedikit dalam rentang 1 (satu) meter;\n8. melakukan penyebaran informasi serta anjuran/\nhimbauan pencegahan Corona Virus Disease (COVID-19)\nuntuk disebarluaskan pada lokasi strategis di tempat\nkerja; dan\n9. dalam hal ditemukan adanya karyawan di tempat kerja\nyang menjadi pasien dalam pengawasan, maka:\na) aktivitas pekerjaan di tempat kerja harus dihentikan\nsementara paling sedikit 14 (empat belas) hari kerja;\nb) petugas medis dibantu satuan pengaman melakukan\nevakuasi dan penyemprotan disinfektan pada seluruh\ntempat, fasilitas dan peralatan kerja; dan\nc) penghentian sementara dilakukan hingga proses\nevakuasi dan penyemprotan disinfektan, serta\npelaksanaan pemeriksaan kesehatan dan isolasi\ntenaga kerja yang pernah melakukan kontak fisik\ndengan tenaga kerja yang terpapar Corona Virus\nDisease (COVID-19) telah selesai.\nTerhadap kegiatan penyediaan makanan dan minuman,\npenanggungjawab restoran/ rumah makan/ usaha sej enis\nmemiliki kewajiban untuk:\na. membatasi layanan hanya untuk dibawa pulang secara\nlangsung\n(take away),\nmelalui pemesanan secara\ndaring,dan/atau dengan fasilitas telepon/layanan antar;\nb. menjaga jarak antrean berdiri maupun duduk paling\nsedikit 1 (satu) meter antar pelanggan;\nc. menerapkan prinsip higiene sanitasi pangan dalam proses\npenanganan pangan sesuai ketentuan;\nd. menyediakan alat bantu seperti sarung tangan dan/atau\npenjepit makanan untuk meminimalkan kontak langsung\ndengan makanan siap saji dalam proses persiapan,\npengolahan dan penyajian;\ne. memastikan kecukupan proses pemanasan dalam\npengolahan makanan sesuai standar;\nf. melakukan pembersihan area kerja, fasilitas dan\nperalatan, khususnya yang memiliki permukaan yang\nbersentuhan langsung dengan makanan;\ng. menyediakan tempat cuci tangan dengan sabun bagi\npelanggan dan pegawai;\nh. melarang bekerja karyawan yang sakit atau menunjukkan\nsuhu tubuh diatas normal, batuk, pilek, diare dan sesak\nnafas; dan\ni. mengharuskan bagi penjamah makanan menggunakan\nsarung tangan, masker kepala dan pakaian kerja sesuai\npedoman keselamatan dan kesehatan kerja.\n10\n(4) Terhadap kegiatan perhotelan, penanggungjawab hotel wajib:\na. menyediakan layanan khusus bagi tamu yang ingin\nmelakukan isolasi mandiri;\nb. membatasi tamu hanya dapat beraktivitas dalam kamar\nhotel dengan memanfaatkan layanan kamar (room service);\nc. meniadakan aktivitas dan/ atau menutup fasilitas layanan\nhotel yang dapat menciptakan kerumunan orang dalam\narea hotel;\nd. melarang tamu yang sakit atau menunjukan suhu tubuh\ndiatas normal, batuk, pilek, diare dan sesak nafas untuk\nmasuk hotel; dan\ne. mengharuskan karyawan menggunakan masker, sarung\ntangan dan pakaian kerja sesuai pedoman keselamatan\ndan kesehatan kerja.\n(5) Terhadap kegiatan konstruksi, pimpinan tempat kerja\nmemiliki kewajiban dengan ketentuan sebagai berikut:\na. kegiatan konstruksi yang sedang berjalan dapat dilakukan\ndengan membatasi aktivitas pekerja hanya berada di\nkawasan proyek; dan\nb. pemilik dan/ atau penyedia jasa pekerjaan konstruksi\nwajib:\n1 . menunjuk penanggungjawab dalam pelaksanaan\npencegahan Corona Virus Disease (COVID- 19) di\nkawasan proyek;\n2. membatasi aktivitas dan interaksi pekerja hanya\ndilakukan di dalam kawasan proyek;\n3. menyediakan tempat tinggal dan kebutuhan hidup\nsehari-hari seluruh pekerja selama berada di kawasan\nproyek,\n4. menyediakan ruang kesehatan di tempat kerja yang\ndilengkapi dengan sarana kesehatan yang memadai;\n5. melarang setiap orang, baik pekerja maupun tamu,\nyang memiliki suhu badan di atas normal untuk\nberada di dalam lokasi kerja;\n6. menyampaikan penjelasan, anjuran, kampanye,\npromosi teknik pencegahan Corona Virus Disease\n(COVID-19) dalam setiap kegiatan penyuluhan K3 pagi\nhari atau safety morning talk; dan\n7. melakukan pemantauan secara berkala kesehatan\npekerja selama berada di kawasan proyek.\n11\n(6) Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat\nProvinsi dapat menambahkan kategori tempat kerja/kantor\nyang dikecualikan dari penghentian sementara aktivitas\nbekerja sebagaimana dimaksud pada ayat (1)."
@@ -967,17 +1075,20 @@
                       {
                         "_key": "a",
                         "_type": "point",
-                        "isi": "memberikan edukasi atau pengertian kepada jamaah masing-masing untuk tetap melakukan kegiataan keagamaan di rumah;"
+                        "isi": "memberikan edukasi atau pengertian kepada jamaah masing-masing untuk tetap melakukan kegiataan keagamaan di rumah;",
+                        "text": "a. memberikan edukasi atau pengertian kepada jamaah\nmasing-masing untuk tetap melakukan kegiataan\nkeagamaan di rumah;"
                       },
                       {
                         "_key": "b",
                         "_type": "point",
-                        "isi": "melakukan pencegahan penyebaran Corona Virus Disease (COVID-19) di rumah ibadah masing-masing; dan"
+                        "isi": "melakukan pencegahan penyebaran Corona Virus Disease (COVID-19) di rumah ibadah masing-masing; dan",
+                        "text": "b. melakukan pencegahan penyebaran Corona Virus Disease\n(COVID-19) di rumah ibadah masing-masing; dan"
                       },
                       {
                         "_key": "c",
                         "_type": "point",
-                        "isi": "menjaga keamanan rumah ibadah masing-masing."
+                        "isi": "menjaga keamanan rumah ibadah masing-masing.",
+                        "text": "c. menjaga keamanan rumah ibadah masing-masing."
                       }
                     ],
                     "text": "Selama pemberlakuan PSBB, penanggung jawab rumah\nibadah wajib:\na. memberikan edukasi atau pengertian kepada jamaah\nmasing-masing untuk tetap melakukan kegiataan\nkeagamaan di rumah;\nb. melakukan pencegahan penyebaran Corona Virus Disease\n(COVID-19) di rumah ibadah masing-masing; dan\nc. menjaga keamanan rumah ibadah masing-masing."
@@ -994,17 +1105,20 @@
                       {
                         "_key": "a",
                         "_type": "point",
-                        "isi": "membersihkan rumah ibadah dan lingkungan sekitarnya;"
+                        "isi": "membersihkan rumah ibadah dan lingkungan sekitarnya;",
+                        "text": "a. membersihkan rumah ibadah dan lingkungan sekitarnya;"
                       },
                       {
                         "_key": "b",
                         "_type": "point",
-                        "isi": "melakukan disinfeksi pada lantai, dinding, dan perangkat bangunan rumah ibadah; dan"
+                        "isi": "melakukan disinfeksi pada lantai, dinding, dan perangkat bangunan rumah ibadah; dan",
+                        "text": "b. melakukan disinfeksi pada lantai, dinding, dan perangkat\nbangunan rumah ibadah; dan"
                       },
                       {
                         "_key": "c",
                         "_type": "point",
-                        "isi": "menutup akses masuk bagi pihak-pihak yang tidak berkepentingan. 12"
+                        "isi": "menutup akses masuk bagi pihak-pihak yang tidak berkepentingan. 12",
+                        "text": "c. menutup akses masuk bagi pihak-pihak yang tidak\nberkepentingan.\n12"
                       }
                     ],
                     "text": "Upaya pencegahan penyebaran Corona Virus Disease (COVID-\n19) di rumah ibadah sebagaimana dimaksud pada ayat (1)\nhuruf b dilakukan secara berkala dengan cara:\na. membersihkan rumah ibadah dan lingkungan sekitarnya;\nb. melakukan disinfeksi pada lantai, dinding, dan perangkat\nbangunan rumah ibadah; dan\nc. menutup akses masuk bagi pihak-pihak yang tidak\nberkepentingan.\n12"
@@ -1042,12 +1156,14 @@
                       {
                         "_key": "a",
                         "_type": "point",
-                        "isi": "memenuhi kebutuhan pokok dan/atau kebutuhan sehari- hari; dan"
+                        "isi": "memenuhi kebutuhan pokok dan/atau kebutuhan sehari- hari; dan",
+                        "text": "a. memenuhi kebutuhan pokok dan/atau kebutuhan sehari-\nhari; dan"
                       },
                       {
                         "_key": "b",
                         "_type": "point",
-                        "isi": "melakukan kegiatan olahraga secara mandiri. (4) Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat Provinsi dapat menambahkan kategori kegiatan penduduk yang dikecualikan dari larangan kegiatan di tempat atau fasilitas umum sebagaimana dimaksud pada ayat (3)."
+                        "isi": "melakukan kegiatan olahraga secara mandiri. (4) Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat Provinsi dapat menambahkan kategori kegiatan penduduk yang dikecualikan dari larangan kegiatan di tempat atau fasilitas umum sebagaimana dimaksud pada ayat (3).",
+                        "text": "b. melakukan kegiatan olahraga secara mandiri.\n(4) Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat\nProvinsi dapat menambahkan kategori kegiatan penduduk\nyang dikecualikan dari larangan kegiatan di tempat atau\nfasilitas umum sebagaimana dimaksud pada ayat (3)."
                       }
                     ],
                     "text": "Pengelola tempat atau fasilitas umum wajib menutup\nsementara tempat atau fasilitas umum untuk kegiatan\npenduduk selama pemberlakuan PSBB.\nDikecualikan dari larangan kegiatan di tempat atau fasilitas\numum sebagaimana dimaksud pada ayat (1), kegiatan\npenduduk untuk:\na. memenuhi kebutuhan pokok dan/atau kebutuhan sehari-\nhari; dan\nb. melakukan kegiatan olahraga secara mandiri.\n(4) Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat\nProvinsi dapat menambahkan kategori kegiatan penduduk\nyang dikecualikan dari larangan kegiatan di tempat atau\nfasilitas umum sebagaimana dimaksud pada ayat (3)."
@@ -1071,27 +1187,32 @@
                       {
                         "_key": "a",
                         "_type": "point",
-                        "isi": "bahan pangan/makanan/minuman;"
+                        "isi": "bahan pangan/makanan/minuman;",
+                        "text": "a. bahan pangan/makanan/minuman;"
                       },
                       {
                         "_key": "b",
                         "_type": "point",
-                        "isi": "energi;"
+                        "isi": "energi;",
+                        "text": "b. energi;"
                       },
                       {
                         "_key": "c",
                         "_type": "point",
-                        "isi": "komunikasi dan teknologi informasi;"
+                        "isi": "komunikasi dan teknologi informasi;",
+                        "text": "c. komunikasi dan teknologi informasi;"
                       },
                       {
                         "_key": "d",
                         "_type": "point",
-                        "isi": "keuangan, perbankan dan sistem pembayaran; dan/atau"
+                        "isi": "keuangan, perbankan dan sistem pembayaran; dan/atau",
+                        "text": "d. keuangan, perbankan dan sistem pembayaran; dan/atau"
                       },
                       {
                         "_key": "e",
                         "_type": "point",
-                        "isi": "logistik."
+                        "isi": "logistik.",
+                        "text": "e. logistik."
                       }
                     ],
                     "text": "Pemenuhan kebutuhan pokok sebagaimana dimaksud dalam\nPasal 13 ayat (3) huruf a, meliputi kegiatan penyediaan,\npengolahan, penyaluran dan/atau pengiriman:\na. bahan pangan/makanan/minuman;\nb. energi;\nc. komunikasi dan teknologi informasi;\nd. keuangan, perbankan dan sistem pembayaran; dan/atau\ne. logistik."
@@ -1115,26 +1236,31 @@
                             {
                               "_key": 1,
                               "_type": "point",
-                              "isi": "pasar rakyat;"
+                              "isi": "pasar rakyat;",
+                              "text": "1. pasar rakyat;"
                             },
                             {
                               "_key": 2,
                               "_type": "point",
-                              "isi": "toko swalayan, berjenis minimarket, supermarket, hypermarket, perkulakan dan toko khusus baik yang berdiri sendiri maupun yang berada di pusat perbelanjaan; atau"
+                              "isi": "toko swalayan, berjenis minimarket, supermarket, hypermarket, perkulakan dan toko khusus baik yang berdiri sendiri maupun yang berada di pusat perbelanjaan; atau",
+                              "text": "2. toko swalayan, berjenis minimarket, supermarket,\nhypermarket, perkulakan dan toko khusus baik yang\nberdiri sendiri maupun yang berada di pusat\nperbelanjaan; atau"
                             },
                             {
                               "_key": 3,
                               "_type": "point",
-                              "isi": "toko/warung kelontong."
+                              "isi": "toko/warung kelontong.",
+                              "text": "3. toko/warung kelontong."
                             }
                           ],
                           "text": "penyediaan barang retail di:\n1. pasar rakyat;\n2. toko swalayan, berjenis minimarket, supermarket,\nhypermarket, perkulakan dan toko khusus baik yang\nberdiri sendiri maupun yang berada di pusat\nperbelanjaan; atau\n3. toko/warung kelontong."
-                        }
+                        },
+                        "text": "a. penyediaan barang retail di:\n1. pasar rakyat;\n2. toko swalayan, berjenis minimarket, supermarket,\nhypermarket, perkulakan dan toko khusus baik yang\nberdiri sendiri maupun yang berada di pusat\nperbelanjaan; atau\n3. toko/warung kelontong."
                       },
                       {
                         "_key": "b",
                         "_type": "point",
-                        "isi": "jasa binatu (laundry)."
+                        "isi": "jasa binatu (laundry).",
+                        "text": "b. jasa binatu (laundry)."
                       }
                     ],
                     "text": "Pemenuhan kebutuhan sehari-hari sebagaimana dimaksud\ndalam Pasal 13 ayat (3) huruf a, meliputi:\na. penyediaan barang retail di:\n1. pasar rakyat;\n2. toko swalayan, berjenis minimarket, supermarket,\nhypermarket, perkulakan dan toko khusus baik yang\nberdiri sendiri maupun yang berada di pusat\nperbelanjaan; atau\n3. toko/warung kelontong.\nb. jasa binatu (laundry)."
@@ -1151,32 +1277,38 @@
                       {
                         "_key": "a",
                         "_type": "point",
-                        "isi": "mengutamakan pemesanan barang secara daring dan/atau jarak jauh dengan fasilitas layanan antar; (3) 13"
+                        "isi": "mengutamakan pemesanan barang secara daring dan/atau jarak jauh dengan fasilitas layanan antar; (3) 13",
+                        "text": "a. mengutamakan pemesanan barang secara daring dan/atau\njarak jauh dengan fasilitas layanan antar;\n(3)\n13"
                       },
                       {
                         "_key": "b",
                         "_type": "point",
-                        "isi": "turut menjaga stabilitas ekonomi dan kemampuan daya beli konsumen barang dengan tidak menaikkan harga barang;"
+                        "isi": "turut menjaga stabilitas ekonomi dan kemampuan daya beli konsumen barang dengan tidak menaikkan harga barang;",
+                        "text": "b. turut menjaga stabilitas ekonomi dan kemampuan daya beli\nkonsumen barang dengan tidak menaikkan harga barang;"
                       },
                       {
                         "_key": "c",
                         "_type": "point",
-                        "isi": "melakukan disinfeksi secara berkala pada tempat usaha;"
+                        "isi": "melakukan disinfeksi secara berkala pada tempat usaha;",
+                        "text": "c. melakukan disinfeksi secara berkala pada tempat usaha;"
                       },
                       {
                         "_key": "d",
                         "_type": "point",
-                        "isi": "melakukan deteksi dan pemantauan suhu tubuh karyawan dan \tkonsumen yang memasuki pasar/ toko serta memastikan karyawan yang bekerja tidak sedang mengalami demam ringan atau sakit;"
+                        "isi": "melakukan deteksi dan pemantauan suhu tubuh karyawan dan \tkonsumen yang memasuki pasar/ toko serta memastikan karyawan yang bekerja tidak sedang mengalami demam ringan atau sakit;",
+                        "text": "d. melakukan deteksi dan pemantauan suhu tubuh karyawan\ndan \tkonsumen yang memasuki pasar/ toko serta\nmemastikan karyawan yang bekerja tidak sedang\nmengalami demam ringan atau sakit;"
                       },
                       {
                         "_key": "e",
                         "_type": "point",
-                        "isi": "menerapkan pembatasan jarak antar sesama konsumen (physical distancing) yang datang ke pasar/toko paling sedikit dalam rentang 1 (satu) meter;"
+                        "isi": "menerapkan pembatasan jarak antar sesama konsumen (physical distancing) yang datang ke pasar/toko paling sedikit dalam rentang 1 (satu) meter;",
+                        "text": "e. menerapkan pembatasan jarak antar sesama konsumen\n(physical distancing) yang datang ke pasar/toko paling\nsedikit dalam rentang 1 (satu) meter;"
                       },
                       {
                         "_key": "f",
                         "_type": "point",
-                        "isi": "mewajibkan setiap karyawan untuk menggunakan pakaian kerja sesuai pedoman keselamatan dan kesehatan kerja; dan melaksanakan anjuran cuci tangan dengan sabun dan/atau pembersih tangan (hand sanitizer) termasuk menyediakan fasilitas cuci tangan yang memadai dan mudah diakses oleh konsumen dan karyawan."
+                        "isi": "mewajibkan setiap karyawan untuk menggunakan pakaian kerja sesuai pedoman keselamatan dan kesehatan kerja; dan melaksanakan anjuran cuci tangan dengan sabun dan/atau pembersih tangan (hand sanitizer) termasuk menyediakan fasilitas cuci tangan yang memadai dan mudah diakses oleh konsumen dan karyawan.",
+                        "text": "f. mewajibkan setiap karyawan untuk menggunakan pakaian\nkerja sesuai pedoman keselamatan dan kesehatan kerja;\ndan\nmelaksanakan anjuran cuci tangan dengan sabun dan/atau\npembersih tangan (hand sanitizer) termasuk menyediakan\nfasilitas cuci tangan yang memadai dan mudah diakses oleh\nkonsumen dan karyawan."
                       }
                     ],
                     "text": "Dalam melayani pemenuhan kebutuhan penduduk selama\npemberlakuan PSBB sebagaimana dimaksud pada ayat (1) dan\nayat (2), pelaku usaha wajib mengikuti ketentuan pembatasan\nkegiatan sebagai berikut:\na. mengutamakan pemesanan barang secara daring dan/atau\njarak jauh dengan fasilitas layanan antar;\n(3)\n13\nb. turut menjaga stabilitas ekonomi dan kemampuan daya beli\nkonsumen barang dengan tidak menaikkan harga barang;\nc. melakukan disinfeksi secara berkala pada tempat usaha;\nd. melakukan deteksi dan pemantauan suhu tubuh karyawan\ndan \tkonsumen yang memasuki pasar/ toko serta\nmemastikan karyawan yang bekerja tidak sedang\nmengalami demam ringan atau sakit;\ne. menerapkan pembatasan jarak antar sesama konsumen\n(physical distancing) yang datang ke pasar/toko paling\nsedikit dalam rentang 1 (satu) meter;\nf. mewajibkan setiap karyawan untuk menggunakan pakaian\nkerja sesuai pedoman keselamatan dan kesehatan kerja;\ndan\nmelaksanakan anjuran cuci tangan dengan sabun dan/atau\npembersih tangan (hand sanitizer) termasuk menyediakan\nfasilitas cuci tangan yang memadai dan mudah diakses oleh\nkonsumen dan karyawan."
@@ -1206,12 +1338,14 @@
                       {
                         "_key": "a",
                         "_type": "point",
-                        "isi": "dilakukan secara mandiri dan tidak berkelompok; dan"
+                        "isi": "dilakukan secara mandiri dan tidak berkelompok; dan",
+                        "text": "a. dilakukan secara mandiri dan tidak berkelompok; dan"
                       },
                       {
                         "_key": "b",
                         "_type": "point",
-                        "isi": "dilaksanakan secara terbatas pada area sekitar rumah tinggal."
+                        "isi": "dilaksanakan secara terbatas pada area sekitar rumah tinggal.",
+                        "text": "b. dilaksanakan secara terbatas pada area sekitar rumah\ntinggal."
                       }
                     ],
                     "text": "Kegiatan olahraga secara mandiri sebagaimana dimaksud\npada ayat (1), dilaksanakan dengan ketentuan:\na. dilakukan secara mandiri dan tidak berkelompok; dan\nb. dilaksanakan secara terbatas pada area sekitar rumah\ntinggal."
@@ -1249,27 +1383,32 @@
                       {
                         "_key": "a",
                         "_type": "point",
-                        "isi": "politik;"
+                        "isi": "politik;",
+                        "text": "a. politik;"
                       },
                       {
                         "_key": "b",
                         "_type": "point",
-                        "isi": "olahraga;"
+                        "isi": "olahraga;",
+                        "text": "b. olahraga;"
                       },
                       {
                         "_key": "c",
                         "_type": "point",
-                        "isi": "hiburan;"
+                        "isi": "hiburan;",
+                        "text": "c. hiburan;"
                       },
                       {
                         "_key": "d",
                         "_type": "point",
-                        "isi": "akademik; dan"
+                        "isi": "akademik; dan",
+                        "text": "d. akademik; dan"
                       },
                       {
                         "_key": "e",
                         "_type": "point",
-                        "isi": "budaya."
+                        "isi": "budaya.",
+                        "text": "e. budaya."
                       }
                     ],
                     "text": "Kegiatan sosial dan budaya sebagaimana dimaksud pada ayat\n(1) termasuk pula kegiatan yang berkaitan perkumpulan atau\npertemuan:\na. politik;\nb. olahraga;\nc. hiburan;\nd. akademik; dan\ne. budaya."
@@ -1293,17 +1432,20 @@
                       {
                         "_key": "a",
                         "_type": "point",
-                        "isi": "khitan;"
+                        "isi": "khitan;",
+                        "text": "a. khitan;"
                       },
                       {
                         "_key": "b",
                         "_type": "point",
-                        "isi": "pernikahan; dan"
+                        "isi": "pernikahan; dan",
+                        "text": "b. pernikahan; dan"
                       },
                       {
                         "_key": "c",
                         "_type": "point",
-                        "isi": "pemakaman dan/ atau takziah kematian yang bukan karena Corona Virus Disease (COVID- 19). g. 14"
+                        "isi": "pemakaman dan/ atau takziah kematian yang bukan karena Corona Virus Disease (COVID- 19). g. 14",
+                        "text": "c. pemakaman dan/ atau takziah kematian yang bukan karena\nCorona Virus Disease (COVID- 19).\ng.\n14"
                       }
                     ],
                     "text": "Dikecualikan dari penghentian atas kegiatan sosial dan\nbudaya sebagaimana dimaksud dalam Pasal 16 ayat (1),\nuntuk kegiatan:\na. khitan;\nb. pernikahan; dan\nc. pemakaman dan/ atau takziah kematian yang bukan karena\nCorona Virus Disease (COVID- 19).\ng.\n14"
@@ -1320,22 +1462,26 @@
                       {
                         "_key": "a",
                         "_type": "point",
-                        "isi": "dilakukan pada fasilitas pelayanan kesehatan;"
+                        "isi": "dilakukan pada fasilitas pelayanan kesehatan;",
+                        "text": "a. dilakukan pada fasilitas pelayanan kesehatan;"
                       },
                       {
                         "_key": "b",
                         "_type": "point",
-                        "isi": "dihadiri oleh kalangan terbatas;"
+                        "isi": "dihadiri oleh kalangan terbatas;",
+                        "text": "b. dihadiri oleh kalangan terbatas;"
                       },
                       {
                         "_key": "c",
                         "_type": "point",
-                        "isi": "meniadakan acara perayaan yang mengundang keramaian; dan"
+                        "isi": "meniadakan acara perayaan yang mengundang keramaian; dan",
+                        "text": "c. meniadakan acara perayaan yang mengundang keramaian;\ndan"
                       },
                       {
                         "_key": "d",
                         "_type": "point",
-                        "isi": "menjaga jarak antar pihak yang hadir (physical distancing) paling sedikit dalam rentang 1 (satu) meter."
+                        "isi": "menjaga jarak antar pihak yang hadir (physical distancing) paling sedikit dalam rentang 1 (satu) meter.",
+                        "text": "d. menjaga jarak antar pihak yang hadir (physical distancing)\npaling sedikit dalam rentang 1 (satu) meter."
                       }
                     ],
                     "text": "Pelaksanaan kegiatan khitan sebagaimana dimaksud pada\nayat (1) huruf a, dilaksanakan dengan ketentuan:\na. dilakukan pada fasilitas pelayanan kesehatan;\nb. dihadiri oleh kalangan terbatas;\nc. meniadakan acara perayaan yang mengundang keramaian;\ndan\nd. menjaga jarak antar pihak yang hadir (physical distancing)\npaling sedikit dalam rentang 1 (satu) meter."
@@ -1352,22 +1498,26 @@
                       {
                         "_key": "a",
                         "_type": "point",
-                        "isi": "dilakukan di KUA dan/atau Kantor Catatan Sipil;"
+                        "isi": "dilakukan di KUA dan/atau Kantor Catatan Sipil;",
+                        "text": "a. dilakukan di KUA dan/atau Kantor Catatan Sipil;"
                       },
                       {
                         "_key": "b",
                         "_type": "point",
-                        "isi": "dihadiri oleh kalangan terbatas;"
+                        "isi": "dihadiri oleh kalangan terbatas;",
+                        "text": "b. dihadiri oleh kalangan terbatas;"
                       },
                       {
                         "_key": "c",
                         "_type": "point",
-                        "isi": "meniadakan acara resepsi pernikahan yang mengundang keramaian; dan"
+                        "isi": "meniadakan acara resepsi pernikahan yang mengundang keramaian; dan",
+                        "text": "c. meniadakan acara resepsi pernikahan yang mengundang\nkeramaian; dan"
                       },
                       {
                         "_key": "d",
                         "_type": "point",
-                        "isi": "menjaga jarak antar pihak yang hadir (physical distancing) paling sedikit dalam rentang 1 (satu) meter."
+                        "isi": "menjaga jarak antar pihak yang hadir (physical distancing) paling sedikit dalam rentang 1 (satu) meter.",
+                        "text": "d. menjaga jarak antar pihak yang hadir (physical distancing)\npaling sedikit dalam rentang 1 (satu) meter."
                       }
                     ],
                     "text": "Pelaksanaan kegiatan pernikahan sebagaimana dimaksud\npada ayat (1) huruf b, dilaksanakan dengan ketentuan:\na. dilakukan di KUA dan/atau Kantor Catatan Sipil;\nb. dihadiri oleh kalangan terbatas;\nc. meniadakan acara resepsi pernikahan yang mengundang\nkeramaian; dan\nd. menjaga jarak antar pihak yang hadir (physical distancing)\npaling sedikit dalam rentang 1 (satu) meter."
@@ -1384,17 +1534,20 @@
                       {
                         "_key": "a",
                         "_type": "point",
-                        "isi": "dilakukan di rumah duka;"
+                        "isi": "dilakukan di rumah duka;",
+                        "text": "a. dilakukan di rumah duka;"
                       },
                       {
                         "_key": "b",
                         "_type": "point",
-                        "isi": "dihadiri oleh kalangan terbatas; dan"
+                        "isi": "dihadiri oleh kalangan terbatas; dan",
+                        "text": "b. dihadiri oleh kalangan terbatas; dan"
                       },
                       {
                         "_key": "c",
                         "_type": "point",
-                        "isi": "menjaga jarak antar pihak yang hadir (physical distancing) paling sedikit dalam rentang 1 (satu) meter."
+                        "isi": "menjaga jarak antar pihak yang hadir (physical distancing) paling sedikit dalam rentang 1 (satu) meter.",
+                        "text": "c. menjaga jarak antar pihak yang hadir (physical distancing)\npaling sedikit dalam rentang 1 (satu) meter."
                       }
                     ],
                     "text": "Pelaksanaan kegiatan pemakaman dan/atau takziah kematian\nyang bukan karena Corona Virus Disease (COVID- 19)\nsebagaimana dimaksud pada ayat (1) huruf c, dilaksanakan\ndengan ketentuan:\na. dilakukan di rumah duka;\nb. dihadiri oleh kalangan terbatas; dan\nc. menjaga jarak antar pihak yang hadir (physical distancing)\npaling sedikit dalam rentang 1 (satu) meter."
@@ -1432,12 +1585,14 @@
                       {
                         "_key": "a",
                         "_type": "point",
-                        "isi": "pemenuhan kebutuhan pokok; dan"
+                        "isi": "pemenuhan kebutuhan pokok; dan",
+                        "text": "a. pemenuhan kebutuhan pokok; dan"
                       },
                       {
                         "_key": "b",
                         "_type": "point",
-                        "isi": "kegiatan yang diperbolehkan selama pemberlakuan PSBB."
+                        "isi": "kegiatan yang diperbolehkan selama pemberlakuan PSBB.",
+                        "text": "b. kegiatan yang diperbolehkan selama pemberlakuan PSBB."
                       }
                     ],
                     "text": "Selama pemberlakuan PSBB, semua kegiatan pergerakan\norang dan/atau barang dihentikan sementara, kecuali untuk:\na. pemenuhan kebutuhan pokok; dan\nb. kegiatan yang diperbolehkan selama pemberlakuan PSBB."
@@ -1454,17 +1609,20 @@
                       {
                         "_key": "a",
                         "_type": "point",
-                        "isi": "kendaraan bermotor pribadi;"
+                        "isi": "kendaraan bermotor pribadi;",
+                        "text": "a. kendaraan bermotor pribadi;"
                       },
                       {
                         "_key": "b",
                         "_type": "point",
-                        "isi": "angkutan orang dengan kendaraan bermotor umum; dan"
+                        "isi": "angkutan orang dengan kendaraan bermotor umum; dan",
+                        "text": "b. angkutan orang dengan kendaraan bermotor umum; dan"
                       },
                       {
                         "_key": "c",
                         "_type": "point",
-                        "isi": "angkutan perkeretaapian. 15"
+                        "isi": "angkutan perkeretaapian. 15",
+                        "text": "c. angkutan perkeretaapian.\n15"
                       }
                     ],
                     "text": "Dikecualikan dari penghentian \tsementara kegiatan\npergerakan orang sebagaimana dimaksud pada ayat (1), untuk\njenis moda transportasi:\na. kendaraan bermotor pribadi;\nb. angkutan orang dengan kendaraan bermotor umum; dan\nc. angkutan perkeretaapian.\n15"
@@ -1487,27 +1645,32 @@
                       {
                         "_key": "a",
                         "_type": "point",
-                        "isi": "digunakan hanya untuk pemenuhan kebutuhan pokok dan/atau aktivitas lain yang diperbolehkan selama PSBB;"
+                        "isi": "digunakan hanya untuk pemenuhan kebutuhan pokok dan/atau aktivitas lain yang diperbolehkan selama PSBB;",
+                        "text": "a. digunakan hanya untuk pemenuhan kebutuhan pokok\ndan/atau aktivitas lain yang diperbolehkan selama PSBB;"
                       },
                       {
                         "_key": "b",
                         "_type": "point",
-                        "isi": "melakukan disinfeksi kendaraan setelah selesai digunakan;"
+                        "isi": "melakukan disinfeksi kendaraan setelah selesai digunakan;",
+                        "text": "b. melakukan disinfeksi kendaraan setelah selesai digunakan;"
                       },
                       {
                         "_key": "c",
                         "_type": "point",
-                        "isi": "menggunakan masker di dalam kendaraan;"
+                        "isi": "menggunakan masker di dalam kendaraan;",
+                        "text": "c. menggunakan masker di dalam kendaraan;"
                       },
                       {
                         "_key": "d",
                         "_type": "point",
-                        "isi": "membatasi jumlah orang maksimal 50\u00b0/0 (lima puluh persen) dari kapasitas kendaraan; dan"
+                        "isi": "membatasi jumlah orang maksimal 50\u00b0/0 (lima puluh persen) dari kapasitas kendaraan; dan",
+                        "text": "d. membatasi jumlah orang maksimal 50\u00b0/0 (lima puluh\npersen) dari kapasitas kendaraan; dan"
                       },
                       {
                         "_key": "e",
                         "_type": "point",
-                        "isi": "tidak berkendara jika sedang mengalami suhu badan diatas normal atau sakit."
+                        "isi": "tidak berkendara jika sedang mengalami suhu badan diatas normal atau sakit.",
+                        "text": "e. tidak berkendara jika sedang mengalami suhu badan diatas\nnormal atau sakit."
                       }
                     ],
                     "text": "Pengguna kendaraan mobil penumpang pribadi diwajibkan\nuntuk mengikuti ketentuan sebagai berikut:\na. digunakan hanya untuk pemenuhan kebutuhan pokok\ndan/atau aktivitas lain yang diperbolehkan selama PSBB;\nb. melakukan disinfeksi kendaraan setelah selesai digunakan;\nc. menggunakan masker di dalam kendaraan;\nd. membatasi jumlah orang maksimal 50\u00b0/0 (lima puluh\npersen) dari kapasitas kendaraan; dan\ne. tidak berkendara jika sedang mengalami suhu badan diatas\nnormal atau sakit."
@@ -1524,22 +1687,26 @@
                       {
                         "_key": "a",
                         "_type": "point",
-                        "isi": "digunakan hanya untuk pemenuhan kebutuhan pokok dan/atau aktivitas lain yang diperbolehkan selama PSBB;"
+                        "isi": "digunakan hanya untuk pemenuhan kebutuhan pokok dan/atau aktivitas lain yang diperbolehkan selama PSBB;",
+                        "text": "a. digunakan hanya untuk pemenuhan kebutuhan pokok\ndan/atau aktivitas lain yang diperbolehkan selama PSBB;"
                       },
                       {
                         "_key": "b",
                         "_type": "point",
-                        "isi": "melakukan disinfeksi kendaraan dan atribut setelah selesai digunakan,"
+                        "isi": "melakukan disinfeksi kendaraan dan atribut setelah selesai digunakan,",
+                        "text": "b. melakukan disinfeksi kendaraan dan atribut setelah\nselesai digunakan,"
                       },
                       {
                         "_key": "c",
                         "_type": "point",
-                        "isi": "menggunakan masker dan sarung tangan; dan"
+                        "isi": "menggunakan masker dan sarung tangan; dan",
+                        "text": "c. menggunakan masker dan sarung tangan; dan"
                       },
                       {
                         "_key": "d",
                         "_type": "point",
-                        "isi": "tidak berkendara jika sedang mengalami suhu badan diatas normal atau sakit."
+                        "isi": "tidak berkendara jika sedang mengalami suhu badan diatas normal atau sakit.",
+                        "text": "d. tidak berkendara jika sedang mengalami suhu badan\ndiatas normal atau sakit."
                       }
                     ],
                     "text": "Pengguna sepeda motor pribadi diwajibkan untuk mengikuti\nketentuan sebagai berikut:\na. digunakan hanya untuk pemenuhan kebutuhan pokok\ndan/atau aktivitas lain yang diperbolehkan selama PSBB;\nb. melakukan disinfeksi kendaraan dan atribut setelah\nselesai digunakan,\nc. menggunakan masker dan sarung tangan; dan\nd. tidak berkendara jika sedang mengalami suhu badan\ndiatas normal atau sakit."
@@ -1562,32 +1729,38 @@
                       {
                         "_key": "a",
                         "_type": "point",
-                        "isi": "membatasi jumlah orang maksimal 50\u00b0/0 (lima puluh persen) dari kapasitas angkutan;"
+                        "isi": "membatasi jumlah orang maksimal 50\u00b0/0 (lima puluh persen) dari kapasitas angkutan;",
+                        "text": "a. membatasi jumlah orang maksimal 50\u00b0/0 (lima puluh\npersen) dari kapasitas angkutan;"
                       },
                       {
                         "_key": "b",
                         "_type": "point",
-                        "isi": "membatasi jam operasional sesuai pengaturan dari Pemerintah Provinsi DKI Jakarta dan/atau instansi terkait;"
+                        "isi": "membatasi jam operasional sesuai pengaturan dari Pemerintah Provinsi DKI Jakarta dan/atau instansi terkait;",
+                        "text": "b. membatasi jam operasional sesuai pengaturan dari\nPemerintah Provinsi DKI Jakarta dan/atau instansi terkait;"
                       },
                       {
                         "_key": "c",
                         "_type": "point",
-                        "isi": "melakukan disinfeksi secara berkala moda transportasi yang digunakan;"
+                        "isi": "melakukan disinfeksi secara berkala moda transportasi yang digunakan;",
+                        "text": "c. melakukan disinfeksi secara berkala moda transportasi\nyang digunakan;"
                       },
                       {
                         "_key": "d",
                         "_type": "point",
-                        "isi": "melakukan deteksi dan pemantauan suhu tubuh petugas dan penumpang yang memasuki moda transportasi;"
+                        "isi": "melakukan deteksi dan pemantauan suhu tubuh petugas dan penumpang yang memasuki moda transportasi;",
+                        "text": "d. melakukan deteksi dan pemantauan suhu tubuh petugas\ndan penumpang yang memasuki moda transportasi;"
                       },
                       {
                         "_key": "e",
                         "_type": "point",
-                        "isi": "memastikan petugas dan penumpang moda transportasi tidak sedang mengalami suhu tubuh diatas normal atau sakit; dan"
+                        "isi": "memastikan petugas dan penumpang moda transportasi tidak sedang mengalami suhu tubuh diatas normal atau sakit; dan",
+                        "text": "e. memastikan petugas dan penumpang moda transportasi\ntidak sedang mengalami suhu tubuh diatas normal atau\nsakit; dan"
                       },
                       {
                         "_key": "f",
                         "_type": "point",
-                        "isi": "menjaga jarak antar penumpang (physical distancing) paling sedikit dalam rentang 1 (satu) meter."
+                        "isi": "menjaga jarak antar penumpang (physical distancing) paling sedikit dalam rentang 1 (satu) meter.",
+                        "text": "f. menjaga jarak antar penumpang (physical distancing)\npaling sedikit dalam rentang 1 (satu) meter."
                       }
                     ],
                     "text": "Angkutan orang dengan kendaraan bermotor umum,\nangkutan perkeretaapian, dan/atau moda transportasi barang\ndiwajibkan untuk mengikuti ketentuan sebagai berikut:\na. membatasi jumlah orang maksimal 50\u00b0/0 (lima puluh\npersen) dari kapasitas angkutan;\nb. membatasi jam operasional sesuai pengaturan dari\nPemerintah Provinsi DKI Jakarta dan/atau instansi terkait;\nc. melakukan disinfeksi secara berkala moda transportasi\nyang digunakan;\nd. melakukan deteksi dan pemantauan suhu tubuh petugas\ndan penumpang yang memasuki moda transportasi;\ne. memastikan petugas dan penumpang moda transportasi\ntidak sedang mengalami suhu tubuh diatas normal atau\nsakit; dan\nf. menjaga jarak antar penumpang (physical distancing)\npaling sedikit dalam rentang 1 (satu) meter."
@@ -1633,27 +1806,32 @@
                       {
                         "_key": "a",
                         "_type": "point",
-                        "isi": "memperoleh perlakuan dan pelayanan dari Pemerintah Provinsi DKI Jakarta;"
+                        "isi": "memperoleh perlakuan dan pelayanan dari Pemerintah Provinsi DKI Jakarta;",
+                        "text": "a. memperoleh perlakuan dan pelayanan dari Pemerintah\nProvinsi DKI Jakarta;"
                       },
                       {
                         "_key": "b",
                         "_type": "point",
-                        "isi": "mendapatkan pelayanan kesehatan dasar sesuai kebutuhan medis;"
+                        "isi": "mendapatkan pelayanan kesehatan dasar sesuai kebutuhan medis;",
+                        "text": "b. mendapatkan pelayanan kesehatan dasar sesuai\nkebutuhan medis;"
                       },
                       {
                         "_key": "c",
                         "_type": "point",
-                        "isi": "memperoleh data dan informasi publik seputar Corona Virus Disease (COVID-19);"
+                        "isi": "memperoleh data dan informasi publik seputar Corona Virus Disease (COVID-19);",
+                        "text": "c. memperoleh data dan informasi publik seputar Corona\nVirus Disease (COVID-19);"
                       },
                       {
                         "_key": "d",
                         "_type": "point",
-                        "isi": "kemudahan akses di dalam melakukan pengaduan seputar Corona Virus Disease (COVID-19); dan"
+                        "isi": "kemudahan akses di dalam melakukan pengaduan seputar Corona Virus Disease (COVID-19); dan",
+                        "text": "d. kemudahan akses di dalam melakukan pengaduan seputar\nCorona Virus Disease (COVID-19); dan"
                       },
                       {
                         "_key": "e",
                         "_type": "point",
-                        "isi": "pelayanan pemulasaraan dan pemakaman jenazah Corona Virus Disease (COVID-19) dan/atau terduga Corona Virus Disease (COVID- 19)."
+                        "isi": "pelayanan pemulasaraan dan pemakaman jenazah Corona Virus Disease (COVID-19) dan/atau terduga Corona Virus Disease (COVID- 19).",
+                        "text": "e. pelayanan pemulasaraan dan pemakaman jenazah Corona\nVirus Disease (COVID-19) dan/atau terduga Corona Virus\nDisease (COVID- 19)."
                       }
                     ],
                     "text": "Selama pemberlakuan PSBB, setiap penduduk di Provinsi DKI\nJakarta mempunyai hak yang sama untuk:\na. memperoleh perlakuan dan pelayanan dari Pemerintah\nProvinsi DKI Jakarta;\nb. mendapatkan pelayanan kesehatan dasar sesuai\nkebutuhan medis;\nc. memperoleh data dan informasi publik seputar Corona\nVirus Disease (COVID-19);\nd. kemudahan akses di dalam melakukan pengaduan seputar\nCorona Virus Disease (COVID-19); dan\ne. pelayanan pemulasaraan dan pemakaman jenazah Corona\nVirus Disease (COVID-19) dan/atau terduga Corona Virus\nDisease (COVID- 19)."
@@ -1683,17 +1861,20 @@
                       {
                         "_key": "a",
                         "_type": "point",
-                        "isi": "mematuhi seluruh ketentuan di dalam pelaksanaan PSBB;"
+                        "isi": "mematuhi seluruh ketentuan di dalam pelaksanaan PSBB;",
+                        "text": "a. mematuhi seluruh ketentuan di dalam pelaksanaan PSBB;"
                       },
                       {
                         "_key": "b",
                         "_type": "point",
-                        "isi": "ikut serta dalam pelaksanaan PSBB; dan"
+                        "isi": "ikut serta dalam pelaksanaan PSBB; dan",
+                        "text": "b. ikut serta dalam pelaksanaan PSBB; dan"
                       },
                       {
                         "_key": "c",
                         "_type": "point",
-                        "isi": "melaksanakan perilaku hidup bersih dan sehat (PHBS)."
+                        "isi": "melaksanakan perilaku hidup bersih dan sehat (PHBS).",
+                        "text": "c. melaksanakan perilaku hidup bersih dan sehat (PHBS)."
                       }
                     ],
                     "text": "Selama pemberlakuan PSBB, setiap penduduk di Provinsi DKI\nJakarta wajib:\na. mematuhi seluruh ketentuan di dalam pelaksanaan PSBB;\nb. ikut serta dalam pelaksanaan PSBB; dan\nc. melaksanakan perilaku hidup bersih dan sehat (PHBS)."
@@ -1710,17 +1891,20 @@
                       {
                         "_key": "a",
                         "_type": "point",
-                        "isi": "mengikuti testing dan pemeriksaan sampel untuk Corona Virus Disease (COVID-19) dalam penyelidikan epidemiologi (contact tracing) apabila telah ditetapkan untuk diperiksa oleh petugas;"
+                        "isi": "mengikuti testing dan pemeriksaan sampel untuk Corona Virus Disease (COVID-19) dalam penyelidikan epidemiologi (contact tracing) apabila telah ditetapkan untuk diperiksa oleh petugas;",
+                        "text": "a. mengikuti testing dan pemeriksaan sampel untuk Corona\nVirus Disease (COVID-19) dalam penyelidikan epidemiologi\n(contact tracing) apabila telah ditetapkan untuk diperiksa\noleh petugas;"
                       },
                       {
                         "_key": "b",
                         "_type": "point",
-                        "isi": "melakukan isolasi mandiri di tempat tinggal dan/atau shelter maupun perawatan di rumah sakit sesuai rekomendasi tenaga kesehatan; dan"
+                        "isi": "melakukan isolasi mandiri di tempat tinggal dan/atau shelter maupun perawatan di rumah sakit sesuai rekomendasi tenaga kesehatan; dan",
+                        "text": "b. melakukan isolasi mandiri di tempat tinggal dan/atau\nshelter\nmaupun perawatan di rumah sakit sesuai\nrekomendasi tenaga kesehatan; dan"
                       },
                       {
                         "_key": "c",
                         "_type": "point",
-                        "isi": "melaporkan kepada tenaga kesehatan apabila diri sendiri dan/atau keluarganya terpapar Corona Virus Disease (COVID- 19). 17"
+                        "isi": "melaporkan kepada tenaga kesehatan apabila diri sendiri dan/atau keluarganya terpapar Corona Virus Disease (COVID- 19). 17",
+                        "text": "c. melaporkan kepada tenaga kesehatan apabila diri sendiri\ndan/atau keluarganya terpapar Corona Virus Disease\n(COVID- 19).\n17"
                       }
                     ],
                     "text": "Dalam hal penanganan Corona Virus Disease (COVID-19),\nsetiap penduduk wajib:\na. mengikuti testing dan pemeriksaan sampel untuk Corona\nVirus Disease (COVID-19) dalam penyelidikan epidemiologi\n(contact tracing) apabila telah ditetapkan untuk diperiksa\noleh petugas;\nb. melakukan isolasi mandiri di tempat tinggal dan/atau\nshelter\nmaupun perawatan di rumah sakit sesuai\nrekomendasi tenaga kesehatan; dan\nc. melaporkan kepada tenaga kesehatan apabila diri sendiri\ndan/atau keluarganya terpapar Corona Virus Disease\n(COVID- 19).\n17"
@@ -1789,17 +1973,20 @@
                       {
                         "_key": "a",
                         "_type": "point",
-                        "isi": "pengurangan pajak dan retribusi daerah bagi pelaku usaha;"
+                        "isi": "pengurangan pajak dan retribusi daerah bagi pelaku usaha;",
+                        "text": "a. pengurangan pajak dan retribusi daerah bagi pelaku\nusaha;"
                       },
                       {
                         "_key": "b",
                         "_type": "point",
-                        "isi": "pemberian bantuan sosial kepada karyawan yang terdampak atas pelaksanaan PSBB; dan/ atau"
+                        "isi": "pemberian bantuan sosial kepada karyawan yang terdampak atas pelaksanaan PSBB; dan/ atau",
+                        "text": "b. pemberian bantuan sosial kepada karyawan yang\nterdampak atas pelaksanaan PSBB; dan/ atau"
                       },
                       {
                         "_key": "c",
                         "_type": "point",
-                        "isi": "bantuan lainnya sesuai dengan ketentuan peraturan perundang-undangan."
+                        "isi": "bantuan lainnya sesuai dengan ketentuan peraturan perundang-undangan.",
+                        "text": "c. bantuan lainnya sesuai dengan ketentuan peraturan\nperundang-undangan."
                       }
                     ],
                     "text": "Insentif sebagaimana dimaksud pada ayat (1) diberikan dalam\nbentuk:\na. pengurangan pajak dan retribusi daerah bagi pelaku\nusaha;\nb. pemberian bantuan sosial kepada karyawan yang\nterdampak atas pelaksanaan PSBB; dan/ atau\nc. bantuan lainnya sesuai dengan ketentuan peraturan\nperundang-undangan."
@@ -1859,22 +2046,26 @@
                   {
                     "_key": "a",
                     "_type": "point",
-                    "isi": "dukungan sumber daya manusia;"
+                    "isi": "dukungan sumber daya manusia;",
+                    "text": "a. dukungan sumber daya manusia;"
                   },
                   {
                     "_key": "b",
                     "_type": "point",
-                    "isi": "sarana dan prasarana;"
+                    "isi": "sarana dan prasarana;",
+                    "text": "b. sarana dan prasarana;"
                   },
                   {
                     "_key": "c",
                     "_type": "point",
-                    "isi": "data dan informasi;"
+                    "isi": "data dan informasi;",
+                    "text": "c. data dan informasi;"
                   },
                   {
                     "_key": "d",
                     "_type": "point",
-                    "isi": "jasa dan/atau dukungan lain."
+                    "isi": "jasa dan/atau dukungan lain.",
+                    "text": "d. jasa dan/atau dukungan lain."
                   }
                 ],
                 "text": "Kolaborasi kelembagaan sebagaimana dimaksud pada ayat (1)\ndilakukan dalam bentuk:\na. dukungan sumber daya manusia;\nb. sarana dan prasarana;\nc. data dan informasi;\nd. jasa dan/atau dukungan lain."
@@ -1918,17 +2109,20 @@
                   {
                     "_key": "a",
                     "_type": "point",
-                    "isi": "pelaksanaan PSBB sesuai dengan Peraturan Gubernur ini;"
+                    "isi": "pelaksanaan PSBB sesuai dengan Peraturan Gubernur ini;",
+                    "text": "a. pelaksanaan PSBB sesuai dengan Peraturan Gubernur ini;"
                   },
                   {
                     "_key": "b",
                     "_type": "point",
-                    "isi": "jumlah kasus; dan"
+                    "isi": "jumlah kasus; dan",
+                    "text": "b. jumlah kasus; dan"
                   },
                   {
                     "_key": "c",
                     "_type": "point",
-                    "isi": "sebaran kasus."
+                    "isi": "sebaran kasus.",
+                    "text": "c. sebaran kasus."
                   }
                 ],
                 "text": "Penilaian keberhasilan pelaksanaan PSBB sebagaimana\ndimaksud pada ayat (1) didasarkan pada kriteria:\na. pelaksanaan PSBB sesuai dengan Peraturan Gubernur ini;\nb. jumlah kasus; dan\nc. sebaran kasus."
@@ -1994,32 +2188,38 @@
       {
         "_key": 1,
         "_type": "point",
-        "isi": "Undang-Undang Nomor 4 Tahun 1984 tentang Wabah Penyakit Menular (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 20, Tambahan Lembaran Negara Republik Indonesia Tahun 1984 Nomor 3723);"
+        "isi": "Undang-Undang Nomor 4 Tahun 1984 tentang Wabah Penyakit Menular (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 20, Tambahan Lembaran Negara Republik Indonesia Tahun 1984 Nomor 3723);",
+        "text": "1. Undang-Undang Nomor 4 Tahun 1984 tentang Wabah Penyakit\nMenular (Lembaran Negara Republik Indonesia Tahun 1984\nNomor 20, Tambahan Lembaran Negara Republik Indonesia\nTahun 1984 Nomor 3723);"
       },
       {
         "_key": 2,
         "_type": "point",
-        "isi": "Undang-Undang Nomor 29 Tahun 2007 tentang Pemerintahan Daerah Khusus Ibukota Jakarta sebagai Ibukota Negara Kesatuan Republik Indonesia (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 93, Tambahan Lembaran Negara Republik Indonesia Nomor 4744);"
+        "isi": "Undang-Undang Nomor 29 Tahun 2007 tentang Pemerintahan Daerah Khusus Ibukota Jakarta sebagai Ibukota Negara Kesatuan Republik Indonesia (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 93, Tambahan Lembaran Negara Republik Indonesia Nomor 4744);",
+        "text": "2. Undang-Undang Nomor 29 Tahun 2007 tentang Pemerintahan\nDaerah Khusus Ibukota Jakarta sebagai Ibukota Negara\nKesatuan Republik Indonesia (Lembaran Negara Republik\nIndonesia Tahun 2007 Nomor 93, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 4744);"
       },
       {
         "_key": 3,
         "_type": "point",
-        "isi": "Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor 5587) sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 5679); 2 Menetapkan"
+        "isi": "Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor 5587) sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 5679); 2 Menetapkan",
+        "text": "3. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan\nDaerah (Lembaran Negara Republik Indonesia Tahun 2014\nNomor 244, Tambahan Lembaran Negara Republik Indonesia\nNomor 5587) sebagaimana telah beberapa kali diubah terakhir\ndengan Undang-Undang Nomor 9 Tahun 2015 tentang\nPerubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2014\ntentang Pemerintahan Daerah (Lembaran Negara Republik\nIndonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 5679);\n2\nMenetapkan"
       },
       {
         "_key": 4,
         "_type": "point",
-        "isi": "Undang-Undang Nomor 6 Tahun 2018 tentang Kekarantinaan Kesehatan (Lembaran Negara Republik Indonesia Tahun 2018 Nomor 128, Tambahan Lembaran Negara Republik Indonesia Nomor 6236);"
+        "isi": "Undang-Undang Nomor 6 Tahun 2018 tentang Kekarantinaan Kesehatan (Lembaran Negara Republik Indonesia Tahun 2018 Nomor 128, Tambahan Lembaran Negara Republik Indonesia Nomor 6236);",
+        "text": "4. Undang-Undang Nomor 6 Tahun 2018 tentang Kekarantinaan\nKesehatan (Lembaran Negara Republik Indonesia Tahun 2018\nNomor 128, Tambahan Lembaran Negara Republik Indonesia\nNomor 6236);"
       },
       {
         "_key": 5,
         "_type": "point",
-        "isi": "Peraturan Pemerintah Nomor 21 Tahun 2020 tentang Pembatasan Sosial Berskala Besar Dalam Rangka Percepatan Penanganan Corona Virus Disease 2019 (COVID-19) (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 91, Tambahan Lembaran Negara Republik Indonesia Nomor 6487);"
+        "isi": "Peraturan Pemerintah Nomor 21 Tahun 2020 tentang Pembatasan Sosial Berskala Besar Dalam Rangka Percepatan Penanganan Corona Virus Disease 2019 (COVID-19) (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 91, Tambahan Lembaran Negara Republik Indonesia Nomor 6487);",
+        "text": "5. Peraturan Pemerintah Nomor 21 Tahun 2020 tentang\nPembatasan Sosial Berskala Besar Dalam Rangka Percepatan\nPenanganan Corona Virus Disease 2019 (COVID-19) (Lembaran\nNegara Republik Indonesia Tahun 2020 Nomor 91, Tambahan\nLembaran Negara Republik Indonesia Nomor 6487);"
       },
       {
         "_key": 6,
         "_type": "point",
-        "isi": "Peraturan Menteri Kesehatan Nomor 9 Tahun 2020 tentang Pedoman Pembatasan Sosial Berskala Besar Dalam Rangka Percepatan Penanganan Corona Virus Disease 2019 (COVID- 19) (Berita Negara Republik Indonesia Tahun 2020 Nomor 326);"
+        "isi": "Peraturan Menteri Kesehatan Nomor 9 Tahun 2020 tentang Pedoman Pembatasan Sosial Berskala Besar Dalam Rangka Percepatan Penanganan Corona Virus Disease 2019 (COVID- 19) (Berita Negara Republik Indonesia Tahun 2020 Nomor 326);",
+        "text": "6. Peraturan Menteri Kesehatan Nomor 9 Tahun 2020 tentang\nPedoman Pembatasan Sosial Berskala Besar Dalam Rangka\nPercepatan Penanganan Corona Virus Disease 2019 (COVID-\n19) (Berita Negara Republik Indonesia Tahun 2020 Nomor\n326);"
       }
     ],
     "text": "1. Undang-Undang Nomor 4 Tahun 1984 tentang Wabah Penyakit\nMenular (Lembaran Negara Republik Indonesia Tahun 1984\nNomor 20, Tambahan Lembaran Negara Republik Indonesia\nTahun 1984 Nomor 3723);\n2. Undang-Undang Nomor 29 Tahun 2007 tentang Pemerintahan\nDaerah Khusus Ibukota Jakarta sebagai Ibukota Negara\nKesatuan Republik Indonesia (Lembaran Negara Republik\nIndonesia Tahun 2007 Nomor 93, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 4744);\n3. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan\nDaerah (Lembaran Negara Republik Indonesia Tahun 2014\nNomor 244, Tambahan Lembaran Negara Republik Indonesia\nNomor 5587) sebagaimana telah beberapa kali diubah terakhir\ndengan Undang-Undang Nomor 9 Tahun 2015 tentang\nPerubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2014\ntentang Pemerintahan Daerah (Lembaran Negara Republik\nIndonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 5679);\n2\nMenetapkan\n4. Undang-Undang Nomor 6 Tahun 2018 tentang Kekarantinaan\nKesehatan (Lembaran Negara Republik Indonesia Tahun 2018\nNomor 128, Tambahan Lembaran Negara Republik Indonesia\nNomor 6236);\n5. Peraturan Pemerintah Nomor 21 Tahun 2020 tentang\nPembatasan Sosial Berskala Besar Dalam Rangka Percepatan\nPenanganan Corona Virus Disease 2019 (COVID-19) (Lembaran\nNegara Republik Indonesia Tahun 2020 Nomor 91, Tambahan\nLembaran Negara Republik Indonesia Nomor 6487);\n6. Peraturan Menteri Kesehatan Nomor 9 Tahun 2020 tentang\nPedoman Pembatasan Sosial Berskala Besar Dalam Rangka\nPercepatan Penanganan Corona Virus Disease 2019 (COVID-\n19) (Berita Negara Republik Indonesia Tahun 2020 Nomor\n326);"
@@ -2031,12 +2231,14 @@
       {
         "_key": "a",
         "_type": "point",
-        "isi": "bahwa bahwa berdasarkan Keputusan Menteri Kesehatan Republik Indonesia Nomor HK.01.07/MENKES/239/2020 telah ditetapkan Pembatasan Sosial Berskala Besar di wilayah Provinsi Daerah Khusus Ibukota Jakarta dalam rangka percepatan penanganan Corona Virus Disease 2019 (COVID-19);"
+        "isi": "bahwa bahwa berdasarkan Keputusan Menteri Kesehatan Republik Indonesia Nomor HK.01.07/MENKES/239/2020 telah ditetapkan Pembatasan Sosial Berskala Besar di wilayah Provinsi Daerah Khusus Ibukota Jakarta dalam rangka percepatan penanganan Corona Virus Disease 2019 (COVID-19);",
+        "text": "a. bahwa bahwa berdasarkan Keputusan Menteri Kesehatan\nRepublik Indonesia Nomor HK.01.07/MENKES/239/2020 telah\nditetapkan Pembatasan Sosial Berskala Besar di wilayah\nProvinsi Daerah Khusus Ibukota Jakarta dalam rangka\npercepatan penanganan Corona Virus Disease 2019 (COVID-19);"
       },
       {
         "_key": "b",
         "_type": "point",
-        "isi": "bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, perlu menetapkan Peraturan Gubernur tentang Pelaksanaan Pembatasan Sosial Berskala Besar Dalam Penanganan Corona Virus Disease 2019 (COVID-19) di Provinsi Daerah Khusus Ibukota Jakarta;"
+        "isi": "bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, perlu menetapkan Peraturan Gubernur tentang Pelaksanaan Pembatasan Sosial Berskala Besar Dalam Penanganan Corona Virus Disease 2019 (COVID-19) di Provinsi Daerah Khusus Ibukota Jakarta;",
+        "text": "b. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a, perlu menetapkan Peraturan Gubernur tentang\nPelaksanaan Pembatasan Sosial Berskala Besar Dalam\nPenanganan Corona Virus Disease 2019 (COVID-19) di Provinsi\nDaerah Khusus Ibukota Jakarta;"
       }
     ],
     "text": "a. bahwa bahwa berdasarkan Keputusan Menteri Kesehatan\nRepublik Indonesia Nomor HK.01.07/MENKES/239/2020 telah\nditetapkan Pembatasan Sosial Berskala Besar di wilayah\nProvinsi Daerah Khusus Ibukota Jakarta dalam rangka\npercepatan penanganan Corona Virus Disease 2019 (COVID-19);\nb. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a, perlu menetapkan Peraturan Gubernur tentang\nPelaksanaan Pembatasan Sosial Berskala Besar Dalam\nPenanganan Corona Virus Disease 2019 (COVID-19) di Provinsi\nDaerah Khusus Ibukota Jakarta;"

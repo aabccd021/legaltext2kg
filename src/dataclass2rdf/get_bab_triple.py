@@ -18,6 +18,7 @@ def babs_to_triple(
         (babN, PartOf, doc),
         (babN, ONS.hasJudul, Literal(bab._judul, datatype=XSD.string)),
         (babN, ONS.hasKey, Literal(bab._key, datatype=XSD.integer)),
+        (babN, ONS.hasText, Literal(bab.text, datatype=XSD.string)),
         (babN, RDF.type, ONS.Bab),
         *bab_content_to_triple(bab.isi, babN, doc)
     ]

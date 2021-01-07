@@ -7,3 +7,4 @@ WHERE{
   ?ayat legal:partOf ?pasal .
   ?ayat legal:hasText ?text
 }
+ORDER BY ?pasal ?ayat ?text

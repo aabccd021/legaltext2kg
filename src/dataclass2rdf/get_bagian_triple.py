@@ -19,6 +19,7 @@ def bagian_to_triple(
         (bagianN, PartOf, parent),
         (bagianN, ONS.hasJudul, Literal(bagian._judul, datatype=XSD.string)),
         (bagianN, ONS.hasKey, Literal(bagian._key, datatype=XSD.integer)),
+        (bagianN, ONS.hasText, Literal(bagian.text, datatype=XSD.string)),
         (bagianN, RDF.type, ONS.Bagian),
         *bagian_content_to_triple(bagian.isi, bagianN, doc)
     ]

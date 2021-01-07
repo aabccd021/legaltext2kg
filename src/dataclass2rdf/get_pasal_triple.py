@@ -20,7 +20,7 @@ def pasal_to_triple(
     return [
         (pasalN, PartOf, parent),
         (pasalN, ONS.hasKey, Literal(pasal._key, datatype=XSD.integer)),
-        (pasalN, ONS.hasText, Literal(pasal.text, datatype=XSD.integer)),
+        (pasalN, ONS.hasText, Literal(pasal.text, datatype=XSD.string)),
         (pasalN, RDF.type, ONS.Pasal),
         *pasal_content_to_triple(pasal.isi, pasalN)
     ]

@@ -14,7 +14,7 @@ def ayat_to_triple(
     return [
         (ayatN, PartOf, parent),
         (ayatN, ONS.hasKey, Literal(ayat._key, datatype=XSD.integer)),
-        (ayatN, ONS.hasText, Literal(ayat.text, datatype=XSD.integer)),
+        (ayatN, ONS.hasText, Literal(ayat.text, datatype=XSD.string)),
         (ayatN, RDF.type, ONS.Ayat),
         *point_content_to_triple(ayat.isi, ayatN, "hasContent")
     ]

@@ -7,6 +7,7 @@ from dataclasses import dataclass
 class Point:
     _key: Union[str, int]
     isi: StrsOrPoints
+    text: str
     _type: Literal['point'] = 'point'
 
 

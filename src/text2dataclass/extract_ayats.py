@@ -69,9 +69,10 @@ def extract_point_u(
     keys = [get_key(x) for x in keys if x is not None]
     contents = [extract_point(c) for c in contents]
     assert len(keys) == len(contents)
+    texts = ["\n".join(x) for x in point_content_strs]
+    point_content = [Point(_key=key, isi=content, text=text) for key, content, text
+                     in zip(keys, contents, texts)]
     text = "\n".join(lines)
-    point_content = [Point(key, content) for key, content
-                     in zip(keys, contents)]
     return Points(
         _description=desc_str,
         isi=point_content,

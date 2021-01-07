@@ -1,48 +1,39 @@
-http://example.org/legal/document/UU13-2003/pasal/76/ayat/1
-http://example.org/legal/ontology/partOf
-http://example.org/legal/document/UU13-2003/pasal/76
+http://example.org/legal/document/PERGUB33-2020
+http://example.org/legal/ontology/jabatan_pengesah
+GUBERNUR DAERAH KHUSUS IBUKOTA JAKARTA,
 
-http://example.org/legal/document/UU13-2003/pasal/66/ayat/2
-http://www.w3.org/1999/02/22-rdf-syntax-ns#type
-http://example.org/legal/ontology/Ayat
+http://example.org/legal/document/PERGUB33-2020
+http://example.org/legal/ontology/memutuskan
+PERATURAN GUBERNUR TENTANG PELAKSANAAN PEMBATASAN SOSIAL BERSKALA BESAR DALAM PENANGANAN CORONA VIRUS DISEASE 2019 (COVID-19) DI PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA.
 
-http://example.org/legal/document/PERGUB33-2020/pasal/17/ayat/3/point/c
-http://www.w3.org/1999/02/22-rdf-syntax-ns#type
-http://example.org/legal/ontology/Point
+http://example.org/legal/document/PERGUB33-2020
+http://example.org/legal/ontology/nama_dokumen
+BERITA DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA TAHUN 2020 NOMOR 55003
 
-http://example.org/legal/document/UU13-2003/pasal/120/ayat/3
-http://example.org/legal/ontology/hasContent
-Dalam hal ketentuan sebagaimana dimaksud dalam ayat (1) atau ayat (2) tidak terpenuhi, maka para seri-kat pekerja/serikat buruh membentuk tim perunding yang keanggotaannya ditentukan secara proporsional berdasarkan jumlah anggota masing-masing serikat pekerja/serikat buruh.
+http://example.org/legal/document/PERGUB33-2020
+http://example.org/legal/ontology/nama_pengesah
+ANIES BASWEDAN
 
-http://example.org/legal/document/PERGUB33-2020/pasal/12/ayat/1
-http://example.org/legal/ontology/description
-Selama pemberlakuan PSBB, penanggung jawab rumah
-ibadah wajib:
+http://example.org/legal/document/PERGUB33-2020
+http://example.org/legal/ontology/name
+PERATURAN GUBERNUR DAERAH KHUSUS IBUKOTA JAKARTA
 
-http://example.org/legal/document/UU13-2003/pasal/167/ayat/5
-http://www.w3.org/1999/02/22-rdf-syntax-ns#type
-http://example.org/legal/ontology/Ayat
+http://example.org/legal/document/PERGUB33-2020
+http://example.org/legal/ontology/nomor
+33
 
-http://example.org/legal/document/UU13-2003/bab/5
-http://example.org/legal/ontology/hasJudul
-PELATIHAN KERJA
+http://example.org/legal/document/PERGUB33-2020
+http://example.org/legal/ontology/pemutus
+GUBERNUR DAERAH KHUSUS IBUKOTA JAKARTA
 
-http://example.org/legal/document/UU13-2003/pasal/1
-http://www.w3.org/1999/02/22-rdf-syntax-ns#type
-http://example.org/legal/ontology/Pasal
+http://example.org/legal/document/PERGUB33-2020
+http://example.org/legal/ontology/penjelasan
+PERATURAN GUBERNUR DAERAH KHUSUS IBUKOTA JAKARTA
 
-http://example.org/legal/document/UU13-2003/pasal/82/ayat/1
-http://www.w3.org/1999/02/22-rdf-syntax-ns#type
-http://example.org/legal/ontology/Ayat
+http://example.org/legal/document/PERGUB33-2020
+http://example.org/legal/ontology/salinan
+SALINAN GUBERNUR PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA
 
-http://example.org/legal/document/UU13-2003/pasal/162/ayat/3
-http://example.org/legal/ontology/hasText
-(3) Pekerja/buruh yang mengundurkan diri sebagaimana dimaksud dalam ayat (1) harus memenuhi
-syarat :
-a.
-mengajukan permohonan pengunduran diri secara tertulis selambat-lambatnya 30 (tiga
-puluh) hari sebelum tanggal mulai pengunduran diri;
-b.
-tidak terikat dalam ikatan dinas; dan
-c.
-tetap melaksanakan kewajibannya sampai tanggal mulai pengunduran diri.
+http://example.org/legal/document/PERGUB33-2020
+http://example.org/legal/ontology/sekretaris
+SEKRETARIS DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA, SAEFULLAH
