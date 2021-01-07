@@ -1,0 +1,40 @@
+http://example.org/legal/document/UU13-2003/pasal/66/ayat/2
+http://example.org/legal/ontology/description
+Penyedia jasa pekerja/buruh untuk kegiatan jasa penunjang atau kegiatan yang tidak
+berhubungan lang-sung dengan proses produksi harus memenuhi syarat sebagai berikut :
+
+http://example.org/legal/document/UU13-2003/pasal/143/ayat/2
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+http://example.org/legal/ontology/Ayat
+
+http://example.org/legal/document/UU13-2003/pasal/183
+http://example.org/legal/ontology/partOf
+http://example.org/legal/document/UU13-2003/bab/16/bagian/1
+
+http://example.org/legal/document/UU13-2003/pasal/93/ayat/3/point/b
+http://example.org/legal/ontology/partOf
+http://example.org/legal/document/UU13-2003/pasal/93/ayat/3
+
+http://example.org/legal/document/UU13-2003/pasal/140/ayat/2
+http://example.org/legal/ontology/hasKey
+2
+
+http://example.org/legal/document/UU13-2003/pasal/154/point/d
+http://example.org/legal/ontology/hasKey
+d
+
+http://example.org/legal/document/UU13-2003/pasal/7
+http://example.org/legal/ontology/partOf
+http://example.org/legal/document/UU13-2003/bab/4
+
+http://example.org/legal/document/UU13-2003/bab/11/bagian/3
+http://example.org/legal/ontology/hasJudul
+Organisasi Pengusaha
+
+http://example.org/legal/document/UU13-2003/pasal/79/ayat/1
+http://example.org/legal/ontology/hasKey
+1
+
+http://example.org/legal/document/UU13-2003/pasal/2
+http://example.org/legal/ontology/partOf
+http://example.org/legal/document/UU13-2003/bab/2

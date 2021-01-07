@@ -15,9 +15,10 @@ def babs_to_triple(
 ) -> Triples:
     babN = doc + f'/bab/{bab._key}'
     return [
-        (doc, ONS.hasBab, babN),
+        (babN, PartOf, doc),
         (babN, ONS.hasJudul, Literal(bab._judul, datatype=XSD.string)),
         (babN, ONS.hasKey, Literal(bab._key, datatype=XSD.integer)),
+        (babN, RDF.type, ONS.Bab),
         *bab_content_to_triple(bab.isi, babN, doc)
     ]
 
