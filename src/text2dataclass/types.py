@@ -25,6 +25,7 @@ StrsOrPoints = Union[Iterable[str], Points, str]
 class Ayat:
     _key: int
     isi: StrsOrPoints
+    text: str
     _type: Literal['ayat'] = 'ayat'
 
 

@@ -14,12 +14,13 @@ def extract_pasal_content(lines: Iterable[str]) -> PasalContent:
     # extract ayat
     if is_ayat_start(list(lines)[0]):
         ayat_strs = extract_to_increment_key_list(lines, get_ayat_key_int)
+        texts = ["\n".join(x) for x in ayat_strs]
         keys, contents = extract_prefixed_keys(ayat_strs, ayat_regex)
         keys = [get_ayat_key_int(x) for x in keys]
         keys = [x for x in keys if x is not None]
         contents = [extract_point(c) for c in contents]
         assert len(keys) == len(contents)
-        return [Ayat(_key=key, isi=isi) for key, isi in zip(keys, contents)]
+        return [Ayat(_key=key, isi=isi, text=text) for key, isi, text in zip(keys, contents, texts)]
     return extract_point(lines)
 
 

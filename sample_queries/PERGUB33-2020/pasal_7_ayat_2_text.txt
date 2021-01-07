@@ -1,0 +1,6 @@
+http://example.org/legal/document/PERGUB33-2020/pasal/7
+http://example.org/legal/document/PERGUB33-2020/pasal/7/ayat/2
+(2) Penghentian sementara kegiatan di institusi pendidikan
+lainnya sebagaimana dimaksud pada ayat (1), dikecualikan
+bagi lembaga pendidikan, pelatihan, penelitian yang berkaitan
+dengan pelayanan kesehatan.

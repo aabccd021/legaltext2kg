@@ -370,16 +370,28 @@
 <http://example.org/legal/document/PERGUB33-2020/pasal/11/ayat/1> a legal:Ayat ;
     legal:hasContent "Selama pemberlakuan PSBB, dilakukan penghentian sementara kegiatan keagamaan di rumah ibadah dan/atau di tempat tertentu."^^xsd:string ;
     legal:hasKey 1 ;
+    legal:hasText """(1) Selama pemberlakuan PSBB, dilakukan penghentian
+sementara kegiatan keagamaan di rumah ibadah dan/atau di
+tempat tertentu."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/11> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/11/ayat/2> a legal:Ayat ;
     legal:hasContent "Selama penghentian sementara kegiatan keagamaan di rumah ibadah dan/ atau di tempat tertentu sebagaimana dimaksud pada ayat (1), kegiatan keagamaan dilakukan di rumah masing-masing."^^xsd:string ;
     legal:hasKey 2 ;
+    legal:hasText """(2) Selama penghentian sementara kegiatan keagamaan di rumah
+ibadah dan/ atau di tempat tertentu sebagaimana dimaksud
+pada ayat (1), kegiatan keagamaan dilakukan di rumah
+masing-masing."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/11> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/11/ayat/3> a legal:Ayat ;
     legal:hasContent "Selama penghentian sementara kegiatan keagamaan di rumah ibadah dan/atau di tempat tertentu sebagaimana dimaksud pada ayat (1), kegiatan penanda waktu ibadah seperti adzan, lonceng, dan/atau penanda waktu lainnya dilaksanakan seperti biasa."^^xsd:string ;
     legal:hasKey 3 ;
+    legal:hasText """(3) Selama penghentian sementara kegiatan keagamaan di rumah
+ibadah dan/atau di tempat tertentu sebagaimana dimaksud
+pada ayat (1), kegiatan penanda waktu ibadah seperti adzan,
+lonceng, dan/atau penanda waktu lainnya dilaksanakan
+seperti biasa."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/11> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/12/ayat/1/point/a> a legal:Point ;
@@ -415,6 +427,9 @@
 <http://example.org/legal/document/PERGUB33-2020/pasal/13/ayat/1> a legal:Ayat ;
     legal:hasContent "Selama pemberlakuan PSBB, penduduk dilarang melakukan kegiatan dengan jumlah lebih dari 5 (lima) orang di tempat atau fasilitas umum."^^xsd:string ;
     legal:hasKey 1 ;
+    legal:hasText """(1) Selama pemberlakuan PSBB, penduduk dilarang melakukan
+kegiatan dengan jumlah lebih dari 5 (lima) orang di tempat
+atau fasilitas umum."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/13> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/13/ayat/2/point/a> a legal:Point ;
@@ -505,6 +520,10 @@
 <http://example.org/legal/document/PERGUB33-2020/pasal/15/ayat/1> a legal:Ayat ;
     legal:hasContent "Kegiatan olahraga secara mandiri sebagaimana dimaksud dalam Pasal 13 ayat (3) huruf b, dapat dilakukan secara terbatas oleh penduduk di luar rumah selama pemberlakuan PSBB."^^xsd:string ;
     legal:hasKey 1 ;
+    legal:hasText """(1) Kegiatan olahraga secara mandiri sebagaimana dimaksud
+dalam Pasal 13 ayat (3) huruf b, dapat dilakukan secara
+terbatas oleh penduduk di luar rumah selama pemberlakuan
+PSBB."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/15> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/15/ayat/2/point/a> a legal:Point ;
@@ -520,6 +539,9 @@
 <http://example.org/legal/document/PERGUB33-2020/pasal/16/ayat/1> a legal:Ayat ;
     legal:hasContent "Selama pemberlakuan PSBB, dilakukan penghentian sementara atas kegiatan sosial dan budaya yang menimbulkan kerumunan orang."^^xsd:string ;
     legal:hasKey 1 ;
+    legal:hasText """(1) Selama pemberlakuan PSBB, dilakukan penghentian sementara
+atas kegiatan sosial dan budaya yang menimbulkan
+kerumunan orang."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/16> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/16/ayat/2/point/a> a legal:Point ;
@@ -620,6 +642,10 @@
 <http://example.org/legal/document/PERGUB33-2020/pasal/17/ayat/5> a legal:Ayat ;
     legal:hasContent "Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat Provinsi dapat menambahkan kategori kegiatan penduduk yang dikecualikan dari penghentian atas kegiatan sosial dan budaya sebagaimana dimaksud pada ayat (1)."^^xsd:string ;
     legal:hasKey 5 ;
+    legal:hasText """(5) Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat
+Provinsi dapat menambahkan kategori kegiatan penduduk
+yang dikecualikan dari penghentian atas kegiatan sosial dan
+budaya sebagaimana dimaksud pada ayat (1)."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/17> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/18/ayat/1/point/a> a legal:Point ;
@@ -650,6 +676,9 @@
 <http://example.org/legal/document/PERGUB33-2020/pasal/18/ayat/3> a legal:Ayat ;
     legal:hasContent "Dikecualikan dari penghentian 	sementara kegiatan pergerakan barang sebagaimana dimaksud pada ayat (1), untuk semua jenis moda transportasi."^^xsd:string ;
     legal:hasKey 3 ;
+    legal:hasText """(3) Dikecualikan dari penghentian 	sementara kegiatan
+pergerakan barang sebagaimana dimaksud pada ayat (1),
+untuk semua jenis moda transportasi."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/18> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/18/ayat/4/point/a> a legal:Point ;
@@ -700,6 +729,8 @@
 <http://example.org/legal/document/PERGUB33-2020/pasal/18/ayat/6> a legal:Ayat ;
     legal:hasContent "Angkutan roda dua berbasis aplikasi dibatasi penggunaannya hanya untuk pengangkutan barang."^^xsd:string ;
     legal:hasKey 6 ;
+    legal:hasText """(6) Angkutan roda dua berbasis aplikasi dibatasi penggunaannya
+hanya untuk pengangkutan barang."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/18> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/18/ayat/7/point/a> a legal:Point ;
@@ -735,6 +766,12 @@
 <http://example.org/legal/document/PERGUB33-2020/pasal/18/ayat/8> a legal:Ayat ;
     legal:hasContent "Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat Provinsi dapat menambahkan menambahkan jenis moda transportasi yang dikecualikan dari penghentian sementara moda transportasi untuk pergerakan orang dan/atau barang sebagaimana dimaksud pada ayat (2) dan ayat (3). 16"^^xsd:string ;
     legal:hasKey 8 ;
+    legal:hasText """(8) Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat
+Provinsi dapat menambahkan menambahkan jenis moda
+transportasi yang dikecualikan dari penghentian sementara
+moda transportasi untuk pergerakan orang dan/atau barang
+sebagaimana dimaksud pada ayat (2) dan ayat (3).
+16"""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/18> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/19/ayat/1/point/a> a legal:Point ;
@@ -765,6 +802,10 @@
 <http://example.org/legal/document/PERGUB33-2020/pasal/19/ayat/2> a legal:Ayat ;
     legal:hasContent "Pelaksanaan pemenuhan hak sebagaimana dimaksud pada ayat (1) mengikuti petunjuk teknis yang ditetapkan oleh Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat Provinsi."^^xsd:string ;
     legal:hasKey 2 ;
+    legal:hasText """(2) Pelaksanaan pemenuhan hak sebagaimana dimaksud pada
+ayat (1) mengikuti petunjuk teknis yang ditetapkan oleh Ketua
+Gugus Tugas Percepatan Penanganan COVID-19 tingkat
+Provinsi."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/19> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/2> a legal:Pasal ;
@@ -809,26 +850,42 @@ Virus Disease (COVID-19) di Provinsi DKI Jakarta."""^^xsd:integer ;
 <http://example.org/legal/document/PERGUB33-2020/pasal/20/ayat/3> a legal:Ayat ;
     legal:hasContent "Pelaksanaan kewajiban sebagaimana dimaksud pada ayat (2) harus mengikuti petunjuk teknis yang ditetapkan oleh Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat Provinsi."^^xsd:string ;
     legal:hasKey 3 ;
+    legal:hasText """(3) Pelaksanaan kewajiban sebagaimana dimaksud pada ayat (2)
+harus mengikuti petunjuk teknis yang ditetapkan oleh Ketua
+Gugus Tugas Percepatan Penanganan COVID-19 tingkat
+Provinsi."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/20> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/21/ayat/1> a legal:Ayat ;
     legal:hasContent "Pemerintah Provinsi DKI Jakarta dapat memberikan bantuan sosial kepada penduduk rentan yang terdampak dalam memenuhi kebutuhan pokoknya selama pelaksanaan PSBB."^^xsd:string ;
     legal:hasKey 1 ;
+    legal:hasText """(1) Pemerintah Provinsi DKI Jakarta dapat memberikan bantuan
+sosial kepada penduduk rentan yang terdampak dalam
+memenuhi kebutuhan pokoknya selama pelaksanaan PSBB."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/21> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/21/ayat/2> a legal:Ayat ;
     legal:hasContent "Bantuan sosial sebagaimana dimaksud pada ayat (1) diberikan dalam bentuk bahan pokok dan/ atau bantuan langsung lainnya yang mekanisme penyalurannya sesuai dengan ketentuan peraturan perundang-undangan."^^xsd:string ;
     legal:hasKey 2 ;
+    legal:hasText """(2) Bantuan sosial sebagaimana dimaksud pada ayat (1) diberikan
+dalam bentuk bahan pokok dan/ atau bantuan langsung
+lainnya yang mekanisme penyalurannya sesuai dengan
+ketentuan peraturan perundang-undangan."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/21> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/21/ayat/3> a legal:Ayat ;
     legal:hasContent "Penetapan penerima bantuan sosial sebagaimana dimaksud pada ayat (2) ditetapkan dengan Keputusan Gubernur."^^xsd:string ;
     legal:hasKey 3 ;
+    legal:hasText """(3) Penetapan penerima bantuan sosial sebagaimana dimaksud
+pada ayat (2) ditetapkan dengan Keputusan Gubernur."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/21> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/22/ayat/1> a legal:Ayat ;
     legal:hasContent "Pemerintah Provinsi DKI Jakarta dapat memberikan insentif kepada Pelaku Usaha yang terdampak atas pelaksanaan PSBB."^^xsd:string ;
     legal:hasKey 1 ;
+    legal:hasText """(1) Pemerintah Provinsi DKI Jakarta dapat memberikan insentif
+kepada Pelaku Usaha yang terdampak atas pelaksanaan
+PSBB."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/22> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/22/ayat/2/point/a> a legal:Point ;
@@ -849,16 +906,30 @@ Virus Disease (COVID-19) di Provinsi DKI Jakarta."""^^xsd:integer ;
 <http://example.org/legal/document/PERGUB33-2020/pasal/23/ayat/1> a legal:Ayat ;
     legal:hasContent "Dalam 	rangka 	melaksanakan 	penanganan 	dan penanggulangan Corona Virus Disease (COVID-19) di Provinsi DKI Jakarta, Pemerintah Provinsi DKI Jakarta menyusun basis data dan informasi kebutuhan penyediaan dan penyaluran sumber daya."^^xsd:string ;
     legal:hasKey 1 ;
+    legal:hasText """(1) Dalam 	rangka 	melaksanakan 	penanganan 	dan
+penanggulangan Corona Virus Disease (COVID-19) di Provinsi
+DKI Jakarta, Pemerintah Provinsi DKI Jakarta menyusun
+basis data dan informasi kebutuhan penyediaan dan
+penyaluran sumber daya."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/23> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/23/ayat/2> a legal:Ayat ;
     legal:hasContent "Prosedur dan penggunaan sistem informasi dalam rangka penyediaan dan penyaluran sumber daya sebagaimana dimaksud pada ayat (1) ditetapkan oleh Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat Provinsi. 18"^^xsd:string ;
     legal:hasKey 2 ;
+    legal:hasText """(2) Prosedur dan penggunaan sistem informasi dalam rangka
+penyediaan dan penyaluran sumber daya sebagaimana
+dimaksud pada ayat (1) ditetapkan oleh Ketua Gugus Tugas
+Percepatan Penanganan COVID-19 tingkat Provinsi.
+18"""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/23> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/24/ayat/1> a legal:Ayat ;
     legal:hasContent "Pemerintah Provinsi DKI Jakarta dapat melakukan kolaborasi kelembagaan dalam pelaksanaan PSBB dengan berbagai pihak sesuai dengan ketentuan peraturan perundang- undangan."^^xsd:string ;
     legal:hasKey 1 ;
+    legal:hasText """(1) Pemerintah Provinsi DKI Jakarta dapat melakukan kolaborasi
+kelembagaan dalam pelaksanaan PSBB dengan berbagai
+pihak sesuai dengan ketentuan peraturan perundang-
+undangan."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/24> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/24/ayat/2/point/a> a legal:Point ;
@@ -884,11 +955,19 @@ Virus Disease (COVID-19) di Provinsi DKI Jakarta."""^^xsd:integer ;
 <http://example.org/legal/document/PERGUB33-2020/pasal/25/ayat/1> a legal:Ayat ;
     legal:hasContent "Pemantauan dan evaluasi terhadap pelaksanaan PSBB dilakukan dalam rangka menilai keberhasilan pelaksanaan PSBB dalam memutus rantai penularan Corona Virus Disease (COVID-19)."^^xsd:string ;
     legal:hasKey 1 ;
+    legal:hasText """(1) Pemantauan dan evaluasi terhadap pelaksanaan PSBB
+dilakukan dalam rangka menilai keberhasilan pelaksanaan
+PSBB dalam memutus rantai penularan Corona Virus Disease
+(COVID-19)."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/25> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/25/ayat/2> a legal:Ayat ;
     legal:hasContent "Pemantauan dan evaluasi sebagaimana dimaksud pada ayat (1) dilakukan oleh Gugus Tugas COVID-19 sesuai tingkatan wilayah melalui pemantauan atau pemeriksaan ke lapangan sesuai dengan wewenang dan tanggung jawab."^^xsd:string ;
     legal:hasKey 2 ;
+    legal:hasText """(2) Pemantauan dan evaluasi sebagaimana dimaksud pada ayat
+(1) dilakukan oleh Gugus Tugas COVID-19 sesuai tingkatan
+wilayah melalui pemantauan atau pemeriksaan ke lapangan
+sesuai dengan wewenang dan tanggung jawab."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/25> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/25/ayat/3/point/a> a legal:Point ;
@@ -909,16 +988,29 @@ Virus Disease (COVID-19) di Provinsi DKI Jakarta."""^^xsd:integer ;
 <http://example.org/legal/document/PERGUB33-2020/pasal/26/ayat/1> a legal:Ayat ;
     legal:hasContent "Dalam pelaksanaan PSBB, masyarakat, Rukun Tetangga dan Rukun Warga turut berpartisipasi aktif melakukan pemantauan pelaksanaan PSBB."^^xsd:string ;
     legal:hasKey 1 ;
+    legal:hasText """(1) Dalam pelaksanaan PSBB, masyarakat, Rukun Tetangga dan
+Rukun Warga turut berpartisipasi aktif melakukan
+pemantauan pelaksanaan PSBB."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/26> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/26/ayat/2> a legal:Ayat ;
     legal:hasContent "Pemantauan pelaksanaan PSBB sebagaimana dimaksud pada ayat (1) dilaporkan melalui kanal penanganan pengaduan masyarakat yang dimiliki oleh Pemerintah Provinsi DKI Jakarta."^^xsd:string ;
     legal:hasKey 2 ;
+    legal:hasText """(2) Pemantauan pelaksanaan PSBB sebagaimana dimaksud pada
+ayat (1) dilaporkan melalui kanal penanganan pengaduan
+masyarakat yang dimiliki oleh Pemerintah Provinsi DKI
+Jakarta."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/26> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/26/ayat/3> a legal:Ayat ;
     legal:hasContent "Hasil pelaporan oleh masyarakat sebagaimana dimaksud pada ayat (2) ditindaklanjuti oleh Gugus Tugas COVID-19 tingkatan wilayah sesuai dengan kewenangan dan tanggung jawab. 19 BAB VII SANKSI"^^xsd:string ;
     legal:hasKey 3 ;
+    legal:hasText """(3) Hasil pelaporan oleh masyarakat sebagaimana dimaksud pada
+ayat (2) ditindaklanjuti oleh Gugus Tugas COVID-19 tingkatan
+wilayah sesuai dengan kewenangan dan tanggung jawab.
+19
+BAB VII
+SANKSI"""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/26> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/27> a legal:Pasal ;
@@ -988,11 +1080,18 @@ Daerah Provinsi Daerah Khusus Ibukota Jakarta."""^^xsd:integer ;
 <http://example.org/legal/document/PERGUB33-2020/pasal/5/ayat/1> a legal:Ayat ;
     legal:hasContent "Dalam upaya mencegah meluasnya penyebaran Corona Virus Disease (COVID-19), Gubernur memberlakukan PSBB di Provinsi DKI Jakarta."^^xsd:string ;
     legal:hasKey 1 ;
+    legal:hasText """(1) Dalam upaya mencegah meluasnya penyebaran Corona Virus
+Disease (COVID-19), Gubernur memberlakukan PSBB di
+Provinsi DKI Jakarta."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/5> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/5/ayat/2> a legal:Ayat ;
     legal:hasContent "PSBB sebagaimana dimaksud pada ayat (1) dilakukan dalam bentuk pembatasan aktivitas luar rumah yang dilakukan oleh setiap orang yang berdomisili dan/ atau berkegiatan di Provinsi DKI Jakarta."^^xsd:string ;
     legal:hasKey 2 ;
+    legal:hasText """(2) PSBB sebagaimana dimaksud pada ayat (1) dilakukan dalam
+bentuk pembatasan aktivitas luar rumah yang dilakukan oleh
+setiap orang yang berdomisili dan/ atau berkegiatan di
+Provinsi DKI Jakarta."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/5> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/5/ayat/3/point/a> a legal:Point ;
@@ -1038,31 +1137,52 @@ Daerah Provinsi Daerah Khusus Ibukota Jakarta."""^^xsd:integer ;
 <http://example.org/legal/document/PERGUB33-2020/pasal/5/ayat/5> a legal:Ayat ;
     legal:hasContent "Koordinasi, pengerahan sumber daya dan operasional pelaksanaan PSBB sebagaimana dimaksud pada ayat (1) dilakukan oleh Gugus Tugas Percepatan Penanganan COVID- 19 tingkat Provinsi."^^xsd:string ;
     legal:hasKey 5 ;
+    legal:hasText """(5) Koordinasi, pengerahan sumber daya dan operasional
+pelaksanaan PSBB sebagaimana dimaksud pada ayat (1)
+dilakukan oleh Gugus Tugas Percepatan Penanganan COVID-
+19 tingkat Provinsi."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/5> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/5/ayat/6> a legal:Ayat ;
     legal:hasContent "Jangka waktu pemberlakuan PSBB sebagaimana dimaksud pada ayat (1) ditetapkan dengan Keputusan Gubernur."^^xsd:string ;
     legal:hasKey 6 ;
+    legal:hasText """(6) Jangka waktu pemberlakuan PSBB sebagaimana dimaksud
+pada ayat (1) ditetapkan dengan Keputusan Gubernur."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/5> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/6/ayat/1> a legal:Ayat ;
     legal:hasContent "Selama pemberlakuan PSBB, dilakukan penghentian sementara kegiatan di sekolah dan/atau institusi pendidikan lainnya."^^xsd:string ;
     legal:hasKey 1 ;
+    legal:hasText """(1) Selama pemberlakuan PSBB, dilakukan penghentian
+sementara kegiatan di sekolah dan/atau institusi pendidikan
+lainnya."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/6> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/6/ayat/2> a legal:Ayat ;
     legal:hasContent "Dalam pelaksanaan penghentian sementara kegiatan di sekolah sebagaimana dimaksud pada ayat (1), semua aktivitas pembelajaran diubah pelaksanaannya dengan melakukan pembelajaran di rumah/tempat tinggal masing-masing melalui metode pembelajaran jarak jauh."^^xsd:string ;
     legal:hasKey 2 ;
+    legal:hasText """(2) Dalam pelaksanaan penghentian sementara kegiatan di
+sekolah sebagaimana dimaksud pada ayat (1), semua aktivitas
+pembelajaran diubah pelaksanaannya dengan melakukan
+pembelajaran di rumah/tempat tinggal masing-masing melalui
+metode pembelajaran jarak jauh."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/6> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/6/ayat/3> a legal:Ayat ;
     legal:hasContent "Kegiatan dan aktivitas pelayanan administrasi sekolah dikerjakan dari rumah dengan bentuk pelayanan yang disesuaikan."^^xsd:string ;
     legal:hasKey 3 ;
+    legal:hasText """(3) Kegiatan dan aktivitas pelayanan administrasi sekolah
+dikerjakan dari rumah dengan bentuk pelayanan yang
+disesuaikan."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/6> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/6/ayat/4> a legal:Ayat ;
     legal:hasContent "Teknis pelaksanaan dan evaluasi pembelajaran serta pelayanan administrasi sekolah selama pemberlakuan PSBB diatur lebih lanjut oleh Perangkat Daerah yang bertanggung jawab di bidang pendidikan."^^xsd:string ;
     legal:hasKey 4 ;
+    legal:hasText """(4) Teknis pelaksanaan dan evaluasi pembelajaran serta
+pelayanan administrasi sekolah selama pemberlakuan PSBB
+diatur lebih lanjut oleh Perangkat Daerah yang bertanggung
+jawab di bidang pendidikan."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/6> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/7/ayat/1/point/a> a legal:Point ;
@@ -1093,11 +1213,20 @@ Daerah Provinsi Daerah Khusus Ibukota Jakarta."""^^xsd:integer ;
 <http://example.org/legal/document/PERGUB33-2020/pasal/7/ayat/2> a legal:Ayat ;
     legal:hasContent "Penghentian sementara kegiatan di institusi pendidikan lainnya sebagaimana dimaksud pada ayat (1), dikecualikan bagi lembaga pendidikan, pelatihan, penelitian yang berkaitan dengan pelayanan kesehatan."^^xsd:string ;
     legal:hasKey 2 ;
+    legal:hasText """(2) Penghentian sementara kegiatan di institusi pendidikan
+lainnya sebagaimana dimaksud pada ayat (1), dikecualikan
+bagi lembaga pendidikan, pelatihan, penelitian yang berkaitan
+dengan pelayanan kesehatan."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/7> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/7/ayat/3> a legal:Ayat ;
     legal:hasContent "Dalam pelaksanaan penghentian sementara kegiatan di institusi pendidikan lainnya sebagaimana dimaksud pada ayat (1), kegiatan, aktivitas pembelajaran, dan pelayanan administrasi dilaksanakan secara daring dari rumah sesuai ketentuan teknis dari instansi terkait."^^xsd:string ;
     legal:hasKey 3 ;
+    legal:hasText """(3) Dalam pelaksanaan penghentian sementara kegiatan di
+institusi pendidikan lainnya sebagaimana dimaksud pada ayat
+(1), kegiatan, aktivitas pembelajaran, dan pelayanan
+administrasi dilaksanakan secara daring dari rumah sesuai
+ketentuan teknis dari instansi terkait."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/7> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/8/ayat/1/point/a> a legal:Point ;
@@ -1128,11 +1257,17 @@ Daerah Provinsi Daerah Khusus Ibukota Jakarta."""^^xsd:integer ;
 <http://example.org/legal/document/PERGUB33-2020/pasal/9/ayat/1> a legal:Ayat ;
     legal:hasContent "Selama pemberlakuan PSBB, dilakukan penghentian sementara aktivitas bekerja di tempat kerja/kantor."^^xsd:string ;
     legal:hasKey 1 ;
+    legal:hasText """(1) Selama pemberlakuan PSBB, dilakukan penghentian
+sementara aktivitas bekerja di tempat kerja/kantor."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/9> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/9/ayat/2> a legal:Ayat ;
     legal:hasContent "Selama penghentian sementara aktivitas bekerja di tempat kerja/kantor sebagaimana dimaksud pada ayat (1), wajib mengganti aktivitas bekerja di tempat kerja dengan aktivitas bekerja di rumah/tempat tinggal."^^xsd:string ;
     legal:hasKey 2 ;
+    legal:hasText """(2) Selama penghentian sementara aktivitas bekerja di tempat
+kerja/kantor sebagaimana dimaksud pada ayat (1), wajib
+mengganti aktivitas bekerja di tempat kerja dengan aktivitas
+bekerja di rumah/tempat tinggal."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/9> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/9/ayat/3/point/a> a legal:Point ;
@@ -1472,12 +1607,35 @@ Dikecualikan dari larangan kegiatan di tempat atau fasilitas
 umum sebagaimana dimaksud pada ayat (1), kegiatan
 penduduk untuk:"""^^xsd:string ;
     legal:hasKey 2 ;
+    legal:hasText """(2) Pengelola tempat atau fasilitas umum wajib menutup
+sementara tempat atau fasilitas umum untuk kegiatan
+penduduk selama pemberlakuan PSBB.
+Dikecualikan dari larangan kegiatan di tempat atau fasilitas
+umum sebagaimana dimaksud pada ayat (1), kegiatan
+penduduk untuk:
+a. memenuhi kebutuhan pokok dan/atau kebutuhan sehari-
+hari; dan
+b. melakukan kegiatan olahraga secara mandiri.
+(4) Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat
+Provinsi dapat menambahkan kategori kegiatan penduduk
+yang dikecualikan dari larangan kegiatan di tempat atau
+fasilitas umum sebagaimana dimaksud pada ayat (3)."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/13> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/14/ayat/2> a legal:Ayat ;
     legal:description """Pemenuhan kebutuhan sehari-hari sebagaimana dimaksud
 dalam Pasal 13 ayat (3) huruf a, meliputi:"""^^xsd:string ;
     legal:hasKey 2 ;
+    legal:hasText """(2) Pemenuhan kebutuhan sehari-hari sebagaimana dimaksud
+dalam Pasal 13 ayat (3) huruf a, meliputi:
+a. penyediaan barang retail di:
+1. pasar rakyat;
+2. toko swalayan, berjenis minimarket, supermarket,
+hypermarket, perkulakan dan toko khusus baik yang
+berdiri sendiri maupun yang berada di pusat
+perbelanjaan; atau
+3. toko/warung kelontong.
+b. jasa binatu (laundry)."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/14> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/15> a legal:Pasal ;
@@ -1498,6 +1656,11 @@ tinggal."""^^xsd:integer ;
     legal:description """Kegiatan olahraga secara mandiri sebagaimana dimaksud
 pada ayat (1), dilaksanakan dengan ketentuan:"""^^xsd:string ;
     legal:hasKey 2 ;
+    legal:hasText """(2) Kegiatan olahraga secara mandiri sebagaimana dimaksud
+pada ayat (1), dilaksanakan dengan ketentuan:
+a. dilakukan secara mandiri dan tidak berkelompok; dan
+b. dilaksanakan secara terbatas pada area sekitar rumah
+tinggal."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/15> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/16> a legal:Pasal ;
@@ -1520,6 +1683,10 @@ e. budaya."""^^xsd:integer ;
     legal:description """Selama pemberlakuan PSBB, semua kegiatan pergerakan
 orang dan/atau barang dihentikan sementara, kecuali untuk:"""^^xsd:string ;
     legal:hasKey 1 ;
+    legal:hasText """(1) Selama pemberlakuan PSBB, semua kegiatan pergerakan
+orang dan/atau barang dihentikan sementara, kecuali untuk:
+a. pemenuhan kebutuhan pokok; dan
+b. kegiatan yang diperbolehkan selama pemberlakuan PSBB."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/18> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/19> a legal:Pasal ;
@@ -1593,6 +1760,10 @@ d. jasa dan/atau dukungan lain."""^^xsd:integer ;
 <http://example.org/legal/document/PERGUB33-2020/pasal/5/ayat/3> a legal:Ayat ;
     legal:description "Selama pemberlakuan PSBB, setiap orang wajib:"^^xsd:string ;
     legal:hasKey 3 ;
+    legal:hasText """(3) Selama pemberlakuan PSBB, setiap orang wajib:
+a. melaksanakan Perilaku Hidup Bersih dan Sehat (PHBS);
+dan
+b. menggunakan masker di luar rumah."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/5> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/8> a legal:Pasal ;
@@ -1626,6 +1797,15 @@ lainnya."""^^xsd:integer ;
 pendidikan lainnya sebagaimana dimaksud pada ayat (1)
 huruf b dilakukan secara berkala dengan cara:"""^^xsd:string ;
     legal:hasKey 2 ;
+    legal:hasText """(2) Upaya pencegahan penyebaran Corona Virus Disease (COVID-
+19) di lokasi dan lingkungan sekolah dan/atau institusi
+pendidikan lainnya sebagaimana dimaksud pada ayat (1)
+huruf b dilakukan secara berkala dengan cara:
+a. membersihkan dan melakukan disinfeksi sarana dan
+prasarana sekolah; dan
+b. menerapkan protokol pencegahan penyebaran Corona Virus
+Disease (COVID-19) bagi pendidik dan tenaga kependidikan
+lainnya."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/8> .
 
 <http://example.org/legal/document/PERGUB33-2020/bab/4/bagian/2> a legal:Bagian ;
@@ -1683,6 +1863,14 @@ seperti biasa."""^^xsd:integer ;
     legal:description """Selama pemberlakuan PSBB, penanggung jawab rumah
 ibadah wajib:"""^^xsd:string ;
     legal:hasKey 1 ;
+    legal:hasText """(1) Selama pemberlakuan PSBB, penanggung jawab rumah
+ibadah wajib:
+a. memberikan edukasi atau pengertian kepada jamaah
+masing-masing untuk tetap melakukan kegiataan
+keagamaan di rumah;
+b. melakukan pencegahan penyebaran Corona Virus Disease
+(COVID-19) di rumah ibadah masing-masing; dan
+c. menjaga keamanan rumah ibadah masing-masing."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/12> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/12/ayat/2> a legal:Ayat ;
@@ -1690,6 +1878,15 @@ ibadah wajib:"""^^xsd:string ;
 19) di rumah ibadah sebagaimana dimaksud pada ayat (1)
 huruf b dilakukan secara berkala dengan cara:"""^^xsd:string ;
     legal:hasKey 2 ;
+    legal:hasText """(2) Upaya pencegahan penyebaran Corona Virus Disease (COVID-
+19) di rumah ibadah sebagaimana dimaksud pada ayat (1)
+huruf b dilakukan secara berkala dengan cara:
+a. membersihkan rumah ibadah dan lingkungan sekitarnya;
+b. melakukan disinfeksi pada lantai, dinding, dan perangkat
+bangunan rumah ibadah; dan
+c. menutup akses masuk bagi pihak-pihak yang tidak
+berkepentingan.
+12"""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/12> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/14> a legal:Pasal ;
@@ -1750,6 +1947,15 @@ konsumen dan karyawan."""^^xsd:integer ;
 budaya sebagaimana dimaksud dalam Pasal 16 ayat (1),
 untuk kegiatan:"""^^xsd:string ;
     legal:hasKey 1 ;
+    legal:hasText """(1) Dikecualikan dari penghentian atas kegiatan sosial dan
+budaya sebagaimana dimaksud dalam Pasal 16 ayat (1),
+untuk kegiatan:
+a. khitan;
+b. pernikahan; dan
+c. pemakaman dan/ atau takziah kematian yang bukan karena
+Corona Virus Disease (COVID- 19).
+g.
+14"""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/17> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/17/ayat/4> a legal:Ayat ;
@@ -1758,6 +1964,14 @@ yang bukan karena Corona Virus Disease (COVID- 19)
 sebagaimana dimaksud pada ayat (1) huruf c, dilaksanakan
 dengan ketentuan:"""^^xsd:string ;
     legal:hasKey 4 ;
+    legal:hasText """(4) Pelaksanaan kegiatan pemakaman dan/atau takziah kematian
+yang bukan karena Corona Virus Disease (COVID- 19)
+sebagaimana dimaksud pada ayat (1) huruf c, dilaksanakan
+dengan ketentuan:
+a. dilakukan di rumah duka;
+b. dihadiri oleh kalangan terbatas; dan
+c. menjaga jarak antar pihak yang hadir (physical distancing)
+paling sedikit dalam rentang 1 (satu) meter."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/17> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/18/ayat/2> a legal:Ayat ;
@@ -1765,6 +1979,13 @@ dengan ketentuan:"""^^xsd:string ;
 pergerakan orang sebagaimana dimaksud pada ayat (1), untuk
 jenis moda transportasi:"""^^xsd:string ;
     legal:hasKey 2 ;
+    legal:hasText """(2) Dikecualikan dari penghentian 	sementara kegiatan
+pergerakan orang sebagaimana dimaksud pada ayat (1), untuk
+jenis moda transportasi:
+a. kendaraan bermotor pribadi;
+b. angkutan orang dengan kendaraan bermotor umum; dan
+c. angkutan perkeretaapian.
+15"""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/18> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/20> a legal:Pasal ;
@@ -1799,12 +2020,31 @@ Provinsi."""^^xsd:integer ;
     legal:description """Selama pemberlakuan PSBB, setiap penduduk di Provinsi DKI
 Jakarta wajib:"""^^xsd:string ;
     legal:hasKey 1 ;
+    legal:hasText """(1) Selama pemberlakuan PSBB, setiap penduduk di Provinsi DKI
+Jakarta wajib:
+a. mematuhi seluruh ketentuan di dalam pelaksanaan PSBB;
+b. ikut serta dalam pelaksanaan PSBB; dan
+c. melaksanakan perilaku hidup bersih dan sehat (PHBS)."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/20> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/20/ayat/2> a legal:Ayat ;
     legal:description """Dalam hal penanganan Corona Virus Disease (COVID-19),
 setiap penduduk wajib:"""^^xsd:string ;
     legal:hasKey 2 ;
+    legal:hasText """(2) Dalam hal penanganan Corona Virus Disease (COVID-19),
+setiap penduduk wajib:
+a. mengikuti testing dan pemeriksaan sampel untuk Corona
+Virus Disease (COVID-19) dalam penyelidikan epidemiologi
+(contact tracing) apabila telah ditetapkan untuk diperiksa
+oleh petugas;
+b. melakukan isolasi mandiri di tempat tinggal dan/atau
+shelter
+maupun perawatan di rumah sakit sesuai
+rekomendasi tenaga kesehatan; dan
+c. melaporkan kepada tenaga kesehatan apabila diri sendiri
+dan/atau keluarganya terpapar Corona Virus Disease
+(COVID- 19).
+17"""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/20> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/21> a legal:Pasal ;
@@ -1825,6 +2065,14 @@ pada ayat (2) ditetapkan dengan Keputusan Gubernur."""^^xsd:integer ;
     legal:description """Insentif sebagaimana dimaksud pada ayat (1) diberikan dalam
 bentuk:"""^^xsd:string ;
     legal:hasKey 2 ;
+    legal:hasText """(2) Insentif sebagaimana dimaksud pada ayat (1) diberikan dalam
+bentuk:
+a. pengurangan pajak dan retribusi daerah bagi pelaku
+usaha;
+b. pemberian bantuan sosial kepada karyawan yang
+terdampak atas pelaksanaan PSBB; dan/ atau
+c. bantuan lainnya sesuai dengan ketentuan peraturan
+perundang-undangan."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/22> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/25> a legal:Pasal ;
@@ -1849,6 +2097,11 @@ c. sebaran kasus."""^^xsd:integer ;
     legal:description """Penilaian keberhasilan pelaksanaan PSBB sebagaimana
 dimaksud pada ayat (1) didasarkan pada kriteria:"""^^xsd:string ;
     legal:hasKey 3 ;
+    legal:hasText """(3) Penilaian keberhasilan pelaksanaan PSBB sebagaimana
+dimaksud pada ayat (1) didasarkan pada kriteria:
+a. pelaksanaan PSBB sesuai dengan Peraturan Gubernur ini;
+b. jumlah kasus; dan
+c. sebaran kasus."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/25> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/26> a legal:Pasal ;
@@ -1896,6 +2149,17 @@ ketentuan teknis dari instansi terkait."""^^xsd:integer ;
 PSBB, penanggung jawab sekolah dan institusi pendidikan
 lainnya wajib:"""^^xsd:string ;
     legal:hasKey 1 ;
+    legal:hasText """(1) Dalam penghentian sementara kegiatan selama pemberlakuan
+PSBB, penanggung jawab sekolah dan institusi pendidikan
+lainnya wajib:
+a. memastikan proses pembelajaran tetap berjalan dan
+terpenuhinya hak peserta didik dalam mendapatkan
+pendidikan;
+b. melakukan pencegahan penyebaran Corona Virus Disease
+(COVID-19) di lokasi dan lingkungan sekolah dan/atau
+institusi pendidikan lainnya; dan
+c. menjaga keamanan sekolah dan/atau institusi pendidikan
+lainnya."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/8> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/9/ayat/4> a legal:Ayat ;
@@ -1904,30 +2168,70 @@ lainnya wajib:"""^^xsd:string ;
 dimaksud pada ayat (3) huruf c, dilakukan secara berkala
 dengan cara:"""^^xsd:string ;
     legal:hasKey 4 ;
+    legal:hasText """(4) Upaya pencegahan penyebaran Corona Virus Disease (COVID-
+19) di lokasi dan lingkungan tempat kerja sebagaimana
+dimaksud pada ayat (3) huruf c, dilakukan secara berkala
+dengan cara:
+a. membersihkan lingkungan tempat kerja;
+b. melakukan disinfeksi pada lantai, dinding dan perangkat
+bangunan tempat kerja; dan
+c. menutup akses masuk bagi pihak-pihak yang tidak
+berkepentingan."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/9> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/17/ayat/2> a legal:Ayat ;
     legal:description """Pelaksanaan kegiatan khitan sebagaimana dimaksud pada
 ayat (1) huruf a, dilaksanakan dengan ketentuan:"""^^xsd:string ;
     legal:hasKey 2 ;
+    legal:hasText """(2) Pelaksanaan kegiatan khitan sebagaimana dimaksud pada
+ayat (1) huruf a, dilaksanakan dengan ketentuan:
+a. dilakukan pada fasilitas pelayanan kesehatan;
+b. dihadiri oleh kalangan terbatas;
+c. meniadakan acara perayaan yang mengundang keramaian;
+dan
+d. menjaga jarak antar pihak yang hadir (physical distancing)
+paling sedikit dalam rentang 1 (satu) meter."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/17> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/17/ayat/3> a legal:Ayat ;
     legal:description """Pelaksanaan kegiatan pernikahan sebagaimana dimaksud
 pada ayat (1) huruf b, dilaksanakan dengan ketentuan:"""^^xsd:string ;
     legal:hasKey 3 ;
+    legal:hasText """(3) Pelaksanaan kegiatan pernikahan sebagaimana dimaksud
+pada ayat (1) huruf b, dilaksanakan dengan ketentuan:
+a. dilakukan di KUA dan/atau Kantor Catatan Sipil;
+b. dihadiri oleh kalangan terbatas;
+c. meniadakan acara resepsi pernikahan yang mengundang
+keramaian; dan
+d. menjaga jarak antar pihak yang hadir (physical distancing)
+paling sedikit dalam rentang 1 (satu) meter."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/17> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/18/ayat/5> a legal:Ayat ;
     legal:description """Pengguna sepeda motor pribadi diwajibkan untuk mengikuti
 ketentuan sebagai berikut:"""^^xsd:string ;
     legal:hasKey 5 ;
+    legal:hasText """(5) Pengguna sepeda motor pribadi diwajibkan untuk mengikuti
+ketentuan sebagai berikut:
+a. digunakan hanya untuk pemenuhan kebutuhan pokok
+dan/atau aktivitas lain yang diperbolehkan selama PSBB;
+b. melakukan disinfeksi kendaraan dan atribut setelah
+selesai digunakan,
+c. menggunakan masker dan sarung tangan; dan
+d. tidak berkendara jika sedang mengalami suhu badan
+diatas normal atau sakit."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/18> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/24/ayat/2> a legal:Ayat ;
     legal:description """Kolaborasi kelembagaan sebagaimana dimaksud pada ayat (1)
 dilakukan dalam bentuk:"""^^xsd:string ;
     legal:hasKey 2 ;
+    legal:hasText """(2) Kolaborasi kelembagaan sebagaimana dimaksud pada ayat (1)
+dilakukan dalam bentuk:
+a. dukungan sumber daya manusia;
+b. sarana dan prasarana;
+c. data dan informasi;
+d. jasa dan/atau dukungan lain."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/24> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/3> a legal:Pasal ;
@@ -2004,6 +2308,36 @@ berkepentingan."""^^xsd:integer ;
 tempat kerja/kantor sebagaimana dimaksud dalam Pasal 9
 ayat (1), bagi tempat kerja/kantor dengan kategori:"""^^xsd:string ;
     legal:hasKey 1 ;
+    legal:hasText """(1) Dikecualikan dari penghentian sementara aktivitas bekerja di
+tempat kerja/kantor sebagaimana dimaksud dalam Pasal 9
+ayat (1), bagi tempat kerja/kantor dengan kategori:
+a. seluruh kantor/instansi pemerintahan, baik pusat maupun
+daerah berdasarkan pengaturan dari kementerian terkait;
+b. kantor Perwakilan Negara Asing dan/atau Organisasi
+Internasional dalam menjalankan fungsi diplomatik dan
+konsuler serta fungsi lainnya sesuai ketentuan hukum
+internasional;
+c. Badan Usaha Milik Negara/Daerah yang turut serta dalam
+penanganan Corona Virus Disease (COVID-19) dan/atau
+dalam pemenuhan kebutuhan pokok masyarakat
+mengikuti pengaturan dari kementerian terkait dan/atau
+Pemerintah Provinsi DKI Jakarta;
+d. pelaku usaha yang bergerak pada sektor:
+1. kesehatan;
+2. bahan pangan/ makanan/ minuman;
+3. energi;
+4. komunikasi dan teknologi informasi;
+5. keuangan;
+6. logistik;
+7. perhotelan;
+8. konstruksi;
+9. industri strategis;
+10. pelayanan dasar, utilitas publik dan industri yang
+ditetapkan sebagai objek vital nasional dan objek
+tertentu; dan/atau
+11. kebutuhan sehari-hari.
+e. organisasi kemasyarakatan lokal dan internasional yang
+bergerak pada sektor kebencanaan dan/atau sosial."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/10> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/10/ayat/2/point/i> a legal:Point ;
@@ -2020,6 +2354,14 @@ pedoman keselamatan dan kesehatan kerja.
 Pasal 13 ayat (3) huruf a, meliputi kegiatan penyediaan,
 pengolahan, penyaluran dan/atau pengiriman:"""^^xsd:string ;
     legal:hasKey 1 ;
+    legal:hasText """(1) Pemenuhan kebutuhan pokok sebagaimana dimaksud dalam
+Pasal 13 ayat (3) huruf a, meliputi kegiatan penyediaan,
+pengolahan, penyaluran dan/atau pengiriman:
+a. bahan pangan/makanan/minuman;
+b. energi;
+c. komunikasi dan teknologi informasi;
+d. keuangan, perbankan dan sistem pembayaran; dan/atau
+e. logistik."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/14> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/16/ayat/2> a legal:Ayat ;
@@ -2027,6 +2369,14 @@ pengolahan, penyaluran dan/atau pengiriman:"""^^xsd:string ;
 (1) termasuk pula kegiatan yang berkaitan perkumpulan atau
 pertemuan:"""^^xsd:string ;
     legal:hasKey 2 ;
+    legal:hasText """(2) Kegiatan sosial dan budaya sebagaimana dimaksud pada ayat
+(1) termasuk pula kegiatan yang berkaitan perkumpulan atau
+pertemuan:
+a. politik;
+b. olahraga;
+c. hiburan;
+d. akademik; dan
+e. budaya."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/16> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/17> a legal:Pasal ;
@@ -2075,12 +2425,35 @@ budaya sebagaimana dimaksud pada ayat (1)."""^^xsd:integer ;
     legal:description """Pengguna kendaraan mobil penumpang pribadi diwajibkan
 untuk mengikuti ketentuan sebagai berikut:"""^^xsd:string ;
     legal:hasKey 4 ;
+    legal:hasText """(4) Pengguna kendaraan mobil penumpang pribadi diwajibkan
+untuk mengikuti ketentuan sebagai berikut:
+a. digunakan hanya untuk pemenuhan kebutuhan pokok
+dan/atau aktivitas lain yang diperbolehkan selama PSBB;
+b. melakukan disinfeksi kendaraan setelah selesai digunakan;
+c. menggunakan masker di dalam kendaraan;
+d. membatasi jumlah orang maksimal 50°/0 (lima puluh
+persen) dari kapasitas kendaraan; dan
+e. tidak berkendara jika sedang mengalami suhu badan diatas
+normal atau sakit."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/18> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/19/ayat/1> a legal:Ayat ;
     legal:description """Selama pemberlakuan PSBB, setiap penduduk di Provinsi DKI
 Jakarta mempunyai hak yang sama untuk:"""^^xsd:string ;
     legal:hasKey 1 ;
+    legal:hasText """(1) Selama pemberlakuan PSBB, setiap penduduk di Provinsi DKI
+Jakarta mempunyai hak yang sama untuk:
+a. memperoleh perlakuan dan pelayanan dari Pemerintah
+Provinsi DKI Jakarta;
+b. mendapatkan pelayanan kesehatan dasar sesuai
+kebutuhan medis;
+c. memperoleh data dan informasi publik seputar Corona
+Virus Disease (COVID-19);
+d. kemudahan akses di dalam melakukan pengaduan seputar
+Corona Virus Disease (COVID-19); dan
+e. pelayanan pemulasaraan dan pemakaman jenazah Corona
+Virus Disease (COVID-19) dan/atau terduga Corona Virus
+Disease (COVID- 19)."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/19> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/4> a legal:Pasal ;
@@ -2101,6 +2474,14 @@ e. sanksi."""^^xsd:integer ;
 sementara selama pemberlakuan PSBB sebagaimana
 dimaksud dalam Pasal 6 ayat (1), meliputi:"""^^xsd:string ;
     legal:hasKey 1 ;
+    legal:hasText """(1) Institusi pendidikan lainnya yang dilakukan penghentian
+sementara selama pemberlakuan PSBB sebagaimana
+dimaksud dalam Pasal 6 ayat (1), meliputi:
+a. lembaga pendidikan tinggi;
+b. lembaga pelatihan;
+c. lembaga penelitian,
+d. lembaga pembinaan; dan
+e. lembaga sejenisnya."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/7> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/9/ayat/3> a legal:Ayat ;
@@ -2108,6 +2489,19 @@ dimaksud dalam Pasal 6 ayat (1), meliputi:"""^^xsd:string ;
 sementara aktivitas bekerja di tempat kerja sebagaimana
 dimaksud pada ayat (2) wajib:"""^^xsd:string ;
     legal:hasKey 3 ;
+    legal:hasText """(3) Pimpinan tempat kerja yang melakukan penghentian
+sementara aktivitas bekerja di tempat kerja sebagaimana
+dimaksud pada ayat (2) wajib:
+a. menjaga agar pelayanan yang diberikan dan/atau aktivitas
+usaha tetap berjalan secara terbatas;
+b. menjaga produktivitas/kinerja pekerja;
+c. melakukan pencegahan penyebaran Corona Virus Disease
+(COVID-19) di lokasi dan lingkungan tempat kerja;
+d. menjaga keamanan lokasi dan lingkungan sekitar tempat
+kerja; dan
+e. memberikan perlindungan kepada pekerja yang terpapar
+Corona Virus Disease (COVID-19) sesuai dengan ketentuan
+peraturan perundang-undangan."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/9> .
 
 <http://example.org/legal/document/PERGUB33-2020/mengingat> legal:description ""^^xsd:string .
@@ -2118,6 +2512,31 @@ pemberlakuan PSBB sebagaimana dimaksud pada ayat (1) dan
 ayat (2), pelaku usaha wajib mengikuti ketentuan pembatasan
 kegiatan sebagai berikut:"""^^xsd:string ;
     legal:hasKey 3 ;
+    legal:hasText """(3) Dalam melayani pemenuhan kebutuhan penduduk selama
+pemberlakuan PSBB sebagaimana dimaksud pada ayat (1) dan
+ayat (2), pelaku usaha wajib mengikuti ketentuan pembatasan
+kegiatan sebagai berikut:
+a. mengutamakan pemesanan barang secara daring dan/atau
+jarak jauh dengan fasilitas layanan antar;
+(3)
+13
+b. turut menjaga stabilitas ekonomi dan kemampuan daya beli
+konsumen barang dengan tidak menaikkan harga barang;
+c. melakukan disinfeksi secara berkala pada tempat usaha;
+d. melakukan deteksi dan pemantauan suhu tubuh karyawan
+dan 	konsumen yang memasuki pasar/ toko serta
+memastikan karyawan yang bekerja tidak sedang
+mengalami demam ringan atau sakit;
+e. menerapkan pembatasan jarak antar sesama konsumen
+(physical distancing) yang datang ke pasar/toko paling
+sedikit dalam rentang 1 (satu) meter;
+f. mewajibkan setiap karyawan untuk menggunakan pakaian
+kerja sesuai pedoman keselamatan dan kesehatan kerja;
+dan
+melaksanakan anjuran cuci tangan dengan sabun dan/atau
+pembersih tangan (hand sanitizer) termasuk menyediakan
+fasilitas cuci tangan yang memadai dan mudah diakses oleh
+konsumen dan karyawan."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/14> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/18/ayat/7> a legal:Ayat ;
@@ -2125,6 +2544,22 @@ kegiatan sebagai berikut:"""^^xsd:string ;
 angkutan perkeretaapian, dan/atau moda transportasi barang
 diwajibkan untuk mengikuti ketentuan sebagai berikut:"""^^xsd:string ;
     legal:hasKey 7 ;
+    legal:hasText """(7) Angkutan orang dengan kendaraan bermotor umum,
+angkutan perkeretaapian, dan/atau moda transportasi barang
+diwajibkan untuk mengikuti ketentuan sebagai berikut:
+a. membatasi jumlah orang maksimal 50°/0 (lima puluh
+persen) dari kapasitas angkutan;
+b. membatasi jam operasional sesuai pengaturan dari
+Pemerintah Provinsi DKI Jakarta dan/atau instansi terkait;
+c. melakukan disinfeksi secara berkala moda transportasi
+yang digunakan;
+d. melakukan deteksi dan pemantauan suhu tubuh petugas
+dan penumpang yang memasuki moda transportasi;
+e. memastikan petugas dan penumpang moda transportasi
+tidak sedang mengalami suhu tubuh diatas normal atau
+sakit; dan
+f. menjaga jarak antar penumpang (physical distancing)
+paling sedikit dalam rentang 1 (satu) meter."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/18> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/5> a legal:Pasal ;
@@ -2163,6 +2598,16 @@ pada ayat (1) ditetapkan dengan Keputusan Gubernur."""^^xsd:integer ;
     legal:description """Pembatasan aktivitas luar rumah dalam pelaksanaan PSBB
 sebagaimana dimaksud pada ayat (2) meliputi:"""^^xsd:string ;
     legal:hasKey 4 ;
+    legal:hasText """(4) Pembatasan aktivitas luar rumah dalam pelaksanaan PSBB
+sebagaimana dimaksud pada ayat (2) meliputi:
+a. pelaksanaan pembelajaran di Sekolah dan/atau institusi
+pendidikan lainnya;
+b. aktivitas bekerja di tempat kerja;
+c. kegiatan keagamaan di rumah ibadah;
+d. kegiatan di tempat atau fasilitas umum;
+e. kegiatan sosial dan budaya; dan
+f. pergerakan orang dan barang menggunakan moda
+transportasi."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/5> .
 
 <http://example.org/legal/document/PERGUB33-2020/bab/4> a legal:Bab ;
@@ -2272,6 +2717,139 @@ sementara aktivitas bekerja di tempat kerja/kantor
 sebagaimana dimaksud pada ayat (1), pimpinan tempat kerja
 wajib melakukan:"""^^xsd:string ;
     legal:hasKey 2 ;
+    legal:hasText """(2) Dalam hal melakukan pengecualian terhadap penghentian
+sementara aktivitas bekerja di tempat kerja/kantor
+sebagaimana dimaksud pada ayat (1), pimpinan tempat kerja
+wajib melakukan:
+a. pembatasan interaksi dalam aktivitas kerja;
+b. pembatasan setiap orang yang mempunyai penyakit
+penyerta dan/atau kondisi yang dapat berakibat fatal
+apabila terpapar Corona Virus Disease (COVID-19) untuk
+melakukan kegiatan di tempat kerja, antara lain:
+1. penderita tekanan darah tinggi;
+2. pengidap penyakit jantung;
+3. pengidap diabetes;
+4. penderita penyakit paru-paru;
+5. penderita kanker;
+6. ibu hamil; dan
+7. usia lebih dari 60 (enam puluh) tahun.
+c. penerapan protokol pencegahan penyebaran Corona Virus
+Disease (COVID-19) di tempat kerja, meliputi:
+1. memastikan tempat kerja selalu dalam keadaan bersih
+dan higienis;
+2. memiliki kerjasama operasional perlindungan kesehatan
+dan pencegahan Corona Virus Disease (COVID-19)
+dengan fasilitas pelayanan kesehatan terdekat untuk
+tindakan darurat;
+3. menyediakan vaksin, vitamin dan nutrisi tambahan
+guna meningkatkan imunitas pekerja;
+4. melakukan disinfeksi secara berkala pada lantai,
+dinding dan perangkat bangunan tempat kerja;
+5. melakukan deteksi dan pemantauan suhu tubuh
+karyawan yang memasuki tempat kerja serta
+memastikan karyawan yang bekerja di tempat kerja
+tidak sedang mengalami suhu tubuh diatas normal atau
+sakit;
+6. mengharuskan cuci tangan dengan sabun dan/atau
+pembersih tangan
+(hand sanitizer)
+termasuk
+menyediakan fasilitas cuci tangan yang memadai dan
+mudah di akses pada tempat kerja;
+7. menjaga jarak antar sesama karyawan (physical
+distancing) paling sedikit dalam rentang 1 (satu) meter;
+8. melakukan penyebaran informasi serta anjuran/
+himbauan pencegahan Corona Virus Disease (COVID-19)
+untuk disebarluaskan pada lokasi strategis di tempat
+kerja; dan
+9. dalam hal ditemukan adanya karyawan di tempat kerja
+yang menjadi pasien dalam pengawasan, maka:
+a) aktivitas pekerjaan di tempat kerja harus dihentikan
+sementara paling sedikit 14 (empat belas) hari kerja;
+b) petugas medis dibantu satuan pengaman melakukan
+evakuasi dan penyemprotan disinfektan pada seluruh
+tempat, fasilitas dan peralatan kerja; dan
+c) penghentian sementara dilakukan hingga proses
+evakuasi dan penyemprotan disinfektan, serta
+pelaksanaan pemeriksaan kesehatan dan isolasi
+tenaga kerja yang pernah melakukan kontak fisik
+dengan tenaga kerja yang terpapar Corona Virus
+Disease (COVID-19) telah selesai.
+Terhadap kegiatan penyediaan makanan dan minuman,
+penanggungjawab restoran/ rumah makan/ usaha sej enis
+memiliki kewajiban untuk:
+a. membatasi layanan hanya untuk dibawa pulang secara
+langsung
+(take away),
+melalui pemesanan secara
+daring,dan/atau dengan fasilitas telepon/layanan antar;
+b. menjaga jarak antrean berdiri maupun duduk paling
+sedikit 1 (satu) meter antar pelanggan;
+c. menerapkan prinsip higiene sanitasi pangan dalam proses
+penanganan pangan sesuai ketentuan;
+d. menyediakan alat bantu seperti sarung tangan dan/atau
+penjepit makanan untuk meminimalkan kontak langsung
+dengan makanan siap saji dalam proses persiapan,
+pengolahan dan penyajian;
+e. memastikan kecukupan proses pemanasan dalam
+pengolahan makanan sesuai standar;
+f. melakukan pembersihan area kerja, fasilitas dan
+peralatan, khususnya yang memiliki permukaan yang
+bersentuhan langsung dengan makanan;
+g. menyediakan tempat cuci tangan dengan sabun bagi
+pelanggan dan pegawai;
+h. melarang bekerja karyawan yang sakit atau menunjukkan
+suhu tubuh diatas normal, batuk, pilek, diare dan sesak
+nafas; dan
+i. mengharuskan bagi penjamah makanan menggunakan
+sarung tangan, masker kepala dan pakaian kerja sesuai
+pedoman keselamatan dan kesehatan kerja.
+10
+(4) Terhadap kegiatan perhotelan, penanggungjawab hotel wajib:
+a. menyediakan layanan khusus bagi tamu yang ingin
+melakukan isolasi mandiri;
+b. membatasi tamu hanya dapat beraktivitas dalam kamar
+hotel dengan memanfaatkan layanan kamar (room service);
+c. meniadakan aktivitas dan/ atau menutup fasilitas layanan
+hotel yang dapat menciptakan kerumunan orang dalam
+area hotel;
+d. melarang tamu yang sakit atau menunjukan suhu tubuh
+diatas normal, batuk, pilek, diare dan sesak nafas untuk
+masuk hotel; dan
+e. mengharuskan karyawan menggunakan masker, sarung
+tangan dan pakaian kerja sesuai pedoman keselamatan
+dan kesehatan kerja.
+(5) Terhadap kegiatan konstruksi, pimpinan tempat kerja
+memiliki kewajiban dengan ketentuan sebagai berikut:
+a. kegiatan konstruksi yang sedang berjalan dapat dilakukan
+dengan membatasi aktivitas pekerja hanya berada di
+kawasan proyek; dan
+b. pemilik dan/ atau penyedia jasa pekerjaan konstruksi
+wajib:
+1 . menunjuk penanggungjawab dalam pelaksanaan
+pencegahan Corona Virus Disease (COVID- 19) di
+kawasan proyek;
+2. membatasi aktivitas dan interaksi pekerja hanya
+dilakukan di dalam kawasan proyek;
+3. menyediakan tempat tinggal dan kebutuhan hidup
+sehari-hari seluruh pekerja selama berada di kawasan
+proyek,
+4. menyediakan ruang kesehatan di tempat kerja yang
+dilengkapi dengan sarana kesehatan yang memadai;
+5. melarang setiap orang, baik pekerja maupun tamu,
+yang memiliki suhu badan di atas normal untuk
+berada di dalam lokasi kerja;
+6. menyampaikan penjelasan, anjuran, kampanye,
+promosi teknik pencegahan Corona Virus Disease
+(COVID-19) dalam setiap kegiatan penyuluhan K3 pagi
+hari atau safety morning talk; dan
+7. melakukan pemantauan secara berkala kesehatan
+pekerja selama berada di kawasan proyek.
+11
+(6) Ketua Gugus Tugas Percepatan Penanganan COVID-19 tingkat
+Provinsi dapat menambahkan kategori tempat kerja/kantor
+yang dikecualikan dari penghentian sementara aktivitas
+bekerja sebagaimana dimaksud pada ayat (1)."""^^xsd:integer ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/10> .
 
 <http://example.org/legal/document/PERGUB33-2020/pasal/10/ayat/2/point/c> a legal:Point ;

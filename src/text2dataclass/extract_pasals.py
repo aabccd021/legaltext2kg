@@ -8,7 +8,6 @@ from text2dataclass.types import Pasal
 
 def extract_pasals(lines: Iterable[str]) -> Iterable[Pasal]:
     pasal_strs = extract_to_increment_key_list(lines, get_pasal_key_int)
-    # text = "\n".join(lines)
     texts = ["\n".join(x) for x in pasal_strs]
     juduls = [get_pasal_key_int(x[0]) for x in pasal_strs]
     juduls = [x for x in juduls if x is not None]
