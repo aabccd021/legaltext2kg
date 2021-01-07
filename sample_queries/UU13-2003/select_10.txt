@@ -1,40 +1,41 @@
-http://example.org/legal/document/UU13-2003/pasal/66/ayat/2
-http://example.org/legal/ontology/description
-Penyedia jasa pekerja/buruh untuk kegiatan jasa penunjang atau kegiatan yang tidak
-berhubungan lang-sung dengan proses produksi harus memenuhi syarat sebagai berikut :
-
-http://example.org/legal/document/UU13-2003/pasal/143/ayat/2
+http://example.org/legal/document/UU13-2003/pasal/29/ayat/3
 http://www.w3.org/1999/02/22-rdf-syntax-ns#type
 http://example.org/legal/ontology/Ayat
 
-http://example.org/legal/document/UU13-2003/pasal/183
+http://example.org/legal/document/UU13-2003/pasal/139
 http://example.org/legal/ontology/partOf
-http://example.org/legal/document/UU13-2003/bab/16/bagian/1
+http://example.org/legal/document/UU13-2003/bab/11/bagian/8/paragraf/2
 
-http://example.org/legal/document/UU13-2003/pasal/93/ayat/3/point/b
+http://example.org/legal/document/UU13-2003/pasal/88
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+http://example.org/legal/ontology/Pasal
+
+http://example.org/legal/document/UU13-2003/pasal/42/ayat/1
+http://example.org/legal/ontology/hasContent
+Setiap pemberi kerja yang mempekerjakan tenaga kerja asing wajib memiliki izin tertulis dari Menteri atau pejabat yang ditunjuk.
+
+http://example.org/legal/document/UU13-2003/pasal/1/point/3
 http://example.org/legal/ontology/partOf
-http://example.org/legal/document/UU13-2003/pasal/93/ayat/3
+http://example.org/legal/document/UU13-2003/pasal/1
 
-http://example.org/legal/document/UU13-2003/pasal/140/ayat/2
+http://example.org/legal/document/UU13-2003/pasal/121
+http://example.org/legal/ontology/hasText
+Pasal 121
+Keanggotaan serikat pekerja/serikat buruh sebagaimana dimaksud dalam Pasal 119 dan Pasal
+120 dibuktikan dengan kartu tanda anggota.
+
+http://example.org/legal/document/UU13-2003/pasal/49
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+http://example.org/legal/ontology/Pasal
+
+http://example.org/legal/document/UU13-2003/pasal/63
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+http://example.org/legal/ontology/Pasal
+
+http://example.org/legal/document/UU13-2003/pasal/45/ayat/1/point/a
+http://example.org/legal/ontology/partOf
+http://example.org/legal/document/UU13-2003/pasal/45/ayat/1
+
+http://example.org/legal/document/UU13-2003/pasal/59/ayat/5
 http://example.org/legal/ontology/hasKey
-2
-
-http://example.org/legal/document/UU13-2003/pasal/154/point/d
-http://example.org/legal/ontology/hasKey
-d
-
-http://example.org/legal/document/UU13-2003/pasal/7
-http://example.org/legal/ontology/partOf
-http://example.org/legal/document/UU13-2003/bab/4
-
-http://example.org/legal/document/UU13-2003/bab/11/bagian/3
-http://example.org/legal/ontology/hasJudul
-Organisasi Pengusaha
-
-http://example.org/legal/document/UU13-2003/pasal/79/ayat/1
-http://example.org/legal/ontology/hasKey
-1
-
-http://example.org/legal/document/UU13-2003/pasal/2
-http://example.org/legal/ontology/partOf
-http://example.org/legal/document/UU13-2003/bab/2
+5

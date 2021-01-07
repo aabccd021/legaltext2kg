@@ -1,39 +1,39 @@
-http://example.org/legal/document/PERGUB33-2020/pasal/10/ayat/2/point/b/point/6
-http://example.org/legal/ontology/hasContent
-ibu hamil; dan
+http://example.org/legal/document/PERGUB33-2020/pasal/8/ayat/2/point/a
+http://example.org/legal/ontology/partOf
+http://example.org/legal/document/PERGUB33-2020/pasal/8/ayat/2
 
-http://example.org/legal/document/PERGUB33-2020/pasal/17/ayat/5
+http://example.org/legal/document/PERGUB33-2020/pasal/8/ayat/1
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+http://example.org/legal/ontology/Ayat
+
+http://example.org/legal/document/PERGUB33-2020/pasal/19/ayat/1/point/e
 http://example.org/legal/ontology/hasKey
-5
+e
 
-http://example.org/legal/document/PERGUB33-2020/pasal/5/ayat/3/point/a
+http://example.org/legal/document/PERGUB33-2020/pasal/10/ayat/1/point/d/point/2
 http://www.w3.org/1999/02/22-rdf-syntax-ns#type
 http://example.org/legal/ontology/Point
 
-http://example.org/legal/document/PERGUB33-2020/pasal/20/ayat/2/point/b
-http://example.org/legal/ontology/partOf
-http://example.org/legal/document/PERGUB33-2020/pasal/20/ayat/2
-
-http://example.org/legal/document/PERGUB33-2020/mengingat/point/5
+http://example.org/legal/document/PERGUB33-2020/pasal/18/ayat/7/point/a
 http://example.org/legal/ontology/hasContent
-Peraturan Pemerintah Nomor 21 Tahun 2020 tentang Pembatasan Sosial Berskala Besar Dalam Rangka Percepatan Penanganan Corona Virus Disease 2019 (COVID-19) (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 91, Tambahan Lembaran Negara Republik Indonesia Nomor 6487);
+membatasi jumlah orang maksimal 50°/0 (lima puluh persen) dari kapasitas angkutan;
 
-http://example.org/legal/document/PERGUB33-2020/pasal/9/ayat/3/point/b
+http://example.org/legal/document/PERGUB33-2020/pasal/10/ayat/2/point/i/point/e/point/b/point/4
+http://example.org/legal/ontology/hasKey
+4
+
+http://example.org/legal/document/PERGUB33-2020/pasal/10/ayat/2/point/i/point/e/point/b/point/2
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+http://example.org/legal/ontology/Point
+
+http://example.org/legal/document/PERGUB33-2020/pasal/14/ayat/3/point/a
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+http://example.org/legal/ontology/Point
+
+http://example.org/legal/document/PERGUB33-2020/pasal/9/ayat/4/point/b
 http://example.org/legal/ontology/hasContent
-menjaga produktivitas/kinerja pekerja;
+melakukan disinfeksi pada lantai, dinding dan perangkat bangunan tempat kerja; dan
 
-http://example.org/legal/document/PERGUB33-2020/pasal/17/ayat/2/point/c
-http://example.org/legal/ontology/hasContent
-meniadakan acara perayaan yang mengundang keramaian; dan
-
-http://example.org/legal/document/PERGUB33-2020/pasal/15/ayat/2/point/a
-http://example.org/legal/ontology/hasContent
-dilakukan secara mandiri dan tidak berkelompok; dan
-
-http://example.org/legal/document/PERGUB33-2020/pasal/9/ayat/4
-http://example.org/legal/ontology/partOf
-http://example.org/legal/document/PERGUB33-2020/pasal/9
-
-http://example.org/legal/document/PERGUB33-2020/pasal/12
-http://example.org/legal/ontology/partOf
-http://example.org/legal/document/PERGUB33-2020/bab/4/bagian/4
+http://example.org/legal/document/PERGUB33-2020/pasal/8/ayat/1/point/a
+http://example.org/legal/ontology/hasKey
+a
