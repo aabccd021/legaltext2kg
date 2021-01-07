@@ -2629,7 +2629,7 @@ wajib:"""^^xsd:string ;
     legal:hasKey "b"^^xsd:string ;
     legal:partOf <http://example.org/legal/document/PERGUB33-2020/pasal/10/ayat/2/point/i/point/e> .
 
-:PERGUB33-2020 a legal:document ;
+:PERGUB33-2020 a legal:Document ;
     legal:jabatan_pengesah "GUBERNUR DAERAH KHUSUS IBUKOTA JAKARTA,"^^xsd:string ;
     legal:memutuskan "PERATURAN GUBERNUR TENTANG PELAKSANAAN PEMBATASAN SOSIAL BERSKALA BESAR DALAM PENANGANAN CORONA VIRUS DISEASE 2019 (COVID-19) DI PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA."^^xsd:string ;
     legal:nama_dokumen "BERITA DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA TAHUN 2020 NOMOR 55003"^^xsd:string ;

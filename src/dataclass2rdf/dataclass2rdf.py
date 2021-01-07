@@ -24,7 +24,7 @@ def dataclass2triples(doc: LegalDocument, doc_name: str) -> List[Tuple[Node, Nod
                                  '/mengingat', 'mengingat'),
         *itertools.chain(
             *[babs_to_triple(bab, docN) for bab in doc.babs]),
-        (docN, RDF.type, ONS.document),
+        (docN, RDF.type, ONS.Document),
         (docN, ONS.penjelasan, Literal(doc._name, datatype=XSD.string)),
         # (docN, ONS.pengesahan_text, Literal(
         #     doc.pengesahan_text, datatype=XSD.string)),

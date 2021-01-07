@@ -7865,7 +7865,7 @@ dinyatakan tidak berlaku lagi."""^^xsd:integer ;
     legal:hasKey 9 ;
     legal:partOf :UU13-2003 .
 
-:UU13-2003 a legal:document ;
+:UU13-2003 a legal:Document ;
     :dengan_persetujuan "DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA",
         "PRESIDEN REPUBLIK INDONESIA" ;
     legal:jabatan_pengesah "PRESIDEN REPUBLIK INDONESIA,"^^xsd:string ;
