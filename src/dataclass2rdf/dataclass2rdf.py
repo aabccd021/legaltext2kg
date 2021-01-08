@@ -18,6 +18,7 @@ def dataclass2triples(doc: LegalDocument, doc_name: str) -> List[Tuple[Node, Nod
     # (docN, ns.dengan_persetujuan, Literal(doc._dengan_persetujuan)),
     (docN, ns.menimbang, Literal(doc.menimbang)),
     triples: Triples = [
+        # TODO: add raw text
         *point_content_to_triple(doc.menimbang, docN +
                                  '/menimbang', 'menimbang'),
         *point_content_to_triple(doc.mengingat, docN +
