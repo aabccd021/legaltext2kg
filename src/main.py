@@ -51,7 +51,9 @@ if __name__ == "__main__":
             # write file
             with open(f'{query_dir}/{q_file}') as f:
                 qres = g.query('\n'.join(f.readlines()))
-            qres = '\n\n'.join(['\n'.join([f'{z}' for z in x]) for x in qres])
+            vars = [v.toPython() for v in qres.vars]
+            qres = '\n\n'.join(
+                ['\n'.join([f'{v}: {x}' for x, v in zip(x, vars)]) for x in qres])
             q_filename = os.path.splitext(os.path.basename(q_file))[0]
             with open(f'{query_dir}/{q_filename}_result.txt', 'w') as f:
                 f.write(qres)

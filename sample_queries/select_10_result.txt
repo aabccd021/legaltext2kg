@@ -1,39 +1,39 @@
-http://example.org/legal/document/PERGUB33-2020
-http://example.org/legal/ontology/jabatan_pengesah
-GUBERNUR DAERAH KHUSUS IBUKOTA JAKARTA,
+?s: http://example.org/legal/document/PERGUB33-2020
+?p: http://example.org/legal/ontology/jabatan_pengesah
+?o: GUBERNUR DAERAH KHUSUS IBUKOTA JAKARTA,
 
-http://example.org/legal/document/PERGUB33-2020
-http://example.org/legal/ontology/memutuskan
-PERATURAN GUBERNUR TENTANG PELAKSANAAN PEMBATASAN SOSIAL BERSKALA BESAR DALAM PENANGANAN CORONA VIRUS DISEASE 2019 (COVID-19) DI PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA.
+?s: http://example.org/legal/document/PERGUB33-2020
+?p: http://example.org/legal/ontology/memutuskan
+?o: PERATURAN GUBERNUR TENTANG PELAKSANAAN PEMBATASAN SOSIAL BERSKALA BESAR DALAM PENANGANAN CORONA VIRUS DISEASE 2019 (COVID-19) DI PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA.
 
-http://example.org/legal/document/PERGUB33-2020
-http://example.org/legal/ontology/nama_dokumen
-BERITA DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA TAHUN 2020 NOMOR 55003
+?s: http://example.org/legal/document/PERGUB33-2020
+?p: http://example.org/legal/ontology/nama_dokumen
+?o: BERITA DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA TAHUN 2020 NOMOR 55003
 
-http://example.org/legal/document/PERGUB33-2020
-http://example.org/legal/ontology/nama_pengesah
-ANIES BASWEDAN
+?s: http://example.org/legal/document/PERGUB33-2020
+?p: http://example.org/legal/ontology/nama_pengesah
+?o: ANIES BASWEDAN
 
-http://example.org/legal/document/PERGUB33-2020
-http://example.org/legal/ontology/name
-PERATURAN GUBERNUR DAERAH KHUSUS IBUKOTA JAKARTA
+?s: http://example.org/legal/document/PERGUB33-2020
+?p: http://example.org/legal/ontology/name
+?o: PERATURAN GUBERNUR DAERAH KHUSUS IBUKOTA JAKARTA
 
-http://example.org/legal/document/PERGUB33-2020
-http://example.org/legal/ontology/nomor
-33
+?s: http://example.org/legal/document/PERGUB33-2020
+?p: http://example.org/legal/ontology/nomor
+?o: 33
 
-http://example.org/legal/document/PERGUB33-2020
-http://example.org/legal/ontology/pemutus
-GUBERNUR DAERAH KHUSUS IBUKOTA JAKARTA
+?s: http://example.org/legal/document/PERGUB33-2020
+?p: http://example.org/legal/ontology/pemutus
+?o: GUBERNUR DAERAH KHUSUS IBUKOTA JAKARTA
 
-http://example.org/legal/document/PERGUB33-2020
-http://example.org/legal/ontology/penjelasan
-PERATURAN GUBERNUR DAERAH KHUSUS IBUKOTA JAKARTA
+?s: http://example.org/legal/document/PERGUB33-2020
+?p: http://example.org/legal/ontology/penjelasan
+?o: PERATURAN GUBERNUR DAERAH KHUSUS IBUKOTA JAKARTA
 
-http://example.org/legal/document/PERGUB33-2020
-http://example.org/legal/ontology/salinan
-SALINAN GUBERNUR PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA
+?s: http://example.org/legal/document/PERGUB33-2020
+?p: http://example.org/legal/ontology/salinan
+?o: SALINAN GUBERNUR PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA
 
-http://example.org/legal/document/PERGUB33-2020
-http://example.org/legal/ontology/sekretaris
-SEKRETARIS DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA, SAEFULLAH
+?s: http://example.org/legal/document/PERGUB33-2020
+?p: http://example.org/legal/ontology/sekretaris
+?o: SEKRETARIS DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA, SAEFULLAH

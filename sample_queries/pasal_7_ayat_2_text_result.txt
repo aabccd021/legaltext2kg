@@ -1,18 +1,18 @@
-http://example.org/legal/document/PERGUB33-2020/pasal/7
-http://example.org/legal/document/PERGUB33-2020/pasal/7/ayat/2
-(2) Penghentian sementara kegiatan di institusi pendidikan
+?pasal: http://example.org/legal/document/PERGUB33-2020/pasal/7
+?ayat: http://example.org/legal/document/PERGUB33-2020/pasal/7/ayat/2
+?text: (2) Penghentian sementara kegiatan di institusi pendidikan
 lainnya sebagaimana dimaksud pada ayat (1), dikecualikan
 bagi lembaga pendidikan, pelatihan, penelitian yang berkaitan
 dengan pelayanan kesehatan.
 
-http://example.org/legal/document/UU13-2003/pasal/7
-http://example.org/legal/document/UU13-2003/pasal/7/ayat/2
-(2) Perencanaan tenaga kerja meliputi :
+?pasal: http://example.org/legal/document/UU13-2003/pasal/7
+?ayat: http://example.org/legal/document/UU13-2003/pasal/7/ayat/2
+?text: (2) Perencanaan tenaga kerja meliputi :
 a. perencanaan tenaga kerja makro; dan
 b. perencanaan tenaga kerja mikro.
 
-http://example.org/legal/document/UU13-2003/pasal/7
-http://example.org/legal/document/UU13-2003/pasal/7/ayat/2
-Perencanaan tenaga kerja meliputi :
+?pasal: http://example.org/legal/document/UU13-2003/pasal/7
+?ayat: http://example.org/legal/document/UU13-2003/pasal/7/ayat/2
+?text: Perencanaan tenaga kerja meliputi :
 a. perencanaan tenaga kerja makro; dan
 b. perencanaan tenaga kerja mikro.

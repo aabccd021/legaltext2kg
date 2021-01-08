@@ -1,5 +1,10 @@
-http://example.org/legal/document/PERGUB33-2020/pasal/5
-Pasal 5
+?pasal: http://example.org/legal/document/UU13-2003/pasal/5
+?text: Pasal 5
+Setiap tenaga kerja memiliki kesempatan yang sama tanpa diskriminasi untuk memperoleh
+pekerjaan.
+
+?pasal: http://example.org/legal/document/PERGUB33-2020/pasal/5
+?text: Pasal 5
 (1) Dalam upaya mencegah meluasnya penyebaran Corona Virus
 Disease (COVID-19), Gubernur memberlakukan PSBB di
 Provinsi DKI Jakarta.
@@ -27,8 +32,3 @@ dilakukan oleh Gugus Tugas Percepatan Penanganan COVID-
 19 tingkat Provinsi.
 (6) Jangka waktu pemberlakuan PSBB sebagaimana dimaksud
 pada ayat (1) ditetapkan dengan Keputusan Gubernur.
-
-http://example.org/legal/document/UU13-2003/pasal/5
-Pasal 5
-Setiap tenaga kerja memiliki kesempatan yang sama tanpa diskriminasi untuk memperoleh
-pekerjaan.
